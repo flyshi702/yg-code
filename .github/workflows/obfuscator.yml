@@ -30,10 +30,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'npm'
+          # 移除cache配置，避免依赖锁文件错误
 
       - name: 安装JavaScript混淆器
-        run: npm install -g javascript-obfuscator
+        run: |
+          echo "📦 正在安装 javascript-obfuscator..."
+          npm install -g javascript-obfuscator
+          echo "✅ 安装完成"
 
       - name: 设置文件路径变量
         run: |
