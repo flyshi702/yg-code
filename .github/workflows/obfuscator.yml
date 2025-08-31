@@ -1,6 +1,17 @@
-name: 混淆当前版本源码
+name: 混淆JavaScript代码
 on:
-    workflow_dispatch:
+  workflow_dispatch:
+    inputs:
+      obfuscation_level:
+        description: '混淆强度级别'
+        required: false
+        default: 'high'
+        type: choice
+        options:
+        - low
+        - medium
+        - high
+        - maximum
 
 jobs:
   obfuscate:
@@ -9,65 +20,140 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - name: 检出代码
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 使用 Node.js
-        uses: actions/setup-node@v3
+      - name: 设置Node.js环境
+        uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: '18'
+          cache: 'npm'
 
-      - name: 安装依赖
+      - name: 安装JavaScript混淆器
         run: npm install -g javascript-obfuscator
 
-      - name: 重命名文件（临时处理特殊字符）
+      - name: 设置文件路径变量
         run: |
-          # 创建简化文件名的软链接
-          ln -s "vless无需proxyip的nat64套壳版 (推荐使用).js" "vless-worker.js"
-          
-      - name: 检查备份文件是否存在
-        run: |
-          if [ ! -f "vless-worker.js.backup" ]; then
-            echo "备份文件不存在，正在创建..."
-            cp "vless-worker.js" "vless-worker.js.backup"
-          fi
-          cp "vless-worker.js.backup" "vless-worker-temp.js"
+          echo "SOURCE_FILE=vless无需proxyip的nat64套壳版 (推荐使用).js" >> $GITHUB_ENV
+          echo "BACKUP_FILE=vless无需proxyip的nat64套壳版 (推荐使用).js.backup" >> $GITHUB_ENV
+          echo "TEMP_FILE=temp_worker.js" >> $GITHUB_ENV
 
-      - name: 混淆代码
+      - name: 验证源文件存在
         run: |
-          javascript-obfuscator vless-worker-temp.js --output vless-worker.js \
-          --compact true \
-          --control-flow-flattening true \
-          --control-flow-flattening-threshold 1 \
-          --dead-code-injection true \
-          --dead-code-injection-threshold 1 \
-          --identifier-names-generator hexadecimal \
-          --rename-globals true \
-          --string-array true \
-          --string-array-encoding 'rc4' \
-          --string-array-threshold 1 \
-          --transform-object-keys true \
-          --unicode-escape-sequence true
+          if [[ ! -f "$SOURCE_FILE" ]]; then
+            echo "❌ 错误: 源文件 '$SOURCE_FILE' 不存在!"
+            echo "📁 当前目录文件列表:"
+            ls -la *.js 2>/dev/null || echo "未找到任何.js文件"
+            exit 1
+          fi
+          echo "✅ 源文件存在: $SOURCE_FILE"
+
+      - name: 创建备份文件
+        run: |
+          if [[ ! -f "$BACKUP_FILE" ]]; then
+            echo "📋 创建备份文件..."
+            cp "$SOURCE_FILE" "$BACKUP_FILE"
+            echo "✅ 备份文件已创建: $BACKUP_FILE"
+          else
+            echo "📋 备份文件已存在，跳过创建"
+          fi
+          
+          # 从备份文件创建临时工作文件
+          cp "$BACKUP_FILE" "$TEMP_FILE"
+
+      - name: 设置混淆参数
+        run: |
+          case "${{ github.event.inputs.obfuscation_level }}" in
+            "low")
+              echo "OBFUSCATE_OPTIONS=--compact true --string-array true" >> $GITHUB_ENV
+              ;;
+            "medium")
+              echo "OBFUSCATE_OPTIONS=--compact true --control-flow-flattening true --string-array true --string-array-encoding base64" >> $GITHUB_ENV
+              ;;
+            "high")
+              echo "OBFUSCATE_OPTIONS=--compact true --control-flow-flattening true --control-flow-flattening-threshold 0.8 --dead-code-injection true --dead-code-injection-threshold 0.5 --identifier-names-generator hexadecimal --string-array true --string-array-encoding rc4 --string-array-threshold 0.8 --transform-object-keys true" >> $GITHUB_ENV
+              ;;
+            "maximum")
+              echo "OBFUSCATE_OPTIONS=--compact true --control-flow-flattening true --control-flow-flattening-threshold 1 --dead-code-injection true --dead-code-injection-threshold 1 --identifier-names-generator hexadecimal --rename-globals true --string-array true --string-array-encoding rc4 --string-array-threshold 1 --transform-object-keys true --unicode-escape-sequence true --self-defending true" >> $GITHUB_ENV
+              ;;
+            *)
+              echo "OBFUSCATE_OPTIONS=--compact true --control-flow-flattening true --string-array true --string-array-encoding rc4" >> $GITHUB_ENV
+              ;;
+          esac
+
+      - name: 执行代码混淆
+        run: |
+          echo "🔄 开始混淆代码... (级别: ${{ github.event.inputs.obfuscation_level || 'high' }})"
+          
+          javascript-obfuscator "$TEMP_FILE" --output "$SOURCE_FILE" $OBFUSCATE_OPTIONS
+          
+          if [[ $? -eq 0 ]]; then
+            echo "✅ 代码混淆完成!"
+            echo "📊 混淆前文件大小: $(wc -c < "$BACKUP_FILE") 字节"
+            echo "📊 混淆后文件大小: $(wc -c < "$SOURCE_FILE") 字节"
+          else
+            echo "❌ 混淆失败!"
+            exit 1
+          fi
 
       - name: 清理临时文件
         run: |
-          rm -f vless-worker-temp.js
-          rm -f vless-worker.js  # 删除软链接
+          rm -f "$TEMP_FILE"
+          echo "🧹 临时文件已清理"
 
-      - name: 提交更改
+      - name: 验证混淆结果
+        run: |
+          if [[ ! -s "$SOURCE_FILE" ]]; then
+            echo "❌ 警告: 混淆后的文件为空或不存在"
+            exit 1
+          fi
+          
+          echo "✅ 混淆文件验证通过"
+          echo "📝 混淆后文件前50个字符预览:"
+          head -c 50 "$SOURCE_FILE"
+          echo ""
+
+      - name: 配置Git用户
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add "vless无需proxyip的nat64套壳版 (推荐使用).js" "vless-worker.js.backup"
+
+      - name: 提交混淆后的文件
+        run: |
+          git add "$SOURCE_FILE" "$BACKUP_FILE"
+          
           if git diff --cached --quiet; then
-            echo "没有文件更改，跳过提交"
+            echo "📝 没有文件更改，跳过提交"
           else
-            git commit -m "混淆 vless无需proxyip的nat64套壳版文件并备份原文件"
+            COMMIT_MSG="🔒 代码混淆完成 - $(date '+%Y-%m-%d %H:%M:%S')
+            
+            📁 文件: $SOURCE_FILE
+            🔧 混淆级别: ${{ github.event.inputs.obfuscation_level || 'high' }}
+            🤖 自动化操作: GitHub Actions
+            📋 备份文件: $BACKUP_FILE"
+            
+            git commit -m "$COMMIT_MSG"
+            echo "✅ 文件已提交到Git"
           fi
 
-      - name: 推送更改
+      - name: 推送更改到仓库
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      - name: 输出执行摘要
+        run: |
+          echo "🎉 混淆任务执行完毕!"
+          echo ""
+          echo "📋 执行摘要:"
+          echo "├─ 📁 源文件: $SOURCE_FILE"
+          echo "├─ 📁 备份文件: $BACKUP_FILE"
+          echo "├─ 🔧 混淆级别: ${{ github.event.inputs.obfuscation_level || 'high' }}"
+          echo "├─ 📊 文件大小: $(wc -c < "$SOURCE_FILE") 字节"
+          echo "└─ ⏰ 完成时间: $(date '+%Y-%m-%d %H:%M:%S')"
+          echo ""
+          echo "🔗 查看更改: https://github.com/${{ github.repository }}/commit/${{ github.sha }}"
