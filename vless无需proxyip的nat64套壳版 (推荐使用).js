@@ -1,1 +1,4571 @@
-const a0_0x3d3794=a0_0x28a0;(function(_0x430905,_0x3a9e79){const _0x1ba609=a0_0x28a0,_0x329fed=_0x430905();while(!![]){try{const _0x54b106=-parseInt(_0x1ba609(0x625,'pxdB'))/0x1+parseInt(_0x1ba609(0x280,'JLqf'))/0x2*(parseInt(_0x1ba609(0x5fc,'S(tC'))/0x3)+-parseInt(_0x1ba609(0x20b,'3%hi'))/0x4+parseInt(_0x1ba609(0x30b,'rN[D'))/0x5+-parseInt(_0x1ba609(0x421,'#z2$'))/0x6*(parseInt(_0x1ba609(0x47b,'N[#('))/0x7)+parseInt(_0x1ba609(0x329,'I3Mq'))/0x8*(-parseInt(_0x1ba609(0x4cc,'%fws'))/0x9)+parseInt(_0x1ba609(0x328,'aW@c'))/0xa*(parseInt(_0x1ba609(0x319,'o2$*'))/0xb);if(_0x54b106===_0x3a9e79)break;else _0x329fed['push'](_0x329fed['shift']());}catch(_0x2cc4b9){_0x329fed['push'](_0x329fed['shift']());}}}(a0_0x4b71,0xe4d59));import{connect}from'cloudflare:sockets';const WS_READY_STATE_OPEN=0x1;let userID=a0_0x3d3794(0x368,'HzN7');const cn_hostnames=[''];let CDNIP=a0_0x3d3794(0x2c1,'7PM$'),IP1=a0_0x3d3794(0x688,'#z2$'),IP2=a0_0x3d3794(0x4e3,'JCWn'),IP3=a0_0x3d3794(0x235,'@Z$m'),IP4='www.visa.com.sg',IP5=a0_0x3d3794(0x515,'(BCy'),IP6=a0_0x3d3794(0x42a,'LTVA'),IP7=a0_0x3d3794(0x526,'&dbg'),IP8=a0_0x3d3794(0x2f6,'D8B1'),IP9=a0_0x3d3794(0x4ce,'E]t%'),IP10=a0_0x3d3794(0x58e,'fu3]'),IP11=a0_0x3d3794(0x619,'I3Mq'),IP12=a0_0x3d3794(0x2d5,'%(Fi'),IP13=a0_0x3d3794(0x22d,'S(tC'),PT1='80',PT2=a0_0x3d3794(0x602,'Yp3L'),PT3=a0_0x3d3794(0x43b,'pxdB'),PT4='2052',PT5=a0_0x3d3794(0x37d,'3q7O'),PT6='2086',PT7='2095',PT8=a0_0x3d3794(0x493,'!NJO'),PT9=a0_0x3d3794(0x1ee,'5R6%'),PT10=a0_0x3d3794(0x28b,'pxdB'),PT11=a0_0x3d3794(0x3fd,'JLqf'),PT12=a0_0x3d3794(0x2de,'rN[D'),PT13=a0_0x3d3794(0x42b,'BG$F');export default{async 'fetch'(_0x35c21b,_0x3cc10f,_0x352e12){const _0x467df2=a0_0x3d3794,_0x326881={'lqzFP':function(_0x28a3c6,_0x48207f){return _0x28a3c6(_0x48207f);},'xptwj':function(_0x220d29,_0x3cadee,_0x3d19ce){return _0x220d29(_0x3cadee,_0x3d19ce);},'Wzzif':_0x467df2(0x25a,'S(tC'),'glKIj':_0x467df2(0x51e,'q)7&'),'btgUd':function(_0x3381da,_0x4661c3){return _0x3381da+_0x4661c3;},'VJNar':function(_0x2a0b96,_0x15f4d6){return _0x2a0b96(_0x15f4d6);},'DajFs':function(_0x384d19,_0x248c4b){return _0x384d19===_0x248c4b;},'JcKlO':_0x467df2(0x477,'%Cnp'),'qJNNq':_0x467df2(0x367,'RUDA'),'UsNbx':function(_0x4f92dd,_0x5af810){return _0x4f92dd!==_0x5af810;},'OrrRs':_0x467df2(0x6a9,'$)w3'),'mTugp':function(_0x11a246,_0x4bb5f2,_0x1a9fe3){return _0x11a246(_0x4bb5f2,_0x1a9fe3);},'HUCVa':_0x467df2(0x41a,'ldo*'),'bthVw':'text/html;charset=utf-8','vFyey':'cUmzj','aUYAH':function(_0x4c67a4,_0x11c945,_0x56121f){return _0x4c67a4(_0x11c945,_0x56121f);},'xgNpg':_0x467df2(0x6c2,'JCWn'),'PfRjU':function(_0xbd907b,_0x342255){return _0xbd907b===_0x342255;},'TXHyV':_0x467df2(0x69a,'m(9!'),'UPieC':function(_0x854af4,_0xfc880b){return _0x854af4!==_0xfc880b;},'FgwkM':_0x467df2(0x210,'S(tC'),'IeGaQ':_0x467df2(0x3f6,'#k(Q'),'eQUgH':_0x467df2(0x2c0,'RUDA'),'FcQpz':_0x467df2(0x364,'%4G)'),'CpKFz':_0x467df2(0x4b0,'eoD$'),'rBOyV':_0x467df2(0x2d4,'#k(Q'),'RFYEE':function(_0xfaafe5,_0x3c8d0c){return _0xfaafe5*_0x3c8d0c;},'zYwae':'cf-connecting-ip','RZucF':_0x467df2(0x33c,'3%hi'),'iMPXL':_0x467df2(0x5ed,'m(9!'),'ewNWX':_0x467df2(0x501,'E]t%'),'objOa':'referer','qAkFE':'https://www.google.com/search?q=edtunnel','MDhCK':_0x467df2(0x4ae,'JCWn'),'qLMwJ':_0x467df2(0x348,'LTVA'),'lDcGC':_0x467df2(0x30a,'5R6%'),'nvBOQ':_0x467df2(0x2e8,'gLxZ'),'igbEI':_0x467df2(0x5cc,'m(9!')};try{if(_0x326881[_0x467df2(0x322,'5R6%')](_0x467df2(0x57e,'#z2$'),_0x326881['JcKlO'])){const _0x2c4104=_0x34717c['Answer'][_0x467df2(0x1f9,'N[#(')](_0x913d72=>_0x913d72[_0x467df2(0x275,'S(tC')]===0x1);if(_0x2c4104){const _0x206a98=_0x2c4104[_0x467df2(0x530,'m(9!')];return _0x326881['lqzFP'](_0x5282d2,_0x206a98);}}else{userID=_0x3cc10f[_0x467df2(0x6b6,'%Cnp')]||userID,CDNIP=_0x3cc10f[_0x467df2(0x607,'rN[D')]||CDNIP,IP1=_0x3cc10f[_0x467df2(0x5b4,'n73c')]||IP1,IP2=_0x3cc10f[_0x467df2(0x3f0,'rN[D')]||IP2,IP3=_0x3cc10f[_0x467df2(0x677,'5R6%')]||IP3,IP4=_0x3cc10f[_0x467df2(0x340,'(BCy')]||IP4,IP5=_0x3cc10f[_0x467df2(0x22b,'ldo*')]||IP5,IP6=_0x3cc10f[_0x467df2(0x301,'JLqf')]||IP6,IP7=_0x3cc10f[_0x467df2(0x616,'!NJO')]||IP7,IP8=_0x3cc10f['ip8']||IP8,IP9=_0x3cc10f['ip9']||IP9,IP10=_0x3cc10f[_0x467df2(0x511,'OkdH')]||IP10,IP11=_0x3cc10f['ip11']||IP11,IP12=_0x3cc10f[_0x467df2(0x4a1,'no^s')]||IP12,IP13=_0x3cc10f['ip13']||IP13,PT1=_0x3cc10f[_0x467df2(0x4a9,'JLqf')]||PT1,PT2=_0x3cc10f['pt2']||PT2,PT3=_0x3cc10f[_0x467df2(0x358,'#k(Q')]||PT3,PT4=_0x3cc10f[_0x467df2(0x25d,'BG$F')]||PT4,PT5=_0x3cc10f[_0x467df2(0x42f,'q)7&')]||PT5,PT6=_0x3cc10f[_0x467df2(0x250,'D8B1')]||PT6,PT7=_0x3cc10f[_0x467df2(0x679,'n73c')]||PT7,PT8=_0x3cc10f[_0x467df2(0x589,'@B[z')]||PT8,PT9=_0x3cc10f['pt9']||PT9,PT10=_0x3cc10f['pt10']||PT10,PT11=_0x3cc10f[_0x467df2(0x458,'q)7&')]||PT11,PT12=_0x3cc10f[_0x467df2(0x48c,'@B[z')]||PT12,PT13=_0x3cc10f[_0x467df2(0x663,'5R6%')]||PT13;const _0x59a6a0=_0x35c21b[_0x467df2(0x29b,'%Cnp')]['get'](_0x326881[_0x467df2(0x22e,'2BdX')]),_0x4e4e99=new URL(_0x35c21b[_0x467df2(0x2fd,'3q7O')]);if(!_0x59a6a0||_0x326881['UsNbx'](_0x59a6a0,_0x326881[_0x467df2(0x558,'%(Fi')])){const _0x54b9b1=new URL(_0x35c21b[_0x467df2(0x4e0,'#z2$')]);switch(_0x54b9b1['pathname']){case'/'+userID:{const _0x1e4e76=_0x326881[_0x467df2(0x6a1,'oU^(')](getvlessConfig,userID,_0x35c21b[_0x467df2(0x434,'FI(P')][_0x467df2(0x335,'qs%P')](_0x326881[_0x467df2(0x581,'N[#(')])),_0x5d344a={};_0x5d344a['Content-Type']=_0x326881[_0x467df2(0x28f,'qs%P')];const _0x11ecb9={};return _0x11ecb9[_0x467df2(0x2e1,'qgeG')]=0xc8,_0x11ecb9[_0x467df2(0x39c,'#k(Q')]=_0x5d344a,new Response(''+_0x1e4e76,_0x11ecb9);}case'/'+userID+_0x467df2(0x43d,'q)7&'):{if(_0x467df2(0x20e,'5R6%')===_0x326881[_0x467df2(0x363,'no^s')]){const _0x43309c=_0x326881[_0x467df2(0x255,'#z2$')](_0x4fcf56,_0x35f6d0,0xa);if(_0x43309c<0x0||_0x43309c>0xff)throw new _0x59ff08(_0x326881['Wzzif']);return _0x43309c[_0x467df2(0x36c,'LTVA')](0x10)[_0x467df2(0x362,'%(Fi')](0x2,'0');}else{const _0x1abb5a=_0x326881[_0x467df2(0x436,'H!gw')](gettyConfig,userID,_0x35c21b[_0x467df2(0x65b,'S(tC')][_0x467df2(0x42c,'D8B1')](_0x326881[_0x467df2(0x652,'@Z$m')])),_0xf1f4e6={};_0xf1f4e6[_0x467df2(0x3c5,'ldo*')]=_0x326881[_0x467df2(0x3ed,'aW@c')];const _0x23a248={};return _0x23a248[_0x467df2(0x56a,'o2$*')]=0xc8,_0x23a248[_0x467df2(0x3f8,'n73c')]=_0xf1f4e6,new Response(''+_0x1abb5a,_0x23a248);}}case'/'+userID+_0x467df2(0x591,'FI(P'):{if(_0x326881[_0x467df2(0x393,'OkdH')](_0x326881[_0x467df2(0x4bd,'2BdX')],'nQkZC')){const _0x47456a=_0x326881[_0x467df2(0x2b4,'3q7O')](getclConfig,userID,_0x35c21b[_0x467df2(0x65b,'S(tC')][_0x467df2(0x5c9,'rN[D')](_0x326881['HUCVa'])),_0x4c1c42={};_0x4c1c42['Content-Type']=_0x326881[_0x467df2(0x4a2,'SLd#')];const _0x547a70={};return _0x547a70[_0x467df2(0x4de,'OkdH')]=0xc8,_0x547a70[_0x467df2(0x568,'fM&k')]=_0x4c1c42,new Response(''+_0x47456a,_0x547a70);}else return _0x467df2(0x45d,'%Cnp')+_0x3b242b+_0x467df2(0x252,'OkdH')+_0x15fcd8+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x09\x20\x20\x20\x20<hr>\x0a\x09\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>1：CF-workers-vless+ws节点</h3>\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<th>节点特色：</th>\x0a\x09\x09\x09\x09\x09\x09<th>单节点链接如下：</th>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>关闭了TLS加密，无视域名阻断</td>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>'+_0x4e0b16+_0x467df2(0x238,'3%hi')+_0x5c17a4+'\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5>客户端参数如下：</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>客户端地址(address)：自定义的域名\x20或者\x20优选域名\x20或者\x20优选IP\x20或者\x20反代IP</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>端口(port)：7个http端口可任意选择(80、8080、8880、2052、2082、2086、2095)，或反代IP对应端口</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>用户ID(uuid)：'+_0xae4628+_0x467df2(0x469,'ldo*')+_0x4abf4b+_0x467df2(0x449,'%fws')+_0x42bc48+_0x467df2(0x412,'LTVA')+_0x4e5e0a+_0x467df2(0x613,'S(tC')+_0x4c209d+_0x467df2(0x23e,'@B[z')+_0x578cd8+'</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>路径(path)：/?ed=2560</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>传输安全(TLS)：开启</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>跳过证书验证(allowlnsecure)：false</li>\x0a\x09\x09\x09</ul>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<br>\x09\x0a\x09\x09\x09<br>\x0a\x09\x09\x09<h3>3：聚合通用、Clash-meta、Sing-box订阅链接如下：</h3>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<p>注意：<br>1、默认每个订阅链接包含TLS+非TLS共13个端口节点<br>2、当前workers域名作为订阅链接，需通过代理进行订阅更新<br>3、如使用的客户端不支持分片功能，则TLS节点不可用</p>\x0a\x09\x09\x09<hr>\x0a\x0a\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<th>聚合通用分享链接\x20(可直接导入客户端)：</th>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27'+_0x1ea8b9+_0x467df2(0x520,'!NJO')+_0x1e2120+_0x467df2(0x1f2,'qs%P')+_0x175c0a+_0x467df2(0x551,'LTVA')+_0x1fc3e6+_0x467df2(0x4f6,'eoD$')+_0x512d6c+_0x467df2(0x2c2,'HzN7')+_0x2174fc+_0x467df2(0x68a,'ldo*')+_0xe91084+_0x467df2(0x53e,'oU^(');}case'/'+userID+_0x467df2(0x52d,'%fws'):{if(_0x326881[_0x467df2(0x559,'fu3]')](_0x326881[_0x467df2(0x2bc,'I3Mq')],_0x326881[_0x467df2(0x52b,'JLqf')])){const _0x3b56f6=_0x326881[_0x467df2(0x408,'Yp3L')](getsbConfig,userID,_0x35c21b[_0x467df2(0x489,'JCWn')][_0x467df2(0x606,'@B[z')](_0x326881[_0x467df2(0x2ef,'fu3]')])),_0x36ddc9={};_0x36ddc9[_0x467df2(0x485,'E]t%')]=_0x326881[_0x467df2(0x287,'5R6%')];const _0x22509a={};return _0x22509a[_0x467df2(0x311,'no^s')]=0xc8,_0x22509a[_0x467df2(0x404,'$)w3')]=_0x36ddc9,new Response(''+_0x3b56f6,_0x22509a);}else _0x30d938[_0x467df2(0x60e,'HzN7')](_0x4d4f5f[_0x467df2(0x4bf,'(BCy')]);}case'/'+userID+_0x467df2(0x231,'7PM$'):{const _0x328461=getptyConfig(userID,_0x35c21b[_0x467df2(0x281,'N[#(')][_0x467df2(0x269,'BG$F')](_0x326881[_0x467df2(0x21f,'FI(P')])),_0xd9d69c={};_0xd9d69c[_0x467df2(0x485,'E]t%')]=_0x326881['xgNpg'];const _0x2e2ac1={};return _0x2e2ac1['status']=0xc8,_0x2e2ac1['headers']=_0xd9d69c,new Response(''+_0x328461,_0x2e2ac1);}case'/'+userID+_0x467df2(0x2eb,'I3Mq'):{if(_0x326881['UPieC'](_0x326881[_0x467df2(0x5d1,'!NJO')],_0x326881[_0x467df2(0x651,'JCWn')])){const _0x1ed7ae=getpclConfig(userID,_0x35c21b[_0x467df2(0x3f8,'n73c')][_0x467df2(0x420,'SLd#')](_0x326881[_0x467df2(0x693,'no^s')])),_0x23609d={};_0x23609d[_0x467df2(0x67f,'at%P')]='text/plain;charset=utf-8';const _0x3f09ad={};return _0x3f09ad[_0x467df2(0x579,'Yp3L')]=0xc8,_0x3f09ad[_0x467df2(0x29d,'oU^(')]=_0x23609d,new Response(''+_0x1ed7ae,_0x3f09ad);}else _0xd06092[_0x467df2(0x2e9,'o2$*')](_0x326881[_0x467df2(0x54f,'m(9!')],_0x240b6d),_0x3b30af[_0x467df2(0x3e1,'7PM$')](0x3f3,_0x326881['btgUd'](_0x467df2(0x4cb,'oU^('),_0x2e75b3['message']));}case'/'+userID+_0x467df2(0x4a7,'(BCy'):{const _0x44ee51=_0x326881['xptwj'](getpsbConfig,userID,_0x35c21b[_0x467df2(0x29d,'oU^(')][_0x467df2(0x3c1,'m(9!')](_0x326881['HUCVa'])),_0x4dccaa={};_0x4dccaa[_0x467df2(0x4a8,'Yp3L')]=_0x326881[_0x467df2(0x384,'H!gw')];const _0x250283={};return _0x250283['status']=0xc8,_0x250283[_0x467df2(0x434,'FI(P')]=_0x4dccaa,new Response(''+_0x44ee51,_0x250283);}default:if(cn_hostnames[_0x467df2(0x3ff,'HzN7')]('')){if(_0x326881[_0x467df2(0x6b7,'LTVA')](_0x326881[_0x467df2(0x1fe,'qgeG')],_0x467df2(0x517,'o2$*'))){const _0x22e3f4={};_0x22e3f4['Content-Type']=_0x467df2(0x3c9,'@Z$m');const _0x4d353b={};return _0x4d353b[_0x467df2(0x579,'Yp3L')]=0xc8,_0x4d353b[_0x467df2(0x31b,'eoD$')]=_0x22e3f4,new Response(JSON[_0x467df2(0x5e8,'RUDA')](_0x35c21b['cf'],null,0x4),_0x4d353b);}else{const _0x4a1641=_0x326881[_0x467df2(0x49d,'2BdX')](_0x4a7b89,_0x467df2(0x3c0,'qs%P')+_0x2c16ad+'@'+_0x200843+':'+_0xc9e164+_0x467df2(0x657,'E]t%')+_0x5e30b9+_0x467df2(0x684,'rN[D')+_0x37326d+_0x467df2(0x5ac,'oU^(')+_0x3a0cc0+'_'+_0x1072b1+'\x0avless://'+_0x400bf4+'@'+_0x2aa7b4+':'+_0x1a2e1e+_0x467df2(0x6a4,'FI(P')+_0x5f287e+_0x467df2(0x471,'qs%P')+_0x3736d8+'&path=%2F%3Fed%3D2560#CF_V9_'+_0xe28d71+'_'+_0x50b38f+_0x467df2(0x30e,'FI(P')+_0x2d4d5f+'@'+_0x16934c+':'+_0x29b0a6+_0x467df2(0x49f,'m(9!')+_0x34fdb3+_0x467df2(0x564,'gLxZ')+_0x5e4504+_0x467df2(0x5c0,'%4G)')+_0x5519f1+'_'+_0x51a194+_0x467df2(0x535,'H!gw')+_0xc3a654+'@'+_0x4ce482+':'+_0x1b2ffa+_0x467df2(0x268,'oU^(')+_0x5129c7+_0x467df2(0x6bc,'%Cnp')+_0x10d8c8+_0x467df2(0x58f,'I3Mq')+_0x1f55ed+'_'+_0x2e7721+_0x467df2(0x3ba,'pxdB')+_0x295dbc+'@'+_0x48cb0d+':'+_0x57ffb9+_0x467df2(0x657,'E]t%')+_0x5bc92d+_0x467df2(0x4ca,'&dbg')+_0x26739f+_0x467df2(0x4ba,'JCWn')+_0x2eeccd+'_'+_0x48aaf0+_0x467df2(0x542,'qgeG')+_0x5cccea+'@'+_0x661b97+':'+_0x3e9139+'?encryption=none&security=tls&sni='+_0xfebe99+_0x467df2(0x3fe,'o2$*')+_0x6d6902+_0x467df2(0x595,'3q7O')+_0x2a3f4a+'_'+_0x4c38e5);return''+_0x4a1641;}}const _0x5d7a87=cn_hostnames[Math[_0x467df2(0x527,'%fws')](_0x326881[_0x467df2(0x381,'JCWn')](Math[_0x467df2(0x6bd,'o2$*')](),cn_hostnames[_0x467df2(0x392,'gLxZ')]))],_0x527d9e=new Headers(_0x35c21b['headers']);_0x527d9e['set'](_0x326881[_0x467df2(0x2ca,'D8B1')],_0x326881[_0x467df2(0x264,'@B[z')]),_0x527d9e[_0x467df2(0x4b6,'!NJO')](_0x326881['iMPXL'],_0x326881[_0x467df2(0x62a,'7PM$')]),_0x527d9e['set'](_0x326881[_0x467df2(0x342,'2BdX')],_0x326881[_0x467df2(0x2a9,'Yp3L')]),_0x527d9e[_0x467df2(0x324,'eoD$')](_0x326881[_0x467df2(0x67a,'o2$*')],_0x326881[_0x467df2(0x61e,'H!gw')]);const _0x3a0f04=_0x326881['btgUd'](_0x326881[_0x467df2(0x4d7,'5R6%')](_0x326881[_0x467df2(0x5c6,'o2$*')](_0x326881['MDhCK'],_0x5d7a87),_0x54b9b1[_0x467df2(0x561,'%fws')]),_0x54b9b1[_0x467df2(0x3cd,'Yp3L')]),_0x3909e2={};_0x3909e2[_0x467df2(0x497,'FI(P')]=_0x35c21b['method'],_0x3909e2[_0x467df2(0x326,'at%P')]=_0x527d9e,_0x3909e2[_0x467df2(0x22a,'BG$F')]=_0x35c21b['body'],_0x3909e2[_0x467df2(0x65e,'7PM$')]=_0x326881[_0x467df2(0x1fb,'oU^(')];let _0xa85f9c=new Request(_0x3a0f04,_0x3909e2);const _0x750bb6={};_0x750bb6[_0x467df2(0x229,'RUDA')]=_0x467df2(0x594,'H!gw');const _0x1ad707=await fetch(_0xa85f9c,_0x750bb6);if([0x12d,0x12e][_0x467df2(0x44d,'JLqf')](_0x1ad707[_0x467df2(0x2cf,'&dbg')])){const _0x12d82c={};return _0x12d82c[_0x467df2(0x36d,'7PM$')]=0x193,_0x12d82c[_0x467df2(0x297,'&dbg')]=_0x326881['lDcGC'],new Response('Redirects\x20to\x20'+_0x5d7a87+'\x20are\x20not\x20allowed.',_0x12d82c);}return _0x1ad707;}}return await handlevlessWebSocket(_0x35c21b);}}catch(_0x5e4910){if(_0x326881[_0x467df2(0x341,'q)7&')]===_0x326881[_0x467df2(0x2a1,'%4G)')])return _0x467df2(0x3dd,'%(Fi')+_0x41d00a+'_'+_0x1d575f+_0x467df2(0x50d,'gLxZ')+_0xd29afe+'_'+_0x12e00a+_0x467df2(0x400,'aW@c')+_0x511759+'_'+_0x3c6342+_0x467df2(0x3ea,'RUDA')+_0x5a66a2+'_'+_0x43674a+_0x467df2(0x61f,'JLqf')+_0x94e0e4+'_'+_0x5d25d5+_0x467df2(0x6b8,'@B[z')+_0x3ed5df+'_'+_0x3b6386+_0x467df2(0x698,'S(tC')+_0x4b28e1+_0x467df2(0x237,'oU^(')+_0x21af13+_0x467df2(0x5cf,'%(Fi')+_0x441138+'_'+_0xe9599d+_0x467df2(0x409,'qgeG')+_0x5321b4+_0x467df2(0x267,'2BdX')+_0xcd621d+_0x467df2(0x669,'I3Mq')+_0x37039c+_0x467df2(0x3e7,'(BCy')+_0x5b13e6+_0x467df2(0x27a,'7PM$')+_0x36213a+_0x467df2(0x361,'eoD$')+_0x263c83+'_'+_0x1a5be3+_0x467df2(0x3a3,'JCWn')+_0x2e94d0+_0x467df2(0x680,'rN[D')+_0x4a1654+'\x22\x0a\x09\x09\x09\x09\x20\x20]\x0a\x09\x09\x09\x09},\x0a\x09\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x4c128f+_0x467df2(0x65c,'o2$*')+_0x168ff7+_0x467df2(0x2fe,'m(9!')+_0x354326+_0x467df2(0x2dc,'$)w3')+_0x2a4572+'_'+_0x25f186+_0x467df2(0x2bd,'ldo*')+_0x4f1e31+_0x467df2(0x2b3,'N[#(')+_0x423647+_0x467df2(0x401,'LTVA')+_0x148b7b+_0x467df2(0x472,'%(Fi')+_0x40d65a+_0x467df2(0x3e2,'BG$F')+_0x5079fe+_0x467df2(0x5d8,'LTVA')+_0x146be1+'_'+_0x43a029+_0x467df2(0x290,'H!gw')+_0x2c45ee+'\x22,\x0a\x09\x09\x09\x09\x22insecure\x22:\x20false,\x0a\x09\x09\x09\x09\x22utls\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x20\x20\x22fingerprint\x22:\x20\x22chrome\x22\x0a\x09\x09\x09\x09}\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x09\x22'+_0x5bfea0+_0x467df2(0x21b,'n73c')+_0x434b40+_0x467df2(0x4b9,'qgeG')+_0x2bfe68+'\x22,\x0a\x09\x09\x09\x20\x20\x22server_port\x22:\x20'+_0x3b20db+_0x467df2(0x481,'HzN7')+_0x17f4d6+'_'+_0x49371a+_0x467df2(0x39e,'m(9!')+_0x3f5a6b+_0x467df2(0x2d9,'Yp3L')+_0x4aa8da+_0x467df2(0x278,'&dbg')+_0x7ef8f9+_0x467df2(0x2f4,'eoD$')+_0x2fac90+_0x467df2(0x257,'Yp3L')+_0x4630a4+_0x467df2(0x30c,'@Z$m')+_0x285ba2+'_'+_0x5c97b3+_0x467df2(0x1fa,'RUDA')+_0x4f8ca7+_0x467df2(0x62d,'oU^(')+_0x375cda+'\x22\x0a\x09\x09\x09\x09\x20\x20]\x0a\x09\x09\x09\x09},\x0a\x09\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x55ef31+_0x467df2(0x40c,'JCWn')+_0x43f465+'_'+_0x41d70e+_0x467df2(0x209,'JCWn')+_0x1ea0d6+'_'+_0x5eb906+_0x467df2(0x5a5,'eoD$')+_0x34899c+'_'+_0x13aa20+'\x22,\x0a\x09\x09\x09\x09\x22CF_V11_'+_0xdcdc70+'_'+_0x3e3725+_0x467df2(0x374,'o2$*')+_0x37db13+'_'+_0x5e8a27+_0x467df2(0x699,'gLxZ')+_0x347817+'_'+_0x257bed+_0x467df2(0x3aa,'@Z$m');else{let _0x23b3de=_0x5e4910;return new Response(_0x23b3de[_0x467df2(0x5a3,'2BdX')]());}}}};async function handlevlessWebSocket(_0x32ffb8){const _0x813a46=a0_0x3d3794,_0x48f1a3={'fytrV':'StDIg','BjXHa':_0x813a46(0x5a7,'3%hi'),'ILXRe':function(_0x468b3f,_0x551137){return _0x468b3f!==_0x551137;},'nVsWA':function(_0x2e221a,_0x1948d3){return _0x2e221a!==_0x1948d3;},'zIAmP':_0x813a46(0x1e9,'fu3]'),'omJuj':_0x813a46(0x6bf,'fM&k'),'lIDSb':function(_0x8328cb,_0x13551f){return _0x8328cb*_0x13551f;},'WgMTE':function(_0x40e0ab,_0x1e3b5d){return _0x40e0ab(_0x1e3b5d);},'UBkeq':function(_0x1e3b0c,_0x39d36f){return _0x1e3b0c(_0x39d36f);},'eokLw':function(_0x1924df,_0x39f377){return _0x1924df===_0x39f377;},'VDsFD':function(_0x3d9d17,_0xb81f27,_0x3a7b47){return _0x3d9d17(_0xb81f27,_0x3a7b47);},'RXQJr':function(_0x246b4a,_0x31815d){return _0x246b4a>_0x31815d;},'TgvLB':_0x813a46(0x403,'@Z$m'),'uHEJo':function(_0x328555,_0x5beb80){return _0x328555===_0x5beb80;},'Baprs':_0x813a46(0x623,'I3Mq'),'JMqCS':_0x813a46(0x5a2,'%(Fi'),'wREdv':function(_0x2d3e4f,_0xb2460){return _0x2d3e4f(_0xb2460);},'uSwuI':'无法解析域名的IPv4地址','VYREe':_0x813a46(0x3b3,'%fws'),'ESeZu':_0x813a46(0x288,'&dbg'),'Yarmp':function(_0x2b0217,_0x820824){return _0x2b0217+_0x820824;},'qphYF':function(_0x29c6f5,_0x25ad96){return _0x29c6f5!==_0x25ad96;},'yyZwx':_0x813a46(0x447,'@Z$m'),'bkHYp':'zwsIx','JRAXp':'lAXAF','WaDHh':'Xrvqk','tkEix':function(_0x467951,_0x243f9d,_0x93373e,_0x9e8ea8,_0x3445e2){return _0x467951(_0x243f9d,_0x93373e,_0x9e8ea8,_0x3445e2);},'pXFtN':_0x813a46(0x658,'aW@c'),'NtLrQ':function(_0x5a7f11,_0x30884a){return _0x5a7f11(_0x30884a);},'GWrrs':_0x813a46(0x26e,'I3Mq'),'DhZGd':function(_0x2f534d,_0x236c9b,_0x1264ab){return _0x2f534d(_0x236c9b,_0x1264ab);},'KXQTV':function(_0xef1c10,_0x30b718){return _0xef1c10(_0x30b718);},'RfkvV':'UDP代理仅支持DNS(端口53)','TRiaN':function(_0x154e63,_0x421829,_0x1c0fcb){return _0x154e63(_0x421829,_0x1c0fcb);},'FZpRV':'连接失败','edcay':function(_0x4fa91f,_0x4ac138){return _0x4fa91f(_0x4ac138);},'WprXF':_0x813a46(0x218,'qgeG'),'jnkHm':function(_0x223bad,_0x3688ab){return _0x223bad===_0x3688ab;},'gdsDX':_0x813a46(0x5b2,'o2$*'),'ULdJc':function(_0x3a0c01,_0x1fb5ea){return _0x3a0c01(_0x1fb5ea);},'HrVuD':'内部错误','gvBtw':'sec-websocket-protocol'},_0x8c0eec=new WebSocketPair(),[_0xbd2d2,_0x5bd092]=Object[_0x813a46(0x37e,'q)7&')](_0x8c0eec);_0x5bd092['accept']();const _0x346980=_0x32ffb8['headers'][_0x813a46(0x37a,'JLqf')](_0x48f1a3[_0x813a46(0x41c,'BG$F')])||'',_0x503a56=createWebSocketReadableStream(_0x5bd092,_0x346980);let _0x29f530=null,_0x2fec50=null,_0x166e64=![];_0x503a56[_0x813a46(0x57d,'HzN7')](new WritableStream({async 'write'(_0x16d7a0){const _0x14c476=_0x813a46,_0x2c28cf={'NNTdD':function(_0x1eaf88,_0x155698){const _0x3ebb95=a0_0x28a0;return _0x48f1a3[_0x3ebb95(0x20f,'m(9!')](_0x1eaf88,_0x155698);},'obOLb':function(_0x57fb20,_0x11b209){const _0x559596=a0_0x28a0;return _0x48f1a3[_0x559596(0x500,'(BCy')](_0x57fb20,_0x11b209);},'oRCVI':function(_0x4bde19,_0x4fd424){const _0x4db396=a0_0x28a0;return _0x48f1a3[_0x4db396(0x689,'rN[D')](_0x4bde19,_0x4fd424);},'jFbJY':_0x14c476(0x431,'@B[z'),'hncxh':function(_0x38bd10,_0x152d48,_0x393e4d){const _0x3c03f9=_0x14c476;return _0x48f1a3[_0x3c03f9(0x222,'n73c')](_0x38bd10,_0x152d48,_0x393e4d);},'VoeBm':function(_0xaa744,_0xef63d0){const _0x22f9a8=_0x14c476;return _0x48f1a3[_0x22f9a8(0x572,'at%P')](_0xaa744,_0xef63d0);},'olDoA':_0x14c476(0x48e,'gLxZ'),'osvsB':_0x48f1a3['TgvLB'],'pGTCP':function(_0x355eb7,_0x43b32a){return _0x355eb7>_0x43b32a;},'NTCJL':function(_0x33b20e,_0x34ba78){const _0x3dbbf7=_0x14c476;return _0x48f1a3[_0x3dbbf7(0x63e,'%fws')](_0x33b20e,_0x34ba78);},'sNrrr':_0x48f1a3[_0x14c476(0x2ba,'(BCy')],'rnTRR':_0x48f1a3[_0x14c476(0x31c,'HzN7')],'AiLvY':function(_0xe3a11f,_0x20dbfb){const _0x5dcb17=_0x14c476;return _0x48f1a3[_0x5dcb17(0x258,'Yp3L')](_0xe3a11f,_0x20dbfb);},'uGBbE':_0x48f1a3[_0x14c476(0x3cb,'7PM$')],'entUj':function(_0x51be49,_0x9407e5){const _0x420cb5=_0x14c476;return _0x48f1a3[_0x420cb5(0x5f3,'aW@c')](_0x51be49,_0x9407e5);},'SGqME':_0x48f1a3[_0x14c476(0x5a8,'3%hi')],'fBBHq':_0x48f1a3[_0x14c476(0x6a7,'D8B1')],'ikaZb':function(_0x5ca76c,_0x3782b8){return _0x48f1a3['Yarmp'](_0x5ca76c,_0x3782b8);},'ZGlIU':function(_0x2adaa3,_0x1a21c6){return _0x2adaa3<_0x1a21c6;},'MMQVP':function(_0x1a109b,_0x30f93a){const _0x521e5c=_0x14c476;return _0x48f1a3[_0x521e5c(0x34f,'qs%P')](_0x1a109b,_0x30f93a);},'pSZgN':_0x14c476(0x508,'JCWn'),'GWKzB':function(_0x22afa4,_0x191f83){return _0x48f1a3['uHEJo'](_0x22afa4,_0x191f83);},'iQqfM':_0x48f1a3['yyZwx'],'CygyC':_0x48f1a3[_0x14c476(0x2e3,'FI(P')],'lxYaP':function(_0x4584b3,_0x166b96){return _0x4584b3!==_0x166b96;},'GbUAd':_0x14c476(0x327,'oU^('),'ChBJR':_0x48f1a3[_0x14c476(0x217,'JLqf')],'NTdOX':_0x48f1a3[_0x14c476(0x6a8,'fu3]')],'OTLOS':function(_0x458c00,_0x23c673,_0x58883a,_0x37ce7c,_0xa3cdb1){const _0x814365=_0x14c476;return _0x48f1a3[_0x814365(0x487,'BG$F')](_0x458c00,_0x23c673,_0x58883a,_0x37ce7c,_0xa3cdb1);},'tjHkR':_0x14c476(0x5d9,'RUDA'),'mZDeP':_0x48f1a3['pXFtN']};if(_0x166e64&&_0x2fec50)return _0x48f1a3[_0x14c476(0x2bf,'OkdH')](_0x2fec50,_0x16d7a0);if(_0x29f530){if(_0x48f1a3[_0x14c476(0x28a,'@Z$m')](_0x48f1a3[_0x14c476(0x599,'qs%P')],_0x48f1a3[_0x14c476(0x5e3,'#z2$')]))_0x2c28cf[_0x14c476(0x5e7,'at%P')](_0x583fd2,_0x4acd33);else{const _0x4511a0=_0x29f530[_0x14c476(0x466,'2BdX')][_0x14c476(0x54e,'(BCy')]();await _0x4511a0[_0x14c476(0x387,'%fws')](_0x16d7a0),_0x4511a0[_0x14c476(0x5be,'@B[z')]();return;}}const _0x13044d=_0x48f1a3[_0x14c476(0x4e6,'m(9!')](parsevlessHeader,_0x16d7a0,userID);if(_0x13044d[_0x14c476(0x414,'eoD$')])throw new Error(_0x13044d['message']);const _0x5e1e53=new Uint8Array([_0x13044d[_0x14c476(0x440,'oU^(')][0x0],0x0]),_0x36b9a9=_0x16d7a0[_0x14c476(0x263,'D8B1')](_0x13044d[_0x14c476(0x5a0,'aW@c')]);if(_0x13044d[_0x14c476(0x2ce,'no^s')]){if(_0x48f1a3['eokLw'](_0x13044d[_0x14c476(0x21a,'#z2$')],0x35)){_0x166e64=!![];const {write:_0x24e191}=await handleUDPOutBound(_0x5bd092,_0x5e1e53);_0x2fec50=_0x24e191,_0x48f1a3['KXQTV'](_0x2fec50,_0x36b9a9);return;}else throw new Error(_0x48f1a3[_0x14c476(0x2f1,'3%hi')]);}async function _0x372af6(_0x15501f,_0x2b47aa){const _0x245a30=_0x14c476,_0x180245={};_0x180245[_0x245a30(0x3be,'D8B1')]=_0x15501f,_0x180245[_0x245a30(0x57c,'eoD$')]=_0x2b47aa;const _0x5ab726=await _0x2c28cf[_0x245a30(0x597,'JLqf')](connect,_0x180245);_0x29f530=_0x5ab726;const _0x577d27=_0x5ab726[_0x245a30(0x419,'&dbg')]['getWriter']();return await _0x577d27[_0x245a30(0x565,'no^s')](_0x36b9a9),_0x577d27['releaseLock'](),_0x5ab726;}function _0x202f3b(_0x446845){const _0x577af6=_0x14c476;if(_0x48f1a3['fytrV']!==_0x48f1a3['BjXHa']){const _0x49c7b8=_0x446845[_0x577af6(0x504,'%Cnp')]('.');if(_0x48f1a3[_0x577af6(0x490,'%4G)')](_0x49c7b8[_0x577af6(0x350,'SLd#')],0x4)){if(_0x48f1a3[_0x577af6(0x55c,'7PM$')](_0x48f1a3[_0x577af6(0x430,'fM&k')],_0x48f1a3[_0x577af6(0x59a,'fu3]')])){const _0x20a8d1=_0x4baad5(_0x175beb[_0x577af6(0x273,'H!gw')](/-/g,'+')[_0x577af6(0x3d0,'E]t%')](/_/g,'/')),_0x3f931a=_0x430506['from'](_0x20a8d1,_0x26b509=>_0x26b509['charCodeAt'](0x0));_0x3433cc[_0x577af6(0x249,'D8B1')](_0x3f931a[_0x577af6(0x29a,'LTVA')]);}else throw new Error(_0x577af6(0x4fa,'m(9!'));}const _0x21a37d=_0x49c7b8[_0x577af6(0x4e9,'Yp3L')](_0x5d51af=>{const _0x8ce2f8=_0x577af6,_0x312694={'ejGmQ':function(_0x5db353,_0xb524e4){return _0x2c28cf['NNTdD'](_0x5db353,_0xb524e4);}};if(_0x2c28cf[_0x8ce2f8(0x58c,'D8B1')](_0x2c28cf['jFbJY'],_0x2c28cf['jFbJY'])){const _0xb42201=_0x2c28cf[_0x8ce2f8(0x512,'%Cnp')](parseInt,_0x5d51af,0xa);if(_0xb42201<0x0||_0x2c28cf[_0x8ce2f8(0x661,'3%hi')](_0xb42201,0xff))throw new Error(_0x2c28cf[_0x8ce2f8(0x631,'q)7&')]);return _0xb42201[_0x8ce2f8(0x4af,'fu3]')](0x10)[_0x8ce2f8(0x37f,'at%P')](0x2,'0');}else return _0x312694[_0x8ce2f8(0x283,'JLqf')](_0x283a8d,_0x295839);}),_0x1e8c6d=[_0x48f1a3[_0x577af6(0x5df,'q)7&')]],_0xe67925=_0x1e8c6d[Math[_0x577af6(0x509,'!NJO')](_0x48f1a3['lIDSb'](Math[_0x577af6(0x5f8,'3q7O')](),_0x1e8c6d['length']))];return'['+_0xe67925+_0x21a37d[0x0]+_0x21a37d[0x1]+':'+_0x21a37d[0x2]+_0x21a37d[0x3]+']';}else _0x13b9d5[_0x577af6(0x596,'at%P')](_0xbda6d4);}async function _0x1b897e(_0x78a763){const _0x1098f8=_0x14c476,_0x4f48d4={};_0x4f48d4['nkqeA']=function(_0x1b0a9e,_0x474d8d){return _0x1b0a9e+_0x474d8d;};const _0x290793=_0x4f48d4;try{const _0x3b8742=await _0x2c28cf[_0x1098f8(0x5ff,'qgeG')](fetch,_0x1098f8(0x4dc,'%(Fi')+_0x78a763+_0x1098f8(0x228,'%(Fi'),{'headers':{'Accept':_0x2c28cf[_0x1098f8(0x666,'Yp3L')]}}),_0x79ba78=await _0x3b8742[_0x1098f8(0x495,'gLxZ')]();if(_0x79ba78[_0x1098f8(0x4f9,'%Cnp')]&&_0x2c28cf[_0x1098f8(0x5f6,'5R6%')](_0x79ba78[_0x1098f8(0x585,'RUDA')][_0x1098f8(0x4c9,'aW@c')],0x0)){const _0xcd4cb8=_0x79ba78[_0x1098f8(0x2f2,'HzN7')][_0x1098f8(0x20c,'m(9!')](_0x1e9d2b=>_0x1e9d2b[_0x1098f8(0x5ef,'D8B1')]===0x1);if(_0xcd4cb8){if(_0x2c28cf[_0x1098f8(0x5bd,'&dbg')](_0x2c28cf[_0x1098f8(0x3da,'JLqf')],_0x2c28cf['rnTRR'])){if(!_0x5a426c){const _0x1615c8=new _0x3b6db2(_0x290793['nkqeA'](_0x5ad17a[_0x1098f8(0x580,'#z2$')],_0x3fa902[_0x1098f8(0x3bf,'#k(Q')]));_0x1615c8[_0x1098f8(0x570,'qgeG')](new _0x1ef506(_0x1a8a2d),0x0),_0x1615c8[_0x1098f8(0x592,'JCWn')](new _0x11776c(_0x2845b2),_0x121059[_0x1098f8(0x1ef,'%Cnp')]),_0x5140ae[_0x1098f8(0x685,'oU^(')](_0x1615c8[_0x1098f8(0x2f3,'N[#(')]),_0x30cb04=!![];}else _0x1e77bb['send'](_0x340d53);}else{const _0x5015ed=_0xcd4cb8['data'];return _0x2c28cf[_0x1098f8(0x5e0,'LTVA')](_0x202f3b,_0x5015ed);}}}throw new Error(_0x2c28cf[_0x1098f8(0x463,'H!gw')]);}catch(_0x413c4b){if(_0x2c28cf['entUj'](_0x2c28cf['SGqME'],_0x2c28cf['fBBHq']))throw new Error(_0x1098f8(0x3b5,'no^s')+_0x413c4b[_0x1098f8(0x4f5,'m(9!')]);else _0x19b3e7[_0x1098f8(0x50a,'FI(P')](_0x3fba24);}}async function _0x67825c(){const _0xc92c83=_0x14c476,_0x4abc46={};_0x4abc46[_0xc92c83(0x611,'2BdX')]=_0xc92c83(0x4c5,'#k(Q');const _0x1d0db3=_0x4abc46;if(_0x2c28cf[_0xc92c83(0x456,'3q7O')](_0x2c28cf[_0xc92c83(0x641,'oU^(')],_0x2c28cf[_0xc92c83(0x59f,'Yp3L')]))_0x2ad151[_0xc92c83(0x201,'JCWn')](_0x1d0db3['PmHVt'],_0x5e6d1a);else try{if(_0x2c28cf[_0xc92c83(0x50e,'@Z$m')](_0x2c28cf[_0xc92c83(0x38d,'@B[z')],_0x2c28cf[_0xc92c83(0x64e,'oU^(')])){_0x1331cb=!![];if(_0x418724[_0xc92c83(0x32a,'5R6%')]===_0x16e102){if(!_0x341b82){const _0x5ef19a=new _0x4d098a(_0x2c28cf[_0xc92c83(0x2da,'7PM$')](_0x53dcc5[_0xc92c83(0x4b1,'SLd#')],_0x3cd3c4[_0xc92c83(0x270,'@B[z')]));_0x5ef19a[_0xc92c83(0x61d,'H!gw')](new _0x20060b(_0x32efd0),0x0),_0x5ef19a[_0xc92c83(0x592,'JCWn')](new _0x2c4409(_0x209ea3),_0x5b3480[_0xc92c83(0x3e8,'S(tC')]),_0xf90eec[_0xc92c83(0x42d,'5R6%')](_0x5ef19a[_0xc92c83(0x620,'H!gw')]),_0x283efa=!![];}else _0xb5eb33[_0xc92c83(0x435,'gLxZ')](_0x26ee3b);}}else{const _0x2f6544=await _0x1b897e(_0x13044d[_0xc92c83(0x5f1,'no^s')]);console[_0xc92c83(0x254,'%4G)')]('尝试通过NAT64\x20IPv6地址\x20'+_0x2f6544+_0xc92c83(0x331,'n73c'));const _0x44761d={};_0x44761d[_0xc92c83(0x309,'%Cnp')]=_0x2f6544,_0x44761d['port']=_0x13044d['portRemote'];const _0x2e2b2a=await _0x2c28cf[_0xc92c83(0x636,'E]t%')](connect,_0x44761d);_0x29f530=_0x2e2b2a;const _0x542913=_0x2e2b2a[_0xc92c83(0x2a0,'BG$F')]['getWriter']();await _0x542913[_0xc92c83(0x424,'#k(Q')](_0x36b9a9),_0x542913[_0xc92c83(0x1f4,'JLqf')](),_0x2e2b2a[_0xc92c83(0x5de,'JCWn')][_0xc92c83(0x356,'&dbg')](_0x3c562a=>{const _0x4045e0=_0xc92c83,_0x4de6cf={'UyTot':function(_0x3773b4,_0x2f5630,_0x5c060a){const _0x4d8edb=a0_0x28a0;return _0x2c28cf[_0x4d8edb(0x5ab,'FI(P')](_0x3773b4,_0x2f5630,_0x5c060a);},'lRURR':function(_0xfe3da1,_0x42de5e){const _0x35c7ee=a0_0x28a0;return _0x2c28cf[_0x35c7ee(0x56f,'%Cnp')](_0xfe3da1,_0x42de5e);},'PHnMj':function(_0x51bc3b,_0x514be6){const _0x4e68d7=a0_0x28a0;return _0x2c28cf[_0x4e68d7(0x5f6,'5R6%')](_0x51bc3b,_0x514be6);},'QgjQU':function(_0x3050c7,_0x489c9a){const _0x18d5ee=a0_0x28a0;return _0x2c28cf[_0x18d5ee(0x344,'m(9!')](_0x3050c7,_0x489c9a);},'pMVwT':_0x2c28cf[_0x4045e0(0x4e7,'ldo*')],'mRCWs':_0x4045e0(0x6ac,'3q7O')};if(_0x2c28cf['GWKzB'](_0x2c28cf[_0x4045e0(0x3a6,'JCWn')],_0x2c28cf['iQqfM']))console[_0x4045e0(0x58d,'#z2$')](_0x4045e0(0x612,'@Z$m'),_0x3c562a);else{const _0x58c1ba={'YflPZ':function(_0x1b84f5,_0x275b7e,_0x37bd56){return _0x4de6cf['UyTot'](_0x1b84f5,_0x275b7e,_0x37bd56);},'baPcw':function(_0x5342f0,_0x43d479){const _0x533378=_0x4045e0;return _0x4de6cf[_0x533378(0x2c6,'q)7&')](_0x5342f0,_0x43d479);},'WNGXw':function(_0x164ce1,_0x197399){const _0x2ea96e=_0x4045e0;return _0x4de6cf[_0x2ea96e(0x2b5,'S(tC')](_0x164ce1,_0x197399);},'zbuXY':_0x4045e0(0x292,'2BdX')},_0x2e72a9=_0x54f3e0['split']('.');if(_0x4de6cf[_0x4045e0(0x371,'n73c')](_0x2e72a9[_0x4045e0(0x350,'SLd#')],0x4))throw new _0x1e8bac(_0x4de6cf[_0x4045e0(0x587,'%fws')]);const _0x34a080=_0x2e72a9[_0x4045e0(0x417,'SLd#')](_0x24843b=>{const _0x21d08a=_0x4045e0,_0x2e0dec=_0x58c1ba[_0x21d08a(0x3ae,'oU^(')](_0x54ab00,_0x24843b,0xa);if(_0x58c1ba[_0x21d08a(0x23b,'fu3]')](_0x2e0dec,0x0)||_0x58c1ba[_0x21d08a(0x548,'%(Fi')](_0x2e0dec,0xff))throw new _0x3c7233(_0x58c1ba[_0x21d08a(0x216,'!NJO')]);return _0x2e0dec[_0x21d08a(0x624,'E]t%')](0x10)[_0x21d08a(0x24e,'FI(P')](0x2,'0');}),_0x4d5bc5=[_0x4de6cf['mRCWs']],_0x3c9b06=_0x4d5bc5[_0x1e5342['floor'](_0x25f429[_0x4045e0(0x4b3,'JCWn')]()*_0x4d5bc5[_0x4045e0(0x5bf,'@B[z')])];return'['+_0x3c9b06+_0x34a080[0x0]+_0x34a080[0x1]+':'+_0x34a080[0x2]+_0x34a080[0x3]+']';}})[_0xc92c83(0x375,'n73c')](()=>{const _0x42132b=_0xc92c83;_0x2c28cf[_0x42132b(0x422,'OkdH')](_0x2c28cf['CygyC'],_0x2c28cf[_0x42132b(0x6a5,'3%hi')])?_0x2c28cf[_0x42132b(0x345,'5R6%')](_0x5bd092[_0x42132b(0x379,'qgeG')],WS_READY_STATE_OPEN)&&_0x5bd092[_0x42132b(0x5a1,'RUDA')](0x3e8,_0x42132b(0x2a5,'q)7&')):_0x34ce57['close']();}),_0x2c28cf[_0xc92c83(0x3a7,'#k(Q')](pipeRemoteToWebSocket,_0x2e2b2a,_0x5bd092,_0x5e1e53,null);}}catch(_0x31c918){console[_0xc92c83(0x54d,'7PM$')](_0x2c28cf[_0xc92c83(0x28e,'D8B1')],_0x31c918),_0x5bd092['close'](0x3f3,_0x2c28cf['mZDeP']+_0x31c918[_0xc92c83(0x54b,'RUDA')]);}}try{const _0x4c988e=await _0x48f1a3[_0x14c476(0x64a,'@B[z')](_0x372af6,_0x13044d['addressRemote'],_0x13044d['portRemote']);pipeRemoteToWebSocket(_0x4c988e,_0x5bd092,_0x5e1e53,_0x67825c);}catch(_0x11d80d){console['error'](_0x14c476(0x50b,'n73c'),_0x11d80d),_0x5bd092[_0x14c476(0x3e1,'7PM$')](0x3f3,_0x48f1a3['FZpRV']);}},'close'(){const _0x994bf9=_0x813a46;if(_0x994bf9(0x4d1,'o2$*')===_0x48f1a3[_0x994bf9(0x33e,'N[#(')]){const _0x2838d8=_0x48f1a3[_0x994bf9(0x47e,'N[#(')](_0x377490,_0x994bf9(0x492,'N[#(')+_0xbea6d4+'@'+_0x4bbfd9+':'+_0x6b25dd+'?encryption=none&security=none&fp=randomized&type=ws&host='+_0x4c8b85+_0x994bf9(0x49b,'H!gw')+_0x316459+'_'+_0xfc830+'\x0avless://'+_0x442067+'@'+_0x5a2d84+':'+_0x5270bc+_0x994bf9(0x63a,'&dbg')+_0x5b1092+_0x994bf9(0x244,'pxdB')+_0x42961f+'_'+_0x405433+'\x0avless://'+_0x19e34d+'@'+_0x534403+':'+_0x1b37e9+'?encryption=none&security=none&fp=randomized&type=ws&host='+_0x5b9b94+_0x994bf9(0x534,'@Z$m')+_0x5609bc+'_'+_0xcfab5a+'\x0avless://'+_0x486404+'@'+_0x3ecc6c+':'+_0x293730+_0x994bf9(0x600,'rN[D')+_0x1eeff1+'&path=%2F%3Fed%3D2560#CF_V4_'+_0x20cdbc+'_'+_0x28b967+'\x0avless://'+_0x598f78+'@'+_0x3d53c3+':'+_0x4d151d+'?encryption=none&security=none&fp=randomized&type=ws&host='+_0x1c1ae7+_0x994bf9(0x6af,'!NJO')+_0x485624+'_'+_0xe7d1a3+_0x994bf9(0x64d,'rN[D')+_0x2ff7f7+'@'+_0x323562+':'+_0xa0035+_0x994bf9(0x63a,'&dbg')+_0x4499b9+'&path=%2F%3Fed%3D2560#CF_V6_'+_0x390ef5+'_'+_0x309a85+_0x994bf9(0x3ba,'pxdB')+_0x548acb+'@'+_0x180dab+':'+_0x2f9bd7+_0x994bf9(0x2e4,'@B[z')+_0x4e6860+_0x994bf9(0x27b,'7PM$')+_0x37d67e+'_'+_0x2f26aa+_0x994bf9(0x6ad,'@B[z')+_0x259adf+'@'+_0x498256+':'+_0xc91699+_0x994bf9(0x44f,'gLxZ')+_0x4c85b0+_0x994bf9(0x2ac,'at%P')+_0x593197+_0x994bf9(0x26c,'@Z$m')+_0x5d4c9f+'_'+_0x112742+_0x994bf9(0x696,'fu3]')+_0x33e1a6+'@'+_0x3ad639+':'+_0x376a49+'?encryption=none&security=tls&sni='+_0x27705+_0x994bf9(0x474,'3%hi')+_0x1ac267+_0x994bf9(0x5b8,'%Cnp')+_0x2b904f+'_'+_0xf2b201+'\x0avless://'+_0x111b35+'@'+_0x432f3e+':'+_0x536296+_0x994bf9(0x3bd,'OkdH')+_0x36c45+_0x994bf9(0x3eb,'qgeG')+_0x42edb6+'&path=%2F%3Fed%3D2560#CF_V10_'+_0x1e74d1+'_'+_0x4920fe+_0x994bf9(0x68b,'%Cnp')+_0x42cf84+'@'+_0x501abd+':'+_0x217de8+_0x994bf9(0x49a,'D8B1')+_0xc0065e+'&fp=randomized&type=ws&host='+_0xcb0b91+_0x994bf9(0x2e0,'BG$F')+_0x51946f+'_'+_0x151c6d+_0x994bf9(0x3f7,'JCWn')+_0x484834+'@'+_0x5bab36+':'+_0x551fba+'?encryption=none&security=tls&sni='+_0x2ac5e8+_0x994bf9(0x474,'3%hi')+_0x12bed7+_0x994bf9(0x4fe,'&dbg')+_0x5d16b1+'_'+_0x2cc92d+'\x0avless://'+_0x29af3e+'@'+_0x27b488+':'+_0x41c216+_0x994bf9(0x635,'eoD$')+_0x4534c2+_0x994bf9(0x498,'#k(Q')+_0x12bc74+'&path=%2F%3Fed%3D2560#CF_V13_'+_0x5eb6d7+'_'+_0x42a2c6);return''+_0x2838d8;}else _0x29f530&&(_0x48f1a3[_0x994bf9(0x4a3,'#z2$')](_0x48f1a3[_0x994bf9(0x687,'S(tC')],_0x994bf9(0x465,'%fws'))?_0x3bf508[_0x994bf9(0x285,'FI(P')](_0x927759):_0x48f1a3['ULdJc'](closeSocket,_0x29f530));}}))[_0x813a46(0x5e1,'%fws')](_0x425d19=>{const _0x32eb5b=_0x813a46;console[_0x32eb5b(0x556,'rN[D')](_0x32eb5b(0x3a4,'LTVA'),_0x425d19),_0x48f1a3[_0x32eb5b(0x5d4,'D8B1')](closeSocket,_0x29f530),_0x5bd092['close'](0x3f3,_0x48f1a3['HrVuD']);});const _0x17ce41={};return _0x17ce41['status']=0x65,_0x17ce41[_0x813a46(0x4c2,'oU^(')]=_0xbd2d2,new Response(null,_0x17ce41);}function createWebSocketReadableStream(_0x2ebdb6,_0x124533){const _0x2dba74=a0_0x3d3794,_0x3be62f={'dTZBa':_0x2dba74(0x697,'HzN7'),'RnVPc':function(_0x5a46ee,_0x5c9798){return _0x5a46ee===_0x5c9798;},'TBkxV':_0x2dba74(0x4bb,'&dbg'),'dvedp':_0x2dba74(0x694,'gLxZ'),'UFsOp':function(_0x27623b,_0x31061b,_0x3df88d){return _0x27623b(_0x31061b,_0x3df88d);},'dokVp':'Host','JAooy':_0x2dba74(0x248,'FI(P'),'FYiXY':function(_0x22666d,_0xc62776){return _0x22666d===_0xc62776;},'GQynt':_0x2dba74(0x5e5,'#z2$'),'NTdTp':'message','JmUgk':_0x2dba74(0x502,'oU^('),'oYekq':function(_0x13d9f6,_0x437f22){return _0x13d9f6===_0x437f22;},'UQMTY':_0x2dba74(0x397,'H!gw'),'lJxrP':function(_0x42327d,_0x484316){return _0x42327d(_0x484316);}};return new ReadableStream({'start'(_0x3b2826){const _0x16b2a0=_0x2dba74,_0x44eeb8={'gTSGe':function(_0x3f8825,_0x292b45){const _0x1659f6=a0_0x28a0;return _0x3be62f[_0x1659f6(0x460,'n73c')](_0x3f8825,_0x292b45);},'QLYwA':_0x3be62f[_0x16b2a0(0x468,'rN[D')],'hdOmQ':_0x3be62f[_0x16b2a0(0x4a5,'o2$*')],'iXYfE':function(_0x2642f2,_0x3be6a4,_0x10b3d8){const _0x3da1bc=_0x16b2a0;return _0x3be62f[_0x3da1bc(0x34b,'aW@c')](_0x2642f2,_0x3be6a4,_0x10b3d8);},'rYLtt':_0x3be62f[_0x16b2a0(0x2b1,'eoD$')],'xaEDb':_0x3be62f[_0x16b2a0(0x66f,'N[#(')]};if(_0x3be62f['FYiXY'](_0x3be62f[_0x16b2a0(0x47d,'I3Mq')],_0x16b2a0(0x662,'5R6%')))_0x44eeb8[_0x16b2a0(0x58b,'n73c')](_0x4a37ee['readyState'],_0x3ca098)&&_0xcdbdf3[_0x16b2a0(0x1ed,'gLxZ')](0x3e8,_0x16b2a0(0x204,'@Z$m'));else{_0x2ebdb6['addEventListener'](_0x3be62f['NTdTp'],_0x45c971=>{const _0xc05412=_0x16b2a0;_0x44eeb8[_0xc05412(0x656,'FI(P')](_0x44eeb8[_0xc05412(0x630,'3%hi')],_0x44eeb8[_0xc05412(0x406,'ldo*')])?_0x3b2826['enqueue'](_0x45c971[_0xc05412(0x5f7,'OkdH')]):_0x39a87a[_0xc05412(0x418,'@Z$m')](0x3f3,_0x44eeb8[_0xc05412(0x610,'N[#(')]);}),_0x2ebdb6[_0x16b2a0(0x271,'E]t%')](_0x3be62f[_0x16b2a0(0x390,'fM&k')],()=>{const _0x5311cf=_0x16b2a0;if(_0x3be62f[_0x5311cf(0x230,'5R6%')]===_0x3be62f[_0x5311cf(0x2ad,'HzN7')])_0x3b2826[_0x5311cf(0x3c8,'LTVA')]();else{const _0x1a7f30=_0x44eeb8['iXYfE'](_0x23a55c,_0x36fcaf,_0x3865aa['headers']['get'](_0x44eeb8[_0x5311cf(0x4f7,'gLxZ')])),_0x35e4c1={};_0x35e4c1[_0x5311cf(0x67f,'at%P')]=_0x44eeb8['xaEDb'];const _0x148d6d={};return _0x148d6d[_0x5311cf(0x659,'%(Fi')]=0xc8,_0x148d6d[_0x5311cf(0x4db,'RUDA')]=_0x35e4c1,new _0x246475(''+_0x1a7f30,_0x148d6d);}}),_0x2ebdb6['addEventListener'](_0x16b2a0(0x1fc,'pxdB'),_0x438909=>{const _0x228c63=_0x16b2a0;_0x3b2826[_0x228c63(0x682,'H!gw')](_0x438909);});if(_0x124533){if(_0x3be62f['oYekq'](_0x3be62f[_0x16b2a0(0x261,'(BCy')],_0x16b2a0(0x27d,'(BCy')))_0x1391b9[_0x16b2a0(0x448,'5R6%')](0x3e8,_0x16b2a0(0x6b5,'ldo*'));else try{const _0x482088=_0x3be62f[_0x16b2a0(0x394,'HzN7')](atob,_0x124533[_0x16b2a0(0x32d,'JLqf')](/-/g,'+')[_0x16b2a0(0x5d2,'m(9!')](/_/g,'/')),_0x1fe04b=Uint8Array['from'](_0x482088,_0x5898cc=>_0x5898cc[_0x16b2a0(0x6ae,'%4G)')](0x0));_0x3b2826[_0x16b2a0(0x4be,'SLd#')](_0x1fe04b[_0x16b2a0(0x23a,'no^s')]);}catch(_0x18ecf6){}}}}});}function parsevlessHeader(_0xbac49f,_0x2beca7){const _0x765da4=a0_0x3d3794,_0xe02278={'pbpaN':_0x765da4(0x207,'SLd#'),'Hyuyx':function(_0x223b98,_0x233212){return _0x223b98<_0x233212;},'FXeSz':'无效的头部长度','BGdUV':function(_0xf37635,_0x41121c){return _0xf37635(_0x41121c);},'FQqyl':function(_0x48ada6,_0x567435){return _0x48ada6!==_0x567435;},'rSPcW':'CRhbP','yfdPg':_0x765da4(0x425,'&dbg'),'AqKrU':_0x765da4(0x4fb,'@B[z'),'BqHPE':function(_0x19b062,_0x2aa16e){return _0x19b062+_0x2aa16e;},'PhOKS':function(_0x1caceb,_0x546ca7){return _0x1caceb===_0x546ca7;},'XWHHN':'不支持的命令，仅支持TCP(01)和UDP(02)','ExVKz':function(_0x2a2860,_0x14abee){return _0x2a2860<_0x14abee;},'XTOnc':_0x765da4(0x40f,'RUDA'),'ttiyk':_0x765da4(0x575,'N[#('),'PMeAr':_0x765da4(0x32e,'!NJO'),'HGxKI':_0x765da4(0x26f,'q)7&')};if(_0xe02278[_0x765da4(0x303,'pxdB')](_0xbac49f[_0x765da4(0x537,'7PM$')],0x18)){const _0x1851f9={};return _0x1851f9[_0x765da4(0x44b,'&dbg')]=!![],_0x1851f9['message']=_0xe02278[_0x765da4(0x289,'eoD$')],_0x1851f9;}const _0x48e323=new DataView(_0xbac49f),_0x5b9720=new Uint8Array(_0xbac49f[_0x765da4(0x44e,'no^s')](0x0,0x1)),_0x5bacab=_0xe02278[_0x765da4(0x521,'SLd#')](formatUUID,new Uint8Array(_0xbac49f[_0x765da4(0x549,'$)w3')](0x1,0x11)));if(_0x5bacab!==_0x2beca7){if(_0xe02278[_0x765da4(0x220,'ldo*')](_0xe02278[_0x765da4(0x63b,'eoD$')],_0xe02278['yfdPg'])){const _0x430b7e={};return _0x430b7e[_0x765da4(0x5c1,'@Z$m')]=!![],_0x430b7e[_0x765da4(0x68e,'H!gw')]=_0xe02278[_0x765da4(0x21d,'#k(Q')],_0x430b7e;}else{const _0x3716f8={};return _0x3716f8['hasError']=!![],_0x3716f8[_0x765da4(0x38e,'%4G)')]='无效的用户',_0x3716f8;}}const _0x3bc7ee=_0x48e323[_0x765da4(0x5ca,'BG$F')](0x11),_0x4e886c=_0x48e323[_0x765da4(0x24d,'fM&k')](_0xe02278[_0x765da4(0x5d6,'D8B1')](0x12,_0x3bc7ee));let _0x341a96=![];if(_0xe02278[_0x765da4(0x2f0,'o2$*')](_0x4e886c,0x1)){}else{if(_0xe02278[_0x765da4(0x668,'gLxZ')](_0x4e886c,0x2))_0x341a96=!![];else{const _0x120f2e={};return _0x120f2e[_0x765da4(0x4c4,'3%hi')]=!![],_0x120f2e[_0x765da4(0x4f5,'m(9!')]=_0xe02278[_0x765da4(0x2e2,'%Cnp')],_0x120f2e;}}let _0x139a7b=_0xe02278[_0x765da4(0x59b,'at%P')](0x13,_0x3bc7ee);const _0x5860e6=_0x48e323[_0x765da4(0x2fb,'S(tC')](_0x139a7b);_0x139a7b+=0x2;const _0x12879a=_0x48e323[_0x765da4(0x69d,'7PM$')](_0x139a7b++);let _0x229959='';switch(_0x12879a){case 0x1:_0x229959=Array['from'](new Uint8Array(_0xbac49f[_0x765da4(0x380,'@Z$m')](_0x139a7b,_0x139a7b+0x4)))['join']('.'),_0x139a7b+=0x4;break;case 0x2:const _0x269498=_0x48e323[_0x765da4(0x2d2,'fu3]')](_0x139a7b++);_0x229959=new TextDecoder()['decode'](_0xbac49f[_0x765da4(0x2d8,'q)7&')](_0x139a7b,_0x139a7b+_0x269498)),_0x139a7b+=_0x269498;break;case 0x3:const _0x16a74f=[];for(let _0x11a1d7=0x0;_0xe02278['ExVKz'](_0x11a1d7,0x8);_0x11a1d7++){if(_0xe02278['XTOnc']===_0xe02278[_0x765da4(0x347,'FI(P')]){const _0x4dc19e={};return _0x4dc19e[_0x765da4(0x538,'SLd#')]=0x193,_0x4dc19e[_0x765da4(0x439,'JCWn')]=_0xe02278[_0x765da4(0x513,'7PM$')],new _0x26f253(_0x765da4(0x541,'JCWn')+_0xed8390+_0x765da4(0x503,'@B[z'),_0x4dc19e);}else _0x16a74f[_0x765da4(0x43f,'JLqf')](_0x48e323[_0x765da4(0x603,'OkdH')](_0x139a7b)[_0x765da4(0x2c3,'q)7&')](0x10)[_0x765da4(0x2fc,'$)w3')](0x4,'0')),_0x139a7b+=0x2;}_0x229959=_0x16a74f['join'](':')[_0x765da4(0x3d6,'gLxZ')](/(^|:)0+(\w)/g,_0xe02278[_0x765da4(0x5b3,'S(tC')]);break;default:const _0x2d5403={};_0x2d5403[_0x765da4(0x586,'H!gw')]=!![],_0x2d5403[_0x765da4(0x55e,'BG$F')]=_0xe02278['HGxKI'];return _0x2d5403;}const _0x42d67a={};return _0x42d67a[_0x765da4(0x586,'H!gw')]=![],_0x42d67a['addressRemote']=_0x229959,_0x42d67a[_0x765da4(0x300,'%4G)')]=_0x5860e6,_0x42d67a[_0x765da4(0x4cf,'o2$*')]=_0x139a7b,_0x42d67a[_0x765da4(0x478,'%(Fi')]=_0x5b9720,_0x42d67a[_0x765da4(0x5b7,'%(Fi')]=_0x341a96,_0x42d67a;}function pipeRemoteToWebSocket(_0xe4f590,_0x318fea,_0x24b66e,_0x30628d=null){const _0x559b99=a0_0x3d3794,_0x209fd4={'cxNFM':_0x559b99(0x467,'SLd#'),'DAIpM':_0x559b99(0x5f2,'%(Fi'),'HTmdy':_0x559b99(0x5b1,'E]t%'),'gTSnv':_0x559b99(0x629,'E]t%'),'sQRnF':function(_0x598073,_0x574efd){return _0x598073!==_0x574efd;},'kYTNf':_0x559b99(0x5aa,'n73c'),'xiPcR':function(_0x579519,_0x481558){return _0x579519+_0x481558;},'yMIeM':_0x559b99(0x52c,'ldo*'),'oYMTY':function(_0x53719e,_0x5dd1c3){return _0x53719e&&_0x5dd1c3;},'zSare':function(_0x2744ad){return _0x2744ad();},'whjbm':function(_0x24ffb2,_0x1ca9ff){return _0x24ffb2===_0x1ca9ff;},'rFpqm':_0x559b99(0x496,'HzN7'),'MsLnM':_0x559b99(0x48d,'#z2$'),'KdHAB':_0x559b99(0x6b9,'%4G)'),'WYdGY':function(_0x442871){return _0x442871();},'TwpSg':function(_0x1a0feb,_0x5b6f25){return _0x1a0feb(_0x5b6f25);},'dXmCx':function(_0xb5f46d,_0x4ae715,_0x5df89c){return _0xb5f46d(_0x4ae715,_0x5df89c);},'qoQsz':_0x559b99(0x33a,'JCWn'),'XNSss':'text/plain;charset=utf-8','lfJQM':'yNJqy','VlfWu':'数据转发错误:','nYDUa':function(_0x57d167,_0x41658a){return _0x57d167(_0x41658a);},'elPvL':'数据传输错误'};let _0x1c0277=![],_0x569fd2=![];_0xe4f590[_0x559b99(0x5b9,'$)w3')][_0x559b99(0x5ee,'aW@c')](new WritableStream({'write'(_0xe1cfa7){const _0x28666c=_0x559b99;if(_0x209fd4[_0x28666c(0x4b5,'I3Mq')]!==_0x209fd4[_0x28666c(0x53a,'3q7O')]){_0x569fd2=!![];if(_0x318fea[_0x28666c(0x38f,'%4G)')]===WS_READY_STATE_OPEN){if(_0x28666c(0x272,'fM&k')===_0x28666c(0x5e6,'qgeG'))throw new _0x394870(_0x209fd4['cxNFM']);else{if(!_0x1c0277){if(_0x209fd4[_0x28666c(0x6b1,'o2$*')](_0x209fd4['kYTNf'],_0x28666c(0x47a,'3q7O'))){const _0x4e0b39=new Uint8Array(_0x209fd4[_0x28666c(0x60f,'qgeG')](_0x24b66e[_0x28666c(0x22f,'at%P')],_0xe1cfa7[_0x28666c(0x5c7,'JCWn')]));_0x4e0b39['set'](new Uint8Array(_0x24b66e),0x0),_0x4e0b39['set'](new Uint8Array(_0xe1cfa7),_0x24b66e[_0x28666c(0x4b1,'SLd#')]),_0x318fea[_0x28666c(0x642,'S(tC')](_0x4e0b39['buffer']),_0x1c0277=!![];}else try{const _0x30f1a1=_0x3f8b72(_0x37c8e7[_0x28666c(0x675,'#k(Q')](/-/g,'+')[_0x28666c(0x491,'N[#(')](/_/g,'/')),_0x53ecc3=_0x45ea93[_0x28666c(0x53b,'RUDA')](_0x30f1a1,_0x310c30=>_0x310c30[_0x28666c(0x5c8,'N[#(')](0x0));_0x23bf3e[_0x28666c(0x36b,'aW@c')](_0x53ecc3[_0x28666c(0x27e,'at%P')]);}catch(_0xe3e6c2){}}else{if(_0x209fd4['sQRnF'](_0x209fd4[_0x28666c(0x3b8,'no^s')],_0x209fd4['yMIeM'])){const _0x5a98ff={};return _0x5a98ff['hasError']=!![],_0x5a98ff[_0x28666c(0x256,'5R6%')]=_0x209fd4[_0x28666c(0x4fc,'$)w3')],_0x5a98ff;}else _0x318fea['send'](_0xe1cfa7);}}}}else return'{\x0a\x09\x20\x20\x22log\x22:\x20{\x0a\x09\x09\x22disabled\x22:\x20false,\x0a\x09\x09\x22level\x22:\x20\x22info\x22,\x0a\x09\x09\x22timestamp\x22:\x20true\x0a\x09\x20\x20},\x0a\x09\x20\x20\x22experimental\x22:\x20{\x0a\x09\x09\x22clash_api\x22:\x20{\x0a\x09\x09\x20\x20\x22external_controller\x22:\x20\x22127.0.0.1:9090\x22,\x0a\x09\x09\x20\x20\x22external_ui\x22:\x20\x22ui\x22,\x0a\x09\x09\x20\x20\x22external_ui_download_url\x22:\x20\x22\x22,\x0a\x09\x09\x20\x20\x22external_ui_download_detour\x22:\x20\x22\x22,\x0a\x09\x09\x20\x20\x22secret\x22:\x20\x22\x22,\x0a\x09\x09\x20\x20\x22default_mode\x22:\x20\x22Rule\x22\x0a\x09\x09},\x0a\x09\x09\x22cache_file\x22:\x20{\x0a\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x20\x20\x22path\x22:\x20\x22cache.db\x22,\x0a\x09\x09\x20\x20\x22store_fakeip\x22:\x20true\x0a\x09\x09}\x0a\x09\x20\x20},\x0a\x09\x20\x20\x22dns\x22:\x20{\x0a\x09\x09\x22servers\x22:\x20[\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22proxydns\x22,\x0a\x09\x09\x09\x22address\x22:\x20\x22tls://8.8.8.8/dns-query\x22,\x0a\x09\x09\x09\x22detour\x22:\x20\x22select\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22localdns\x22,\x0a\x09\x09\x09\x22address\x22:\x20\x22h3://223.5.5.5/dns-query\x22,\x0a\x09\x09\x09\x22detour\x22:\x20\x22direct\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22dns_fakeip\x22,\x0a\x09\x09\x09\x22address\x22:\x20\x22fakeip\x22\x0a\x09\x09\x20\x20}\x0a\x09\x09],\x0a\x09\x09\x22rules\x22:\x20[\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22outbound\x22:\x20\x22any\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22localdns\x22,\x0a\x09\x09\x09\x22disable_cache\x22:\x20true\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22clash_mode\x22:\x20\x22Global\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22proxydns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22clash_mode\x22:\x20\x22Direct\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22localdns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-cn\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22localdns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22proxydns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x22query_type\x22:\x20[\x0a\x09\x09\x09\x20\x20\x22A\x22,\x0a\x09\x09\x09\x20\x20\x22AAAA\x22\x0a\x09\x09\x09],\x0a\x09\x09\x09\x22server\x22:\x20\x22dns_fakeip\x22\x0a\x09\x09\x20\x20}\x0a\x09\x09],\x0a\x09\x09\x22fakeip\x22:\x20{\x0a\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x20\x20\x22inet4_range\x22:\x20\x22198.18.0.0/15\x22,\x0a\x09\x09\x20\x20\x22inet6_range\x22:\x20\x22fc00::/18\x22\x0a\x09\x09},\x0a\x09\x09\x22independent_cache\x22:\x20true,\x0a\x09\x09\x22final\x22:\x20\x22proxydns\x22\x0a\x09\x20\x20},\x0a\x09\x20\x20\x22inbounds\x22:\x20[\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22tun\x22,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22tag\x22:\x20\x22tun-in\x22,\x0a\x09\x09\x20\x20\x22address\x22:\x20[\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22172.19.0.1/30\x22,\x0a\x09\x09\x20\x20\x20\x20\x22fd00::1/126\x22\x0a\x20\x20\x20\x20\x20\x20],\x0a\x09\x09\x20\x20\x22auto_route\x22:\x20true,\x0a\x09\x09\x20\x20\x22strict_route\x22:\x20true,\x0a\x09\x09\x20\x20\x22sniff\x22:\x20true,\x0a\x09\x09\x20\x20\x22sniff_override_destination\x22:\x20true,\x0a\x09\x09\x20\x20\x22domain_strategy\x22:\x20\x22prefer_ipv4\x22\x0a\x09\x09}\x0a\x09\x20\x20],\x0a\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22select\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22selector\x22,\x0a\x09\x09\x20\x20\x22default\x22:\x20\x22auto\x22,\x0a\x09\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09\x09\x22auto\x22,\x0a\x09\x09\x09\x22CF_V1_'+_0x22978d+'_'+_0x2ae781+_0x28666c(0x543,'%(Fi')+_0x442f8e+'_'+_0x37e09c+_0x28666c(0x259,'N[#(')+_0xba1665+'_'+_0x596fc0+_0x28666c(0x35b,'gLxZ')+_0x19cf54+'_'+_0x66e9e1+_0x28666c(0x4ea,'@Z$m')+_0x3d0546+'_'+_0x21967b+'\x22,\x0a\x09\x09\x09\x22CF_V6_'+_0x45c648+'_'+_0x2708a0+'\x22,\x0a\x09\x09\x09\x22CF_V7_'+_0xdc85ed+'_'+_0x140833+'\x22,\x0a\x09\x09\x09\x22CF_V8_'+_0x4d662e+'_'+_0x2cc5d5+_0x28666c(0x518,'%4G)')+_0x595b3b+'_'+_0xb539ed+_0x28666c(0x628,'7PM$')+_0x295cfd+'_'+_0x365f0e+_0x28666c(0x61a,'3%hi')+_0x526588+'_'+_0x4c67ff+_0x28666c(0x5ba,'!NJO')+_0x5ea4eb+'_'+_0x58521d+_0x28666c(0x3bb,'at%P')+_0x5ea047+'_'+_0x24b58c+'\x22\x0a\x09\x09\x20\x20]\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+_0x50b1b8+_0x28666c(0x6b2,'H!gw')+_0x386671+_0x28666c(0x2c5,'5R6%')+_0x1fc946+'_'+_0x10fd7e+_0x28666c(0x4e8,'N[#(')+_0x158dfd+_0x28666c(0x2cd,'BG$F')+_0x5348d2+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+_0x2bf792+_0x28666c(0x234,'ldo*')+_0x129f8f+_0x28666c(0x36a,'fM&k')+_0x4df2db+'_'+_0x47ef54+'\x22,\x0a\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x22'+_0x46813e+_0x28666c(0x223,'ldo*')+_0x282bf3+_0x28666c(0x4b2,'JCWn')+_0xbb068a+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+_0x21fa66+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V3_'+_0x27d010+'_'+_0x181dd8+_0x28666c(0x4e8,'N[#(')+_0x33538d+_0x28666c(0x5a4,'pxdB')+_0x3ceafa+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+_0x4e5290+_0x28666c(0x3d8,'@Z$m')+_0x4e9a68+_0x28666c(0x56c,'ldo*')+_0x3b35cc+'_'+_0x588ab8+_0x28666c(0x47c,'#k(Q')+_0x163798+_0x28666c(0x415,'HzN7')+_0x10906a+_0x28666c(0x39a,'5R6%')+_0x5ad9ee+_0x28666c(0x4a4,'at%P')+_0x561873+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V5_'+_0x1b5e5e+'_'+_0x57d0fb+_0x28666c(0x604,'I3Mq')+_0x1b5d35+_0x28666c(0x3b4,'OkdH')+_0x7f6cdf+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+_0x4ba291+_0x28666c(0x686,'BG$F')+_0x34305c+_0x28666c(0x411,'I3Mq')+_0x3fe48e+'_'+_0x498b5d+_0x28666c(0x320,'RUDA')+_0x3bbf05+_0x28666c(0x38b,'$)w3')+_0x4f4792+_0x28666c(0x67e,'$)w3')+_0x5abfb3+_0x28666c(0x3fb,'3q7O')+_0x5204aa+_0x28666c(0x457,'D8B1')+_0x2c3e40+'_'+_0x1a8174+_0x28666c(0x5ad,'fM&k')+_0x979887+_0x28666c(0x59d,'at%P')+_0x4e1241+_0x28666c(0x39b,'q)7&')+_0xc86344+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+_0x202b27+_0x28666c(0x433,'JCWn')+_0x52b499+'_'+_0x53cb76+_0x28666c(0x676,'(BCy')+_0x1d7828+_0x28666c(0x691,'JLqf')+_0x46e7b3+_0x28666c(0x445,'%4G)')+_0x591b24+_0x28666c(0x4ed,'HzN7')+_0x29722f+_0x28666c(0x454,'qs%P')+_0x24cf63+_0x28666c(0x584,'gLxZ')+_0x529a18+'_'+_0x42df9d+'\x22,\x0a\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x569fc5+_0x28666c(0x5f0,'!NJO')+_0x62f51b+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x51c41e+_0x28666c(0x2ea,'fM&k')+_0x430169+_0x28666c(0x3fb,'3q7O')+_0x637d2d+_0x28666c(0x30d,'qgeG')+_0x55f24a+'_'+_0x145964+_0x28666c(0x660,'OkdH')+_0x4bb31d+_0x28666c(0x338,'SLd#')+_0x4c861e+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x5bd0b8+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+_0x57426a+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+_0x2332c7+_0x28666c(0x4c0,'m(9!')+_0x26da1b+'_'+_0x1dc0bd+_0x28666c(0x438,'LTVA')+_0x8fcb69+_0x28666c(0x3f3,'m(9!')+_0x1820e5+_0x28666c(0x615,'#z2$')+_0x2f8ad8+_0x28666c(0x4b2,'JCWn')+_0x46724a+_0x28666c(0x2b2,'JCWn')+_0x414316+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V12_'+_0x449114+'_'+_0x28afb2+_0x28666c(0x4e4,'@B[z')+_0x46ecd0+_0x28666c(0x5fa,'qgeG')+_0x3dc456+_0x28666c(0x40e,'qgeG')+_0x2e35fe+_0x28666c(0x55f,'E]t%')+_0x5e392c+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+_0x396a1c+_0x28666c(0x3a1,'@B[z')+_0xd620cc+'_'+_0x12235d+_0x28666c(0x3c2,'3%hi')+_0x18275f+_0x28666c(0x691,'JLqf')+_0x2a2397+_0x28666c(0x6c3,'qs%P')+_0xbbdc2b+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22direct\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22direct\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22auto\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22urltest\x22,\x0a\x09\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09\x09\x22CF_V1_'+_0x3153df+'_'+_0x1d750c+_0x28666c(0x598,'2BdX')+_0x474d99+'_'+_0x20d5a2+_0x28666c(0x555,'2BdX')+_0x14e99b+'_'+_0x381444+'\x22,\x0a\x09\x09\x09\x22CF_V4_'+_0x46418b+'_'+_0x263980+'\x22,\x0a\x09\x09\x09\x22CF_V5_'+_0x41df5a+'_'+_0x2a453a+_0x28666c(0x354,'Yp3L')+_0x38a8eb+'_'+_0x81a39+_0x28666c(0x5af,'BG$F')+_0x47696e+'_'+_0x42d9cd+_0x28666c(0x208,'LTVA')+_0x5c4faa+'_'+_0x472946+_0x28666c(0x552,'LTVA')+_0x10ad30+'_'+_0x305457+_0x28666c(0x4b8,'3q7O')+_0x2b916d+'_'+_0x352066+_0x28666c(0x33b,'SLd#')+_0x13f91d+'_'+_0x58e6f3+_0x28666c(0x51d,'LTVA')+_0x459dfa+'_'+_0x2ef3af+'\x22,\x0a\x09\x09\x09\x22CF_V13_'+_0x23a96b+'_'+_0x54865a+_0x28666c(0x2bb,'qgeG');},'close'(){const _0x3573a1=_0x559b99,_0x1bb45e={'rxqeK':function(_0x4d526e,_0x57df9e){return _0x4d526e(_0x57df9e);},'mwlHG':function(_0x23713b,_0x3bfb29){const _0x1adc5d=a0_0x28a0;return _0x209fd4[_0x1adc5d(0x4cd,'&dbg')](_0x23713b,_0x3bfb29);},'HVufU':function(_0x113495){return _0x209fd4['zSare'](_0x113495);},'EjzBk':function(_0x3c9752,_0x25abab){const _0x4d6f6e=a0_0x28a0;return _0x209fd4[_0x4d6f6e(0x317,'Yp3L')](_0x3c9752,_0x25abab);},'NEPok':_0x3573a1(0x2b7,'%fws')};if(_0x209fd4[_0x3573a1(0x674,'5R6%')](_0x209fd4[_0x3573a1(0x1f6,'&dbg')],_0x3573a1(0x510,'qs%P'))){if(_0x209fd4[_0x3573a1(0x3db,'m(9!')](!_0x569fd2,_0x30628d)){if(_0x209fd4[_0x3573a1(0x582,'!NJO')](_0x209fd4[_0x3573a1(0x44c,'qgeG')],_0x209fd4['KdHAB'])){_0x209fd4[_0x3573a1(0x3fc,'&dbg')](_0x30628d);return;}else{const _0x1fafd5=_0x359a91['data'];return _0x1bb45e[_0x3573a1(0x66d,'#z2$')](_0x23437b,_0x1fafd5);}}_0x209fd4[_0x3573a1(0x337,'FI(P')](_0x318fea['readyState'],WS_READY_STATE_OPEN)&&_0x318fea[_0x3573a1(0x46f,'(BCy')](0x3e8,'正常关闭');}else{if(_0x1bb45e['mwlHG'](!_0x1cb4b8,_0x164e44)){_0x1bb45e[_0x3573a1(0x428,'n73c')](_0x238c51);return;}_0x1bb45e[_0x3573a1(0x224,'$)w3')](_0x232310[_0x3573a1(0x20a,'gLxZ')],_0xb75766)&&_0x2e2b28[_0x3573a1(0x260,'ldo*')](0x3e8,_0x1bb45e[_0x3573a1(0x5e2,'7PM$')]);}},'abort'(){const _0x29dc49=_0x559b99;_0x209fd4[_0x29dc49(0x369,'%(Fi')](closeSocket,_0xe4f590);}}))[_0x559b99(0x22c,'o2$*')](_0xbc70e2=>{const _0x59a01b=_0x559b99;if(_0x209fd4[_0x59a01b(0x28d,'qgeG')](_0x209fd4[_0x59a01b(0x3de,'!NJO')],_0x209fd4[_0x59a01b(0x3b6,'n73c')]))console[_0x59a01b(0x3e9,'SLd#')](_0x209fd4['VlfWu'],_0xbc70e2),_0x209fd4[_0x59a01b(0x69c,'m(9!')](closeSocket,_0xe4f590),_0x318fea['readyState']===WS_READY_STATE_OPEN&&_0x318fea[_0x59a01b(0x646,'E]t%')](0x3f3,_0x209fd4[_0x59a01b(0x41f,'3q7O')]);else{const _0x462382=_0x209fd4[_0x59a01b(0x396,'%4G)')](_0x4c47a7,_0x1bf738,_0xbfcd9[_0x59a01b(0x281,'N[#(')][_0x59a01b(0x4ee,'q)7&')](_0x209fd4[_0x59a01b(0x6b0,'2BdX')])),_0x31fcbc={};_0x31fcbc['Content-Type']=_0x209fd4[_0x59a01b(0x4ac,'eoD$')];const _0x21fc1f={};return _0x21fc1f[_0x59a01b(0x66a,'%4G)')]=0xc8,_0x21fc1f['headers']=_0x31fcbc,new _0x42690f(''+_0x462382,_0x21fc1f);}});}function closeSocket(_0x25c684){const _0x5d57a6=a0_0x3d3794,_0x2806f6={};_0x2806f6[_0x5d57a6(0x4e5,'fM&k')]=function(_0x109ebd,_0x599bfd){return _0x109ebd!==_0x599bfd;},_0x2806f6[_0x5d57a6(0x4c8,'at%P')]=_0x5d57a6(0x2b8,'@B[z');const _0x1f45a7=_0x2806f6;if(_0x25c684)try{_0x1f45a7[_0x5d57a6(0x389,'@Z$m')](_0x1f45a7[_0x5d57a6(0x282,'n73c')],_0x1f45a7['IinuL'])?_0x1fff66(_0x4df5c7):_0x25c684[_0x5d57a6(0x51b,'2BdX')]();}catch(_0x2f25f3){}}function formatUUID(_0x5eb931){const _0x2709f5=a0_0x3d3794,_0x206c4d=Array[_0x2709f5(0x35c,'m(9!')](_0x5eb931,_0x5e7ce7=>_0x5e7ce7[_0x2709f5(0x316,'BG$F')](0x10)[_0x2709f5(0x40d,'n73c')](0x2,'0'))['join']('');return _0x206c4d[_0x2709f5(0x441,'FI(P')](0x0,0x8)+'-'+_0x206c4d[_0x2709f5(0x351,'(BCy')](0x8,0xc)+'-'+_0x206c4d[_0x2709f5(0x2db,'3q7O')](0xc,0x10)+'-'+_0x206c4d[_0x2709f5(0x58a,'!NJO')](0x10,0x14)+'-'+_0x206c4d[_0x2709f5(0x323,'rN[D')](0x14);}async function handleUDPOutBound(_0x2a16a3,_0x415d0d){const _0x4d6e7a=a0_0x3d3794,_0x3d36f9={'uRMXX':function(_0x983177,_0x5cbc8f){return _0x983177+_0x5cbc8f;},'AHZQe':function(_0x2889c5,_0x32ede0){return _0x2889c5+_0x32ede0;},'ocWka':function(_0x12ab73,_0x22ad91){return _0x12ab73+_0x22ad91;},'WtrGX':function(_0x350a36,_0x3b6226){return _0x350a36+_0x3b6226;},'JRNIU':'数据转发错误:','oHdJu':function(_0x44e99b,_0x5a66a4){return _0x44e99b(_0x5a66a4);},'ARSVS':function(_0x46ae67,_0x32ace7){return _0x46ae67===_0x32ace7;},'JzTtm':_0x4d6e7a(0x50c,'3%hi'),'srDRC':function(_0x8eaa00,_0x570752){return _0x8eaa00<_0x570752;},'fFszf':function(_0x39a5d2,_0x2c75db){return _0x39a5d2!==_0x2c75db;},'MqUxN':'TUlkL','AIZAx':'qpmgl','DTYzZ':_0x4d6e7a(0x45c,'2BdX'),'LlGbv':function(_0x3a3207,_0x3f47d1,_0x54ada7){return _0x3a3207(_0x3f47d1,_0x54ada7);},'cFNHC':_0x4d6e7a(0x48f,'n73c'),'HrjgQ':_0x4d6e7a(0x554,'S(tC'),'IXMNk':_0x4d6e7a(0x5eb,'at%P'),'UqSmw':function(_0x2b0179,_0x4677df){return _0x2b0179&_0x4677df;},'APLOQ':function(_0x1b62d3,_0x814a2f){return _0x1b62d3>>_0x814a2f;},'QVPJT':function(_0x265842,_0x1eb3fc){return _0x265842!==_0x1eb3fc;},'ZhSGH':_0x4d6e7a(0x1f8,'%fws'),'JZkeP':function(_0x1bca3f,_0x48bd05){return _0x1bca3f!==_0x48bd05;},'Ydvwp':_0x4d6e7a(0x65a,'ldo*'),'CvPdn':'miiFn','FVtJq':_0x4d6e7a(0x499,'!NJO'),'RtEdM':function(_0x4624f3,_0xbf4f3e){return _0x4624f3===_0xbf4f3e;},'ycdzh':_0x4d6e7a(0x47f,'LTVA'),'aBUdt':_0x4d6e7a(0x545,'OkdH'),'XtrhQ':_0x4d6e7a(0x215,'n73c'),'TLasu':function(_0x215f12,_0x3a9fd4){return _0x215f12!==_0x3a9fd4;}};let _0x44d9cc=![];const _0x5f186e=new TransformStream({'start'(_0x56445d){},'transform'(_0x123a2a,_0x2dd661){const _0x213a31=_0x4d6e7a,_0x4e6736={'aZTYD':_0x3d36f9[_0x213a31(0x3d2,'FI(P')],'rPYbs':function(_0x3ee222,_0x2a0f3c){const _0x5ca5e9=_0x213a31;return _0x3d36f9[_0x5ca5e9(0x4f8,'o2$*')](_0x3ee222,_0x2a0f3c);},'nXkWA':function(_0x17c5c3,_0x3713a5){const _0x4bc784=_0x213a31;return _0x3d36f9[_0x4bc784(0x673,'n73c')](_0x17c5c3,_0x3713a5);}};if(_0x3d36f9[_0x213a31(0x236,'fu3]')](_0x213a31(0x618,'#z2$'),_0x3d36f9[_0x213a31(0x3dc,'%(Fi')]))for(let _0x5775ce=0x0;_0x3d36f9[_0x213a31(0x3f1,'$)w3')](_0x5775ce,_0x123a2a[_0x213a31(0x3e8,'S(tC')]);){if(_0x3d36f9[_0x213a31(0x3e0,'%fws')](_0x3d36f9[_0x213a31(0x4eb,'n73c')],_0x3d36f9['AIZAx'])){const _0xf6e321=_0x123a2a[_0x213a31(0x332,'H!gw')](_0x5775ce,_0x3d36f9[_0x213a31(0x240,'JLqf')](_0x5775ce,0x2)),_0x50ef57=new DataView(_0xf6e321)[_0x213a31(0x5c4,'eoD$')](0x0),_0xcab033=new Uint8Array(_0x123a2a[_0x213a31(0x64f,'SLd#')](_0x3d36f9[_0x213a31(0x2c4,'Yp3L')](_0x5775ce,0x2),_0x3d36f9[_0x213a31(0x690,'3%hi')](_0x5775ce+0x2,_0x50ef57)));_0x5775ce=_0x3d36f9[_0x213a31(0x304,'m(9!')](_0x5775ce,0x2)+_0x50ef57,_0x2dd661[_0x213a31(0x5f9,'@Z$m')](_0xcab033);}else{const _0x5c2226=_0x5c8f1d['slice'](_0x29bc81,_0x3d36f9[_0x213a31(0x2e7,'%4G)')](_0x2b9f39,0x2)),_0xb83c54=new _0x2a2124(_0x5c2226)['getUint16'](0x0),_0x57fbfb=new _0x36cf1d(_0x459abf[_0x213a31(0x34c,'at%P')](_0x3d36f9['AHZQe'](_0xb9ba84,0x2),_0x3d36f9[_0x213a31(0x242,'m(9!')](_0x2ffc97+0x2,_0xb83c54)));_0x2198a4=_0x3d36f9[_0x213a31(0x1ff,'#k(Q')](_0x3d36f9[_0x213a31(0x4f4,'Yp3L')](_0x24c01a,0x2),_0xb83c54),_0xf64629[_0x213a31(0x60e,'HzN7')](_0x57fbfb);}}else _0x4a0be4[_0x213a31(0x245,'3%hi')](_0x4e6736[_0x213a31(0x3af,'qgeG')],_0x213515),_0x4e6736[_0x213a31(0x333,'aW@c')](_0x234e36,_0x572f7a),_0x4e6736['nXkWA'](_0x4acca9[_0x213a31(0x3b2,'3%hi')],_0x3c5473)&&_0x2937ad['close'](0x3f3,_0x213a31(0x5fd,'I3Mq'));},'flush'(_0x25a22c){}});_0x5f186e[_0x4d6e7a(0x284,'OkdH')]['pipeTo'](new WritableStream({async 'write'(_0x35f8d5){const _0x24a4fd=_0x4d6e7a,_0x484aef=await _0x3d36f9[_0x24a4fd(0x5d7,'$)w3')](fetch,_0x3d36f9[_0x24a4fd(0x667,'o2$*')],{'method':_0x3d36f9[_0x24a4fd(0x3ee,'no^s')],'headers':{'content-type':_0x3d36f9['IXMNk']},'body':_0x35f8d5}),_0x562c7a=await _0x484aef[_0x24a4fd(0x4a0,'qs%P')](),_0x2ef6cc=_0x562c7a[_0x24a4fd(0x4d3,'3%hi')],_0x1791ee=new Uint8Array([_0x3d36f9[_0x24a4fd(0x51f,'H!gw')](_0x3d36f9[_0x24a4fd(0x355,'LTVA')](_0x2ef6cc,0x8),0xff),_0x2ef6cc&0xff]);if(_0x3d36f9[_0x24a4fd(0x3f4,'S(tC')](_0x2a16a3[_0x24a4fd(0x305,'&dbg')],WS_READY_STATE_OPEN)){if(_0x3d36f9['QVPJT'](_0x3d36f9[_0x24a4fd(0x5e9,'aW@c')],_0x3d36f9['ZhSGH']))_0x43eef6=!![];else{console[_0x24a4fd(0x453,'S(tC')](_0x24a4fd(0x2be,'#k(Q')+_0x2ef6cc);if(_0x44d9cc){if(_0x3d36f9[_0x24a4fd(0x475,'&dbg')](_0x3d36f9[_0x24a4fd(0x359,'aW@c')],_0x3d36f9[_0x24a4fd(0x38c,'JCWn')]))_0x2a16a3[_0x24a4fd(0x1f1,'JLqf')](await new Blob([_0x1791ee,_0x562c7a])[_0x24a4fd(0x334,'at%P')]());else return'\x0aport:\x207890\x0aallow-lan:\x20true\x0amode:\x20rule\x0alog-level:\x20info\x0aunified-delay:\x20true\x0aglobal-client-fingerprint:\x20chrome\x0adns:\x0a\x20\x20enable:\x20false\x0a\x20\x20listen:\x20:53\x0a\x20\x20ipv6:\x20true\x0a\x20\x20enhanced-mode:\x20fake-ip\x0a\x20\x20fake-ip-range:\x20198.18.0.1/16\x0a\x20\x20default-nameserver:\x20\x0a\x20\x20\x20\x20-\x20223.5.5.5\x0a\x20\x20\x20\x20-\x20114.114.114.114\x0a\x20\x20\x20\x20-\x208.8.8.8\x0a\x20\x20nameserver:\x0a\x20\x20\x20\x20-\x20https://dns.alidns.com/dns-query\x0a\x20\x20\x20\x20-\x20https://doh.pub/dns-query\x0a\x20\x20fallback:\x0a\x20\x20\x20\x20-\x20https://1.0.0.1/dns-query\x0a\x20\x20\x20\x20-\x20tls://dns.google\x0a\x20\x20fallback-filter:\x0a\x20\x20\x20\x20geoip:\x20true\x0a\x20\x20\x20\x20geoip-code:\x20CN\x0a\x20\x20\x20\x20ipcidr:\x0a\x20\x20\x20\x20\x20\x20-\x20240.0.0.0/4\x0a\x0aproxies:\x0a-\x20name:\x20CF_V1_'+_0x1f3ff8+'_'+_0x4d4717+_0x24a4fd(0x3ad,'#z2$')+_0x87335d[_0x24a4fd(0x461,'3%hi')](/[\[\]]/g,'')+_0x24a4fd(0x6ab,'SLd#')+_0x187aba+'\x0a\x20\x20uuid:\x20'+_0x3266ae+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20false\x0a\x20\x20network:\x20ws\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20'+_0xac5cf1+_0x24a4fd(0x683,'%(Fi')+_0x5598af+'_'+_0x9d742e+_0x24a4fd(0x315,'LTVA')+_0x1ec18c[_0x24a4fd(0x273,'H!gw')](/[\[\]]/g,'')+_0x24a4fd(0x308,'pxdB')+_0x4c1523+_0x24a4fd(0x386,'3%hi')+_0x1758ad+_0x24a4fd(0x678,'%fws')+_0x3ac22e+_0x24a4fd(0x376,'oU^(')+_0x5d0995+'_'+_0x4053d5+_0x24a4fd(0x52e,'q)7&')+_0x5a8917['replace'](/[\[\]]/g,'')+'\x0a\x20\x20port:\x20'+_0x274d7e+_0x24a4fd(0x26a,'5R6%')+_0x5e82df+_0x24a4fd(0x314,'(BCy')+_0x27026e+_0x24a4fd(0x24a,'N[#(')+_0x4e0eb8+'_'+_0x26daad+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+_0x51db75[_0x24a4fd(0x544,'S(tC')](/[\[\]]/g,'')+_0x24a4fd(0x67b,'ldo*')+_0x195999+'\x0a\x20\x20uuid:\x20'+_0x315418+_0x24a4fd(0x5cb,'JCWn')+_0x4c93f9+_0x24a4fd(0x5c2,'HzN7')+_0x2cb953+'_'+_0x558875+_0x24a4fd(0x3f9,'D8B1')+_0x221db0[_0x24a4fd(0x56e,'fM&k')](/[\[\]]/g,'')+_0x24a4fd(0x5b6,'eoD$')+_0x1f2677+_0x24a4fd(0x5a9,'RUDA')+_0x47c5a3+_0x24a4fd(0x402,'aW@c')+_0x263686+_0x24a4fd(0x637,'aW@c')+_0x1f8bbc+'_'+_0x1b00df+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+_0x18f08c[_0x24a4fd(0x35e,'JCWn')](/[\[\]]/g,'')+_0x24a4fd(0x505,'aW@c')+_0x2efb14+_0x24a4fd(0x383,'3q7O')+_0x2bf74d+_0x24a4fd(0x2ff,'N[#(')+_0xb53a1c+_0x24a4fd(0x5a6,'LTVA')+_0x3ec36d+'_'+_0x47e8ab+_0x24a4fd(0x46c,'2BdX')+_0x2f7453[_0x24a4fd(0x547,'I3Mq')](/[\[\]]/g,'')+_0x24a4fd(0x2f5,'RUDA')+_0x34f713+'\x0a\x20\x20uuid:\x20'+_0x47c2ba+_0x24a4fd(0x227,'o2$*')+_0x28f988+_0x24a4fd(0x310,'@B[z')+_0x56753f+_0x24a4fd(0x451,'LTVA')+_0x574620+'_'+_0x437e65+_0x24a4fd(0x6a0,'qs%P')+_0x504f24['replace'](/[\[\]]/g,'')+_0x24a4fd(0x2d1,'(BCy')+_0x4a9c1b+'\x0a\x20\x20uuid:\x20'+_0x9e822c+_0x24a4fd(0x1e8,'3%hi')+_0x300d75+_0x24a4fd(0x6a2,'aW@c')+_0x2d9439+_0x24a4fd(0x6aa,'gLxZ')+_0x818a70+'_'+_0x4eb2c1+_0x24a4fd(0x60c,'5R6%')+_0x141666[_0x24a4fd(0x2b9,'%(Fi')](/[\[\]]/g,'')+_0x24a4fd(0x5b6,'eoD$')+_0x24802a+_0x24a4fd(0x590,'E]t%')+_0x2a8d79+_0x24a4fd(0x633,'D8B1')+_0x20af8d+_0x24a4fd(0x262,'ldo*')+_0x2b4ff4+'\x0a\x0a-\x20name:\x20CF_V10_'+_0x314147+'_'+_0x3c6956+_0x24a4fd(0x567,'SLd#')+_0x384f06[_0x24a4fd(0x423,'3q7O')](/[\[\]]/g,'')+'\x0a\x20\x20port:\x20'+_0x4a2284+_0x24a4fd(0x65d,'FI(P')+_0x2f7064+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x370973+_0x24a4fd(0x621,'S(tC')+_0x249d43+_0x24a4fd(0x550,'pxdB')+_0x3bae50+'_'+_0xbba89+_0x24a4fd(0x4da,'pxdB')+_0x34606e[_0x24a4fd(0x61b,'q)7&')](/[\[\]]/g,'')+_0x24a4fd(0x398,'fM&k')+_0x163330+_0x24a4fd(0x221,'JLqf')+_0x494142+_0x24a4fd(0x617,'n73c')+_0x327436+_0x24a4fd(0x6a3,'3q7O')+_0x252dfe+_0x24a4fd(0x294,'n73c')+_0x59e8cd+'_'+_0x452864+_0x24a4fd(0x2c8,'eoD$')+_0x5936ab[_0x24a4fd(0x318,'o2$*')](/[\[\]]/g,'')+_0x24a4fd(0x68f,'%(Fi')+_0x2e30cc+_0x24a4fd(0x528,'(BCy')+_0x184e1f+_0x24a4fd(0x372,'JCWn')+_0x65c05c+_0x24a4fd(0x655,'fu3]')+_0x1bef15+'\x0a\x0a-\x20name:\x20CF_V13_'+_0xd45923+'_'+_0x58d8a6+_0x24a4fd(0x399,'gLxZ')+_0x2bd0c4[_0x24a4fd(0x2ec,'pxdB')](/[\[\]]/g,'')+_0x24a4fd(0x566,'@B[z')+_0x4dd696+'\x0a\x20\x20uuid:\x20'+_0x3e1676+_0x24a4fd(0x5ec,'@Z$m')+_0x132e7e+_0x24a4fd(0x325,'o2$*')+_0x2c799f+_0x24a4fd(0x5db,'at%P')+_0x1df54e+'_'+_0x11f207+_0x24a4fd(0x253,'H!gw')+_0x4e0533+'_'+_0xc7d718+_0x24a4fd(0x573,'$)w3')+_0x4026db+'_'+_0x27bb09+_0x24a4fd(0x2d3,'E]t%')+_0x2cf1e0+'_'+_0x1f3820+'\x0a\x20\x20\x20\x20-\x20CF_V5_'+_0x2b01eb+'_'+_0x32c8b9+_0x24a4fd(0x31e,'pxdB')+_0x5a838d+'_'+_0x3b1f49+_0x24a4fd(0x1e7,'H!gw')+_0x5e6f1a+'_'+_0x5ef8ab+'\x0a\x20\x20\x20\x20-\x20CF_V8_'+_0x16d181+'_'+_0x45dde7+_0x24a4fd(0x416,'@B[z')+_0x22022b+'_'+_0x16d449+_0x24a4fd(0x4d6,'q)7&')+_0x4c9bf7+'_'+_0x224608+'\x0a\x20\x20\x20\x20-\x20CF_V11_'+_0x3ef1be+'_'+_0xcc0102+'\x0a\x20\x20\x20\x20-\x20CF_V12_'+_0x2da6f4+'_'+_0x35a4a7+_0x24a4fd(0x484,'OkdH')+_0x59e473+'_'+_0x54659e+_0x24a4fd(0x516,'ldo*')+_0x13d6ee+'_'+_0x378cd3+_0x24a4fd(0x2a8,'gLxZ')+_0x55c369+'_'+_0x421afd+_0x24a4fd(0x645,'(BCy')+_0xdd19c7+'_'+_0x454cc6+_0x24a4fd(0x479,'I3Mq')+_0x232871+'_'+_0x27a606+_0x24a4fd(0x3b9,'FI(P')+_0x19810f+'_'+_0x539ae9+_0x24a4fd(0x608,'%fws')+_0x22ee1c+'_'+_0x4953d0+_0x24a4fd(0x6c0,'#z2$')+_0x204ef3+'_'+_0x3b1f87+_0x24a4fd(0x3ca,'RUDA')+_0x145e00+'_'+_0x54dfd8+_0x24a4fd(0x4f0,'OkdH')+_0x4b9349+'_'+_0x1a83a7+_0x24a4fd(0x5f4,'%4G)')+_0x4edbd6+'_'+_0x401c28+_0x24a4fd(0x3a8,'o2$*')+_0x4a3985+'_'+_0x48861a+_0x24a4fd(0x4c3,'SLd#')+_0x569107+'_'+_0x211275+_0x24a4fd(0x56d,'@Z$m')+_0x1ce9cf+'_'+_0x193603+_0x24a4fd(0x69f,'$)w3')+_0x3f4c26+'_'+_0x5d5677+_0x24a4fd(0x295,'eoD$')+_0x35bcb9+'_'+_0x25d027+'\x0a\x20\x20\x20\x20-\x20CF_V3_'+_0x3d031d+'_'+_0x220a7c+_0x24a4fd(0x279,'%4G)')+_0x3961af+'_'+_0x472d1f+_0x24a4fd(0x2c7,'#k(Q')+_0x5a3ca2+'_'+_0x5b081c+_0x24a4fd(0x593,'3%hi')+_0x829159+'_'+_0x8a0c4f+_0x24a4fd(0x26d,'o2$*')+_0x145789+'_'+_0x233ae5+_0x24a4fd(0x2fa,'%(Fi')+_0x45da5c+'_'+_0x466c76+_0x24a4fd(0x43c,'S(tC')+_0xcce258+'_'+_0x161c21+_0x24a4fd(0x373,'S(tC')+_0x4563d5+'_'+_0x5a58db+_0x24a4fd(0x654,'eoD$')+_0x544d1e+'_'+_0x2efae8+_0x24a4fd(0x563,'LTVA')+_0x57d802+'_'+_0x10bdca+_0x24a4fd(0x665,'JLqf')+_0x127efd+'_'+_0x42482a+'\x0a\x0arules:\x0a\x20\x20-\x20GEOIP,LAN,DIRECT\x0a\x20\x20-\x20GEOIP,CN,DIRECT\x0a\x20\x20-\x20MATCH,🌍选择代理';}else _0x3d36f9['ARSVS'](_0x3d36f9[_0x24a4fd(0x296,'@B[z')],_0x3d36f9[_0x24a4fd(0x5d3,'BG$F')])?(_0x2a16a3[_0x24a4fd(0x32c,'OkdH')](await new Blob([_0x415d0d,_0x1791ee,_0x562c7a])[_0x24a4fd(0x5ea,'fM&k')]()),_0x44d9cc=!![]):(_0x436a44['error'](_0x24a4fd(0x681,'!NJO'),_0x5ec2dc),_0x14976e[_0x24a4fd(0x23c,'Yp3L')](0x3f3,_0x3d36f9[_0x24a4fd(0x391,'fM&k')]));}}}}))[_0x4d6e7a(0x442,'FI(P')](_0x46edfe=>{const _0x36feb9=_0x4d6e7a;if(_0x3d36f9['RtEdM'](_0x3d36f9[_0x36feb9(0x62c,'I3Mq')],_0x3d36f9[_0x36feb9(0x41e,'FI(P')]))throw new _0x5b67fd('无效的IPv4地址');else console[_0x36feb9(0x413,'@Z$m')](_0x3d36f9[_0x36feb9(0x5cd,'$)w3')],_0x46edfe);});const _0x1ee816=_0x5f186e['writable'][_0x4d6e7a(0x3a9,'FI(P')]();return{'write'(_0x5d082a){const _0x1ab981=_0x4d6e7a;if(_0x3d36f9[_0x1ab981(0x54c,'SLd#')](_0x1ab981(0x2a4,'N[#('),_0x1ab981(0x64b,'BG$F'))){if(_0x4a3c61)try{_0x2f6c39[_0x1ab981(0x533,'qs%P')]();}catch(_0x38b739){}}else _0x1ee816[_0x1ab981(0x21e,'fu3]')](_0x5d082a);}};}function getvlessConfig(_0x138b87,_0x56d83b){const _0x5d9f9a=a0_0x3d3794,_0x112516={'tnmDF':function(_0x30e84f,_0x5f03cc){return _0x30e84f(_0x5f03cc);},'DJFeZ':function(_0x1f40fc,_0x3b708d){return _0x1f40fc(_0x3b708d);},'azzlJ':_0x5d9f9a(0x2a3,'%(Fi'),'EprkF':_0x5d9f9a(0x506,'&dbg')},_0x5580a6='vless://'+_0x138b87+'@'+CDNIP+_0x5d9f9a(0x3ac,'OkdH')+_0x56d83b+_0x5d9f9a(0x25e,'E]t%')+_0x56d83b,_0x9a3d07='vless://'+_0x138b87+'@'+CDNIP+_0x5d9f9a(0x66e,'#k(Q')+_0x56d83b+_0x5d9f9a(0x53f,'Yp3L')+_0x56d83b+_0x5d9f9a(0x239,'#k(Q')+_0x56d83b,_0x26d6ca=_0x5d9f9a(0x33d,'S(tC'),_0x37e296='https://'+_0x56d83b+'/'+_0x138b87+_0x5d9f9a(0x67c,'gLxZ'),_0x1b8ba4=_0x5d9f9a(0x4ae,'JCWn')+_0x56d83b+'/'+_0x138b87+_0x5d9f9a(0x286,'@Z$m'),_0x456c6b=_0x5d9f9a(0x385,'!NJO')+_0x56d83b+'/'+_0x138b87+_0x5d9f9a(0x540,'o2$*'),_0x117936=_0x5d9f9a(0x643,'I3Mq')+_0x56d83b+'/'+_0x138b87+'/pty',_0x11ee81=_0x5d9f9a(0x2d7,'SLd#')+_0x56d83b+'/'+_0x138b87+_0x5d9f9a(0x3f2,'3q7O'),_0x9e01bf=_0x5d9f9a(0x330,'LTVA')+_0x56d83b+'/'+_0x138b87+_0x5d9f9a(0x50f,'FI(P'),_0x68c33c=_0x112516[_0x5d9f9a(0x664,'D8B1')](btoa,_0x5d9f9a(0x41d,'at%P')+_0x138b87+'@'+IP1+':'+PT1+_0x5d9f9a(0x46d,'I3Mq')+_0x56d83b+_0x5d9f9a(0x450,'5R6%')+IP1+'_'+PT1+_0x5d9f9a(0x63c,'%4G)')+_0x138b87+'@'+IP2+':'+PT2+_0x5d9f9a(0x276,'OkdH')+_0x56d83b+_0x5d9f9a(0x562,'o2$*')+IP2+'_'+PT2+'\x0avless://'+_0x138b87+'@'+IP3+':'+PT3+_0x5d9f9a(0x6bb,'RUDA')+_0x56d83b+_0x5d9f9a(0x68d,'N[#(')+IP3+'_'+PT3+_0x5d9f9a(0x33f,'m(9!')+_0x138b87+'@'+IP4+':'+PT4+_0x5d9f9a(0x388,'#k(Q')+_0x56d83b+_0x5d9f9a(0x60a,'D8B1')+IP4+'_'+PT4+'\x0avless://'+_0x138b87+'@'+IP5+':'+PT5+_0x5d9f9a(0x455,'%4G)')+_0x56d83b+'&path=%2F%3Fed%3D2560#CF_V5_'+IP5+'_'+PT5+'\x0avless://'+_0x138b87+'@'+IP6+':'+PT6+_0x5d9f9a(0x523,'%Cnp')+_0x56d83b+_0x5d9f9a(0x24b,'fu3]')+IP6+'_'+PT6+_0x5d9f9a(0x291,'(BCy')+_0x138b87+'@'+IP7+':'+PT7+'?encryption=none&security=none&fp=randomized&type=ws&host='+_0x56d83b+_0x5d9f9a(0x339,'aW@c')+IP7+'_'+PT7+'\x0avless://'+_0x138b87+'@'+IP8+':'+PT8+_0x5d9f9a(0x6a4,'FI(P')+_0x56d83b+_0x5d9f9a(0x38a,'#z2$')+_0x56d83b+_0x5d9f9a(0x614,'eoD$')+IP8+'_'+PT8+_0x5d9f9a(0x5dc,'&dbg')+_0x138b87+'@'+IP9+':'+PT9+'?encryption=none&security=tls&sni='+_0x56d83b+_0x5d9f9a(0x498,'#k(Q')+_0x56d83b+_0x5d9f9a(0x407,'(BCy')+IP9+'_'+PT9+_0x5d9f9a(0x4a6,'3q7O')+_0x138b87+'@'+IP10+':'+PT10+_0x5d9f9a(0x6a4,'FI(P')+_0x56d83b+_0x5d9f9a(0x307,'H!gw')+_0x56d83b+_0x5d9f9a(0x51c,'%fws')+IP10+'_'+PT10+_0x5d9f9a(0x5bc,'I3Mq')+_0x138b87+'@'+IP11+':'+PT11+_0x5d9f9a(0x531,'o2$*')+_0x56d83b+_0x5d9f9a(0x653,'7PM$')+_0x56d83b+_0x5d9f9a(0x405,'m(9!')+IP11+'_'+PT11+'\x0avless://'+_0x138b87+'@'+IP12+':'+PT12+_0x5d9f9a(0x357,'aW@c')+_0x56d83b+_0x5d9f9a(0x2f9,'I3Mq')+_0x56d83b+_0x5d9f9a(0x26b,'gLxZ')+IP12+'_'+PT12+_0x5d9f9a(0x525,'BG$F')+_0x138b87+'@'+IP13+':'+PT13+_0x5d9f9a(0x635,'eoD$')+_0x56d83b+_0x5d9f9a(0x522,'5R6%')+_0x56d83b+_0x5d9f9a(0x377,'3%hi')+IP13+'_'+PT13),_0x3fd0d1=_0x112516[_0x5d9f9a(0x578,'@B[z')](btoa,_0x5d9f9a(0x639,'oU^(')+_0x138b87+'@'+IP8+':'+PT8+_0x5d9f9a(0x35f,'LTVA')+_0x56d83b+'&fp=randomized&type=ws&host='+_0x56d83b+_0x5d9f9a(0x650,'q)7&')+IP8+'_'+PT8+_0x5d9f9a(0x696,'fu3]')+_0x138b87+'@'+IP9+':'+PT9+_0x5d9f9a(0x52a,'#z2$')+_0x56d83b+'&fp=randomized&type=ws&host='+_0x56d83b+'&path=%2F%3Fed%3D2560#CF_V9_'+IP9+'_'+PT9+_0x5d9f9a(0x483,'at%P')+_0x138b87+'@'+IP10+':'+PT10+_0x5d9f9a(0x4d2,'JCWn')+_0x56d83b+_0x5d9f9a(0x507,'eoD$')+_0x56d83b+'&path=%2F%3Fed%3D2560#CF_V10_'+IP10+'_'+PT10+_0x5d9f9a(0x5da,'5R6%')+_0x138b87+'@'+IP11+':'+PT11+_0x5d9f9a(0x205,'%4G)')+_0x56d83b+_0x5d9f9a(0x564,'gLxZ')+_0x56d83b+_0x5d9f9a(0x60d,'no^s')+IP11+'_'+PT11+_0x5d9f9a(0x346,'gLxZ')+_0x138b87+'@'+IP12+':'+PT12+'?encryption=none&security=tls&sni='+_0x56d83b+_0x5d9f9a(0x307,'H!gw')+_0x56d83b+'&path=%2F%3Fed%3D2560#CF_V12_'+IP12+'_'+PT12+_0x5d9f9a(0x241,'3%hi')+_0x138b87+'@'+IP13+':'+PT13+'?encryption=none&security=tls&sni='+_0x56d83b+_0x5d9f9a(0x307,'H!gw')+_0x56d83b+_0x5d9f9a(0x5e4,'rN[D')+IP13+'_'+PT13),_0xb3d5ba=_0x26d6ca[_0x5d9f9a(0x49e,'fu3]')](/\n/g,_0x112516[_0x5d9f9a(0x233,'@B[z')]),_0x4257e3=_0x5d9f9a(0x3bc,'oU^(');return _0x56d83b['includes'](_0x112516[_0x5d9f9a(0x3d5,'%(Fi')])?'\x0a<br>\x0a<br>\x0a'+_0x4257e3+_0x5d9f9a(0x4ec,'ldo*')+_0xb3d5ba+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x09\x20\x20\x20\x20<hr>\x0a\x09\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>1：CF-workers-vless+ws节点</h3>\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<th>节点特色：</th>\x0a\x09\x09\x09\x09\x09\x09<th>单节点链接如下：</th>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>关闭了TLS加密，无视域名阻断</td>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>'+_0x5580a6+_0x5d9f9a(0x5fe,'o2$*')+_0x5580a6+_0x5d9f9a(0x45f,'3q7O')+_0x138b87+'</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>传输协议(network)：ws\x20或者\x20websocket</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>伪装域名(host)：'+_0x56d83b+_0x5d9f9a(0x45e,'@B[z')+_0x9a3d07+'</td>\x09\x0a\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27'+_0x9a3d07+_0x5d9f9a(0x3e6,'gLxZ')+_0x138b87+_0x5d9f9a(0x69b,'#z2$')+_0x56d83b+_0x5d9f9a(0x670,'SLd#')+_0x68c33c+_0x5d9f9a(0x55a,'n73c')+_0x37e296+_0x5d9f9a(0x265,'3q7O')+_0x37e296+_0x5d9f9a(0x640,'H!gw')+_0x1b8ba4+_0x5d9f9a(0x3d9,'fu3]')+_0x1b8ba4+_0x5d9f9a(0x382,'%4G)')+_0x456c6b+_0x5d9f9a(0x4dd,'S(tC')+_0x456c6b+_0x5d9f9a(0x2e6,'!NJO'):'\x0a<br>\x0a<br>\x0a'+_0x4257e3+'\x0a<body>\x0a<div\x20class=\x22container\x22>\x0a\x20\x20\x20\x20<div\x20class=\x22row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-md-12\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>Cloudflare-workers/pages-vless代理脚本\x20V25.5.27</h1>\x0a\x09\x09\x09<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>'+_0xb3d5ba+_0x5d9f9a(0x3cf,'D8B1')+_0x9a3d07+'</td>\x0a\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27'+_0x9a3d07+_0x5d9f9a(0x31d,'OkdH')+_0x138b87+_0x5d9f9a(0x2f8,'aW@c')+_0x56d83b+_0x5d9f9a(0x4d9,'qs%P')+_0x3fd0d1+_0x5d9f9a(0x378,'%fws')+_0x117936+'</td>\x09\x0a\x09\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27'+_0x117936+_0x5d9f9a(0x45a,'aW@c')+_0x11ee81+_0x5d9f9a(0x539,'q)7&')+_0x11ee81+_0x5d9f9a(0x35d,'OkdH')+_0x9e01bf+'</td>\x09\x0a\x09\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27'+_0x9e01bf+_0x5d9f9a(0x2b6,'D8B1');}function gettyConfig(_0x589c4a,_0x115e4e){const _0x3244f6=a0_0x3d3794,_0x5970d2=btoa(_0x3244f6(0x671,'q)7&')+_0x589c4a+'@'+IP1+':'+PT1+_0x3244f6(0x247,'SLd#')+_0x115e4e+_0x3244f6(0x3ab,'3%hi')+IP1+'_'+PT1+_0x3244f6(0x346,'gLxZ')+_0x589c4a+'@'+IP2+':'+PT2+'?encryption=none&security=none&fp=randomized&type=ws&host='+_0x115e4e+_0x3244f6(0x4f1,'3q7O')+IP2+'_'+PT2+_0x3244f6(0x30e,'FI(P')+_0x589c4a+'@'+IP3+':'+PT3+_0x3244f6(0x523,'%Cnp')+_0x115e4e+_0x3244f6(0x63d,'H!gw')+IP3+'_'+PT3+_0x3244f6(0x5bc,'I3Mq')+_0x589c4a+'@'+IP4+':'+PT4+_0x3244f6(0x63a,'&dbg')+_0x115e4e+'&path=%2F%3Fed%3D2560#CF_V4_'+IP4+'_'+PT4+_0x3244f6(0x214,'fM&k')+_0x589c4a+'@'+IP5+':'+PT5+_0x3244f6(0x3ce,'!NJO')+_0x115e4e+_0x3244f6(0x410,'2BdX')+IP5+'_'+PT5+_0x3244f6(0x61c,'!NJO')+_0x589c4a+'@'+IP6+':'+PT6+'?encryption=none&security=none&fp=randomized&type=ws&host='+_0x115e4e+_0x3244f6(0x6b3,'gLxZ')+IP6+'_'+PT6+_0x3244f6(0x5bc,'I3Mq')+_0x589c4a+'@'+IP7+':'+PT7+_0x3244f6(0x48a,'S(tC')+_0x115e4e+_0x3244f6(0x2a2,'JLqf')+IP7+'_'+PT7+_0x3244f6(0x634,'2BdX')+_0x589c4a+'@'+IP8+':'+PT8+'?encryption=none&security=tls&sni='+_0x115e4e+_0x3244f6(0x1f0,'JCWn')+_0x115e4e+'&path=%2F%3Fed%3D2560#CF_V8_'+IP8+'_'+PT8+_0x3244f6(0x241,'3%hi')+_0x589c4a+'@'+IP9+':'+PT9+_0x3244f6(0x2d0,'(BCy')+_0x115e4e+_0x3244f6(0x6b4,'$)w3')+_0x115e4e+_0x3244f6(0x2df,'&dbg')+IP9+'_'+PT9+_0x3244f6(0x64c,'no^s')+_0x589c4a+'@'+IP10+':'+PT10+_0x3244f6(0x1eb,'qs%P')+_0x115e4e+_0x3244f6(0x4ca,'&dbg')+_0x115e4e+_0x3244f6(0x2f7,'o2$*')+IP10+'_'+PT10+_0x3244f6(0x63c,'%4G)')+_0x589c4a+'@'+IP11+':'+PT11+_0x3244f6(0x524,'#k(Q')+_0x115e4e+'&fp=randomized&type=ws&host='+_0x115e4e+_0x3244f6(0x583,'JLqf')+IP11+'_'+PT11+_0x3244f6(0x52f,'eoD$')+_0x589c4a+'@'+IP12+':'+PT12+_0x3244f6(0x29f,'fM&k')+_0x115e4e+_0x3244f6(0x38a,'#z2$')+_0x115e4e+_0x3244f6(0x459,'fM&k')+IP12+'_'+PT12+_0x3244f6(0x525,'BG$F')+_0x589c4a+'@'+IP13+':'+PT13+'?encryption=none&security=tls&sni='+_0x115e4e+_0x3244f6(0x474,'3%hi')+_0x115e4e+_0x3244f6(0x4d4,'7PM$')+IP13+'_'+PT13);return''+_0x5970d2;}function a0_0x4b71(){const _0xebfaad=['cSozWRxdM+EdK+wgNUwKS+wjHUMtS+AoNLzlnCoFutOOW4T8Dmk+dCokhWjmb1L/WRRcRComWPuPrmk3W4z4W4tdKGVdN2iZDx4pk8kSW7Kbw8k4W5ZcLda/r8ohfuBdKwlcK8kvWOjAW6HxWQWEzSoStSo/Btn2hdtdRSk+W6JdTmkcrYbcW67dVX7dK2yfW6vmWOFdGSkzW5lcGHvOW61Remo2ag9nWQzpWRdcRSkWFqy4W63dL8ojDL3cNhyGsG3dMCo5Fmoxw8kIocKyWRJdNmkB6kY66zQt6zgm5O2m772RpSoRlmoGW7eTWPxcVxa3WPKBFqXTW6P0W7aMeeHKW6VdK2HPwmonWPNcM0JcKIpdSmopWPJdSCkPlCo0WQJcUmk/xmk7DhhcQCkaomonWR3dSCojWRLeWRNdPfxdQeO7sNVdMMhcN8oEf1VdPGNdVSoOW4pdSNlcUdNdV8oppmkBErnrW77dLSoLgHOgBvu','d8oCWP3dRgnShdnlzdXDca','yCkkW7dcLmkjdSoXW7iBWQCLDCoCW6ddRYPpW5vsq3WcWORcMGFcLceDWRnLWOxcICocfhymW67cRa8BW4hcUCkpeSkujIldTSokaLWkuSoewmoHW43dQbbFWOK9eSobnxP6W4tdUcuHW51VyIToq8onWQiEo8oPW6ikW61zWROFiCkmwmoqWQLwW7uozCkizq3cT8o5wa','WQxdIbFcPG','pmk+W5LJlCknW4BdUZ1mrCoCWQW','adBcHLFdMq','j8oqWRFcLquxsKOT','vCkSW7hcK3q','W6PfsSonWRG','jSkIWQldL+EdQUweOEwKM+wjG+MqPoAnIvpdRuWkW5ZdNCkjl8o4amozW6G7qGBdJY3dRJzOq8obWReVW7qIh8odWOFdJZBcM8oMWQi1WR0Hlmo2W5VcRmowlJODC8k6ofqkbCofW7VcTCk1WRPCaZ1wWPiyASopW7ddTSkpW6BdMKGdg8oLW7f8z8k6nSkkW5ldKLldG210dHxdHSoruXVdSmkxhHOUWQrgWOKDW4voW7fDgSosW5RcHdVdRSo3B8o8WQ5RrSoeDZhcKoIcRowqM+McNEEwREIUL+MAVEMtUEAoU++9VmoHWO3cUSozWQFcJ2bZsmkFlHfBWPyNBmkFvuSLW4KgWQ/dVCoFa8oQtCoxWP9qCw1OWQ7dQSkioCkEyNlcRSk3s8kssxe2WQldT2eAntWnBSkNWOzbW5WRW5aQDNZcJSogACk+WPnOWQ8uW6JcMw7dQKddL8k/WPhcGCowWQ1UwSonWOxdPq','aL7dGg95FCoCWRrS','W4VdTfVdR8o6','WOFcJIlcSCkYWR8zW7VcTGxcGwje','W4pdMCksqSoyvfK','WR0FWRlcUW0EhCotW6KIdcyuW415W4NcKbpdVvq6e8kfeSkMAa','W5bfDe9/W5dcUfddGJb1cmkoDqPXW6K','W7lcUgaVWOVdLCoYeW','dMayssZdTvn1W6yfESk+ut1UWQ44WPhcVCkCCSozWPhcU8oZWPFcLmoO','j8oqWRFdHuPihJnlzdXvzCo1','WOiqcHVcR150WOiSWRWOW6dcM8oGcCoSkSkXBWZcV8o5faxcHIpdLCoF','W6lcQspcU8oD','W6ufW77dHCo1WQBdUfuS','t8k9mHZcQmkDue/dOSkYWQ9BWO8UWRFcRmkEW4H3x8kSAu3dGYW','dmogASo6dCoSbG','WPZcUtrItqrbWOOpsXbEW70Ndq','w2qysthcUW','WOvAEmocW4FdHSkPWPpdRGFcLSk+l8kFW4KsW5rpWRRcKmo3pNaLzCkee8o5','ibNdNSkAzxldJGaDnCoWsq7dRmokWO3dOhBcGmkq','WQKCkmoFWPxcISoNWRtdHZxcQCo1ECkK','fSogE8oYcCo9ea','jbRdPr9X','WOj0W5K','WOD4gu4RgSkrkSkuWRD2lSoMrarj','WRdcOJ7dUcG','aL7dGdOSoCkyW40kW4NdOsBdUW','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','ptFdGmoNWQy','WPZcNZDItxbKWQjfbezZW4yEw3hcJSoTvWFcMw7cRc0IpenIWQHnWPZcQY46ksZcIq57WPlcUSkLjCoOWP5Qog7dHXddQ8kHW7ldVIvOg8kiWQy+CWNdKmkfsSo4B8otW5lcIM/dUrLOW5NdVxBdPSkXhSkbe8oIgSkvWQiRWQv2zdldV8o2WPajWRZcMmo3W4LXWP1ik0fsWP5qWRlcP8oAW5SjW6ysW6JcJL/dKKRdMMSAwYxdSKLhb8o4WQiPecVdTuW2W4JdMmojWPpcQ3aR','WQddKX1oW6ZcLmk/k2hdR8ooo8k0W5ZcRCkSzrFcPCkCW7CbWO3dMSkOAaXeWPyIB8k3WPyPyZVdI8kGW7hcReC7W6BcIY3cUmkJte/cRaJdOSkXW7ddScuZW7FcMGldJ0/cPvmfz2ZcSmkCBSo3W5JdU8k0ovTDWQJcGCoht3jjWQxcJ8kkWRldRt5Ur8ooq8oEWOCX','WQTVWPJdKmoa','bCk5WQ3dPLBdVa','WPtcKbZcISoVW7jSW4RcGba','WOFcJIlcSCkYWR8BWPJdKI7cUYm5ud0SWReIiIK0EaRcUCoNc8kLWPBdO1NdL2VdNuBcGNddNc7dPuuOnhddPSkXWQ8VvmorWQ53b8kcag7dIeBdTq','mw8DW74','W6SDumkBeM8','W6RcPf53WR4','c8kRWQdcMtZcQgjpW7O','W5dcKfTEWPpdNsNcQ8k5WOu','fapdOSoqWQm','WOlcTv1pFW','WPJdPv8FldbTWPOkkhXoWQLZD0VdQSo/qexdIcRdJvfDsby6WOu','WOH8CY/dVr84WPiIWRzJWQddNSkMBmoEdmkxm24','DSoVfCoHW6qK','k8oHWORdMmoYDCk+WQa','W7lcLeiWWRe','ouxcL3ZcQ8oDc8kUCtxcGSkYka','WP9rW6y','WOlcIgzcxa','zSoFW5pcRJy','WPCfWR7cNmoP','W5FcM11uWQ0','W4HIvmkgWO3dTCoxW4fxjmofWONdS8kSWRO','bmkMgdbEFSoaW7VcQxiMcHKkECoIimoqWRD2FvldKtfrWO0WW7VcNa','WPu1WPVdHWvBC8oGW4a','WP0Iba','WQKQlq','WRlcGmo4F8kWvmozWQNcNttdNSofWRO','lSoHWPFdQmoHAW','WO7dS2fSWQ7dOCkXWPD2WQ9IWP3dS3SmaLv0qLPYg8kLW7VcO19ugKy','WPxcIaBdHJ8','W5hdT3eNjG','pmk+W5LJlCknW4BdUZ1mrCoDWQW','WR8IW4xdPLe','W4vCySofWQS','WQdcIYFdOH8','gSoNs3yoDCkJWOBcRJPCjW','W4ddSgBcU1pdJmkdFtmwW7FcVmkFWOvqWPhcRKpdISkZkqfWWPvzW4BcMx7cTSogWRSzhmo2FSk2W4Tta0atsCk7tmo9ESo7W7NdTMKJCruwWO/cH8ozWRXmW6a8WP9ZW5vYlu1OWQtcLCoTWRpcLmoUdXfwemoscb8IaW1iwCkLWP5DWRf2sCkhW6e7vG','W4aKgaZdGCkuWPi','mCkVWPNdK0C','kSkPW5JcQWO8W7L1WQrOWRVdRa','vmoTcCoLW6q','FCkkW6xcTh4','ASo9WOaEvSoTWORdNW','WQ94pwDmw8oCeSkKWP48yCoepJWFaHFcGg1ghmkEW5BdJCoDWQyXCSkppddcO8kYwSk8BubMW6WBa0WOW4uVpHpdQCoxWPiSrgJcRmobjXNdKCknsSkYECknW74IWQpcGwxdIw9FAu9gpJVdH2rlWPFcSSkvuNtdLCkKW4ZcGmkOz8oRW4KgaXO','yYXLWOpdRmozW6Gto2ZcMxBcPCoPba','j8o6WRRdHqqeuXu3gYKIcmo8eHe','W5RdLmkEjCoL','W67dUCkkgSo1','pCkHrSoJW7q/lJ52','A8oSW5pcOti','W5OVcXJdIa','W5ZcISkEW60xBCobW4KiW6vfl8kiW4/dN8oAcmo7rmkVW4jexNfqW4f+Dq','rSkpaCkxyCk+vCo8FsTkuqdcSemqWO7cTKddP07cQSkym2n8W6hdTvDwW6GcwSoaW55wnmkgWOZcHXTTqWdcLG/dGJCzW6ewWRpdLZKgW78NW59Yy2ZdTf1SW4RcJh4Ha0CRCmkyeMSXjCkWW7xcL8oVWRP1W6zWeCk1mGjApSomW5ddThG','W7jvWPFdO1hcTMrbWQafW4xdVSkhW4SnmZ9SWRS1WPpcRSkVxfhdNCkBWQeSWQ5rWO4XW4VdNSoQW6lcS8kaDMBcNmoCW5lcRSkAsNC6A1hdPCkXrdXWeJvO','WOZcKmoRomkWoH7cJmoJW4BcJSkZcW','WO7dS2fSWQ7dOCkXWPD2WQ9IWP3dS3SmaLv0qLPYg8kLW7VcO19CDG','W6vGW4hdNGy','wL8mCc8','WQxdIIhcS3W','Amo7WRe','WR05WRhcU3K7nCkzWQygub4VWRi','sYbpW7RcISkIWPulwa','C8kTW5BcHvC','wc3dQcjmlCopWR/cNmo3b3FcMuOlW5dcQZtdHuvbWOFdTNryW5tcNSoN','EHVcGx5TDSouW6S','W5pdIauOmgFdGbVdHbyWEgZcLq','W5bVEu8XWPZdTxBcVK9GF8oJFa','kmkGfsffmmoFW6BdGa','FthdTbBdHW','WP1aWRldKmo7WQFdQsnJtg4','WOnaWRddKSoUWRW','W41+WOeXdmk+dwvYdxaIemkirSkeFCk1WObbWRtcKc0zW7asWPrcnq','W4TDE8k6W4FdLCkOWOu','WPf+dCoEkgfUe2q4W4tcSSkLW5xcR8oZ','W4BdKZOtavFcSGldJc8Tpa','jMuBW5/cJmk+WPuatG','W6eUW4aWamoZeNDsss8xemoMq8kxtCoRW4znWQtdLq8ZW5WHWQ9ssSk3WPWGWQdcSSoXfCkzW5PSW7WHWOjDkSkopSoCWPDqW6tdNCo6W7CuWRpdNmoZWQJdGLxdT23cM3HdvwFdL8kYpmkRDePGWRpcRcZcMgK/W4hcKmkNWR3dJve8AmoYxSkTW77dIKhdJmoAkCkDja','sMqEAca','WRG2lqPDW5tcU1lcJhG','pZ7dGmo0WOemW5mMdCk8','aIhcGa','W4NdMCkvzmoqxuJdTW','W5bVErP1W4hdRXxcNNfApCk0krTHW4lcLmo7WPVcKCoJWRlcI8klW4X8dLpcPcSMW6iDFxyoi1btW5fedXKfWOJdMCocWOLDWQbBsCkWW6yEW4m/WONdSfZdKSkMxaZcJgdcPa9TnHePBtVcOw1+c8oHfmkDE2LgnCk9l8kvW5ZdO8k2oxzyW4L3WRBcPq','WQdcTSoJWOxcNW','uaRcKNjD','r8oDjvfFW4FcTSo/oSohw38t','nSouWORdIa7dMmkyASkFW4yBWRdcSKxcIHDZCCo2W6ldUW','W5BdSmo2WPbFCmogWO8VWQDuu8onWONcUCkVe8kFqmkRWQ0','WRFcH15rqW','WPxcMSo4WOhcQCkluq','W6JdQSkvE8oi','WQ0BWPNcGmod','FmoTW6ZcSGpcOSkaAeVdVcBcSmkb','WROMWRxcMSoL','rblcP3H6','aCo6WP7dRgnfhLj5wG1gBCkkbW0bW7OuECkGjG','ECoamSkGWRv2a1qGd+I8LEAmK+wNTEI3VL8','W5tcOGxcUmkPW73cVZZcQq','W6JdSb/dGdxcLmoAdv5TWPhdGmksW5PGWPlcIMRcHSkIjraIWPFOTBZOVPVLN7ZOOldcG8kdW79qv8kZlCk8W4KtzIH+BCo7wCoOA8oWWRJcQumHjHngW6NcTmoWW7qyW6LGWQ9vW7mLEHGYWRRcLSo8W7ddMSkNtKLzgSomvfPRz2eZgmoXW5L3W7yVgCkVW7S7hCoOWOBdRHWlvbhcVXjuW5SlW7XIz8kasw91W6xdHSozrM7cQSk3EGtcL8klW4yzW6hdGSojWR4','orpdMZNdUmkdeCocga','WRL+kCo3zIbEFfCrW7RdMmoWWORcK8oxWOJcOSkqWQxcP8kmWRGSWOOif8oIh28kW4i','WRKJnHX0W5u','WQmDW6n3W6i','BmkzW5VcKZm','W6hcUgaKWO0','W6VdP3JdL8oq','W7xcVL1jWQW','qZtcLuZdG05QWONdUSoPWPvHACo3zmosedVcThGNW5/dJ8oGW6hcHGPxWOq','W4xcN0bDWOu','WOjtW53cICoX','WQZcTdVdLH4','rmo1fmo/W68Xi2iV','aSkGW7ZcQcm','bCorECo/eCoCamk4AY9B','WOpcIH/dNJpcJ8ocvfbWWPdcMSkgW4CPWRxdII/cM8kWkrj9','WQKCkmkkW5hdL8o9W5FdPWVcK8k3l8oXW49gW5LtWQZcL8kGosq4B8o9r8oKWPRcMCkJWQKtWQ0izLNcM8o5smkeW7WnBSk8pfBdImo9W4VdVSo9jSke','WP/dKSoUWOlcUSkFvCo2canQD3iwoq','kmkHW5/cIJ8N','WOWUWO3cRW','W5pdIauOmgFdGdhdRdOdkIVcUd3dPCo+WOFcKuldSmomW7hcTmodW57cTX7dT2DYda7dPGJdHvVdQ1CAWPpcTCoqWOVcJSkexefCimoSWRS3WPldNSkcgxWQW55zW49MhSkjymksWOVdRwJdMq4QW7G2ESkDCdxcPSo8W4VdHaqvcW8wl0SCB8ouW5hdR8oQb8kOWOFcPCkaW7Sur8kZbmokW7ldUM7cO8okWQ7dML7dRmk6nmklWOpdMCkHA8kec8oTgSoCw8ofW75FymogFKRdUhVdQuiIWRlcVX7dJCkzz8k0WRSxW4JcSmo+WQnOkmoSW7TRWONdQvVdPSkAW73cLCkav8krzSoJW6ZcUSklsSoSeSkdW6pcVLBcOdSbWQNdT8o0e8kQmc3dPda','W7tcVY7cVCoDW5DPWPldOXTaWRhcIG','5lIx5PEX5O6c55Mf5zg65lIC77605lQn5PEe5O6MkmorW5HnWPHLhowsOSo1WP7dTmo1zqNcQW','eCkeW7FcVq4','W6eUW4bLrmkUcbrYDXvvrCkZ','W6eUW4bLrmkUcbrYDXvvrSkZ','WQ7cKZ3cNSkk','W4BdOwddRq','W5RdOM58WQNcSq','W4zsECkkW5ddKSkI','W5m9WQFdLCkYlSkhyb7cNCo+BmkytCoeCNuTW7NcH23cNCkOisVcOJ4jpmoIcSkzAJpcRXNcHNmwWPhcHMVcRdWJW4uTzSoHDCkHzCoyfKlcOK1tW7xdPmk/j0hdOCo0wCoxk3NcNhm5vhhcO8klWOFdTCoUn1ldJNZcTgddPX3dK8oDW5zPmCkBW6OlghNcKL3cTmoztwJcPCkPa3xcHCo+Ab53W5tcR2FdJmo2W7eOFmoCWOFdRmoaW6ddJ8kWpCkTlcZcNwtcRmkXWRBcNCkqEcLwW4lcJsiYwIBcGYuJqJaCnSoaW4ZdSCo9W5WWW5y1gCk7W7XTbq3cHcJdR8ocC2xdTbBcSY8AW5rPWOLkqwfBf3D3W7ddI8o5uW','i8kbWONdOfRdUJyOW5ddPwBdI1ntWQlcOmoVsmoKtmkxW6G3xJBdPGBdIaaelSoaWQXUWRaSn8oMWOtdJZBcM8o4W7K4WQ8RASk1W4xcHmkOvbeErSkCBbuvrCkQW4ZcTSkFWPbEv2qSW74ZwCotWQBdOCkbW6/dJbTcw8koWOSgESk4ymkEW4xdL1pdG2LEjq','W43cTNBdGdBdKSkTj8k/aX/dOa','5Pws5O645l2z6l+x6zsV6k6S','fd8nwxRdGN9oWQKPqmoXcc0VWQnaW4hdVCoEnSkvWRZdNCopWQ3dH8oeWOCdwaxcPSkEW6VdTSogW4KUWP7dOmoJp1r/W65SWRyKWO7dLdqCaxFdRH/cNJddHaaDB8k8DgxcRbddIIpcLSoBjmkk','WPL/W47cPmot','wIhcMLVdMqO/W4/dLCkJW4GAySo8l8keCNRdPc1IWO7dPCosW4FdRvulWRxdISoPW73cVghdIg1nmLjXcLhdGcPiW4tcUmk+xsNcVaddNCk9A0acWOW','WPfuamkokxj3th4','tSo9W7tcOG','W4xdPwddMCoWWPrHDNW','amo6C00/y8ofW6VcNZz2jXKAa8k0cSkbW60Kjb/dTvu0W7SJWRRcOSkPWQ3cOmkKWOLLW5CTg8oVldpdJNjqWQVdPmk2W6VdNSo9W7JdRmocWPNcPSoSpgTXWOjOyISwW5tdNupdG8k9E8oGWOTfWRddMSo6WPhdOCkND8kDFmo9ACo5tLP3wNSQh2yOWOu','xhhcG18TgCoiW47cNmknyGddJ3e','WOHaWQO','bIdcMLhdMW','WOJdUtrNW4xcMCk/ns3cUCkrbmkw','i8kNWORdOfRdKZqCWRtcNWRcOvSnW43cI8oCyCkGxCkAW686uaBdJY3dRH0upSkrW615WRW8BSoaWOFdJZBcSSo6WQ8KWReVkSoJWOddGSo9hrnGpCoGkrLIymkPW4ZcN8kFWPiAsNm7W75Je8kbW63dUCkzWQJcHuHcfmoSW7bGn8o9ymoHWRNcTZ7cNfL3dJZdR8kLDI3cJCo2w1TOW6OTW6n/WQKZWQCXsmofW4FdNLJcICkzrmopWODap8kzydldI8kcCSoJW6fhWPORfg/dLmkcW67cK8oTW7CifdldPKHQe8kBAt7dMLvljCojlCooWQtcKrpdP1RdHCozvfSFA8kUW6RcIcxdIIjvWQxcVqhcUNPyzmkHW7DHl0HS','W54NWPZcVSoizSkmW7BdKmoCeZJcP2T1W7z8W7ZcImoKW4rWWR7cQwLWW5BcQW','g8klB8kFWQf2Aha3xSoPWOZdPmo5jSkXsvvjqcu','W5tdTeNcQCkJW77dOcNcPK3cV8kKW53dJ3OpW5XJWRm1WRddUSkXvr4','WRpcQYVcU8oqWPK/W7ldGfmCWOpcIMnMvHD9W7zYW6qqjbrIW4LpW6io','W74AuCkli3vM','WOL4W73cV8oP','drRdUmoXWOm','tSo/WPS8ua','W619xmojWOhcH8koWQFdT1ZOVkhMJAhLHlNPLjBPL7BORONcLW','W5lcRMBdJoEcT+weN+wNPUwjNUMqGoApI2RcPmkgW7xdRx5NWQpcJXqkjCkzW5CrWPVcLezXq8k4xcFdLCooWQNcGwWdjCk7WOiKW55Wg3uTeSo7W6hdK8kcW4azW4aUW4n9sqZdVSowW7u6wvhcHvKgWP3cO8kjiCo9WRBdSEwUJEAlK+EQSowoUEAuKUwLGos7L+++JSklumkuwatcUrnJWPVcTmolfXVdJ8kZWQ1ijCkMxrGLWRDRxSkIBXv8ESofW7NcPITyW7LuW7pcUCo+WRhcMcJLRipMI6lNQ5FLNQ7LNz85FbmFlrXcW6/dH+++N+IfOowSV+s4TEEALowERUwtUvtMI6ROG5LB5l+n6yg85zYG5zc+EEAjSoIcSG3KV7RPGllcJwxcJEAiHoIdStlLJiBKU7WFm0nGl1BdHmkqW7lcJ27cUmk4FCoCtCkbiCkgbNGsW6pcVCkcW6XpcEERM+wnMqxcICkWW4RdJCko77+ic+s6OWiUWRhdKvJNQkNLJQxLJk7KUlpMHjtPG7hMIP4gW6atW4pJGkldJGxcMb7JGPBdJmkHWOG344cXmYmRWRhJGzxcSmk4qCk644k7tHbHCWRVVPZMIkNLJjlKUPddQt/LRjpLUlpNQBdLJjhcRSk9uLOklLnHoM0QWO/dTH0GDe3dPbf+W4BdKZ4zAmoE55Ev5OMqEXmqW77cUJNcV0dVV6C','z3aoW77cJCoTW4qdpG/dTwBdSCk9FSkQWPyoW4hcVIbMW7ddV11hs8ke','WPddOYyYW5BcMgFcKCohW6tdMLbzW7VcM8knW4KwmSo4ESkklmkMr8oWugyyCHZcJevea8oXW4HVW4mHm2/cMmkIt2r+WQxdV8kuW7tdGSoqWQLTWR04CSo+tMdcK2JdHMZcTYxcJmo8bxumW4xcHmonuLyEWPm2l8oiWRnZW6aIiSo9e8kKW7z5z8oNkwy','WPJcLdG','c8kRWQdcNdFcQIXvWRZcJqpcSuT1WOJcICkslCk1bSowW6GTcwNdJatdH1eepSkkW7ePW60MnCk9W73dJb/cSSkPW6GZWQKRoSoHWOtdI8k6hrm','W7JcR0HVWP0','vCkHdMPakSkwWQJcIIjNiWWlCSkYda','WPRcJmosvSkzCmoBWQNcNttdNSocW5qY','WR4vW5LUW6NdU2i','W7VcKMnesH3dMhFcRq','mmoLWO0','mSobWPldM8of','WPZcUtrItqrbWOOpsXbEW70Ldq','iCo1WP/dU8oLDq','W7/cP2tcHx3dICkegmkkhwZcGCoeWQdcUsP4WQZdHuaFCCoFW4yKW7FdUxjkF8kYq3hcRCoqWOpcQevIsCoMW4K1W45SrqyZomosW4JdUSkEWQCcW5i4WPu4','WQ5wwGBdVri6WQufWO4xWQVdJ8oB','tmkHhq1X','W6T6W6JdHGjBECk9','WRPfavX9qSkSfCoGW7f+hq','WP/dKwFdR8owW4v3WQxcVfzSWOpcSff2oG','vmohW4xcMYRcR8kaDGFcQNNcGmkJDmkpd8okW5ddQCkZWR/dUtJdJmoqW75pWPVcKhuLWP/cIxfzWO5WW5lcVmkMlmk0ev7cKSobW7FcVmojj2j7W6VcLLpdMKiUW68RW5S2WR8pW7dcRbRcVc96g8otWPpcSJeeWQ3dKuq9WRpdJmoqWRpdUg9Wp8ozW6ddOCozlHareG','WOFcJIlcSCkYWR8zW7VcTGxcGweRnq','W458W7xdIJW','W7FdUf3dM8o9','WQtcNmobrCoaq1NdTCkfW6/cTmoHj3eKWPtdL8kfW7elWPddHMJdNey','w8k1ht5E','W5JdLSo1WPb2wCoTW5KNWQ4fdmkoW57cImkmBSoZuCo/WPmlBLiJWP1piZ7cUmkfumovegO3dWOTg37cG8oiWOZdTmkuWPldRsJcKZFcRMhdMddcOG7cRc8nWQZcHmo1WQmBuMSjlbiQjgFcJfZcSZDoysddPgnxluVdHSk1E1ahWQ1aW7HWfmoOW5JdJxeDzSoyWQL3b8kuW7KvWQvZWRiHw8k/rsedWR/cK1FcPCorW6ZdGtXHCJXjsYe1cCkYB8oMW4n0W4JdR1OHWPrpAeFdG8k7WR8kWQTLFmkafmkOyKZdO25DW5hdGrbhWO5uWQq1cHH3t1RcMdPOELhcN2tdU8ovhaP9ANJcOSkXWQHNimoDW7qnaKlcL1hcQqjnW4W','kLldQHmfhCkAW40kW4NdOshdUW','W4yaW4zWW7ZcOIFcHmoVkmoaWQRcNttdLalcNMrdWQNcOXz2WOpcUCknt8ocW4tcRb7dGcFdLCohWRSKkbDUju0LW5hcImk+buRcKGv7ACo5umk6WRBdUCorW7CCWRxcMsBcIgDTW6hcT8kMASkuWOddICkCCLn6h03cPhZdLSonwmkatYNdL0bEWQNdPYZdKSkCjSk+xIRcTSk5W6L8WOqNrCozimoXWPpdMq7dKv43r8oiW4RcM1ddUWyodSohgSoGn8o7DCkHWPVcHSkfWPBdNtVcLSoPltJdKcxcQ8osWP9ep33cUf5UtHFcRSk1W4tdNdb1e3SlWQFdQSkjkMXnvdTLumoHjJdcSSoZWRFdOgRdRsxcQmk9WPTXW7n+xHOqWR4clHeLWRymsu7dOSoUWRRdHJddImoJW4xcISkoWQXGWQrecCoWWOHcWOvFCf5KW4hcG8k1WRNdUt7dKrNdLZGFWONdNfVdV8o/oWaIW6aAzepdPMqgrmotjSkiW5LDjwatBZm2W67cH0VdTetcImoPW7VcSCksW7PNWQtcSCothX3cPSkkWQdcUbvrW7fMWQmmWQdcRf3cMSoEwY8jbfRdR3i5nSohBg3dPdRcUITqqgb6WQDywMS2WOiBdsr/W5ldKH4jft5Jle9kor81WOnwaSkqW4xdOwZcMmoPW7FdLCohWRDxWPhdJvFdMCkmWPdcS8k+eaijWOrbW5hdJ8onwenHd0W6W4mrW415W7ddSCosW6aCr0ddUY7cRdr1gcv/W5pcGmoymSocjSoWmMm7gG5CigJdOmk/W4DGWPzDydddNCkVfN4tvSkLevtcJ0/dPmk7W4ayemkYW63cTSoaz0pdNwbzWP7dON5sWRC9d8o4W7iuWOBdVKNdUhSkzK/dPKBdMCorp8onemkWCfldMhGOW5LNWO1PWRGcW7yXW6D7hSk9o8ojhb/cOvFcISkxbmkeW71LfmohhdJcJComW5yoWQHbW7FcNSo4W6yxm8kWWQxcO8ofW73cTNJdQq/cPCk+n8k7n8oqWOddJCoLW5tcOv5DWP91irJdG0ZcOmoVtSoeDCo7hrjHW6yr','W5ddHmkxmSob','WQmCW61TW4K','W40jW5tcVmktW53cRIXkCfpcIvG','W7j3W53cV8oek8ktW6tdSmkyta3cPWvWW6vmWQldJSoOW5qNWO/cMLmSW4ldLmkZE8kzF8opWOT2FW1UfLxdSCketCk9mCkcA8oaWR50bCo1r8kh','fmoKWR8pv8o3W57cL1q','FMubW6NcL8kPWPffeuxcQb3dUSk2nCo8W7rpWPhdQ2u3W5RdJxSSb8k3W6NdJCkrDZuM','W7b3W7tdVHi','uSocWOldJWuPW7vzW7aSWP3dKSoTACkGnq','WQlcIs04WQJcVCo5W4akWQRWQ5+w6ykF5OU25lUk55c3g2zxgdTiWOpcH8oCEGbfFfalWOdcPXNcLHrMbqzpWPpdJq/dNuqEdaS56lsk6l2i5zYU6kg4WRNcT1P9buxdUUIfUowkMoMdI+AlR8oFWP7cKu3cLSknW4/dISk4W7ZdKCo7WR/cOtrPFNLgWOCJo2NcRmoKW44','WOZcLSkAW6OmASolW5q','daddMt/dUCkjw8kzxGxcUSk7gvlcTcjtWOOPW4BdPHhcImkzW5avjSo0WOxcOmkLWOXThrqsW5y8W4RdMKVcVCkRWPBdMYxcO8o6WQRcRGHoW4iEW4jsuSkS','m1m/W6NcSG','W6f4WOWGf8oWeNGB','zCoWWPJdQCoOoSo0W6aaWOGFoSkWWO3cTZubW65UFeudWRNcVsZcQJb4','W7FcKvenWOO','vNBcGCkMW6joWPCacSkxW68EWQK','zmkPW5VcO+EaUEwhVowNNowlPoMsUoAmIbbtWRFcNmoMCIRcSMv2wLtcNSofECo1cI7cMK7cO8kkWOGeoqddKCktnJddPmk6WRO0W6LnB8oMW4PmmYfHW61ZWQRcKCk+EZtdRfemW6HcxhNdHmo4jt3cIsX0pLSgWOZdTf9QW6ZcS03dQKVdUL9oWQDVW5pcGh/dNNizW6G9w8oLWRWBW4NcN8kFW5HqW6nsl2/cMK3cQNhdKqldPxNdL2LKav0KD13cOmk+W7ysEvNdIZ5OWPHwW4BORARPMQNPKQVMJRdVVBHQWOpcJWFdICkezuCwW7pcG8kpy8kbbKlcUYD6dLpdKfabumoiWOeNwfdcI0pdVbySrmoIsxGyWPddG8kKW73dNGxcMCo6WOxcT8kuzYZcHmkHWPVdUu1mW73dOYjTW4a1WRZdLwffpX3cP019mSkKrSoVW5vQA8oJrmoYd8kSjwasWPFcJHajWRa','WR3cMmkQW5GB','WOBdOIRcLG','sSkIdtrfECokW6y','WP0FkSkHW7lcLCkeWOaKtCkJW63dLmorWRddUK7cVN/cT8omDSoyASkuWP5cW5RcR27cRmklW5pcJ8kEW4/dLrzZhmkhs0BdHCoGhCoumcVdKvBdVb9liKrcFGfpW47dLSkMWQjSW6HOWQGvW77dRmoZySo1lSkgW6eDoJW2AgxdSmkrxGjkxSovW53cUxm0ySk5W5RdN0/dVWdcN0C','r8oDjvfFW4FcTSo/oSohw3Kt','W7X5W5tdGru','WP/dKtRcVCoxW5XJW63dOqraWRdcN3r5B35VWQ0LWRLwxxlOTklOV6lLNlNOORjBW7JcMaBcImkFW6BdJSosW5LoW5iCWPPwASoByx4acmkRWPRcQKddG3GXc8kJFemWb0VcPSkNE8oylNe7W4tcM0lcKmozCCkznhv9WOJcI3xdQCoAWPekW6BcO8oXWPhdVCkRWQhcQCk0cJldKWhdK8oyn1NdLtq9W5BdOmk+wM8KhcCbwCoKduhcLmoPWP3dNeldUGj+xrKxCq','yCo3dhHFW4RcTmoihCo/l3bSzvNdOLNdJ8ojWRm','W6ufW77dGmoVWR3dQfuS','WRT3WRFdLmou','W4ldPCkkqCoB','WP/cRsBcQSolW5CGW6/cQq','BZlcMf3dMab1WPtcKW','WRtcRSkBW5yN','nSoXEWVcTa','W6OaW4H2W6dcPslcGCkrnmodW6BcMtZcNv7cRxSAW77dVq8vWRhcLmkUeSkx','WPK/eILR','W6TPs8kPW5q','WOpdHfJcHCojW5DvW5ZcNZFcVIP+dJSJW4jBtH1kkuNcV8oPgSk9W44','sYbpWQRdHCo9W4fYpNxcKbhcPCkg','WRu1a8oFWOJcSColW5annmkqW67dVCo4W63dTJtdLGldLSo/DmkkjmoFWPmeW53cVxNcTCkeWPtdOCkdW53dGaaRw8okjsRcVSkAlSo8zhlcGrpdVGuJB0bfzIS','W5uvoYFdHq','WQbWW5xdKqjlz8kUWOK2AbjZWOi3WO7dHqxdQKeQe8ooxmo/D8khdmonWPFdG3WJoa','fSkjW7VdMv9OW5fSWRW66lYa5OYX5AAd6lsAWQXk','ACkQW6lcTxlcIW','yMpcNSojbW','WP3dOIxcLMVcLSky','cHPWne3cTvPnWQKPqmkdpLbcWPrCWOpcQSozj8kiWQtcMmoEW6pcNmkxW5y','WRHHsbxdLCkEWPmIWPm','W5FdH0ZdKCojW5nyW4W','WRlcGmo4F8kWvmozWQNcNttdNSogWRO','WOdcRb7cHCkqW5O1zt5QW7n8WOZdISoMWOVcMLVcOttdPYPIWQnzW5tdHflcOCo9fCkBxYmgDCoqW6L0W4NdMmoluZLUpqhdVfZdV8obiCk8WQJcSa','W67dJ8k9hCo9','WQFcOb3cJCkt','WQ7cOfJdRG','WOW5WPdcJSoM','WRtcTr5lzcbOW6SkuHK5W79i','gCk+WRRdOwe','s1y3DqC','W7qEnw3cJG','amoCCe0/sSofW6NcSL0CrxvNiCo9BSoRWOTjrfpdOHz6WRmJW7ddO8oOW6NdUSk1WOW8WOfQd8oZbbBdJvT5WOdcMCoMW77dICo+W63cOCkkW43cPSkHBZjXWOjOyILEW4ZcKc3cR8ogaCoIWPfhWR/cQCkdW73dISk9D8kDqSo+F8o+h0j7c3GQh08bWOunWP4LW7JdU8oyW5pdGq','WPH6WOeXeCoW','WPuFWPBcKH5tESk/W5P58j6SOUMaLoAiHos6UUEtRCoPvSkVvIyrW4isWQy5WPymW5VdKSoeggOLWOlcK8o6zmo9WPhdNSkocZrJW7lcL3ZdMUI1J+I9KEwDSUIHKCo4wmkxk8oECZZOHAhLIRxPGPtMIlTIt8kxl8kiWPVcRGxcKmktm1RdPWpdGghcVmkPxb0ejrVdLmozaa','bHNdUSkZkZpcGrfgCSkrnxhcMmk9WPq','W4dcKv5EWPq','WOvrW5NdSmoyjeHvW7tdHSofsSkTW7uuW6hcT2RdT8kBWOO1WPbtW5NcKfzgsa3cKH3dL0ldGge5ct5/WRVcVqhdRX3dMmkVWOW','fHFdJSoPWRS','ECkYFGhdR8oNfvxdOSoKW6mEW5X9WP3cRmkEWPSYdCo6lapcLwvk6lEO5BYBomomWQi6dmo5772oW7ZdIcGCEmklW7XdWP/cOCooWRGDhd1dymkrASk8W6O0W4NcRLbQm8kgeCkOyamkWONcI+s+VUI/PowSREweTsGptSoOWQlVVl3LVPxLKAFdI1qml8kxWPJcLSoHm8o2W7KHFdFcLCk+pqa8nCoSWPHAW7FcKspOTAxOV4/ORRpKUP7PQO/ORQRcGw/cPLddVCkxW7VcKwhdVXxcQ8kiW5tdRo++LCo6fbZdHGCgWQldPqZcUGRdPCk/eSouANPMh8omW6fOc8kpB8kYW4rZxmoFWPZcRmkzemoNrmoTWOrTWP5cpxddRteDWRlcIConaCohW6NcOghdSCkWhmozWP7dTCoWhMddTSocWPVcLtnj776u6ik55zoT6ykn55w544kPDbqZWORcVLFcKmoBdGRJGy8+W4GRWQJcTx3dIvJORiBPMBRPKypMJ77LPjFKUOZVVAv4WPVcSCkmW5NcI3RcRIpdH8k0W5lcVsNcOfpdQ1ddSZdMSRpMHB3VVi8aWRZdUqFcSUocS+M6JUITRoASNUs6VEITU+MyMoMtHUAoMEwnLEwqOCokpwJcOoMEH8k3W7jT5ywVjCkB5lMR56IA5yYs6iUB54c0WQddUfFdIg3JGPFLVktLIk1MomkuW4FdIYtdUEwCJEwrSEs+Los6IEISJUMzTEMtGEAnTU+/HoMESEMaGUI9U+s6NUEsUUI9GEIGPEITSEMBJEAyT+AvM8kLlaqUWOtJG7tLPk3KV6RNLiRNMOFLRB3MIARNQ7xKU6/ML53MJ7dLIRFNI73LIPNOGB3VVP/LIP3cVCoQWOBOIAxNGRJKU6xLJ7BNLRjPFCkzv8olW5RdP8kCgCkBW4NcRttdIfNcTxlcMCoegmoKvHBdHxjRW74ah8kIWOmchcldG8knecddPeRdUf82ANbvDSkumKJcKSkHW55rWQ/dJ1ddVSkKW7VdQMn8gCksWQpdJCkTymkEtmktWOxcLCoi6igL5zo/6yoO55EX5yU05lQb6zgq5O6zC1/LJ5NNMAFMJzJLROdLHPhLROBMIQVNQAtdG+++PeVdKXhdPSoWW5OVWPKTWPrxagFdN8kWEmkRu8ksWQZdMSkVW7/dV2mczfxdLKFdKga2WQVdTSkmW7BdIMOoo8kibv4SW4lcU0ldK8k9BILuWQBcL0ldRCkgWRhdGZ1JW6CNiCo4WPpcUCkIh2rpW5WbWRvEAt3cLfz2r8k+WQ7cR1RcKmkSWRZcLtKzW5fPW4VdN8o1hq4VWOm/dmkfWQNdMd8uWQBcHbNcOCkWaCkbW4PXWOVdPcBcKCkJhqOe','WROCW4XXW7VcOIJcNa','fmkYW7mAs8o2WPdcGLS','qmozW5pcVWa','WQNcVapcV8k3','W40mWP3cQmkkEeG','B8ord3H2W4RcTSkEcmo0FMH2z2hcRG/cKmo4W47dOKtcMCorWOpdK2C/jL9rW5PUe8o4hCk5omkIWOGDW6yfd8osW7nyW4hcMwuOBsddHmov','WRFcPfO','WOJdUtqYWOhdHmkLvG3cH8kRqCkSW7RcH8kfghldTmowWRytWOtcLmoHlsrlWOKPBSo+W5nZj2ddK8kSWOZdLKqsW6tcIcFdPCkPhGhdVXdcN8oIW7ldMGXkWRBdJHFdMwxcJNuAiIRdUCoxk8kKW4RdO8kEoW0rW63cMSorddOMW57dTCkqWPJdR2S7dSkkqCkSW4HGWRddO8on','CCo/WRC','r3itCIu','bJpdT8oJkIdcMe5C','WOScaW','ouxcLYVdUmoDrmkDqXNdRSkmvX3dUMCfWPG4W43cQupdG8ocWPznlmkMW5NdSmk1W5O/kKztWPH4W43dKKpcO8kRWOdcJMVdKmkQW6/cS18DW4q+W4jsuSkRWRC','kNtdQrnXomkYWODfW63cVrZcRCoNWQVcMSk1c8kYWPJdISkOWPldRmkgDG','WQhcLqhdHJ/cGSoxdw1MWO7dKa','r2JdVJhcONPgWPNdLCkIW5vcB8oMm8keDJpcOsH2WPddV8odWPldMJjTW5lcPSoTW67cUdddIs4zDKywAIlcReDoWPddO8kRvNxcQr/cNSkXjGLwW4xdOmkkWOJcGXldI0VcImkkW5FcU01PW7n8W5FcKgOVhrnccmoXhb3cIgBcSSkPWQBcLmoZWOulW7JcICooW7KXW7RdTWRcUtldIZRcUCkIFmkwhCoRWQCCW4RcP8oJW4PzWQVdQCkZWQ3dRSkgl8oMWRpcSmk4W50iv3BcPmoRW7zaW65PEXf2WOJdTCkxyuRcT8oPW53cQNLjW5ncBG4gvSkxW5FdP8kKW7ZcSCkgk8kyW4ldJfidAKrLWRr3aCoBl8kjWQldSCo2bq/cOCofW4dcLe/cHsSnkd7dKbOKWPzjWPtcTCke','6lYV5O2b5As+6lseaW','jSoYWOVdSSoY','emouWQ7dOwNcMCovlCorWOC/W5tdLZpcMGS','qYlcHaxdMriHW5/dK8kHW49DACo3z8kvlxNdPhnGWO/cQSooW5hcO09z','WONcN8krW70','WOZcKmoRomkWeXZdRCowW7ZcQSoYmxbXW4tcMmkeW6bBW5ZcGW','WPldOZFcTLy','W4xcNLGvWQNdKttcRCoJWO7cVdq','acVcN3tdNa','mdZcO8o3E1VdPN11w8oBEIFdH8k1WR/dMX7cImkTmCkuumomaSopaCkbc8oxBKxcK8o/W5O0WOJcUrqNCeSOs8kCWP5yWQ0MdcBcQaqSvSoUW5tcS8oZx8otW4JdPmkRb8o1pCo1W7flbSkltSoCaCkW','DcVdPtnxy8oqWQldTq','WQtcTSomeCoxuLhcQSkFWRNcM8occ1qzW6S','EIBdGmoYWQPEWPjXcSoTWOPHWPmNjmoCg8k9FCkpxG5oW6v/gmohWRm','lSoLWORdRSoHymk0','emo+WQpcSwJcISomCSol','W43dSSkvb8oi','WPZcUtrItqrQW4eIFIPRWRLLn1RcLmoTeXlcLhRdQZSifY4cW7HDWOVcS380gqxdUW1sWRVcKCoXFmk6WP4MyYZcIrhdPSoXWQ3cVsu4zmoKWOm9bYZdK8kSy8otCSkWWRxdPapcQ0K4W4tdSMxdPSkXhSkbeCo/hmkvW61IWO11zdldLSkRWRH0W4ZdImkYWPzNWRDJvXmEW4HfWQdcSmktWPj3WRb+WO/dJrdcLeZdGxHAdNdcVL1vrSkPW6CgE0BcMdCDW4BcKCkgW4xdNwHwD2ddIsTOmmoLf8opzHldNeZdTSkbW6TormoRW4SpzSkViLnNWOaglKSwW7NdQmkLWPNdUmoRW4hdQ2ZcTaBcSCo/z8kuW6xdQmotWOW','FmoTW6ZcSGpcOSkaAeVdVcBcUmoTbW','W53cJGNcMCoz','W4uEmhlcKq','W7SXWO3cQCoFv8kFkrBcJ8o3FmkinCkbCdTHW6ZdNchcImkSyvldJJ0GpSo5g8kbBN7dP1ldH1LOW6VcHwVcRgK1WOyJDmo5y8o/tCocfHBdSeHxWQ3cHSkmdMRdRSoRhSovFYxdJIb7bGNdQSofW5pdT8k8CHhdIxhcThZcShldKCo3W79agmogWQHTyI3cIaa','WRvJt8onWOJdR8kEWO9w','W7mvz8kjeG','W5FcJu3dUWFdHmolnCo0z1/cGSkzWQZcKWmbW4tdIIiSwmo0W4K7WRddRIOkpmoHaxhcNCoqWOe','WOzACc/dLdytW4qaWPCEW4ZdJ8k3Ca','WONcRSoJWRFcIW','WO7dHKnsW6hcSMFdRmoTW43dS3KeW7FcSCkKW6a/mmkOo8oEEmoOfmoU5l2s6l+A5y2O6k65umoFeGvcWQ7cMcJdOo+8SK0vWPRMI4dOGlm0BmoIWQFdH8k5W5BdImoUe8kihJ7cTW1gWRLbW69SWRCNW5JcPvuWdSoFWOtdJWqAr8kmldpKV47OOBZLNQxLK6qQASkWfCkLWRBVViC','WONcPSomWRJcQq','W4ldH1ZdRCosW5HpWOa','iJbztsVcUGj9WOa','aNtdJtPIDCovW6T2WRBWSRYy6ykT5OIU5lMO55k+W4XoW6dcMSowWQRdLCoSWOyNufRcUSkVWRnbW5NdTGHZgbrwndhcV298tCkMW77cQWZOTkBOV6/LNltOO7ZdOJKkirOOv+IfOEwkQUMcN+AjVuNdUdzMWQBdPK3dObLsW592W6xdU8oSWOWPBaFdPSkuuCofW7rCWPS','W7jvWPFdOfVdQ24lW7qaWPpcKCouWPGNm29+WQOVW5/dQ8o/su4','WPFcRSkkW74p','uSoOWO/cMbHLW7DmWR5/W6tcNSksh8k2sMVcSrFdMZFdUHtdISk1W4aaWPFdVXz/pWFdMZPxymk9W7tdRWLTxJrVW6ddHSkZW7H/i8kRWOaXENFcJgDc','WQlcOYbVWRxdSCo7W5veW7LRW5hcTJ8jeweNaWr4gmoeWPldG2WbfcSgsCk6WQuZW4zgkv0ht8kbWPnGWO8xbcygotuvstNdU8o4csKFsa','WO0KbGpdKSkoWODSW5PiwmkazCkKaszydSoCW4/dJmomzctcR8o1n8oLW4mBWQnpsSkP','W7VdMCk/jSot','W5JdLSo1WPb2wCoTW5KnWOyPp8oCWPRcPq','WR0eWPJcKmov','W6H0z8oGWPm','FXVcGMLJD8otW6S4','WQ58vWBcS153WOn5W7ecW5ZcOCosfSoh','t8k9mHJcVSkFqu/dOG','WPRcTtaQW7ZcUSo3WPajWRaZW6VcRcKDcYS','W6vtWRldKmoPWQFcTKaJ','WOHMWOe3j8oStdj1xa','W5FcLg5vuvpdH2RdHgXvdZVcRN3dTmkaWPxdGHxcRmkCW5FdNSkwWOhcI0G','B8o9WOizxG','w0eRuWi','yCkSW7pcLmkjj8oXW7a1W4HEcSkWWPVdJxyQWQ4VAe8a','WOigg1lcTqi/W5qfW7rYW5ZcM8oGcSkRf8oZpWFdUmkPCsVcTGBcL8k9','lHJcKcD+DCowW6OJW7VdNM/dGCkJWQ3dJmk/hSkLW5pdMmkPWPBcVSojj0el','6l+s5O625BsL5yEG6zAO','cYJdOdi','FCkwW4xcJZ8','W40jW5tcVmktW53cHu1pAvRdPJyalG','WPPEWRGklG','WR05WRhcU3K7hSo4WOK3DuP+WPGRWO7dGuZcR0q+dCoutCkQqmo6ACk3WRJcKMC+ACkbW4pcRZZdR8o+WQtcVqGDy8oYWPu0WPqXtLLvWPzAWO0RWOOSACoUmCkxW5THzSk+l8kiWPtdQcJcT8kMe2VdG3VcIs/dQmkRsX1LacZdSmkhmSkKW4jbW7rEW7vSEN7dHWzxWOVdK17cVbWiWP1hCcGoD1lcJNqbkq7dOx17WOZdMCoUW7pcUYxdRbKuWONcSu4YEb84FbddJJ5qW6z4W5tcVLOnWQhcKrVdSCkAj8oHgCo/WQ0tW7NdUrJcKSoXpIHEiItdPxaiWP4fWPSrW61IntTqW7z3yZiqhhhdPSkgWP/dKSkUDSkkWOWeAcmsWQyy','cmoKcmo1W7mVoNa/vSkLWOVcQSk0c8ksmhaDeW/dHCoCyaBcQL48wKiiWRJcIdRcUWZdLCo4fmoJpCojivBcJColwSoJWQ/dMeS8WPqWCmokW5X3','wdVdUwTwCCkeW6NcTCk/xuVcMuOiWPFcLNBcLu4gW5FcK1POW7hdK8kf','wNexwsVcPq','WPZcUtrItqrOWOHUEsn7W64TCGpcPmoeFhRdSsVdQ3LJFeTUWR4kW4xdV3HKvKdcRa1sWRVcKCoyFSoRWP46DcVcLYVdRmkYW7RdUhnWmCkJ','vSkvo8kSuSo4fSoRnhblcL/dSIHpW5O','WRJdIq8BW7/cLwFcJ8klWRlcHw57','WODsfbK2vSktp8oAW6qpySkzmHy2E3/dLNuDsmouW5VdImkyW6aJF8oFBJ3cS8kntmkSB0WeWObZBGSUW49LurhdS8oxWPb7fWldICk7wGpdKq','WQ4QirS+W4hcUvtcKx4nlCk5qKKYW5pcJmk1W5tdHCoJW77dNW','W5P/WR7cNsVcUYTSW55/W7BdVCoAW4CNgKyeW60TW4JdUSoLuvtcMmoDWRmHW74dWOmHW7tdImo6W6dcV8oIgG7dSCkBW5tcPmoqjxuGA1pcSSoIlLKkBY9OqSoiWQj4WPZcNComa8oOgGNdLXJcOfJcLCoLW5hdJbRdSKhdK29YW6hdRf3cVLtdNatdSGLTy8kU','sCkGW5NcVCkGkSoXWPeaW7j6s8kk','WRlcGmo4kSo0cCodW4RcVqRdPmkaWObNurFdUSoSvdpdRmkjCdKbemoeWRdcOZHtWOddVCkQWO8fW4a+W4O7zXTaeSkBoM47FCotr8kYW7Tt','W5rAzmoJWQ8','vNBcGCoZWRCkW5n5Ba','W4CqW5NdT1ddONTfWR0zWPhdICojWOrdDML+WQO+W5ZdVmoKbXFcHCklW7bTWR0uW5b6W7W','W6eUW4bLrmkUcbrYDXvDkG','W4CAfvxcUa','W6BdOf3dRG','hctdVtnODCkeW6RcRSk6','W7WPkvjJW5dcU1hcL31Fnmk0rX01W4/cImoTWPZdHSo2W7xcJ8kxW5OceW','W43dSfap','W4rAW4pdSbZcKGe4W51/W7BdVCkUW6irzYSZW7m/W5ZdUSo5hadcMmkCW7b/W6GuWOmXWQpcISkKW6ldSCkCFsRcImolW4NcSmobmI44AX7cQ8oYydPGdtjQxmklW5GiW4hdKSkVtCo1eXVdNvVdQbZcN8k0','Dh3cQxyepCokW47cNmknyGddJhe','W4ZdSfiojx4TW6qJBIq','WQ9EpMDmCSo1BCohW7LgdCoAz0rZkstcGNTgbmkfWPhdM8o3WO0xrmoJENJdPCoRh8kUDuWxW68Ba2DvWPX/EvtcVCkwW5i3uI7cHmoYdK3cG8kfa8kuESknW5ClWOJdLtZcM2WupqGboIFdKh5wW4hcVmkLE1/cLSoSWPZcMSkWA8kTW6e1kJenWP9OW7rGnmonW6ars8oSWQVcNfjrfsWti8k8Fv3dLmkwW4KdhtRcT8kfWPlcHWBcPxNcR0jNWOK3W6SakCkRCCkYyxKPdSoux8ktDCoIW5mRdmoJWRxcMNZdJCoxe0NcJ8onFgFcKgr8z8k/v8ozj8kGW585W6nMdSoPWPK1W4BcVSk5WOOIpZupkqxdLwFcMb3cOCoQW6xdHSoLFCkr','qspdHY3dPG','W7HJu2yyWRJdNbFcU1zPgmoGewq','W5BcGgyOWOm','oJ/dJ8oI','fCkTBmkFWOHFAIr0tCkNW4xdPSoHrCkmhaPXExpcLCoqEH7dTvW2uauuW77cJhxcVaJcL8kwCSkhxCk6zKhdJSonvCo2WRJcULiUW589pCkdWOHO','WOVcTSkYW641','W6GarGe3','aCo6WP7dRePfharSxeHED8kizGGyW7n0fW','WOntW6lcPCoT','W4O7WQdcNmkZ','fmkAW6BcKIy3EG','WR89kWbJ','WQ/cGGJcMmkBWPSBW7VcTGxcGwHe','WRHlgbldJ8kpWO41W5rvwCoiE8k4vuLtxCoxW43dLmoBn3dOT4NOVRxLNitOO6JcUH3dSfvAW6rEDSkmtfuacmoNlhVdK8odW7TcW5eBWP3cL8orEmkKWOu9i29aW70sWO1OW4hcG3tdV8ouWRy7bCoUWRS7mCozWRnTW5xcTuZcNrFcMg3cNdCFWR3dGSkrW5CVWQxcTSkNWQZdUJnMBCoeWR7dPmkyjHBdS8oIW6GoW5NcG8osWQBdG8ofWPmhWPfRvSk9W70eWQ1pW4FcNSo+W5G','6l295O6z5BE65yAm6zwy','W5rRWO4MfSo6wcnDrY1zg8kddCosh8o0W5auW7hdGqCRW5z5W5eEgCo/WOO6WR7dOa','W5m9WQFdLCkYb8kfkWpcI8oPECkitCo+icb/W6VdHdVdJG','a8oYyaRcUmkjurdcRa','d8oCWP3dRgnShdnlzdXCca','W7HJu2yyWRJdNbFcU1zPgmoOFa','W5ytg0lcPgXUWOC3WRq','WORcLmoSAmkPtConWOJcRG3dRmkIWOO','WOhcLSoMWOK','rSkPaSkxyCk+vCkdb0mGmXJdQbz8W6NdNa3dS0BcSmkxm2n8W6hcQGLqW6DAhmkuWOWczmkiWQRcHbTTqvtdJqVdLxrnWRjeWQVdLM8UW4WoWOryf0NdT3ynWO/dJtGWcerSAmkcsunoqmoCWQBdHmoVW54qWPWne8kVmcWLxSkHW7VdH3O1','WPRcNHdcLmkB','WRdcMmofWRNcJq','WPpdTqpcGMy','bJpdT8kZzx/dJdC6dCkes3e','WOzACc/dLdy4WQufWO4xWQVdJ8oB','Dh3cQsfxpCkfW73cRSkHdJVdNa4oW4pcN2FcHbTlWOtcLX04W6FdG8kfW6ldUmo9khJcILLWWRRdUmkpvSodbceYWRFcKmkTsCokWRGromkaW5zJgfxdJvy','BSovz8o7g8oTt8oXiG','rCofW5pdIqBcNKBLPBhNK5ZPL7xOROddUa','WOVcHNP5ya','W7tdH38Zna','WQr/W4/cVSoS','bJpdT8oNpclcIu5Cjmk+fL3cVCkdW6VcN1pdKCk9mSkfvSkzta','W4lcHL1pWO3dNsRcO8k5WOG','i8kbWONdOfRdKZzvWOFdPMBdIYD2W5xcHCoSsmopnCo/WR4VhxJcRGBdNr9dzCocW7S/WRSUimo8WR7dPbpcMmotWOriW5zSpmo2WPxdG8o9hrm2omoMBJ9HymkPW6xcN8ocWPX2kHrvWRSXqCkhW73dP8kiWQJcHuHcaCoOW6D8kCk6BSoHWRNcTZ7dGxnCCMNcPSk8Eb3cPmoD','WPRcQSorvSkzCmozW4RcHMhcGCo6W6XKdbVcHmkjlGddHCoFCI0qCSogWQRdRx8iW4JdT8k8W5KnW5v/WOKtAZe6FSoGrsK9ASoct8o1W7TtcWDvWQ1RW74mW7xdMSk1W6GxWOxdQmk+WR3cP0ldGGTmyNhcI8k+C8ktDSkZdWCYqslcPSktmM7cKSkpW7u9W4xcSSovuCoIW4y0','W74yWQBcTSk+','W4HNsSoCWP4','W7OukZBdGq','sKlcPSoQkq','WRtcTr4EmwqSWPjS','v8opW7pcRXC','lHNdNSkAthldJcL2w8oBELpdOSkdW4lcTINcLSk/jCkutmkbvSopqmocvCobEuxcG8kOWPHQWORdT2Pavdj4vSkiWO9pW7y+dgVcSrrInCkeWRBcRSoXqCkqWRlcLmo2smkwC8oOW7HzdmoibSkyc8oHWRSWW43dOW/dPIK0WR5wW7NcPZTcmmomqGZdR18','trtcMLHN','WRvjW43cSmksA0GbWRFdGSoqx8kQW69XWQ/cQNFdVCkhWPL2WPemWPO','WQtcNmobeCkzhHZcJmoJW4BcJSk2cW','iJbzscdcUeXNW4zbjCkluvnRWR0iW4/dU8kqySkCWRpcKCoFWQtcRmkxW5rqhXpcPCkFWRNdV8kiWOD0WP3cMmkQCKzOW6u4W7m5WO7dLJuqwdW','pmkQW7RcSwldHCo5','rCoKaSo/W7mZkxa','W4ZdK8kfsa','zwpdOG','s3enxIW','WOldSdpdNhJcJCkycCknaspdV8kmW6xdUhL8WQJdHfPkiCkyW4D4W73dSa','B8oyWP0Kvq','WOdcGXVdLXBcIConr013','WRRcGdpcN8k7','WORdKLZdGq','WO82aCo2WRZcH8oNW5xdTqVcMmoMCmoBW40LW6TGWONcNmkXeG','WO5FWQtdMCoq','lJ/dNCkAthldJfypn8kGbuVcVmowWRVdKfldGmoTFSoa','W4jAESkwW5BdHSoPWOhdQbNcNSoQkCkuWOi','W75hCmo+WQG','W5JdLSo1WPb2wCoeW5TSWRmtg8kBW47cImk2pmkMa8oTW5bDpq','WOtcJ8kSo8kUC8oWW6pdKMlcGCo6W5KzfqNcSSoIuN3cUmksBgWhDSkfW6pcVMafWPxdPSk2W4rDWPqNWPrbnvjEfSkBnsLPFmoCsCk7WQGqqK0eW6WoWOD8WQJcLCowW7LsW7/cG8oyW5xdTqBdIfG','WPKpWP3dUCkzEKnFW7JdMCkAsSk4W6GtWRlcRZBdNSoqW5XvWOzsWP/dLMaDculcN0O','W7FcRIZcQCoDW5y','W510C8olWOW','fCkHWQpdOuy','WOtcIqKrW4/dVmk0WODeW6S2W7NcRd8lCLCziv1XzW','W5mkWRldNmkKW57cRe8SdYxcKcCturH3WOJdHxWUnx8sBfhKVl3OViRLJlJORACvk8oDdrmGW7BcPYFVV6fuoMFMIBtOG4ZdSb3cU8oNpCk5W5ldJrePbSkxEMRdS2y7WReYW4NdRmkoWOBcG8o6fCkmomo7vvJcILldH8oCW7hKV5JOOzFLNQZLK54CfI52WRtdJE++LG','r2JdVJhcONPTW5ldKSk/W4neECoHjmodBINdPY97WO/dQCkkWRtdMtjTW7NdMSk7W7FcV37cGcXyxdqvAGVcHwWlW57cOmkSvhhcR1hdGCo1CeedW5tcVSo1W6tcPHhdOMlcO8oLWP7dTqHQW6HIW4lcNhyRtuamxSkWtK/dHwJcV8o5W4pdSmkFWQ58W7VcICooW5bSWO3dKGNcUrVdI2FcT8oyfmo8F8kUW7nHW5/cQmoJW45yWRBdMmkXW6hcT8ojACo/WRZcTmoXWOjCfglcOCo6WR8jWPabfLuKWOJcRCoVcs3dJCk5WPldUNKzWOGmzNrGlCoQW5FcTCoHW6BdN8oQumoIW6NdLbODasKjW48Ka8odr8kDW5VcJmoDnIBdMSoVW6VdLsNdV30','W6NdOuWSha','WRldLSk0oSoJcSodW4xdTa','WOJcNmoFWOBcQq','euNcVvxcGSo5iSopxGtcP8oJfeJcQcjxW4nSW4pdSG/cKSkiWOuIqCksW6ldJmkHWP9PtbvrWOj4W57cVsVdJSohW7VdNxhdUmoVWQhdSH1rWOesWO8BbSoLW6v/WO8FWRH+W7ZcPmkFuCkeWQv0kmoKW40qASoLbmk6iKhcKmoAWQVcKh3dSSouDLldHmo+nmo0bSkmWPOBW5DDW6hcO8oGw8kWWRNcU8kQWPpcHrhdRCorW4BcV8o5WOpcVLDBWR3cG8kdWQuEAhDeW5Dyv8oWlmovEx/dUeG8W5hdQdRdPJOmW5KEf1BcMYxdRZ/dGtPcWOONW4yvme3dV8kNW6ZcGtpdVCkcWR5jWQ/dQZlcPaFdGCobg8kcW4ekWO/cKunkjGJcOYRdOstcGKhdMmkExaXTW5LGFuel','WQScvrOTrSozFCoOWRiglSoCDHmLtYZcLYSxs8k1WRlcQmkRWRzb','W53dKSkQmmoI','WO7cIH3cHCk5W5O3mYTHWQjKWPBdImoEW4FdJatcMsxdNq','ESo4FaVcO8kurqhcQ8kRWQ0dWPiYW5pdQCkyW4H3tSkVFLBcJxvjACoWFSozW6uOfmoTjSkYWPKPfYJdKmkZemolWRVcLCkTbeCkfdpcLYldS8k5ymou','W4yKebtcJ8khWPT5W5PjdCoEy8kQhtaBcCkeW5NdJCoyigG','WP05WOZcV8oflSom','vLZcJmkMWQWcW5OMDSoOW7PHWQKvnCkW','WPLLqSoCWPpcOCkbWPi/ySkzWQlcUmk8W6JdPqdcHupcImo1D8oRtCk/WQbwWR8','W7SXWO3dVmkBcSkfsJBcSConomkY','a8ogF8olaCoWaCoM','W4iGddpdLmkwWOvS','r2JdVJhcONPgWPNdV8kkW7LXnCom','WOGJW4S','WOeqaSo2WRZcRSoLWP7dRXNcMSkNp8kjWOPeWPCFWRNdJmoSpJnHamo+BSonW5BcICkJWRipW71zFaldPSkds8kTW7XEkCkRjfldMmo/W4/dT8k6jSkeW5RdOCozx8kWWPddJcbdW4pdN8oPW4zQWP7cVCkvASotihVcO1RdMLpcRgCKcIldMGygWP96W7vnW5pdPwbHtmo3W4tcJHn8WPJdRSk2n18RWRBdPSk7WOpdQvrKtHdcV8oYrstcQxBcUdiaWRGveSkZWR4tW5TlWQrMxLfYnCoEW7zjnSkiWRrtW4PLCqxcKwWBW4jqWRFcJrfZbXWjWRaGW73cSwFdUmomWR7dMSobW6tcV8kdkSkXW6fHWO94r1xcSCk3W4VcICkEWOyDwSoRfW','WQJcVhBdO8o9WOmRtxzIW6KOWPBcICoXW6ddOchcLttdOsTTWRvuW5JdJHxdQCo/x8oJcMykx8oLWOquWP3cI8onts54pgpcSe/dVCotiCk4WOlcSNyFffWMFYxcP8o5jHfnWQ7cUGhcKrGQvmotb8oVWQX9W4xdK1JdNxZcP8kJW4ZdKuBdMSkDW7/cR8kmW4CCWQHmEe58W6j7F8oSqCoxW7VcSxtdGWZdGmoUWQP1mCkgkx4EAmkCW6DEWP9GdfNcHCoTW57KURxNKyxOHlxMNkrzWO4PhmoWqXOiwSoAW5DpW5SQrgKcW57cN8oGpf/cQ8ozxGqytJvLWPWEWOlcLJbHW5BcMb3cIa','sCkGW5NcVCkGkSoXWPeaW7j6tSkk','WODHWOC','W4RcMvTmWRu','WRpcSrRcRSk7W6NdOa','vmoHW4BcMYRcHSkacY/dKbxdU8kOpCo3wCkZWRBcUCk3W7ZcT3a','aCkFWONdTLu','FNRcQ8kpW4TQWPuacSkxW68uWQK','5Psv5PEp55UaWRTEWPldN+wDMowEVUAVMW','W4FcS3ddHtFdKmoFcSklcdldMSkl','WPfuamkkp3bMth5UW6VcKCkjW7dcKmkmWQldMmo8W7FdSColWRLZW5G','W57dImov','WRLLW5RdHHGpmSoOWQz8nwL4WOL8W5JcP0tcUHrVqG','WPfuamoEzI0JnrHhW5hdHCojW5W','B3/cUmoGia','gmkSscuM','bJpdT8oKnN/cGWqiiCoOEq7dRSkPW6VdJ0hdGmkNFSoabSkmu8kkbSoqwmkrk0JcK8kxWO56WOJdUWGSpf8/umkcW4uGW7qKdgNdPKCiumo+W4VcTmoX','WOS7WPtcQCof','WR1/WQVdLSoC','WPtcRhr8W7JdLCkEWQW5WOnyW5lcNXyvrxv4sW43tmksW5lcKIKgrxHadmk3WQvBWPiikr8BrmonWOD3WPqjx15FoZvAb3RdN8o+gtyysSk5W71aWRTsWRRdVCoDbmogW4lcGmoVWOpdISk8WP8','B8ord3H2W6pcTmoveSoRAcK5nx/cHJZcUCkxWO3dQ1NcNCkFW6xcVWOupGPrW4rOvmoUn8olo8kIWQnNWQnxw8osW69MW43cLg0PBsddHmkdcSoBWPSEESonWR89W413W4PkWQBcU8kqW4pdTsxdUGtcJ8ojW7m1WPSnCaq0nZHqW4nHC8o+FSoupmopfaSiq3tdPCoGWPBdS8osW6xcMmkaW5pcISosWOv/rd1iySo+tCkrWPddJmoAWQJcLSoWrCklArpdGYXmW4eMW4mfW7lcOWL7W6lcOxVcTCk3W710yx1AcbxcTJ9NdCkPj8krW5untCotC8o0WRCgW7FcKZeRWO8VW71VqCovlJJcHbBdOCkzW5/dOCkwEmoZBCoUW7HK','pmk+W5LJlCknW63cMHj9ymkkWPb9yGj4f0zCWO/dLN3cUSomgmorBCo5WOn+WRJdTmkfWPOHWP4fW5ziWQS4WRn8DCoGWQZdGctdLmkxW4ORmCkrWRWda3hdO8k7W7G/W4v+W6bXmgiHW7GoWQddNHhdQ8kYpSoSWOBcS8k/mtXOwaldN1zhW643W6eXWP4KWRPybSoLBCk3smo0FCkmW40HcgBcNmkzluhdGaiTWO9biqC/A8kkWRBdTmkqWPldS8kNDCklA13dNmkNWQuKjqKjWRihWP9AW7hcIdSLESoezgnWWO/dKdddIcZcH8ovWRuvWPhcUCoCb2lcKmo3d8o0dh7cPXfsWOvSbtu+Cw7dOmkbemoCWOVcVmk4WO8GDSomWR8GuCoRWOpcKceGW6S','W4xcN8krW7OnkCkuWO8NWQ8yvmkdW4tcLmkmASk6fmo6WOCvDen2WQOYrKtcL8ous8oiqq','W4NdMCkv','W5tdTeNcQmkVW6FdOsNcPG','WOigg1lcTqi/W5qfW7rYW5ZcM8oGcSkRf8oZpWFdUmkPCsVcTGBcKmoqDG','WOvmACklW53cMSoIW4xdH0/dJmkcl8kFW4PvW6KnW6RcM8kWBHulvCkHx8kB','iJbzhwtdPvyeW6z/h8opAW','rmk6gWfq','5lUb5PwF5O6O55Qg5z645z+y57g85zY4','WO1CWQRdKmowWRhdOGH4rW','W75XW5/dTWzxECkUWQWWDvT4WOm8WPK','iCoTq8o2ga','mCoLWONdSCoHzmk0','W4mVW5FcVmk6W7tcRHTTscFcIICrmN4iW77dKGm','WOhdVJtcLW','WP3dPxRdR8oRWOnLmYnPW65JW5JcHCoZW6tcTshdJxxdTZzQWRvmWOZdJH/dTCk4r8kpwNTyhSk3WOqsWOBdGSourcSToYFdOLJcR8otCmkGW6ddVsvlcq','WPZcNZDIosfcWQffDKubW4u3CLRdNCkObWxcNxVcRc0Ipa','ew/cVLxcGSo5c8onAMddNCkpFJtcP2T/W7bfWQZcMKhcKCkmW51aASkHW4VdP8kSW5v4rfTbWO1UWPxcLq7dJCohW7VdTfJdUmo+WRBdOXOFW55wWO9wvCkZWP0dW6m6WPjxWOJcGCkCEmkTWO4YyCkOW54mAmoWvmoPBbFdHmkmW67dGw3cUmkkeZBcQmovhSoDlCoWW6ypWRL2W5lcISoI','W6eUW4bLrmkUcbrYDXvqkG','WOFcJIlcSCkYWR8BWPJdKINcSIjTd28iW4TewvqFye8','WOpdKKNdJmotWOSEWORcTN/dPbz+dJHKW78zhHynEsZcKCozp8o+WQW','WRHHsedcGmoAW5DBW7v4ymkmomku','lSkmuX87','WOdcJWNdLd/cNG','Amo+WRyzv8k+W4VcLW','WO/cPxempfqkW6i','ndpdGmoIWQCrW4q','smoIW67cNb8','W5VdV3Kgfq','W5ddPxxdQmo4WPH5iG','W4eKbGq','WOXFza','WRVcHtZcUSks','rdddGrRdHG','b1GkW5NcNW','W6PWumkTW5a','WR9cav0','aLxdUdVdS8kPACkN','WOz5W4FcVSow','WOW9WRxcOCoY','WPObW5/dGLu','yCkSW7pcLmkjdSoXW7jKW5Lad8o3W5pcSN1pW5vsq3WcWP/cLrlcNM9cW7DLWPdcLSotaJ5BW7FcKdyWW6tcUSkKAmo4xxBdP8oblvDjbCkbwmkSWP7dQa','r8klArqmWPNcRmktuW','5PE+5PEA55Mxi3tdSSoq5z6i5zY75Q6M','WRvjW43cSCkpAXCBW7hdLCoqsCk8WPzBWQ/dVMJdQ8opW49NWPfdW5/dRWqpuHhdMX7dLepcJs9GdIHiW6ZdRLtdOGddNCk+W4mAsqqOlmks','c8kbWQ3dIt3cU3SqW6ddJcZcHhePWPNcM8k5','sYbpWQRdHCo9W4fYpNxcKbldIW','WQLZWQRdV8oR','qbhdLIJdVSkdF8kitX4','W5FcQ07dUWFdHmolsSkncYtdVCkbW7ldHNPNWR/dHqOFCq','WQddTr5oW6ZcLmk/vbJcG8k1rmkSWOldUmova2ZdS8ooWQXv','t8kfW7hcGW8x','fJJdQdjbySkz','cJXZne3dGvqeW6z/h8obAW','WPlcN8kEW70AiSkx','W6JdMK/dGJxcNSoxgHK','w8ogzCo9gSoNbCkQzcvhbWVcQ3iqW4BcPKRdOflcTSkwzsbHWRFdQuutW7ajr8kC','W5NdJSkirCoyuvdcQG','WOjPWOialq','WPJdPv8FldbTWPOkkhXoWQLZD0VdQSo/qexdIcRdJvfDsbbu','jSk8W7hdVW','ma/dISo2WQa','6lYs5O+v5BwB5ywX6zwL','WOD4gu4RgSkrkSkuWRD2lSoMraCLva','WQlcOYa4W6BdSCk0W6z2W5uhW6RcP0a','WQ5wwGBdVri6WQufWO4xWQJcOq','jmkxWRNdSwu','W7dcJmktW7Wmi8oEW5rH','W63dN8kOW43dQmoffmohkJLyAuS','W4tcNb/cJYJcJConrfzYWPFdJ8khW418W6ZdNJRcJCo+pWy+W58mWPxdJ2W','W78GESk8jW','yCkSW7pcLmkjj8oXW7a2W4Xpf8kWWP3dJwmRWR80lHXoWP3dMuNdNcfxW7iKW4hdK8otes9AWQNcUbmZW6tcUSkMo8k/w3ldO8oDauLhgSkqwmkSWP7cSrbFWOK9emkjltCuWQJcG18JW4DTBvG3l8oMWRGEo8oxW6eCW6OiWQitCmkpwmoqWOb/W7u','WRJdIq9oWRVdIh3dRmkRWOZcVYPbW53cSCkKWRrZy8kYo8kknSoXgmoAuMLjCGZdHHGdxSo7W4O0WROIgKBdICkZrgj+W7xcQ8ovWRVdKmkzWQS','ibNdNSkAzxldJGaDnCoWsq7dRmokWO3dOhBcHCo+gW','jw8eW5ZcLq','W7HJu2yyWPhdTrFcI3veomk0uwqXW5NcISo8WOpcI8kL','FNRcQ8kpW4TQWR5HjCkMW4PcWPu2C8kkFCk1AmoFd0f+W4ymrmo9W6vDWPjsdYpdHCopW5a6WQjHW5xcLCkeW5VdRCoYnCoeWOiBEeTPW4vEWQNcPSoQhqvZW5FdV8kGW53cOCoYDK16WR/cNNHZbHBcJq5fmSo5W4qesmovWRRdMSoTW7hcKSoVACk4lrjqWP7dGSonWRH1WQ8rWQ7cLY7cN08bqmo/W5W/WQKdjZtcVCo7grHLbYyEdCk/WO3dTX3cGSkshbpcPmkGWQRdM3JdSSoAW4RcNSoCj8k1hLj2WQ5/WQxcItGVFHGXz8kaWOtcRmk9WRidFuTbW6NdJf7dM0C/jrVdSSkLnbRcVSoqjmkzwZ9JW7NcPqOrWRyFWPGoWO4VW7BdLsZcQ8k/W7HgBG','W4xdL3v/WRy','WQxdJYRcV2q','W59+W5/dToEaMEwgOowMPowlSUMrQoAnNbXrWQb6jmkXv8kGWOpdRSoBj8kzW5e8l8oRW73dLbFdPdtcJ8knB3SNegXwW5JcRqldTZFcLMhdLSkPk2lcMxtcRSkExuhdU8oOtCoaldJcKepdNSkHp8kYW6irdSkTDYr4qvBcOMpcSf3cK1pcPvNcVSoJANZcISkzW7RdOmowaSklW5T7dt5YCt1Uimksety4haJcTSo6W6lcP14NWQ7cU8oidbS','5Q+H5BUH5ywN6zAQ','WOf1WRddRCoR','Amk7W7pcRwBcM8oD','d8kCDqmm','W5mBWQtdLCkBb8o4jxRdP8ksl8onhCouiImVWQxdHIpcHSk5EvhdMa0VmCoGcCkcn3BdPK3cNa12W7VcOsJdO3nPW4WPASoOySkKm8khAqtdOaWuW7xdPmk/j2JdOCo2eSoFnNlcIwaQschdSmofW5hdPSk5nvZcPX3dJY/cQLRcHCk4WRmfsSkhWO5HDhVcIadcRCoJAgVcJmkaasxdHSo0Bq9MW7NcUhZdN8oTW4OKASosW5BcOSk/WQhdKmk/mmkJkIZcLw/cPSkWWRBcI8k6f0eAWPhdILXjmJxdULXSebKsbSoPWPFdM8owWQDwWOePgCo4WQiOdhtcRXVdRColdadcMeddOgPmWR48W5PLAvjYBf0fW7pdI8o5EmolWQnPW5rLCqz1satcILysdLJdPmoxuf7cMItcJSkbm8oJFmkWWQ/cPtJdRmkNdXNdUKHiW47cNbrCgw/dHmkPCSkrzmouBSoYWQqTW6LIoWtdMmkDWP3dU8oclCk+D3ChWQVdQ8olFmkspWdcNCkDWPJdVsDtcNKCW58PWOn4W5mKwSkHCCo0WQxdSsaaW7bMW5VdQSk7WRXZW53dQSo9W4RcVSodq8oZF8kKWQFdKcBdJKBcR0NcVSohtCoLW7fVnx8Ii112W6xcQ8o0WORdNSkEW7NcKqxdHSkOWRtcKmkJeSotamk4W4pdS2ezWOddN2xcMCo2W4hdTLKGlSkAW5maW4jcWRpcR8k6gbRcGdHaWO0/yMddTGJdRfrfbbvmzYn/tNZcNCkbrHLnsmktrMdcRCkqWPGlW77dR8kQWPb9vSobhSoSsSouf8oLW5pdOKRcHYPxwsuPDrCQDCo5WPhcImk3WQnKnmoAt8olkXjDW6RdHmkZab0GW7RdOSoPW5VcKmo7o8k1jCoOmIddI8kpW77cGmofh2D9W5JdSJiRWR1HW4SFW5JcOSoqWQ/cH8oCrgi4vmofeCofW4asCSoIkmoBW4hdSSkOW6axDmkVdCkQW5T7v8kTW5TkkSkHbrS5W79jpSkgWPZcPLugx8kTWOpcU206W6NcRSkDFhldGSoKzmoUW4KNqg4DdSklW43dRCkfWRPmWRVcRWhdUSoGECkBD8oqW47dLSkDfmoOW4JcJSoZW4KhF0BdLbH6w2VcPsxdNSowWPZdRCkzEmoDsg7dNZLUWQ/dImo9x8kTFwCKCKrDWOpcOhWmrHfTW5RcJc4hfSkVnCkvW6rcW4nJW7zmi8k8fJL4qCkiWQhdTmo1WOFdILC0WPjlW60dW6SfrCo2AXtcOWjFW4yNCCorW4WgWOBcKSkGWPLca8kfqc/cUNldGCoFiSogumkLdSkgW5umW70sdSkJFCk1W6RdGXVdMhJcQmoIAmk9W6JcOCoQBSkYFmk4WQtcL8ouW587AapdSSkFWOVdLCkgFgNcQuxcMdW5WQuoWOnkxL/dLN9zuhesW6BcLJmeWRjUWQxdMqZcOhLVtgjDWQpcGwJcRSk4WRC1hwLpBNJcVgr7w8klrSorWQBdNe9FWR3cSSkaACohsrj5W74Knmk0E8oYcfxdQf0LF8o+bmooW4hcPSoaBZBcNSkJCCkpWRxcUSooW5FdP05twgeOW61rveldUcfjfmkZWOlcTSo0tYXQW7lcOePlAJVdQaqly27dT8kEfuRdIfRdRSogW7xdLCksb2CuiSk7WPDgc8oXks7dQ8kSW7v7WQFcVGBdRetdRsuMW6a9uhi0WRy9dZNdHGPnWQDTWOVdILX3jCobWOlcO8oAW4DzW5dcQSoLWRtdKSkfWO1gW6hdLCkqtCorW5L5WPxcGSo6l8ocWPvBwCo/x101dqldSCkkWPznWQJcSh7cQColw8omFqBcTmkbW51TlvhdK0evW4CLWRFdHSkvWOOoWPJdRmkpsCkQjdpdK8oTmgvpWP80cvyrcr0AW5fZla3dJCouWQ7dVgvIaZZcTudcPtCmWQO8dCkSqCokWR9PWOeWW71NW5VdLSo3wqpdLmk2uZNcLqmdWRGtxq/dMbxdGSoSW53dSvimdCk4c8oCW4pdQmkxW4SzwZZcIu/dISoKsCo1fX/cH8kBWRGGa8kBhqzzWOXmvXRdISkTW4/dJmk2mCklWONcSuy+eY9AWQGmW7bGW5HKdueGCHGdaIbqWOGnWOxdLwqzrxJcJ8k5vfe9qMvkW5BdICoyW43cQCk/kKvjWPddOSkAWOfBASoUD8o7tmo1vColWQCaWP1upmkBW5GrwwGGW5FcGCkssG7dGmo1h8oqCNddNSoCiSkjW4NcUwvpW4VdIaTrW6OvW4HyW4FcTfhdUCoHxb5QvSoygI/cJmkIDdmDAe1jCSo2W63cLmo5DwxdQmk2vLlcSCknqCoWWPFcHNBdS0OiW6CeWPvWW4JdMLxdSqGNx1hdGSoYjd7cLmoEW6/dHqSgW4jeACkLW5igWRNcUfNdQ8kSiCoSWO/cOqypWRVdMmoQlSk4W7FcNCoDnSoeW4ukWQldU8kvrqT3W4FcI8ojeb0DsCkXWPbFxCk7yMjMF8k8WRnXpmoZrSk0mGvxWPOLW7WGW7CuWPvpySktC8kbvSkBrqNdGwOxW7Tpq8oXysCRWPdcK1ZdIvCEweffWQ0EW6C+WOhcVZddSCkFfcVcQ0i5qvDhWPNdUmoBlx5Lb8kZWRpcIq3dQa8RWQL1W7NdLmkFW4xcNfZdLXCewCo4fN8/W4FcISk7WPrGW6hdOmkNe28SbrHxW4ugW5lcUSoWmmo2E8k0nSkNof41WRf5vwKJWP9EvCk8WP02W7a5b8o/g8oRW6LsWPRdLSklvConWRXRW5f/AcddVH7cK8knW65zovCbWQxcNu8NlSoVWRVdS2pdJtFdTmk1brXof8kHW73cH2JdPgVdK2/dUIxdVu13ofRdUedcPGNcKSk0W4X4smoagwpcNCoFrCoUD3DgW4RcVHiWcvJdVrZcUH3dMCowW6rZWRtcJ8ouxtzLWRRdG8knWQFcJSoItZTPE8kUbqLWreBdHCoFdCkkdHevW53dN8kdWRfoycbzW6mpob7cKCkQvColC8kjAc1fssmeuJLxE8kAW6KWdmkVWO7cN8o9W4Tav8ogymkDW79BEmoiwh0OtaVdNuJdMSkZk8o/W5FcKGtcHSofW7DaBSkRiComW74dkmokfx18WQn3W412W4BdSmk4W7hcRmkixCkVWQ3dMCkXW4FdOH3cI0HYW6RdLK3cJ8kfW6BcKCk5W7ldQCoszCk+gSk0ECoBBSkuEWBdIuqGW41CWOy4lCoPW7FdRmoMW79wWPJcUmo7FCk7WPFcPSklW5ddKCoHW6FcSL3dQtGFWOVdL01Bdr4zn1HVESkRjmolW5pdS8ozq8kfh8oPCvpcT2fxwCkpculdPmocuCo5rG07W6JdSx8gWPBdS8kmzaTXoCoYtCkiWRddO0RcQXxdRmoVi8k7WRC+fr/cPmo0x8oAW71NDbpdLHhcL03cMmkhW5pcOmkJWOuPW6ldNhtdRhhcKaZdKw4ZW7iBW5RdSCkfW5BdOvFdKIhcOCkIqs7dHrr1W7jiyrxdImklnNvdW5vWbHFcKmkVhmkFW5yNxmoIkSowEeFdUmo8p8o+emo8W6z7W6tcU8oqm8kexYNcImkEW6BdTSo/W43cImk1WO8vDSopfeWFW6DmBSkeyf9BctXvWOLCW7RcKmo0ymoAoCoUjr8MfSohr8oZzGxcJupdHwldSbiYW5NdNgSoxcVdRCk4W7a1W5q4d8kZW6FdTY5eWQxcQ8kAWPxdPwKErapcR3G7W7OsomourCk7WPrCWRddMMf9WQ7dOmkIlsCnr8kdtCo+vSoSg8kEEaOjjLNdKgFdHmk9WPtcPmo/WOS9W4TgWODoW4JdGCkDuCkUWOT8ySkzWPZcPvOvWP3cHXTxvGuuW6SrWOCyW5VdMsj5omkfW5BdR8oEuSkpWRhdOmoe','zmkXdI97','lJ/dNCkAtfVdJfrEjSk+aaZdTmkPWRdcTsNcVCogtCocqCondCkndSkidSkgj1JdHCoVW5S/WOtdKwLavdj4uCkuWO1CWRf2CYFcPWOLhCk3WP/cRa','W7SNWR7MNkhORiNMIiVLIRlVVlFdK8o6W6/MTRlMGRBPL6pLU53KURxcQG','W6ZdTfJdVSoi','vSoXfSo6W6G1k3a/vSkLWPNcRSkOcSkzlwaqeqJdHmoqyeldOKq1gr8','W5ldLv/cLSonW59iW5NdNJNcUd01gxO','WRXDaSoa54o/5yE75Aso5yMa6zkG5O69WRVdM8kyW7BdRSoyW63dHCkNWRNcQmoAWQ93W7j3E8kznfWJW6NcHSknWRyCWPFdTMLojSkDdSojWPZcRmoanSktdsdcPSoBWRpcQCkAWOSCCsPPW6VcIbjLsL4Gw8o+nsZcPSopWP3dICopWReBqLBdPWVcMu0oWQWAW7pdKvrFdMrCW70bWObyW4VdOXXFBmo0AuOYW6hdLWqzW5JcQmomt8kOWQ/cTSozW74RW7lcPCktW67cIhlcKNK0qHi1gdZdVq3OROhPM7NPKPVMJihVV4e2WPRdICovWPqEEfnhW7iOWOdcQe3dVmksWQxcIqVdL8oJjKGlqCkyWOpdLhBcVHr0EJRcOspdUHBcImk4uCkMWRlcVCoVW6NcRCkDtmoXumoeWOjbtdRcTSkkWR3cJuiRrSkpWP9FWPjtfmoMAqv9shLZWPtcVConDSoTW4NdJ0RcG8k/tCk6W4u','WRGFW7P2W7RdSwNdLa','a8kFWOhdINS','W7ldNMddLmo6WQ7cP2FdP1ZdSCo7WO7cNJnPWQngW6Cy','WQaIW7XqW5O','WRvjW43dPmolnG14W5hdQ8oQd8kg','sYbpW77cNmkGWOqlwfZcQKxdP8kQuCk5W7jpWPhdUMyGW4hcGYi','FLZcQmkpWR9pWR1krCkZWRmUW79JiConlmoQoSopc18VWPKaBa','WOioWORcQ8of','W7VdRIibvW/cJZ3cUgKLdWhcNgVcMa','umkRWRZcR1hdRSoot2ldJHNdS8k7pmkJCSk6WQNcRSo+WQNdVNBcHSkfWQ0zWOK','WOZcTSoOomkWeXZcKSkVWPddKCknks4KWR3dVSo/WRyjWOFdL3ldHfXWWQZdPttdGsanWRDVW5OJW6hcQHicWOFdVcL/WP7dKutcI18McdbMes98WRddH2FdLSkmlSkuWO9dWPZcVcpdQComW7m1W5JdIL10WRjfrKOKg8ozW6WhnhuMFsSYFCoaWPTwpG','W7ZcQb/cI8oO','qbhdLIJdVSkd','CSkyAXinWPpdPSoifCo3y3CIkhtdGsddQSkuWO/dSLJcKCohWPBcI3DXB1LwW4zYsW','r8oDjqeqWPJdOSkgxa','W5HWv8o9WPldSSoqWPG','WPu1WPVcKLaFn8kzWQygubTc','W5aIWO7cNmk6','BCkPW7tdR3hcKColkCofW4qtW7/cPGFdMG','WQ7dKX1oW6ZcLmk/vb/cH8kGemoZW5dcHCoMkKhdKCoDWQyQ','lCoPzHJcOSoxgLO','WR8CW4bHW60','vmoHW4BcMYRcHSkPcwtdJqpdRmk9lCo3y8oHW6pdQ8kLWR/dOspcI8ogW5rKWR3cPHLJW5FdJYGCWPXOW57dJCkLlmk0oIpdI8krWRddU8kDzIjGW73dKhVdQwT6WR0JWPiqWRWpW5NcHthdQhyOgmkyW4FdTxyaWRhdHL4GW6xdGSoGWPRdKYW4B8odW7JdRCkFbIm4oxtcHKNdSdDIk8oeW5WwcI7dI3DZkmoqWOZcJCkJW4ddQSoVWP9ZiGCNWRJcI09aWQtdISoAW6L4mCoUWP/dVMhcKCooW5mAWPycW54voa1jztSLWQFdNSo/W4i+hf7cScmzWPb7WQboeCkqFN8bbgL5W4nhW7T3W41pc8kMomoRiCkmWQJdMqStW4JcSeGqFCoHB8k3W4WmW4/cM2qS','W4ZdIuNdOSoz','W5VdR2L7WQm','jhtdQrmfnmkyWQW4W7FdKdFcNSoNWQNdU8kamCkwW5/cN8kf','W7jvWPFdPe3dQx8lW7q','v3tdJa8','frxdLIJdO8ondSoFCu/dP8oaeLNdV3qXW4T5WPpcO0dcOSkRW7z+CCoe','WOJdJmkarCordHNdVCoJWRZdQ8ocmwylWOFcS8oeWQfpW5BcGfNcOdKgWR/dU1q','WOjLW4ZcQmoova','jGRdGr5Q','W5aQidNdKa','W5baWRddLSoOWQ3dVbTLqgVcJwLCh11XW5VcGd97zYOkFfjZW7yzWQWBi8oirbyUW6RcQghcLKOZiGBdR8kKe8kUW6bZWQhdGSkahdjjW4WR','FmoTW6ZdPLRdV8ofes3dLrZdRmkTk8kpjSoJWQRcRSkXWQJdQcldLmok','W5BdJs0F54ka5yAv5AEV5yMU6zg85O+SwMy8WR8SWRpcQ8ojW4KFWRpdI8oWWQBdG8oEWRCEW5WBd1XsWRbaW5SQW6HxgSktWPZdJmkgWP/cIfjhsxVcGSkqbmk7WQpdJenTz8k2pmkJuttcOeVdVCoRWR9TW45cumkdvH3dOg5TW7tdOmkIWOXwwKzkfavIkuNdJCkYWPddNs3cQmoAWQNcQSoomGpdULdcHmkzWQuQWQldL8khWOe6WRpdUJlcJCkjW4FcVvS','WP5CWQ0Dpa','W4CZcwJcRa','twiluJy','rSkPaSkxfCkYF8oxbdeJm2ZdPdXxWPpcSf3dTulcTSoDk3L+','dCkMgIG','W78xraiKgmkz','WRmFWRlcU3Ksn8o4WPq4yq0NW417WQJcPsNdMrSa','WRu1a8oCWOldRmobWPPzmCogWOhcRSkRW4FdTMtdHbpdJmkZmCoAmCoa','W7Daymo+WPO','EhG2DHC','W6RdHSkZkCog','W5OAu8kji3i','pIpdH8oGWQCr','yWPMWOpdRmkTW407CspdJ1VcNSoquSkqW7iCW5BdU3u3W4xdNhaZsCo7WRG','pCkHrSoMW64KpJ52','WO0KWPZdPmowmSoAWQxcUmkAtXm','dMayssZdTvn1W6yfESk+ut1UWQ44WPhcVCkCCSozWPhcU8oZWPFcL8khWQS','zmoNW4pcHLvcWRGCW6OSW77cTmksh8k2sJVdSepcKY3dUGRcICoJWPVKVytOVlNLJOlORO1HyudcPw0ymSo2WRxVVPaFEHVMIzdOGjNdUSk7W7BcUIXSW6JdIXXHomoxmqSYWRddSmoRW5ldGmkfW5BdJmkdW5hdS8oUFvFcH8oEiw8ZWQCK5l2a6koT5z265zoNimkVEeipB++9QG','bmkWcxLeiSklWQ3cGdP8nHKkESkLhCksW6D9oGlcTb9HWQH1W7C','emo+WQpdOsFdLCkyc8kTW7GQWQRdLW','WPldOJdcP2FcISkFwCoi','Eb/cHeL4DCokW7O','W53dSwW','W4xdK8kcW6tdGCoHfmkKtHvRkgiCoCkuo8kPaCkDtsep','vNBcGCoZWQytWO1JkSkPW5vuWPnjiCopk8oJo8kdtKTSW49tk8o+W4X0W7uvdIddHSooWPK6WQjTWQZcLSkTW7lcK8kHomkjWPCbAHmpWOaAWQVcVmk6canUWOJdS8kiW7VcL8kEg1bOWQJdJIe/A1pdN14xm8oYW5fcf8khW6VcG8kpWQpdNCkIlmk6b1m2W6tcV8kkWPi','WPTHWPiXnSoMrtHatq','W5FdPqG','vNBcGCoZWQytWO1JkSkPW5vuWPnjiCopk8oJo8kdtLL/W5zfrmouW4W6W74edtJdM8oxW4GGW7vPW5xcVmkTWQhcGCkGy8kdWPuBEerGWPOA','W4ulqrC9','WQBcT8osWRZcRq','qqddLJJdSSkJx8kmqW8','WORcIqKrW4/dVmk0W7G6WOnyW5ldQZmJobHpvrWJtmkoWP/dHILhbIzwg8k3WRumW5bwk1fLi8oPW74NWOKDtKKeiZuxhMRcKCkDC1qfsmkNWR46W4SpW7xcNSktgCopW5dcISkSW4VcJSk2W47cH8oozZP8DwhcRMLDfSoyWQNdPmomcM3dRmosW4e','zCoMWONcOmoYzSk/WRyPW4bfbSkWWO3cThi8WQW+DWjtW5ZcKXZcJ3CA','WODsfb4QcCkiDCko','fJldUIjkCCkhW6G','WPJcUXVcV8kZW6RdOxBdQa','u3xdHaRcM0b/W5ZdKCk1W7rTrW','WO82aCo2WRZcH8oNW5xdTqVcMmoMCmoBW40LW6TGWONcNmkZeG','W50BWQtdLCkBb8khFrhcICk5nConhCoIfHbBWQ7dLL4','WRG3baxdK8keW403WPW','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','W6BcRYVcU8onW5C','xhhcG18TgCoiW47cNmknyGlcOW','r07dVthdLL9fWRlcTCk3WQWUbCkZyCodj2ZdSZHYWO7cRSkCWP7dSG','r8oDjqqBWPRcRmkCgSo5ytKPttRcHhldTCkcW5BcP0ZcMCoFWPZdKWK9pbfaW5XSgCkMFmkkeCoCW5LKWQnxdSoeWQXOW5/cJhT3rtRdHmoxwmoEWP9ggmo+WPywW4jOWO1iW7ldP8ocWPdcT3FcGK3dGCkDW7fNW55oDWK0k28/W4flwSoxv8kjFSkPBL8shG','j8oqWRFcKrmvw0OTtqybjmozl25NW5yNoSoNhmoCgYG','W5RdK8kYrColwLlcQa','aCkLWQBdSe4','wNujusxcQXm','hcqYAaJcSt4l','WPddHsuYW5BcSwxcJ8klWRlcHw97','kwuoW67cGmkIWPi','W5e5uCk9fq','WOxcQtBcSUEaOoweGEwKMowjSEMsToAoO8k8CCouWP/dQCo1W7W8WPyQWQ0Wz8o/p8k4WQL5WPldLf3dHL40fhxdKmoPDmoIWPFcGvuTzcSNWQW3WPVcRqRcUSkNW6y3xvGzofuLWRVcVw9htCoTW7zaW4jln0RdMf3cVEwSO+AiP+EPJUwmVoAuMEwLREs5LE++G8kvW4pcMvpdHmk3W7/cR8kmW4CCWQHmzazTW7Wyl8o2wmknWPFdVtxcKuNdJCk5W6uNESodEY0romoDWQahWOaKrowUL+AlL+EPSEwENEwCLMToBb3cQN5AWQ1F77YU6iEq5A+35lQV55M85z+45zoNnoAjMoIbPqlKV6BPGRBLNj/LKi0x5OUp6ioIDos8VoMaSsDfzEAkQUIaU8kc5y275lUZcmkMWPHcW5ObWPrVEtBcVmoLzSo6c8o3FmkqyWODW54BA8orpmoxWP3NQjVLJ485g8k2nmo9u++9M8kr5lUNW41KW43cQ8kK56Mf5y6G5y245lUP5OAY6ycF5OMJxd7dUmkz44cTo8o1lCk344k4jLxdTH/JGBVcRZddJSkc44cTl8oJi3NJG6H/fmoJWQxdKE+8SoAlUowoQUs4SCkhW5lLRPRLUOVNQlxLJz3cOCkqWP58dmkOWRH5WQtcTe0HuCoZjSkEW6OUWQzxWRRdQqtdGY/dP+EvR+AkPN/cICkTWOJcLI7cHmkY776F','WODsfe5LvSoCdmoOW4HJxSoM','qSotASoQamkJumoSs28AFadcOdLgWQtdPXRcTrFdP8k8vWykW7VdMG','fCkTBmkFWOH2AIyMwmkOW53cOCkVoSksEgaxfbpdMCosnKxcTXiJvurfWRVcJgBcRqNdICk+v8kexCk6zblcIColuCoYWQtcLKWGW4aSpCkdWOGXW7VdGmk6W7FdV8k7WRPSW4GfWRBcHSklW5JcUhTHB8oFrSozmSkyWO7dJ8ojemoUWP7cMCktemovW5ldP1H6','W7SXWO3dVmkBcSkfsJBcSConn8kY','WPRcTqpcM8kP','fIJcNvVdJG','mMuB','iJbzsJFdPrK3W5rtC8oYfhLRWR0mW4ldVmocEmoAW7ddKSktWQtdGSkkW4yltfFdSmo6W6VcTmksWODRWOVdS8oUn0D+WQ1eWRzRW4dcL3HvkNpcOeNdH38','WORcNW7dLJ/cNSoq','WQNcK8k7W58+','BCo6WPBdNLn6WQHMWPPaWPBdVmox','e8oKtNWdD8oCW7/cRHfTit8i','WQZcSqJcUCkJW53dSxldSL4','WOJdUtqYWPddNCo7teS','W5hdPxRdQa','W4ZdSe4hjw4T','W5xdLsSt','rCoKfSo6W6a1lW','rCkeW6pcLrLFev8','iEI9LEAmPCohFCo0','mmoSWPddVSoL','kSkyW7BcJrG','WOpcIb3dKYpcRSowrL96WOW','WP8qW4m','i8kNWORdOfRdUJzxWQ7cGbZdObrFW5pcO8oVsmophSktW7i+hMdcO0ddHqvbpSkpW6S+WQOwhmodWOFdPeZdT8kOW7SKWQ0rjSoUWOJdG8o9hrm2','W4uPaGldJq','z8kXgghdMmoKfXZcRmk3WQzDWOKVW5JcRSkeWPT0tmk2F1RdLqz9dSkwmSojWRCIf8oYBSoZWOXhCuZcSmoPvCknW7JcJ8k1fK5sb2lcI2RdQmk4yCkmWQj6qXRcRXhcQgjzd8koW5ldUWxdLc9PnxBcMCkXb8k3k8kFcq8RW4ZcSmk8W4GAW5/cPaTvhSkvWR5GdbyCW4xcMeBcUCkiFmo1yXFcJfWoW4DTWQvyW7VcJSoWW50OWRPuWQ7cM8osWQ7dQSoOfbtdKrayWQhcG2ZcJsddJmkuB8kAjgf5uCkPWPOvimkjj8k7W7bWxmoFWRFdUmkua8k9k8kwW75gWPGknetdRJeDWPVcLCkno8kwWPpdNKRdGSkzE8kXW6xdGSoZhKS','FSk4W47cMWn1WR0oWOWPW63dKSoxw8kZwv/dOLBcHt3dUxxcO8ovW7ntW7u','WPiGkHS','z8kXgghdMmoKfZBcHmkBWPupW40c','WONcJSoQCCkJv8on','55Ez5zgI5yYE5A2q5zY+5z6K77+XamkkgIBdUmoEWQ/cTNnVWQBdMKmlm8krWOz8W6hdRsamzmoNhd7cREExNowrHSorcN94W7ldJZxPOk3PGyZVVAvKz2ZcGSkBW6dcKCoagSowo8kbyrHZWQRcG8k3F1CsW4OucCo9W7RdJNBdVSoOW4xNLipLKielpoEvL+AjP+E9UoE5Ko++RrFcIbLkW4ajBmkuW6ddHvPEW4ddQSoQa27dSvWteEEwKEwsRIRdHEEvUUAkKoMJJEMaIE+/V8kXW7j/cmkQtSo8WRBcTSoZWPXZWO7cRf/dTxr6Aralo3m7W4ZcNmoQW7ldNdva5lYo55ECgSkDWQHnW6hOHP/LIzFNLkZMIyNVVARMLzFPNk3ORzZNVzu','cYBdK8oEWOq','W63cICoKWOJcU8kBdSkRqW','jmknmq','WQigW6TnW5K','E8oLWP09Fa','WOJdUtrNW4xcMCk/ns3cUCkra8o6WQ8','WQRcSSozWRVcMa','WRhcHIRcI8kt','WQ4afKpcRKWGW4LS','W4y1arNdIW','qmkrW7NcKaSj','WRu1a8kiW5VcSCkeW6m/gmo8W5xdR8kh','sCkGW5NdQmo1BSk1W6HM','dCkoW5ZcObS','WPhcLGBdKt8','ow/cMNZdPCkrrSkiduRcL8oakgVdQ3qQ','pCkHrSoJW6uMCcqWwmkNW4xcOCorrCoxyM8lsLRdKCouEaZdSJPZfeLlWQRcJ2JcUWBcGCk8dmo9xSktzehdJSonvCo2WRJcI10IW5DIpW','WOKfW5/dJwq','kCo4Fa/cPCkf','pSkrBbiA','WRFdT0ddHSkXWQ04WQNdQavkWQBcMNuMr2LVWQuLWRHaaN43WPz3W5PZWQ3dJb7cGSonWRNdLmkjWR8OWRPXWPCukCosBNebaCoeW57cQa/cKwb5xSkUjd1jng3cQCoWlSojAxGVW5xcIeBcI8otmCkoEsjYW43cJxpdVSohWP0BWQhdTSokWQJdGmoCWOVcGmourgBdI1/cR8kWuKpdLsv9WOFcICo1h2SjfJelu8oZxIxdK8oRWOFdNe3cQIbBAsPstXqpbx7cVXlcOSoHa8kqW6qMjgxcVNXUmaj+W4bQWOjTlSoPW5D3m1/cTMNdIbdcVwDEzg4uW4hdM8k6W5T2WPWhW4xdTHtdOCkBW4rmW4j1pYOdife','WOFcJIlcSCkYWR8YWPRcSXZcIayQwui','vmoHW4BcMYRcHSkcAeVdVcBcV8kb','BmkGW5VcQJS','uatdGZ/dOW','z8kTW4hcJbKXW6HiWQnJWRdcQCoCumo4dZ3cOWBdKhJcQf/cKCoZWPGqW4BcVGu6yuZdRa','W48DW54','aCkSW5NcMbS','vLZdK8oZWQ4gW4r5rSoOWPKkW5yermkGfSoFzmo1l2mHW6DPhmkXWQ8aWPfqwNRcICo7WRDpW4TkW7pdN8odW77cOmkBr8kJWQqHeWKLWO0AW4BdNCkEkJ8Q8loVNUMcO+AiVEs5I+EtVq','WOzACc/dLdy4WQufWO4xWQ7cOq','WOhcJCoNWOa','WOxcQtBcSUEaOoweGEwKMowjSEMsToAoO8k8CCouWP/dQCo1W7W8WPyQWQ0Wz8o/p8k4WQL5WPldLgJdObzPxG3dP8oQDmoIWQlcPYHgn2aQW7bsW7BdNt3cJmkbWPTFnJ1aksTKW7NdSsPzz8ohW59PW6TIhKRdHaNdOCoTDCkbWP0fWO4TW6RcLmooWOuhWPJdKCk6WQ3cKSoTnCkbzu0VCCkOuhBdOLdcJCkxW5qCWRHGW6tcKmo5CYJdNveeobhdTmkjmSoLCq5DW57dJCoeocqcAHBcOoIUUEMyRoMqOoApK++8RGzcWPlcKbNdOb1hAsVdT8k2W7WVq8kRW5LEltfNheZcGbhdLSoEDsdcKSkAz8k/yCkJBfaQW6JcPYNcVLldQvBcUuOJnmo3mNFcMslcGmkPW70LggldKe/cGey1W4pdRCogFmoyWQJcPmkxyCo7E8oqF8o+ew7dOCoDrwFcTxhcPSkh','WQGQkqnWW5lcSa','eSkvW7NcHHGCtGrKvarzoCofsYTHW5yNk8oKc8ohvxf4EJWfWPxdL8kEW5nG','WQ9EpMDmCSoEjSoaW6rqc8omyfm0mt7dHhXlg8ktW5JdVCo0WO0xB8kFlghdOSkLvSkSngzLW6WBkK5+W5KXoLpcV8ksW5r5dwRdKSk6w1ZdNCo6B8kXECkKW74GW6FcNhldNM8piX0njIpcGc0yWPFdVCo3krlcMmoHW4ZdV8oub8kgWPy2kJeKW4iFW5fJnmoKW6bmrCkwW4pdTJauqveglmk8EvZdICkNW4TprhxdSCkCWP3cG0/dUI3dRfzIWPH+WQj+qCognCoGysfrzSkZjCodoSkYW5n7v8kTWR3dObRcTSkQeXVdISoxeGVdQX5xF8o3sCkYsSomWQrQW6f+zSo9W6biW63cJCkqW7eifhrPu1m','BqPMWOpdRmoWW4etdeVcOqlcRSo5ECoAWPrJWQlcSu8','ASk/W6FcKNpcMCokpa','W6pcNtpcQSob','WRj8WRKVda','W53dRGyOgu7dGcZdOY5eC37dQbVcGCkBW7hdGNW','WQJcOdtdUCo9WOOVzYXNW6WTW5pdOmk9WQhdPZ7dMYZcOJbXWRrqWRVcGfddTCk4fCkErtrbrCo5WPCoW6hcI8kouIP5otVdOfpdS8ojzSk8WQG','ySoXaCoKW6aYlW','WQncq8olDMuWf3mTW6xdJmonWQ7cRSkvW6BdJ8k0W6FdO8kCW7TKW4HneCkNw2CDW5pcJ8ohW7zE','tSkPW7pcKMa','smkPaSkxsmk+v8kQBc0laexdPL8ZWR/cGX3dNa','pCkMW57cMG49W70','wCkFW4tcKrGmubC','W5BdLKNdJmooW4u','W7jvWPFcTalcTITYWPiPWQNdH8o4','WRFdKupdHSkXWOq6WP3cJh8MW4ZcKITjBfPgW6e0WRvhd3ahWR9CW7XUWR3dNe/dG8oAWRxdHmoqWPKRWRPXWR4wF8ooChvbv8kbWPJdVuBcKX4ciSoRkePSn23cGmoWlmknDg84W5xdMaZdMCkykCkwpMSHW43dGHhcHCkHW5bEWQhcICk2W4JcRCkdWRVcQCo/','C8oUW7dcHtlcUxm','umoSW6RcUay','W5bVErP1W4hdRXxcNNfApCk0krTHW4lcLmo7WPVcKCoXWQhcKSkDWQnwdH3cRZOLW7OazcCuDfqQW7TexaSeW5pdK8oaWPnpW7C0u8kW','W7/cP2tdKI7dIColk8k4mqdcUSouW58','cJXZne3dGx9LW6nMfSkUbwSu','z8oIW67cId/cTM8','W7ddSmosWRKrmCkjWP50W6a1l8kYW73dICk2','WP7dKmk5k8o4rmoCW5JcNu7cU8k1WOajvatdISkYeJ/dVmoEqqO7tmovWQpcKG','WQxdSdz554gC5ywp5AAs5yMa6zkv5O2dW7SDWQVcHCotW5edCmk5W5dcUqhcGCogWPHbj2lcOe4cWRBcI2GNnCoJWOxdSSkSrZVdUmoqimkQWQKkdmkYimkCW4VdM8oZebxcO8oBhCkpimksuc9nrmonW6WxWQ7cJSkGW7z3sbhcRSkEW5uElx7cJSoYW4VdSmkJlJKqWQbOW63cRHRdJCoLWPNdUc3cOdBcHmkMxW1hwexcSmofW6TICr0hEghdG8kAW5r+W7isrNFOGPJLKBlPGAlNLPJORBVPMiBPK5pMJ73VV6fsWPu8WOeLnYDedSoWW4BdQSkbheSJmX7cSSkQoCoZfCorW4tcRbhcJ8ktW6dcV05jgCkCzCocFr1jg8oReHdcOSk2W73dKvazWPhdUSkOWPhcVSkFW5FdKCooWP0EW6/dSI7cN8kdW7vKW5BdK8kna8kBWQ/dJSocjXtdRmo/WQVdLmoSbG7dV8kAdSo9','WOn0W4ZcUmocDmorAatcIW','W5NdSeO','WQK2ESkkW5NdGSk0W43cI0RdN8oPASk8WQOPW6rVW7pdOCoba3Ojq8kLiSkhWQddTSo3W75rW78KgtBcPCoABSoNWPjst8khghBdUCohWQdcS8k4mCkeW6pdKSo4ECouWRBXJPYK6ygd5OIk5lIC55on','p8kyDr0EWONdSW','WPRcSZGQ','WROrW4v3W63dQW','WPlcMWVdOs7cJCorva','W5bqyCkCW5a','WOGjacPu','W4WNW4j754oD5yw45AsL5yMH6zok5O6nF0SxWPKxW4nwW6NcI0VcQ8ohcMhcPu3cRhTJW5ddSf3dQ8oYW7CmWP3dSblcHIlcQ3ruW4e8W4FcHuVdS8kEW47dNt3cMSo1WORdGmkkeSk5lmoBoXKocCoGWOKaWPrnyvBdP8oTBSouzhRdG8kyWQpcVmonvHq8WRmCW6hcU8oin8kPWQbuWQ4nv8oIW7FdRuZdUCkfWOdcJ8k6W5tdPKPdbHtcPmoiBqRdT8kpuSornCkkn8kOCLv1WQpcOWWWWOqcp8oo6kYb6zI+6zgW5O6M77+uWOBdT8k0WONcRSk6p8o8WOv3WQddGeznW50mv8orgCozsSoZnsRdU8obhCo7WQWaWRZcL10ue3TnW7lcLa4vWQWOW60tlmoXWPXGWORcKuf+bgVcSWBdUqpcTbTFusL9umk4kCofWOuOW4ldRg9mhZxdQSk7WOSuW5OiWOtdJe1xW6Hc','WQlcOYbTWRpcTCoWWP8q','jSorWQZdUSoi','WPNcKhTrsLtdJxC','WRlcGmo4kSoLemkDW5ddUW','W7xcQ30ZWOa','WOamWOpcP8kzyL1pW77dM8osb8k3W7mvW6RcRhFdVCkwWPPHWOPcW4pdMePauHhcIq/dIWZcLhqUhtqVWQxcTeldO1tdN8kIW4erfr4+mmoAxCk+W4JcPW','W5fBB8klW6q','WPtcJ18gWQ3dMsNcQmkIWOdcUInbWRpcT8oWWRLVDCk1BmknySoSeSkJbNq','kNtdQrmfnmkyW5ngWP/cVHZdMCoRWOhcSCopz8oIWP7dJSkUW5JdTmkCDbCzW6dcQCkJDSolW6nomvvanvHlWOXhkbtdTSk7WQqwgCkWbmoUW4OtiWGAjqRcPWJcN8kDy8o4ndldV8k7cmkgAIdcUepdNCkuWR/dNYTGimopW543WRRcGbJcSq7cV8o7WQVdP8k6','WPK5cqT/','WQXnWPZdV8oi','WOzRWPm2bCoKtq','WPLRWOeHhCoqxdzatq','lSooxSo5aW','imo3uSoKmG','W4GtfehcQvC','W7ldPKBdPSom','W7C+wmkmfG','DZfFWRJdLCoJW5fwfvpcLgRdNW','WO9wWO0gha','jSoAWQ/dLSox','BSkdk8oUb8oSaCoKlq','WQ5wwLlcPe9/W5XJWQCTW7/cJCo3jCk4C8kYB0pcVSoVqfFdIq','W7ZdNMddLmkNWQlcJXRcJ0ddMCoiWQFcNfanWO91WQqXWQpdRCoHvr7cLW','W656WQalW7xcTa3cUSoEASoqWOddNhJcMgFdOeapW6JdR18ZWOxcVCkDwmoQWPpdO1G','W5CmWOZcOmkoAv4','WORcIqKrW4/cOCk4WQ85WOnyWQdcNbyGodfMvr8NsSkqW5JcJITFctS','W4xdK8kcW6tdGCoHfmkKtHjIktzdA8kWqCopESoGzJLkDCojbeWpBSkUW5tdT8o0puGWW7uyWOVcTCkMCtWSWOJdJ1Cvms8JoCk4W4VdQ0jkiq','WOzACc/dLdy4WQufWO4xWQNcOq','WRvJW4ddPmkfEKbEWQ3cLmo/FmkgW4PcW5a','W4mVW5FcVmk6W7tcRHTTscFcIICrmN4iW77dLg9r','B8ord3H2W6pcN8kEp8oEuHX9D0u','W7HJu2yyWRJdTrxdMMrApCoZgrS6WRZdSCkbWQJcUmkNWRBcICkzW4SAsXFdQhrYW6eaENGycs4PW5jTdr0tW5FdGmoxWO9XW7qWbmo1W6qeWPn8','ESkvW7xcTGugvrv5g+MvS+IUI20','W63dN8kOWPRcU8ofw8o0gbu0udrzA8oRo8kNb8kbvtSnnmkxa0rxomk5W5JdP8kIrr11W7KYW6RdMCoohhSTWP7cHYTqy1bTEmo1W6BcPGSEoum','WRmEkaLC','W7a9WQhcI8k4','iJbzhwtdPvyeW6z/h8ojbqy','W5uKhdFdKSkEWOn9W4e','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','WQpcNmktW4KL','WPblW7NcHCo/','fYhcHftdIHaQ','W7/cP2tcH3VcJCkpuSoE','W4RdHCk5o8oPkSknWOVcRW4','W7pcJeunWRq','WOdcIH3cHCkqW5O1gKapWOLxW4VdHSkxWOJcMLVcIMBdOZbRW6mpWPhcGL/cPmk4bCoughmCt8o7W4X3W6lcOSkNaZTYpZVcSaFcSSkgDmo1WQRcMf82ffX7CW/cKSkuB0DpWRNcRXdcH0KTvSkshSoVW6rJW5ldNexdPvFcKmkjW4ZdKXpcJ8ouWRVcRCkwW4CE','W5hcLrNOPkZMNkJLPPxOTl/dUSkM','BCoTW4RcUb4','W6ufW77dGCoJWQtdQvuSwwNdLxraEXH3W5VcGc54Cdfejq','W6ZcLGpcQSo1','WRHHsedcGmoAW5DBW7v4ymkiva','WOCewaS2cmogymkb','W4ddLMxcU1pdPCkby39aWQJcHmorW7y','W7ddHSkxW7WEnmoAW7fYWQ0thCkmWOVcMCkblCk7aSo8WOzAp2jBW5fReHxcJ8kTgComgw10fuq3FblcT8oJW7pcVCorW4FdUcNcGchdOctdN33dTLRcVtmmW7tcISkiW4n2lWOuAfu6jgRcJHtcTI5yFcBcVgeeyWddKCk0AfnhWRSbWPmvEmoCW6dcNKS2uCoBWRu7e8owWPG8W4qiW7DNrmoTtdyCWQRcLdldR8kqW6ZdIJyMDIGpfg1+d8kHiSoJW4n0WOBdPu4+WPKbdshcVSobW6TyW6HHtSouvmoOpbdcVN4wWPJcLuqUW7qUWOjErX9MxuRcJYLRDGBdLNhdN8k/zNbwAIRdPCkvW7O2j8klWRDbpdVdTJ3dHx9MW44BW6ShW53cKHxdTmkTW57cLfZdUteWWPmHCCk4WRjmWOxdO8kEgSkBWQSPW5vNW7FdR8ofz8kMWOu2W5vLu8kEcIelasKfWOxcRabowSotWR5ZvmopDYNdPSoLESonW4JdHcO7W5ZdNCoVWQxcPfFcO8keyuTsWOldLCoVsSobjJeKf8o7lKPSW5XkW5ikeCopW6dcJCotW5ldGSkCcSovu8k4WQpdKem4WQXPamoZDmkOWRTZpCo+WO7cRdBcNGqwWQVdSK7dPcpdQtKziSobm1TlW5/dMH/dNCk6bhtcQxG1WQP8WQ7dKeiPvdTQuSkhtCovWRDqD8k8W6/cSSowW6FcRNxdOqpcHSovW6KppcvPhHzyW4RdKmkKiJ5YsJ1DedpcTSoxnCoKWRJcUYyGarlcLSoUW6JcVCowW5ZdIK4ssmkBWPHgCCkEW5dcHSojWOvZW7r0f1hdUe7dO8o5W7aGw8kmWPBdUZOqC0XAW6xcGSkIn8o6B8oQeSkaxSkOFCoVWRmkFa/cK0btWOjHW5xcOCoWiwf3WOhdP8kXWOi1Bvr4z2ldUqRdNqNdI8oIW6vbeCoNWR/dOCkvW78exSoYWR1ZF8kje8kmzqvDjfdcQr0MWPZcLSkxWOZdJ8kLW7eIfsOWu8oaWRD9dN3dQI1eWQNdMmorW7rcW5JdVSoLASk3rSoyzCo8WQ7cO8kvumo1W7ddI2tcSvbcWQe5WP4lW6K9pCoEW4tcMd4IW4SGkK9aEdNdOSknEbdcSmoWnbGMW6aUxt51dmkJW7FcV3hdSWfqACkbWRhdQJaHamoCwaCnW6SJlmk1A8kkWPqtbmkghZPVnCkDfq06oCoOe8odW47dKmoeW6WlWRNdKdhcTCkiWRpcHbiVWPxdOeL1W6qKWRKdWQSPwwNcISoNWPLMW6qBdIX9WPFdHrtdPIDDWRhcOXSQxSovW5bcWPtdLmkFWO/cPvhdVg3cK8koeIVcOfdcVb5qW5xdNCoQF8oEWOtcV1tdJXWanSkQbSkrkSoRW5ddLujRxW7cRmoUWQHJW7qTW7PPmSkJomk/W4WnAwDCF8ozWOWuu8oWs305W5dcGCkzW6JdSSkXWOhdP8oeW4yhWQ3cK8k5nsdcLSoGWPbKlCkHxmkSWRZdJI4nW6RdQ8kYWOThE8k4WRWdyCkNo8oSmmoaue7cGfZdVczRgSk4oWJcMwj1f20UECogqCkTcKtdVmkPWQekpComWRqJDmoAW6qGqGJdImk7WP7dMJeVW5NcGSouECkbqmkHWPVcOXpcShumW4hdMaeai8oRW7iVB8owgfZdIhBdUK/dK8oGsa8MySo3WPWNgvK5WRf4lY9gW7Oib8oRxSoZlW3dKCoYqmola0T9WQFdUmo9W7xcLK1zvmoBrCoRW4aFgNThW7KCuSkPW6/dTLTxkCojW4vwWQbDtmk+W5JcQCoCEw5xWQBcUCkzW4pdRL/dNow1KowNL+wkVEwiK+wkSUI2RoAEQJe8WRS5mmkTW7ZdLN0jsf/dNtBdGCoR','WP3dPxRdR8oRWOnLmYnPW65JW5JcHCoZW6tcTshdJxxdTZzQWRvmWOZdLbZdQmo7eSkhq3S','WPa4WO7cVSoooSoeWQe','W50qWPNcOCkNFKnCW6pdNa','WO4zW5ldP1hcOsqE','WOdcMSo8','WPRcJmosvSkzwCozW4JcRWFdU8orW59ncJ3cH8kjlIVcQCktyY4iF8kaWRldT31tWOxdP8k9W4G1W6LaWRatnf5baCkmpLqNCSoFt8o1W7TtcW','B2tdLbJcI15VW7JdUSktW7aruW','WQSurfm3gSksk8obW7PCeSoCDHbICM7dHYbqg8oqWPZcMmkoW7aJ','t3ZcUCoNidZcMfKOk8kIfG','fmkYW7nkbmkPW4tdUZ1mrCoBWQW','W7/cJwNdKMdcHCkgdCoetHxdJCk7W5BcQdHx','tSkCW7JcLG8','W4jmEmktW5ZdHmkMWOpdQaxcKCoRimkiWOaiWPzCWRFdJmoYpJm5n8kce8kIW5NdHa','pCkHrSk2WQf7AKCqzSkDWO7cMW','W5ddSv/dJCoY','W6ufW77dGmo+WQtcTK9QtMNdG2i5urGJW4tcLMyUytelygu9WRKzWQXjmSoxcW91WQtcU33dSqnPnaFcU8kMd8kSW6SVWRVdLmkCva','bCkOWQ3dOeddPW','W47cGwfcsXFcKIZdQYyiDddcPtBcOSoIW5tcKKddQConW73dRmkWW6RdKhJcU3CGbG3dUudcHe7cHtf+W7pdR8kvW43dJCkErfnvEmo/W6ORW5RdHCkdgcq','W4r4WO3dTmkQE8kjW6tcTSozaf7dOI9WW6uyW7ldLCkGW4PzW7tdPJ8AWORcHSoJfmoKaCkPW4v1nXmtrx/dSCkehSo4y8oulSksW7a1vmoYd8kzWP1btSkVWQKpWOXPjSk6ASo3WOGkW6ZdSL06WODEdvfOsSoGmCkUD8ktu8k5eCkTW717772gW7xdSmkZW7NdGvVdPmkiDfPXpdu8DsxcG+IhSEwUKos5NUwEP0ZcTSkOWO3dQajUWRBcRmkArN196iIU54gafgBcQ8k2gJbSWPZcMHtcNYVdR8oCrqdcOMilW5HFW4KZW4a9W6FdR8o9WOHnW6DivXvoW7CbWQe2W5JcTXummatdSf/dKupdJsyVW683WODhs8oEW50vuCkBW7FOI5tNGzdNIRBOIyBVVA9nnSk5iYRcQ8oXWRGxW43dSCkfW79aWOBcSownIUIlJUEbJoMsTEAmUUwMQEs6Po++NgWshI3dTGrac8kvWQG0W4rJm8kBWP9dWQy5W5PkW7ZcHsT6WQpcVJ4lWQhcK8ojzHmRW5bSW7FcKConeHqxxt1HWPpcMgtcRKDvb8k5W5bzEmkXW6pdUCo5WR49W6XDW6ddOhVdT8krWQhcL8kSW6NdQMvdlSkGWR/cUw5GyEwsREEuSUs5M8kaw8o/5yI05A6w77+lWO3cVSouoowNHEACTowVV+AkLEEOSUAwMoAnGEwiHUElLSkTWP4DW4tdQfXgbCkUWRRLIPFOGzhVVlJLJ5BLV67LKOJVVQpPMANMR5dLNitLKyBPM7pML4ZcK8kUWOddOSoqysOAWP7dUCouW5ZdNaW2gmkDW6FcRSkMWORcRCk5WRScWPtcVX8UiGicWOdcMCoPW4nKia','W61WW4VdNHfrCG','WPRcJmosvSkzCmoWW4JcMc3dL8kLW5WY','W7GtjINdTq','FSkUW5/dKHKPW7zyWQvHWRFdRSoxw8kWhMlcOaBcJNRcQrdcJCoLW5yqWPC','W7j3W53cUSopkCoDW77cTG','x8kUW7hcQKe','W5ytcKRcVfX/','W4zqWOLYW6FdQNpcICo3','WOeqaSo2WRZcH8oNW5xdSG/cJCkYl8kjWRawW4jnWQVcJ8k6Bq','WOm6v8omW4xcLCkUWQLWtSkJW63dLmorW4tdQJddK0JcGSkNiCoCF8kpWPHaWOpdOY3dSmohWOVdICobWONcJGaHsSofBd/cVSkaECkxnIVcGXpcSuSiBfPsnZzKWQtcSmo2W7TfWQSHW411WOFcRSk8iCoZm8oEWQm','W43dM0WznG','WOJcPSofWRNcKq','umkKW5FcTwO','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','WP3cGKvWDa','sWPcWQRcI8kXWOXuqGRcHwBdI8kpASkRWO0','W6tcN2C9WOm','W4BdJKFdI8oE','WOZcKmoRomkWoHZdR8khW6RcVCo2iMDCW6VcH8kzW6ynW4tcMtO','xfFcGf9zpmoGWOtdK8kPpJJdTq4oW4hcM2FcL1flWOtcL1zUW7ddGSoBWQtdR8oNeLpcIvLWWRJcRmkEq8ohqN5GW6BdJSoog8kpW7TfoSkQWPCffG3dVx/dMSk9W6JdVx0cAdHaW6hcOmkQWOyYWQpcJ8klAWr9WP5yW6pdJSktctboEM/dMSogAbNcL1FdS1WzhG/cT3b2WPFdJCkpWRG5WQdcU2tcVmkQWOJdHSoocwhdH8ocimkEW5FcR8ovamoYxKxcKSktWPZcPW','WP/dU2RcV8oxW5zUW7RcPG','W7ddSmosWRKrmCkjWP50W6a1l8kYW73dI8oyeW','WOnFwbJNGAtLH4tLPjFLI5dPKR3MJBr9WRxcNmoXw8oSpmkVna3dP8o+vLpdO1NcQmoRimktWPxcN8kHW4eimM5/EYpcIJlcLHZdGCkFWQZdK2ZcVSk1W6LFWPnSW5irWRlcVdS5kmkvaSoKcCoWW4BcGhjFWPhdT18FsmoX5A2D5OU956QI5y2W5PA65As85lI37763th/cH8kPar/cVmoFoCkHW7GcWQyXFSoaDCkpW6FdHLKQbSoikSoyW4FcKW06B8oUnSkFWRhcLLpdHhVdHdpcQSkK5A2j5OU056M05z+l5z+PpSkwc8klW7BdQ8o9omka77+u6isE5A6d5lUv55IQ5z6q5zkap+AlIoIbRmkF5l2f6yg95z2L5zcnh+AlQ+IaNrxKV7ZPGAZcGSkQWRJMIBVOGj3cQEwoLEs7V37cQK8bDSoPjSk4cmkoWQuZtSoNW7pcQSkRWQpcLcaNWQKenCk3WQufW6BNQjVLJPJdQxxdMNldVmk977+xWQFKUB8mumoLymk+56QM5yYW5y2s5lQR5OsZ6ycm5OUHqbxdVmoo44gshtuBDoobPmoGWOFdSgtJGltdRmkgD0BJGzicW53cPKtJGlddVx9Ui8k8772F5OUu5yY35lI9ihpLR7xLU7hNQ7FLJ6mRs8kqWQFdNt9lWRHcW44QmCkYW6fffxyFWRJcJCoSW7K+vCojW6VNLPFMI5HGjfBcQ3BdHmkVf++/SW','B8o3dhH2WPFcUSk2DCkrbdfgtHpcRsBcUCotWP/dOLJcJSowWP3cLdK9pG','WPFdVJdcL0lcGCkfd8kkbG','imoVyaFcOW','fCkTBmkFWOHFqYyvF8kuW6ddTCoQoG','W5D3W53dOCojrSolBr/cG8oYDCkiw8khjdz9W7RdM3BcNCoRzu7dMem9','ESo4FaVcO8kurqhcQ8kRWQ0dWPiYW5pdQCkyW4H3tSkVFLBcJxvjC8oZy8kAWRaGdCoT','imkVW6hcNWW','W53cQsdcQmoP','gmocWQ7dLfjxdIPDDYimmG','ddtdHG','EWZcPeHp','WOFdS2n0','W4xdK8kcW6tdGCoHfSoTaHvRowellSoPCCoMfCkia2Hkn8kIBYLJkmo5WPRcU8oZBqD1WQiyWOVcTCkMwd59WOJdK0aslXuPESoVWO7cVqOFzK8Fz8o3C8oUAaRdLd8AWRXxqNKHnmkYW6ZdGSoEsCoxkSoTsCkjvSobfbtdN8oqWOPwW5JdKLu3oSoGW6i+vKCZWQ3cReGHyrJdGqGjA8klWQrgW5pcGqlcUwuEW7JdP2HIC8oPecpdUX5KWRpdO8oOFSo9ocxdQCoWlL1wW5pdTcWmWQ/dUmk3BSkGD8kvW7JdUmoUWQhcPSouC8oaWOjtAmopW4rYfbJcTIVdNCopW6HHWR0fqSo6ASotW6Kvn8o+WRrxWR9r','WRtdLrFcPf0','t8k9mH3cTCkDd1xcPmkLWQ9nWPLxWP3cRmokW5DHf8o6Ee3cJgL+j8k/FSozWRC5c8kIp8oPW5C6c0/cMCoPbSokW6/cL8kXbKXwdIxcI2O','W5CJWPVcICkJ','W5a5nqPIW4ldRXRdLW','ACoUW6hcJtBcQgu','W7j3W53cVSozk8omW77cTSkptbVcSxXAW6uyWR3dMmkGWOi2WO/dLry','W5FcQ07dUWFdRColsmoChtpdUCksW6xdQ1v4WQldG1WhA8oD','WORcRWOrW4/dVmk0WODdW68JWQ3dS212qx40a054ga','zdZdKXVdKG','WOZcPqzy','dNyjadBcQrGJW49nimkcut1TW6KfW5pdRCkxnCkjW7tcLCodWRldKSkk','W7iAq8ksm2rMbq','ESoKWQxdPMjbWPeEWOLkWOhdGSkdd8oj','d8o6WP7dRgnShLbqmwnTxSkJwgjnWQXlqCkyw8oEqhWTlgPwWPhcI8opW585c8k7W7LhW73dUs7dNfCvcbvco8kSWRDUCmklW7xcV3TJeCkSFIpcVxZcUSoIWQrzW6HxWQWcmSkVwmoQEhy3sNxcV8k7WRNcS8kfvwacWOhdLcNdKe8SW44WW7VcOSobWOtdKfaR','uSoOWO/cMG84WQiCWQXTWRldP8oxnCk2sM/cVbdcIs3cVfFcICo5W4bUWORdRu0SE1lcVMGCESk9W6VdUwiPgZfVW7FcO8oJWQWSoCkbWObznstcIdWwzmkaW7ddQCoDW5/dGmksW5hcKCoeW6xdVN99WOFdNIfZn8kREW5nW5FcMtldJtCrw2zqWOSOW69HdW/cOa','W4jmEmktW5ZdHmkMWOpdQaxcKCoRlSkvWPXlW4DmWRddGW','ybVcGx5PzSol','W4hcJ8oPWPNcOmoveCk2kKm9hheDBSo4d8o0rSoFxZHSxCo3mbfBvq','zhFcMmo+fa','A8knzauxW5FcS8kooSk9pGWPiZ/cL0lcQ8oeW5RcTWNcU8o1WRddOdPc','f8kyWPxdK2S','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','CCoQW6tcUIFcU2qb','W5mBWQtdLCkYb8kfvhRdP8ksbSkqe8kRwuyeWR3cLMdcMSkLlXVcIXuViCoYgSoikYtcOWNdN1uvWPhcHKlcRMO/W5SPjSk3mmoNmmkrfdZdMtewW7NcK8kAjehdImo0w8ktnM7cI3nPhIpdQmktWP/cSSkNzflcGr7dJWBcQLJdK8kIWQOjxmoeW5OImW','y8ojlComW6C','omoIWRiEtmk5W4hcIJ02imkPWPzSnvqEh1mmW57cMu3cMCk/rmoToW','dSoCCe0wy8ohWR3cJJa3DLXmh8kxo8k0WRqF','eCoFW6pcGvrSnhKemMnTxSkwusP5WPKGpCoLdCobtYGMyJefW4dcMCosW5GPwmkPWQ4fWQpdTNlcPdDXyg4zBCo1WQHLmCoDWRZdVMCTeCofgfRdJqJdTCoCW6q6WPe8W4PdymoPbmk0','W4zoESkqW4C','kweCW4/cL8kIWO5d','WRL+kCo3tYaJk1qrWO7dVCkhWQ/cKmkLWOVcOSk7W7xdPSoAWQnRW4jEumk/aJboW53cImkxW7rEWOVdKgPojSkDjCk0W5NdS8orDSogsxVdR8kIWPJcQSkAWOS1BxGXWOddO3CGvhzEk8khwqFcLCotW4VdNSobWRGnerFcP2ddOZCtWQ5mW6FdHLfEdMb2W5y','W6ufW77cLCk6W7NcRcXkCfpcIvG','kmo8yG','W4bqz8kmW5a','rbFdNIJdQSksr8ki','rhZcPmoN','WQtcTSomeCoxuLhcQSkFWRNcM8occ1qFWOxcQa','W4NdISkJrCoo','WPtcLGRdGsNdLSkmdW','W5mdpqtdLa','W43dR1bUWOO','iSo4zG','WOpdMXSjWOVdVbdcVSk9WQC','W6ZdLfFdHSov','W5RdPNb0WQFcV8oX','W4GBWOtcSmko','xshdGGtdUW','fCkTBmkFWOHFAeCqzSkDWOFdTmke','W4mKWPtdQ8kmrmoaBrZcT8oi','sCoDW7xcJWy','W5bVErPKW5JcSq/dMa','wSkhW6ddIXWmtreJwaujECohuq','WPZcJmoybW','WP8YWOK','WQ3cSqFcUq','t8k9mKJdSCoaftBcHmkBWPulWQm','WRWeWPW','hSoQsSoZoa','WR9KWRJdL8oR','DmocWQBdPKTOWRPiWQTRW7ZcRSkshCovletcHLRdRa','W7zfugyXWPhdT0hcMxCuDmoXaxGhW6NcRSkWW74','W5OKcqtdHCkfWOq','W5Ctfei','iSovWQddNmoi','WOZcTSoOomoehZBdHSkSW6ldKSknxsioWPBcHmktW6ypWOpdKtJdNezY','d8oCWP3dRgnfhLj5vXLgBCkkxKroWQXlASo0f8opq2qGANjmWPpdKmkcW484gSkdW4v4W4tdUxhcSYXQzg4/iCk0WQPUCmklW7xcVW','WQK7obTKW4lcGvdcGgq','W63dN8kOW43dQmoffmohkJLyAYyM','WRvkdf4','W7/cP2tdKI7dIColk8k4mqdcSSk7','W6meW5a','kmo2wwqwBSofWORcQqHdFu0X','W47dOe0d','WOZcLSkAW6OmbSkbWOK9WQKzbW','W4eTaqpdHq','W5eGhapdIa','W4z6WOqIW6BdUwRdLSoTmCkZW6BcOW7cGti','lJ/dNCkAthldJfymm8kXgeVcUSowWQ7dKupdM8kRlCkoq8kbvSopqmkDc8ohDH3dHCo8W4O+W5RdUuXdvdj6aSotWOTyWRvQxZNcQru0hCk3WP/dTCoBnCk1WRhcV8kxdCoxnCo5W7nAs8oqhmodi8kEW55CWP7cSa/cGKXoW4nuW6pcPru9umkHAt/dRq','W4KeW6LmBCkJcaO+iuPTcmoaACk+mmkoWPChW6xdHWz9WPvKWODDvCk8WP1PW6xdQmk1tSkbW5yrWOyIWQTFkCkey8owW4uEWRFdHCkhWQqwWPNdTCkkW6NcLKddOuFcSf5CechcNSo5ECo4zLjkWRhdUMddNxiPWOldMmoiW4BcT0SwASkNc8oKWRRdIdpcG8kl','aGJcJh9/z8kcWQfJ','W7P+ASk1W6m','WR3cUaBcRSk/','WR7dTNGUW5VcVSk/vKVdHSoNeSoPW5dcH8kftd7cP8omWRzvW5NcLmo7DUI3GEw/R8kbn2RdVSomnE+9JYtdLSoPWP/cMhWhW7ldJ2JdP8kQb0VcHIpcNmo+WR7cKXlKVjROVytLRlpLHjFdIXhdOaKm772D5ys96zsPW5KXW77cK8o/WP47drhdRCosWPrnFMpcJmkMWORcRSoGpNCqWQbbW4tcHZpdPmo5W43cSgJdOxlcMSkqpNzWw0xcSmoWWQn4psKeEghdG8kVWRufW7bSdMNdOLPyWPddUsmnEmoBtSkgkSkBjtCoBsFdMCoVW4pcNrmFCs00WOFdGuldHbBdJColW7HzW4RdKSkKWQfKyddcTvdcO3jxgE+9RSomlqpdN8oqWOBcSZXIW6VdQ8kQWO/dPCoMWQ3dS8kWW6C8WPlcL2hOIANNGz7dQsJdKSkbW4b6WQ/cHmkRWPC+hmo6W7BcQSozW7Gdc8o4WOerW6eGWPCjW6aNW7qjjSoOA1NdHgpdSmk7W5D2g8ksW6H1WRrRDgpdKmo+W6fgWRKlWPtcQgZdJmoDxZJdU2lOIPFNGApNI7pOIBdVVitcOmklW7uAW5/dL8oiqLVdVCo8Fq3dLspdIUwoREIkK+EcNoMsT+ApOowMSEs7HE+/ThqHWRhcSmkLW74XqCk+WOCfWRhdUXtcM8kpW5lcPSoRWOhcKSofWQVdSsZdMuVcKcuZvxr4WQXgW5ddJfxcGXnQWQGCWQnpWOTwW4qWWR/dPCkWW4zvnmoFuWZcOmkWgMBcJSo8WR/cILNdK8kKkSo+W4dcUSkZWO8nW5lcRgu1nSkdWRXD5zkS55Ao5lQFWQvMt+wlGUwSLU++TmouWPxdUeBLPP3MNyRLRi7MIPJNQ4VML4lMJRZLIzxNIy7cOqtdKvtdS8o0frZdKmom5yII6ikS77Yw5BM36k2M5B+A5zkc77+h6zQI5Q2e5z2w5zkw6zMN5PAAW5iUEYa1ENhcIr4LCmkjW6lcNmo5uSkgvImHv8kig8oBiG3cSru/jeDAW4rtWO0zjCkU','WOFcQchcSCogWPOXWRhdUshdNvKssJ11W4Howvzyke3dRCkMsW','wWtdHbNdUCkcrmkF','WRXIW6hcSSo2','W5FdU10hmwKTW5S','W6BcTYpcRmoD','WPStfexcR0zQWPiQWR4VWQFcKmoRqCo9DCkYB1lcVCo4wXNcKg3dLCkowSk8W5RdNSk8WO4','W7JcPaJcQCkYWRpcOchdGb7dOmkhW4VdMfuCWRGIW6nXW7BcVmkakwhdO8kEyW','j8o6WRRdHqqeuXu3gYKIcmo8hre','fCkTBmkFWOH2AIyLxmk5W4dcOCkPoSkhExemuKdcLW','WPNdQcm','W5PzWR3cNsVcUYStWQCtWO3cGSocWPLYyYb/WRT/WPpcRG','W5rRWO4MfSo6wcnDrY1zg8kddCosh8o0W5auW7hdGqCRW5z5W4SDbmk8W58YWQFdOmoXh8onWP50W6jcW5GyoCoBz8okWPDbWQRcKmkdW7fCW7ZcJ8o3W7q','W4tdU1L5WPy','W5rDW7tdG8kaE8klWRddT8kEaKtdOI0tWOnNWPJcISkn','WRWeWPGZ','qSotASoQamkJumoSs28AFadcOdLgWQtdPXRcTrFdP8k8vWykW7lcT2K','F8oHWO3dKEEdKUwgS+wMLEwiIUMqToAoQCoIWRVdKeRdOH50WR5DWO8IWQ5sW5VcGmkSBCkJW4qQqdmkWQvOsuRcLmkvWOnHaaDPAmk4WQpdT8kHyqNcGSkPCbW4W5CPa27dLSk1W7xdU8oQWQ/dV8oLWQRdUmoVWRO8fColWPSHmdpcR2KzfCkhWP5PWQv7vfL4ESkIACkjg3i8WRWrjSkspmkSCIjIE8oPxwn/FSoCWOzbW63dIr7dLSoWyColWPHcWO3cLCo3WRddSqO6x0RcHmknC3lcLw7OR4/PMi3PKkFMJ5BVVRhcSmoxW7iZWQZcQ8oneteKucfYW6RcO8kVW4STo8ksW5KaW4xdPmoYe8ovWR/dQCojdSoXW55vWR8hW5qOW6rkW73cU8k9jcBcS8o/W747wCogcv7dRdlcUCkNaZJcNmkOifHDWR94xNtdUNf7B8k7ECo4WRWcW6VdVrWRtGHBW5fAW4SpWQNdJSoOW5/cT2y','sYbpWQRdHCo9W4fYpNxcKbtdIW','6l+a5OY35AEI6lwp','DghdQYqAgSowW6/cQmoSpG','W5mkWRldNmkKW57cRe8SdYxcKcCturH3WOJdHxWUnx8sBfhOT7lLVj1FWRLCmCoquo+9VMdcU8kPASogexXXuSo1W78gWRFcU0tdN8k4WPOynatKVPJOVOxLRORLHQvet8oDqCoa77+w5yED6zwlWP/dTvNdHsBdKvvyWOPoWOVcLCoVW5lcSLpdSXrcBNdcRmoAWOBdNsRdGNryhCk5W7SEjGKtWRNdHdpcJmoZfdxdOxa+wwpdICk0ESoRuCkzW5e9WQZdLSkcWRbxiCkIftacW4tdUCk7WPxcV20SW4BcQCo/q8oPmSkczmoTWOpcN8kvgMNcRSklv8ktW7ZdKItcHCknWPldKx9wWQ9EWRaCb8kVWPxdG++/R2yymcaFac3cVaiTB2NcTs7cMc/cQbJdPKrQqWdOIydNGkFcVCkPW6j0WRBdUCoAW4ZdG23cHSkpCbdcMSoRt1ZdH8o7mNZcNSkHWO/cVWVcKvFdQ3RdUZtcMmktv1PAt8kdWQldGaiiW5WgWP0Ho8kQWOhdNSoKymkWWRnzFCoUW6VcQSkuEUIlH+EbQUEjI+IlVU++UmoQwSkVW78VoCoOiCoWW5JdP8kmiYpdOSk85y6B6iQO54gk6zoM5O205AwE5lIX772gfvWvyMRcSSoVoI/dTmo2oCo/WPeGW4RdM8kXWONcSfRcHLCpAmopWRSzFbpcGmoee8kgC1aTiCkeWPFdUSoqW58CACoRW67dGSohErZdT8kawYLpW6jmWR1+W7tdLSopW5/cMZ8PsSkkW5pcRLJcSCkMfCk9WO7cMtLlkmoql8oB5zo255A15lMQWQpcKcRLIBRLRklVVR7cMx1OAUwKK+ACIUwTNUAlHoEPHoAwGUAnUEwiL+EkUxlcKJeIh37dICkBW6dcHUwiLUIbRU+/PUw7SUIUOow8MowsJo+/P+MyR+ASUUwFQEwqJEMyTEAxQCkoW4KOW7ddK3pcGwzZW4ddPCofFZRdOWNcK1f3WRRdNsermmkBWO7dSdy6W70bWOVcLCkqu8oNCq0','WO/cQIiM54g/5ysN5AAz5yQt6zoo5OYVBCo0W7rQxuv+keLqBuZcGSkdW7yaBcaqoKpcPCoZs8oyBab0zIpdNmoyCCkFc1PvgbmCpgaLWPZdOXS/sq3dPmkyemoIjSo1WP7cKu3cLSkaW4/cRSorWPldVmknW5xLRiNMIkpNQQBLJPZMLkNLP6NKUQZVVBPbgCksW6NcR8kVtM/dTSosW4mlmrRcIh8dW4/dICopWRPdW6iSnv/dO8obWPmrA1ddOCkBWOPsWORcLmona3FdI8ks5A6y5OID56Mw5z+p5z2cWO7cVCkpWO/dItJdRmoao+++PEIhNowVRUs7V+EzMEwEP+wtGtRMIPFOGOa15lYt6yga5z+q5zcZmUAjLUIbOWBKVlxPGRddJJddPoAiRoIdHCoD5yYg5lUXW74BmYe8CCotrSklW6/cHmo7W4JcKbqLD19ZWOFcOmoPW4hcJCkmW6ztW7VNQ4lLJy0fntJcQWfn77+GW7hKUzpdOqldR8o556M85y275y625lU+5Oss6ykN5OUCWRNcMMhJGPexoSkcW6tJGzCifSkkW7lJG6iqwG8S44kXd8kubmof44gpW4H2WQBcQUocQwz6W6JdMmo2776q5OM55y6A5lICW6LD5A2a5BI156UX5yYOsxPhWRFcJmkaEsBcSmkcW67dRLVcQXL5oSkTs1jrgrKXWPxcUoExLUAlUd/dI8oyWRLObGtcLo+/TW','u8oLW5BcUta','W4RdHCkOm8oXgSkC','W5ddPwtdOmo4WPLW','nSohWRVdV8of','bbPWne3dQfzLW5rblSoAdNLPW546W7ZdNSkshq','W4pcR343WQS','ACoGWROErCoMWOJdNq','5PAL5PEv55QwiCkbWPSb5z2f5z6c5Q2X','mqBcN0ddVq','mdZcU8o6E1JdJfrCCSoYuW7dRSkPW6VcNWdcLmoVzmoagmopbCor5l2c6l2+5yYL6kYknrBdLmoPW5K1W5RcSeNVVzmQshRMIltOG7tdN13cSwzFjSkLdcvlWRhcKmoIWRGcWRBcMmk9W59iWPzXWRZcOqLjW4OCWPGjWRFdT2NdKSo5e+s/OoIJPUwFOUwsUL7cSCoQpunW776Y','WP05kCkHW7lcVmkeWOikiSoyWPlcUmkQWPlcPIVdHqlcNmo/Da','nSouWORdIcFdMmkApmkkW4bEWQJcQeFdQXjQEmkrWOu','fmkYW7mExCo0WOhcGLTLF8kkWOb7gKD6xGniWPJdN3ZdPCoa','hCkZfYDeoSkvWR3cHJH7CribmSk0qSkrW6CJoapdUWn3W6zVWQxcRCkVW6dcO8kGW5vZW5iXxCkSs1pcVtCuWQ/dPmk9W7RdLCkZW7/dSmkwWOxdQ8kLAc0','W7VdHc9wsKpcJsJdTJPCq37dQNJdP8k0W4BcG0VcPSkFWRBcT8o2WRldMIRdPYCWuf/dJHldHqddGtz2W7VdSCkvW5VcMmoqnWmqzCkOWRKTW7RdHCkdgcmM','lSkrAGiA','W5tdTeNdVCo6WQpcPvddGgtcHCoWWP3dOW','W54tW4FcQvddUMvvWRSBWPBcJSocWO8lzZz9WQPGW57dVCkRgWhdI8klWQe','omouWORdIa7cHCkuqSoIWQ51W6NcGMZcOv0vdSkcWQNdGCkVi17dSmk2WRihW50','WRlcGmo4k8oPcCkCW5ddUX3dPmkwWPyEEXFcRSoZqNVcUSkyChze','WP7dHSkOySoIgmkxWO7cTaBdOCkjWOajv0pdT8oWqJtcU8kojcqlACkqWQ0','Et/dNdNdMW','fCklB8kFWOGRzG5FmmocW43dJSosBmo+nInAaX/dHCodCq3cTqPZfG','pcNdRr5s','BmkYW6BcSNtcRSoDoSkyW44tW7W','kmo2wwqwBSofWORcQqHdEcm','W4ddSxHAWOG','BMpcMmkXW7uaW5iNimkrW6O','WP1fW6FdJCoIoW0zW6FdLCoFuCk8W6GKW6RdPgFdT8krWOz9WOquWOddHqzFxrFdHaZdJ1dcGNeYw3DiW4xdHWFcP1ddN8kPW5aAwXKIzmogemo3WPZdOCo9p8oRxYmyFmkeW7XuDgxdHZ8ermktW6GHWOhdKqRdQSkRW5RdUCodjSomWPldG8o2WQyTza3cKW','zCkhacPc','otldGSoNWRS','s8ktW7hcJXW','W6JdMK/dHY/cHCohgHK','WRD+kCo3tYaJvcP5W6ddLSoaWQpcUmoVW4tdTmopWRtcTCoX','B2tdLeJdHae7WOhcNa','W6JcJapdLYNcN8kzdXy','WQJcOdtcRmk5W5C1baXzW5zVWOxcTq','W5X6W5xdHHvCy8o3WRqGDKO','WOeqaSo2WRZcH8oNW5xdSqVcNmkVl8kpWRadW4nCWRddICoPiZfVmmoxrCk0WPxcN8k8WRSiWR4hoaVdJSkMsmkTW5vEk8oSpKhdM8o9W5NdO8o3BSoqWOZcQCkmqCkwWPpdJcbOWOVcMSkQW4rMWOlcQCosiSkdkrJdHcFdSuNcRgCpdspdGuLzWP0RW7znW5pcKwnk','W5RdL8kKwmob','WPfuamkliNa5vJH5W6VcH8kFWONcUSkmW7BdH8oQWR/cP8oAWRK8WP10uSkWuZbEWPFdLCoqWQLuWONcIXnnd8k0DmkLW5ldTCorjSkscdtdVCoRWPO','WRiQoaT0W4pcPG','W4RdOIRcKxZcNCkBhmkxatJcTSkkW6/dT28UWR7dLeTqi8kuWP1IWQ/dSYawl8kIfspcMSkcW4ldPGfLqCoUW5C1W5G5c3vJFCopWP/cQCkyWOCcW5i4WPi','euNcVvxcGSo5c8onfr7cUmo1vqFdUJX/W7bfWQZcMKhcHmkdW4Hkjmo+WO/dP8k5W4PPuHmwWPrsWQZcVIVdJSoSWOhcMcpcRmoVWR3dJbfCWOKtWO8BbSkZ','WP9rW6/cHW','W53cKw5VWRW','5Pwe5Ps+55U+B8knss7LN5BLNipMRAq','ACo/W7tcMsddOdLAW6VdGL7dRb9rWPNcHSkcl8k1eCkhW6K6dNu','WQjcWRGxaq','lJpdKCoQWQmaW5i','kJRdHmo1WRfzWPHS','W4xdKdW','pmk+W5LJlCkKW4tcMGTYCmkeWPz8tWi0tGLEWOFdLgNdVCoAmSo6fmkrW6K3WQJdTmkiWO1NW5yhWOfiWQS4WPPvD8k0W7ZdHctdHSkfW4K8iCkrWRWddaNcN8oxW50xWQqsWOGCDtbWWRXDW67dGN7cKmolrCkLW4JdPCovzg8+gvdcJwiGWOiCW6iXWRu','W44ffuG','W70JCSkghG','W58KhaJdJ8kt','WPKpWP3dUCkzEKnFW7JdMCovqmk8W7HDW7VdS3tdVCoiWPHGW4vEW5xcLLas','WOBcGv9Uwa','W4CYWPpcQCosiSozWRddV8kwtKpcRga+WQaEWR3dMmkXWOeHWPtcM08BWPBcMmkUomkEzSojW4q','zCoWWPJdQCoOoSo0W6aaWOGFoSkWWO3cTZubW65UFeudWRNcVsZcQJj4','c8kRWQdcNcBcS3jpW7O','smoyWP0lvG','W41Wu8oeWPRdV8ob','W5JcMSoMWO7cUSkrrmoWbqLGz3OwjCkUBCk1fSkkgMLgB8orw1qgECkQWP3cUCoPCG','WPKhW4xdTvVdMx5xWRitWO0','W7ZcQ3VdVq','pCo6xbJcTG','W5JcH0rZWRi','W4ddLMxcU1pdJmkdaKP6WOZdG8khW5SfW6JdIdJcNmoHCLu','tgyCwtq','WQldTwX9WRxcR8kUWOOF','ySknDHm','nCkIWQldPKBdOCoubLNdMGddRa','W47dOq8','W4zqWOKIWQJcTsFdSmkrtSkMWPNcOW','WRtcTr5lzcbOW6SkuHK5W7Xi','gu48W7NcLG','vNBcGCo2WQ0rW4n5Ba','WRi7lr9IWOVdUHO','W4T6CmoCWONdTCokW4C','g1yaW5lcVq','j8oKzG3cNCkiwXlcTSkS','W7HfugzSWP3dNZZdSwS8r8oyaXTJW4xcNCo6W5FdLmo3W7hdNCoyWOS','WQGUnWT+W5W','FNRcQ8kpW4TdWPDHomkKW4OfW4XJESoLvSkgqCkBc0nSW4fmk8kqW45UWRSeccldJmkqW7GjWOStW73dR8oOWQdcKSk3z8k5WOKuDeWNWPOAWQK','ASkcfcbp','WOlcGxS','W6ufW77cLCk6W7NcRcXkCfpcGtzS','WORcRWOrW4/dLCk2W6z2W5uhW6RcPKa','W5mBWQtdLCkYwSkja3NdP8ksDmoNnSkOww8TWR3cLwtcNmk7AfpcIq0Gpa','W7W/obT5WOZdSaFcVJufcmk0rX5YW7ldISk9WPFcGCkMWPdcOCkNW79hhcW','5Pwd5OYl5l6x6l+p6zAs6kYF','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','sSokWPStCG','imoZyX3cTmkyua','kCkCCra','W4VdTCkbW6tdQmoifSoWdqeSydrBcmknfmkqqSoyma','WRtcTr4Fpx0TWPjSEYnTWR9KwfJcJSk+eahcJMZdVc0I','WO3cN8kDW4Oqm8kpWP46','t8k9mKJdSCoaftBcHmkBWPupW44c','W5ddGCkRgSoIc8kwWPG','W7eOWRNdSSoFo2rRW6hcGUI9OUAoN+wgQUMvSEMvOUITOmkW','W5P7W7FdG8kPuSklWOFdKmkMDK/dSLa','sCkGW5NcVCkGkSoXWPeaW7j6tCoKWRy','WQVcKWhdHXy','nmkTW4hcIb8G','fqpdH2hdUCkrrCkjwaFcVCo8eLNdVdmmWOKPWPJdPbddH8kfW4zBpmkM','WRtcU8kRWQ9lCmkTWQS4W7BOVQJMJ4ZLP5ZOTO7dGmoj','WRVcS2uWWQNdPSoB','xdZdUGJdKG','W7jSW5RdNb1tzCo0WPyWDu4ZWO42WOy','wNeoEsxcVbCoW45elmka','WP/dU2RdR8kyWOK6WOpdGcL5W7tdN1G','ueqTDWG','W6uQnWXJW4JcPuhcKx9yC8k/tfuKWPdcI8oTW4ldHmo3WRRcK8kbWPqcqGddRd08W7Xp','W5RdMCkSoSoChmkxWO3cRWm','WOpdKKNdJmotWOSEWORcTN/dPbz+dJHKW78zhHynEsZcKCozp8o4W4ddMa','r2JdVJhcONPTW7JdUSktW7awpCom','W4zqWOKIWQJcTsFdSmkrtSkMWPhdJaC','WRZcOa7cImk+','W4ddLMxcU1pdPCkQaLbXWO3dKmkbW5WOW73cHxddImkLkrLRW5jpW6ZcSLJcGmkQW71rwSkVo8kKW5nFCKmtsCkqmCkKkSk8WR7cOIHJAGnqWQFcTmoWW6GEW6H1WRLWW5vBbgy8W73dH8oUW7JdGmkPsbvkb8oifuKSmYrJgSoTW45hWQL6d8kVW5isFCkpWO/cGwD0pf3cPu9lW6eYW79lz8oqgxbSW6/dImopcdVdR8o5ouVdNSocW6S4WPZcRSoyW4pdO8opW4JdMHxcLmo+imoImSkpWOpcSbf4t8kQWOpdVWxcKJmaW63cPYpdJCk4wCoUW6TljCk0WPVdQSojBZffW5/cSmoPW792WRKzlJNdQmotnmoZWRnacmoRz1dcI3JcTmoFlSkOk8kyW7JcJXtdHCoE','W4rAW5VdVrZcKsSrW7rwW5/dLmkhW4Snm28TW699WONcRSkXhWFcHUI0Kow8MdBdQWBdINVdQo+/PmoLW73dTSkmlJxdJCkpWPddOCkpld4KqvhdPCkXlhmJrI9Oh8oeWOHrWRxcNComhCoWcKFKVPlOVQNLRjpLHjdcN8ohW7hdUKdVVPVLVApLK5bzvmkeWQvdWPybWOLnWRylD2pcRdvLoalcS8oWW5DKFNz5AUI2HoI/KEIUHos7L+MQKEIVLW4JCCo6CCkxjx14hmozBmoDW6/cJo++VYXtWO8DDCkrjCoKuNRdQmkpA8kvvSkSmCo7WRiYW6fGW73dHNRcLCovWOVdSuBdTavXW5FdKCk4W7eIbCo9EXtcGueRWRCDaHdcS8oHWPZcLmokWR3dKSoeWP7dUCoVWOhdLgpdMSkmsdxcJ8kEWO/dRInoW5RdSsGVqY8bW57cPSo9rSkJqCkNh8kWDmkrzSozkSkW77Yn6ica5zcr6yke55wR44o3WO3cQ8oMExhdG8kfW4tdUSok44k8WR1dtL7dOqnqvEIUTEMBUEMrP+AoSEwMSos5GU++Omo1W7qxjrPAAcfQxrRcPxeTmdacW4CxW5NMSBdMHiRVV7lKUzZKUBJORlxPMBRPK57MJiVKU7JdJos7J8o6lgFNQiZLJ7ROIOJNGyJdJ1FdO2XemXxcPZpdM8kxltRdUCkJWQ/dN8onh3ZdU1ivW7PLiZ7cJYhcICkbWPWFs8kuWRvYEbFdKhZcISkEWPTwhmk5dhFcU8kMWRrVaSkHftNdU8kfBuTfwmkQWRtcI8oCfb9ycSocW5hdMJhOGA3LK63PGjRNL6RLIy7KUO/PKPVMJB0qWOBLJj7NM6tMJBJLRzdLHPBLRy3MIlpNQiGZ77+WpdhdNum6aCoHWRZdT8o2orhdIhVcHdH+ybONiuzqf3/cU31Vjcv+EmkfWOlcMCoCW4RdT8oaW7ZdV3NcTuqkWQD1fmoxW4qbW41gWQNdONrpl8oRWRSBW6VcQKdcMYFcPw0AqJ5HW5O3WRRcH8kZygVcNr11EgrmW7/dGgPAWP8XW6JcS3VdK3rtW57dQZD3WRRcQbC5lKddTSo8xmkwWOxdQSkKW510WRXQemoyW4pdOCoHW7RcQa','WODsfbO8c8kzDCkoW6fzdCokytW2k23dH29rdCkeW47dLW','x8oKb8oYW6qKoq','CSkQW7FcSxtdGSkxz8oAWOLnWRZcUuVcMxTrqmotW7FdLCkOmeNdU8kRW6zgWPlcNCod','W4NcQddcLJddRCoHyCo3z1/cGSoTWONcPx5SW7pcJuPqjCkjWOz1WRldVImzoCo3tNhdHCkeW43cQaD+qSkQW50IW5vYhN5QoSosWOFcTmoDWOmeW4iNWPi6fgNcRSkpWOf1oH3dJaLeW5ldOSoBECk9WQq','W5hdThxdUmoSWOK','yYXLWOpdRmozW4erwLNcO1ldOSk8kCogWQjtWOBdVdj/WPm','W4FcM0m','r8oDjvfFW4FcTSo/oSohw3T9ga','W5pdIauOmgFdGNJcOdOdoYJcRYRcMmk0W4JcHvFcVSkfWRq','WRKMkKfNW5JcPLtdLNnziW','W40jW5tcVmktW7tcRe14q3BcKJ0tcJjEWQhdRh5REYiCAqP5WRTnW6Ljn8onheHfWO3dHqFdMvaSnrtcRmkInCkWW6qJWRpcK8kCvh8','fSoeBmoQoq','WQpcL8osWQRcRa','FedcJCo0cW','FNRcQ8kpW4TdWPDHpmkPW5PmWPm3xSkkmCoSj8oDb0nQWOeABSowWPW1W7GBhYpdImoyWPzYWQa2W5xcLCkeW7ldHmoWyCkuWOyBALLQW5joWQNcPSoQeN0pWRVdMSkiWRZdJCkAgWGOW67dMIS9gNNdTNC+E8k3WPjUhCkgW6ZcM8k/WQpcPSkibCktlHj7','g8kSWRW','WOeqaSo2WRZcRSoLWRtdHZxcQCoXfq','tmo6W5xcKr0','bI/cTCo8isVdKN5anSk7bq7cRCoLWQRdJfpcICoTj8kpsSoxdCkgdmkigmkgi3lcKCk9WO56WPtcVWK/FvG2q8kcWOWxW7z2qZ7dPfLkh8kTWP/cRSoXhmkCWPJcOCkBaCoaCCo/W61igSkzaCkAsSo4WRT4W5pdTaddUXeFWOL8W7NcPw4xECkiqbBdR11bsvyrjSkUmCoopty0W6ddRvWiWRJdUtVdJSkTlalcTmkLWPHPB8o2W4xcPuucWQSkW5ZdQEs5LEErL+IgM+AFMWFdLdddHuxcMmoMqMpdVb3dJcZcH1tcUdyYWO9otCo9WRtdLSoTW7Gfz8kJxmk4WO4cb8o3WR8nEtHp','WRL+kCo3oYWjF1DJWO3dVCoZWQpcUSkoW7hdJSoRW7pdOSoCW6LZW5HC','WQSvW50','W4ddLMxcU1pdPCkby39aWQJcGmk9','WQJcOdtcRmk5W5C1baXzW5zNW6K','WO7dS2fSWQ7dOCkXWPD2WQ9IWP3dS3SmaLv0qLPYg8kLW7VcO19xDG','WOSHAmo9WRFdPCoSW6W','W63dN8kOW43dQmoffmohkJLyAYqM','iCk5WR7dLxS','WORcMSo7WP7cQCkpuq','Fs8BW67dM8ozW6S4CspdJYNcNCoquSkLWQzyW4RcThiWW4FdJw1/u8k4W7BcISkrAMe5uaPJWQJcNrxcJe/cSbRdTSk0W6LsDsfXBHjtW7TyqrtdVrpdRvCWWP7cM1zObCkqW5BcONlcKv0nh0m','W5yVnLlcQq','r1GDDZe','pZpdUIfbyG','5Psh5PA355ImWQtcMmkEaowETowCRa','5Psp5PwT55MA55AD5OQT','td/cQwPb','W6JdMK/cKNRdGCkdy39aWQJcHmoqW7y','frxdLIJdO8ondSoFCu/dP8oaeLNdV3qXW4T5WPpcO0dcOSkRW7z+ECkPWRq','WRLykSo3tWKkvdD2W7tcKCkzW7BdQmojWQdcKCk5W6pdPSocWRGSW5r0E8kznfWiWPxdJSooWRfmWPpdNbTnjSkDdSojWOdcO8kwmCkscdVdTmk0W57cGSkPWQjHp3b4WQBdOhCjFv0kCSovwKZdGCkuWOZdMSoDWQ8xdehcQvddIHXqW6yCW73dNL0yjLnFW70bW7rBW4VdLMexkCoOix4XW6hdLY0WW7pdKCkrwmkXW7tdImkpWPjmWPJdG8o+WO7dMMhdMh1hcqWZvJxdTWfcWPGbW5BdUsBcV8k0WRtcOZrrEdRcIuddP8oNeSoNWPldR8kHomo+WPeLsd5NW6xdICozCSk7tHSbqmkkemotuCo2W5m3W4VdGSkJW4xdGSoSW7S2WOX7W4ldLMH4oCk2WORcVCknAq','gmk/BHqo','W6C4W4NdLXfEoSkZWPa','WPNcLSkqW6OA','W49eWQZdKmk6WRRdOXSStMNdNgHeffX5','ds3dPt9q','uSoOWO/cNWq6W6WgW6O','raRdHtFdRSkcwmoduW/cOG','z2yFWRFcL8kXWO9vf0FcR1RdSCk9FCoTWQTmWPhcTwC2WPxdKw1Ib8oM','5Ps65Psh55UDjKhdH8oH5zYf5z64','WPFcIgbosW','W5CZgG/dKG','6l+F5OYU5AAX6lEmAq','W7ldPSk/c8os','WOzACc/dLdytW4qaWPCEW4ZdH8oB','W61Os8k1W7K','WP0XgWi','WP4IW6xdRhO','W4VdScxcVa','fJpdQI5m','W5xdGfJdMCo1','WRvjW43cSCkECKKbWRC','oSkkCL8jWOpdPCoDgCoTFYu8iJtdHxi','bHNdUSkZkZpcGrfgCUIeUowlM+MaP+AiP8kdW6VcN1tdJCk/iCoAbmowhSkdt8kzd8oxAxlcKCk9W5SOW4tdOuaHku8QgmoEW5bDWQnZaI7cTrmHs8oKW5ZcOmkYu8orWPFdUSkAbSoti8o9W7vmnSoydmkmi8k3W7C8W5ddPeJcUfvCW5TmW7NcTN4hu8kiqelcObeegWSxDmo1smkcz3nAWQBcOu0iWRlcRcxdHmkSFw3dPSo2WPC5i8kXW6pcKdCIW7yW','r1SAzru','W4KIW6PmBCkkcHrYDXvDkG','qZtcLuZdG05QWONdUSoPWPvHACo3zmosedVcThGNW5/dJ8oGW6hcHGPvWOq','WPtcMu5pWRFcHwldVSklW4JdOb9bWRpcTmk3WOqTjCk+k8oDb8ociSkgq3T4','FCo+WRWzqq','WQtcQxuZWO3cICk6rc3dG8o0DmkSWPtcGSkwkcZcSSoAWQzwWQBcVSonhH9BW7y','d8oCWP3dRgnShdnlzdXvzCo1','WOiXW700WRZcUe7dO8kHj+I8RUAmHEwNJEI1VCkc','fSoXWQRdSmo3','W5BdJs0F54ka5yAv5AEV5yMU6zg85O+SwMy8WR8SWRpcQ8ojW4KFWRpdI8oWWQBdG8oEWRCEW5WBd1XsWRbaW5SQW6HxgSktWPZdJmkgWP/cIfjhsxVcGSkqbmk7WQpdJenTz8k2pmkJuttcO0JdLmocWQmfWRv1u8k2k3xcIZ5QWQBcVCoeW40fcvTiqeqGEqpcI8oLW6ZdQI7cGCoZWOdcTSkgDqldSKlcHmkzWPamW4/cT8o4WRymW7VcP27dQmoKWRFcILJcRsdcLeFdI1JcNUIdKowqTUMaNUEwIUIURUMzREMqQUApLo+/UNCTW6BdTvtcTCoXamooW4jXWRpdUmoZW606BCoSW7TRWONdGJRcV8ouW63cMmkxrCoxySojWP7cUCklsSoSdSoxWQpcMv3cQNePWPRdNSkMemkQmbJcMwddP8kgW6ZcR8o5WOVcJmoeW5NdIvpcRSknxN/dRCkYW50gEmk3hZRdHSkHWQWrW4KyrKFdR8oNWRZcMG','b8oADJ3cHW','W7JcSHNdOmkOW6/dQ3FdQvBcUSk7W4VdMfzBWOvGWRn6WRhdRmoLb1hdHSoBaq','qtJdPZvwACkAW7NcS8k9wGZcKKfaWOBdIxxcLraeW5BdNez+WR/dICoxWR7cQmoTFIRcVqSXW7tcVmkixSolgIeKW6ldNSoEgCkpWQvgA8kgW7zJgfxdIG','WOamWOpcP8kzyL1pW77dM8osb8k3W7mvW6RcRhFdVCkwWPPHWOPcW4pdMfbdt1ldNaFdKGW','WQtdISknvmokqaBdOmkk','qGtcMsRdOSkdsSkaxG7cSmoQeLJcUZqbW5CVW4RdVG','W6tcTxSOWPC','r8oDjqqkWOpdSSkgxa','W63dN8kOWP3cP8kAqmk+ta','WO3cJefyWQ3dGtFcUmkKWOlcVwrkWRJdV8oHW6zSDCoRBSkmlCoWbmoTbIvumqVdNX5m','W7FdShKkfq','sxxcUmoMja','WQ3cQNy','W4zqWOL2W7hdQglcICo3z8kCW4xcJYVcSK3dItPkWRRcU0KKW43dQW','s3ydW6/cLSkJW5SEvW','WOpcNSo8WOW','f3uxxJBcSqyZW4Lpj8ofwJyLW7HAW5ddRCojn8kiWRVcICovW7ZdKSoBWOCycqNcU8on','sYbpW7/cGCkGW5SrhKVcQLpdSCotE8k5WQzqWOFcSJaJW5ldLxf0ECo7WRRcHCkhBsT0qbu3WQJcIbldQeldOb/dRmo0W6DqEhbRc1WqWRCruH7cTfNcTbHIW4JdSfXpvmolWPpdTI3dKIvjf0tdPmo/W6JcRCkbnCkozmoZWOldJZxcLmkMkaqnW60BEa4C','WPSzW5JdP0C','WOvmACklW53cMSoIW4xdH0/dJmkcl8kFW4PvW6KnW6RcM8kWBHulvCkHvmkB','sCo2WPxdUmoZDmoRW71P','sCkGW5NdQmoKD8oRW7iGW4Xad8kWW6pcSIyXWRaOCfvuWOJcJHBdTImhW70IW57dGCoiaIaeW7VdRuWZW43cK8o1FSoVwwxdSmoDe1rnuSoe','W4FdM1ZdNCo3W5nvW5/cHdi','nSoPCXZcPmkE','W7bFW51MWRBcKq3cUSoEgmo5WQNdTvhcSvhcNs0rW7tcR1KIWOpcPmkwcSkRW4xcOGNdLIddL8oxWROMBx92jaD4W4/cHmkLavtdKqCYAmoXxmoCWQRdTmotWQXxWRpcKNVcLvzUW4pcOSo1oSkcWP3dNCklhbWX','W4/dL1n2WRa','uCoZcCo7','W7jvWPFdOuBdQZerWRixWPpcH8ocW6enmZTHWRXNWONdQmoShX3dNCo1WRW+W7ucW4PKWQ7cJmkHW7JcS8kFya3dMmkzW5FcRSknlYDUoeVdJ8kXlhmJfM48v8oEWOHtWRRcGSkjrCkHuuZcHaRcUhlcL8kZWP3cIqhdPalcMWajWPVdTNFcVahcIu3cTGSFlmo/yx84','lJ/dNCkAtfVdPvy/fmknjr/dVCow','W53dK8oDWQFNG4BLHQVLP6NLI43PKRdMJAvkrSkpW57cJSkDi8kNt8kLW50tEqKfWP5piZ7cUmkUgCkocgSRpYnFgh7cG8o9WQRcOmowW5/dRd/dJf/dIW3cTrVcPahcRdWAWQxdJCobWQaBuMSGmfi+CWpdOJddIe4aAJZcRKTnluNcHCo9kr9kW7rnWPyqA8oFW5VcKfS0t8oTWQyZe8ooW40wWPbvW7zOd8oXlN5hWRJcIgZcUCkbWOu','umk+WQldUX4','b2mB','WOGQpqzJW5tcTKhcIZbciCoX','W7TNW4hcUCoivmkFjL8','omoYWONdIa7dSCkAc8kTW7GQWQddLW','WOFdOJtcNM/cH8ko','W7VdOMBdMSom','WOOqW4FdUepdUg4','umkZcsHximka','tCkqW4tcMxa','EXlcIxLP','WOdcIH3cHCoKW5yFtKn9WOPxWR/dISk9WQpdOdFdMMddPZyHW7SvWPm','wSoKfCoLW6aXlW','eCorCXVcPa','W4ddKfRdL8oj','kSkyCsynWOpdOSozdG','WOdcK8odWQtcOG','WOD4gu4RgSkrkSkuWRD2lSoMraCNva'];a0_0x4b71=function(){return _0xebfaad;};return a0_0x4b71();}function getclConfig(_0x1eb52a,_0x2fa3c7){const _0x13f68c=a0_0x3d3794;return'\x0aport:\x207890\x0aallow-lan:\x20true\x0amode:\x20rule\x0alog-level:\x20info\x0aunified-delay:\x20true\x0aglobal-client-fingerprint:\x20chrome\x0adns:\x0a\x20\x20enable:\x20false\x0a\x20\x20listen:\x20:53\x0a\x20\x20ipv6:\x20true\x0a\x20\x20enhanced-mode:\x20fake-ip\x0a\x20\x20fake-ip-range:\x20198.18.0.1/16\x0a\x20\x20default-nameserver:\x20\x0a\x20\x20\x20\x20-\x20223.5.5.5\x0a\x20\x20\x20\x20-\x20114.114.114.114\x0a\x20\x20\x20\x20-\x208.8.8.8\x0a\x20\x20nameserver:\x0a\x20\x20\x20\x20-\x20https://dns.alidns.com/dns-query\x0a\x20\x20\x20\x20-\x20https://doh.pub/dns-query\x0a\x20\x20fallback:\x0a\x20\x20\x20\x20-\x20https://1.0.0.1/dns-query\x0a\x20\x20\x20\x20-\x20tls://dns.google\x0a\x20\x20fallback-filter:\x0a\x20\x20\x20\x20geoip:\x20true\x0a\x20\x20\x20\x20geoip-code:\x20CN\x0a\x20\x20\x20\x20ipcidr:\x0a\x20\x20\x20\x20\x20\x20-\x20240.0.0.0/4\x0a\x0aproxies:\x0a-\x20name:\x20CF_V1_'+IP1+'_'+PT1+_0x13f68c(0x3f9,'D8B1')+IP1[_0x13f68c(0x61b,'q)7&')](/[\[\]]/g,'')+_0x13f68c(0x57f,'n73c')+PT1+_0x13f68c(0x65d,'FI(P')+_0x1eb52a+_0x13f68c(0x53c,'qs%P')+_0x2fa3c7+_0x13f68c(0x571,'pxdB')+IP2+'_'+PT2+_0x13f68c(0x46c,'2BdX')+IP2['replace'](/[\[\]]/g,'')+_0x13f68c(0x2f5,'RUDA')+PT2+_0x13f68c(0x32b,'%fws')+_0x1eb52a+_0x13f68c(0x532,'eoD$')+_0x2fa3c7+_0x13f68c(0x2cb,'!NJO')+IP3+'_'+PT3+_0x13f68c(0x399,'gLxZ')+IP3[_0x13f68c(0x59e,'FI(P')](/[\[\]]/g,'')+_0x13f68c(0x2dd,'qs%P')+PT3+_0x13f68c(0x55b,'$)w3')+_0x1eb52a+_0x13f68c(0x314,'(BCy')+_0x2fa3c7+_0x13f68c(0x66c,'ldo*')+IP4+'_'+PT4+_0x13f68c(0x2e5,'Yp3L')+IP4['replace'](/[\[\]]/g,'')+_0x13f68c(0x672,'2BdX')+PT4+_0x13f68c(0x34a,'H!gw')+_0x1eb52a+_0x13f68c(0x5c5,'%4G)')+_0x2fa3c7+_0x13f68c(0x626,'no^s')+IP5+'_'+PT5+_0x13f68c(0x3ad,'#z2$')+IP5[_0x13f68c(0x3b0,'rN[D')](/[\[\]]/g,'')+_0x13f68c(0x3d7,'q)7&')+PT5+'\x0a\x20\x20uuid:\x20'+_0x1eb52a+_0x13f68c(0x695,'qgeG')+_0x2fa3c7+'\x0a\x0a-\x20name:\x20CF_V6_'+IP6+'_'+PT6+_0x13f68c(0x315,'LTVA')+IP6[_0x13f68c(0x423,'3q7O')](/[\[\]]/g,'')+_0x13f68c(0x601,'HzN7')+PT6+_0x13f68c(0x34a,'H!gw')+_0x1eb52a+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20false\x0a\x20\x20network:\x20ws\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20'+_0x2fa3c7+_0x13f68c(0x68c,'BG$F')+IP7+'_'+PT7+_0x13f68c(0x2ee,'fu3]')+IP7[_0x13f68c(0x462,'OkdH')](/[\[\]]/g,'')+_0x13f68c(0x4ad,'N[#(')+PT7+_0x13f68c(0x5a9,'RUDA')+_0x1eb52a+_0x13f68c(0x34e,'RUDA')+_0x2fa3c7+_0x13f68c(0x6c1,'pxdB')+_0x2fa3c7+'\x0a\x0a-\x20name:\x20CF_V8_'+IP8+'_'+PT8+_0x13f68c(0x225,'#k(Q')+IP8[_0x13f68c(0x61b,'q)7&')](/[\[\]]/g,'')+_0x13f68c(0x2f5,'RUDA')+PT8+_0x13f68c(0x32b,'%fws')+_0x1eb52a+_0x13f68c(0x2af,'#z2$')+_0x2fa3c7+_0x13f68c(0x6c1,'pxdB')+_0x2fa3c7+_0x13f68c(0x3a0,'#k(Q')+IP9+'_'+PT9+_0x13f68c(0x3b7,'@B[z')+IP9[_0x13f68c(0x546,'qs%P')](/[\[\]]/g,'')+_0x13f68c(0x482,'rN[D')+PT9+_0x13f68c(0x649,'@B[z')+_0x1eb52a+_0x13f68c(0x366,'OkdH')+_0x2fa3c7+_0x13f68c(0x325,'o2$*')+_0x2fa3c7+_0x13f68c(0x560,'JCWn')+IP10+'_'+PT10+_0x13f68c(0x25c,'HzN7')+IP10[_0x13f68c(0x546,'qs%P')](/[\[\]]/g,'')+_0x13f68c(0x6ab,'SLd#')+PT10+'\x0a\x20\x20uuid:\x20'+_0x1eb52a+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x2fa3c7+'\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20'+_0x2fa3c7+_0x13f68c(0x41b,'BG$F')+IP11+'_'+PT11+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+IP11[_0x13f68c(0x37c,'(BCy')](/[\[\]]/g,'')+_0x13f68c(0x557,'LTVA')+PT11+_0x13f68c(0x1ea,'N[#(')+_0x1eb52a+_0x13f68c(0x488,'HzN7')+_0x2fa3c7+_0x13f68c(0x325,'o2$*')+_0x2fa3c7+_0x13f68c(0x3df,'eoD$')+IP12+'_'+PT12+_0x13f68c(0x473,'3%hi')+IP12[_0x13f68c(0x61b,'q)7&')](/[\[\]]/g,'')+_0x13f68c(0x69e,'o2$*')+PT12+'\x0a\x20\x20uuid:\x20'+_0x1eb52a+_0x13f68c(0x3f5,'SLd#')+_0x2fa3c7+_0x13f68c(0x67d,'&dbg')+_0x2fa3c7+_0x13f68c(0x2a6,'pxdB')+IP13+'_'+PT13+_0x13f68c(0x52e,'q)7&')+IP13[_0x13f68c(0x462,'OkdH')](/[\[\]]/g,'')+_0x13f68c(0x29e,'at%P')+PT13+_0x13f68c(0x514,'#k(Q')+_0x1eb52a+_0x13f68c(0x293,'#k(Q')+_0x2fa3c7+_0x13f68c(0x6a3,'3q7O')+_0x2fa3c7+_0x13f68c(0x647,'no^s')+IP1+'_'+PT1+'\x0a\x20\x20\x20\x20-\x20CF_V2_'+IP2+'_'+PT2+'\x0a\x20\x20\x20\x20-\x20CF_V3_'+IP3+'_'+PT3+_0x13f68c(0x588,'&dbg')+IP4+'_'+PT4+_0x13f68c(0x5ce,'(BCy')+IP5+'_'+PT5+_0x13f68c(0x3c3,'rN[D')+IP6+'_'+PT6+'\x0a\x20\x20\x20\x20-\x20CF_V7_'+IP7+'_'+PT7+_0x13f68c(0x211,'ldo*')+IP8+'_'+PT8+_0x13f68c(0x1ec,'%4G)')+IP9+'_'+PT9+_0x13f68c(0x1f3,'%Cnp')+IP10+'_'+PT10+_0x13f68c(0x43e,'I3Mq')+IP11+'_'+PT11+_0x13f68c(0x349,'fu3]')+IP12+'_'+PT12+_0x13f68c(0x25f,'HzN7')+IP13+'_'+PT13+'\x0a\x0a-\x20name:\x20自动选择\x0a\x20\x20type:\x20url-test\x0a\x20\x20url:\x20http://www.gstatic.com/generate_204\x0a\x20\x20interval:\x20300\x0a\x20\x20tolerance:\x2050\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20CF_V1_'+IP1+'_'+PT1+_0x13f68c(0x226,'BG$F')+IP2+'_'+PT2+_0x13f68c(0x36e,'qs%P')+IP3+'_'+PT3+_0x13f68c(0x45b,'eoD$')+IP4+'_'+PT4+_0x13f68c(0x65f,'3%hi')+IP5+'_'+PT5+'\x0a\x20\x20\x20\x20-\x20CF_V6_'+IP6+'_'+PT6+'\x0a\x20\x20\x20\x20-\x20CF_V7_'+IP7+'_'+PT7+_0x13f68c(0x321,'qgeG')+IP8+'_'+PT8+_0x13f68c(0x5d5,'Yp3L')+IP9+'_'+PT9+_0x13f68c(0x4ab,'JLqf')+IP10+'_'+PT10+_0x13f68c(0x4c7,'H!gw')+IP11+'_'+PT11+_0x13f68c(0x4fd,'at%P')+IP12+'_'+PT12+_0x13f68c(0x343,'%fws')+IP13+'_'+PT13+_0x13f68c(0x66b,'E]t%')+IP1+'_'+PT1+_0x13f68c(0x2a8,'gLxZ')+IP2+'_'+PT2+_0x13f68c(0x2ab,'m(9!')+IP3+'_'+PT3+_0x13f68c(0x3c6,'2BdX')+IP4+'_'+PT4+_0x13f68c(0x42e,'SLd#')+IP5+'_'+PT5+'\x0a\x20\x20\x20\x20-\x20CF_V6_'+IP6+'_'+PT6+_0x13f68c(0x24c,'qgeG')+IP7+'_'+PT7+_0x13f68c(0x202,'7PM$')+IP8+'_'+PT8+'\x0a\x20\x20\x20\x20-\x20CF_V9_'+IP9+'_'+PT9+_0x13f68c(0x4d6,'q)7&')+IP10+'_'+PT10+_0x13f68c(0x2a7,'3q7O')+IP11+'_'+PT11+_0x13f68c(0x43a,'m(9!')+IP12+'_'+PT12+_0x13f68c(0x470,'5R6%')+IP13+'_'+PT13+_0x13f68c(0x35a,'N[#(');}function getsbConfig(_0x3a478a,_0x11583f){const _0x28b72e=a0_0x3d3794;return _0x28b72e(0x40b,'no^s')+IP1+'_'+PT1+'\x22,\x0a\x09\x09\x09\x22CF_V2_'+IP2+'_'+PT2+_0x28b72e(0x312,'%Cnp')+IP3+'_'+PT3+_0x28b72e(0x62e,'$)w3')+IP4+'_'+PT4+'\x22,\x0a\x09\x09\x09\x22CF_V5_'+IP5+'_'+PT5+_0x28b72e(0x31a,'#z2$')+IP6+'_'+PT6+'\x22,\x0a\x09\x09\x09\x22CF_V7_'+IP7+'_'+PT7+_0x28b72e(0x208,'LTVA')+IP8+'_'+PT8+_0x28b72e(0x29c,'o2$*')+IP9+'_'+PT9+_0x28b72e(0x4c6,'D8B1')+IP10+'_'+PT10+_0x28b72e(0x4d5,'rN[D')+IP11+'_'+PT11+'\x22,\x0a\x09\x09\x09\x22CF_V12_'+IP12+'_'+PT12+_0x28b72e(0x605,'%Cnp')+IP13+'_'+PT13+_0x28b72e(0x5dd,'HzN7')+IP1+_0x28b72e(0x3d8,'@Z$m')+PT1+_0x28b72e(0x46b,'%(Fi')+IP1+'_'+PT1+_0x28b72e(0x5ad,'fM&k')+_0x11583f+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x3a478a+_0x28b72e(0x44a,'7PM$')+IP2+_0x28b72e(0x299,'%fws')+PT2+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V2_'+IP2+'_'+PT2+_0x28b72e(0x320,'RUDA')+_0x11583f+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x3a478a+_0x28b72e(0x437,'BG$F')+IP3+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+PT3+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V3_'+IP3+'_'+PT3+_0x28b72e(0x444,'ldo*')+_0x11583f+_0x28b72e(0x36f,'no^s')+_0x3a478a+_0x28b72e(0x313,'rN[D')+IP4+_0x28b72e(0x206,'qgeG')+PT4+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V4_'+IP4+'_'+PT4+_0x28b72e(0x2ae,'H!gw')+_0x11583f+_0x28b72e(0x627,'Yp3L')+_0x3a478a+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP5+_0x28b72e(0x40a,'FI(P')+PT5+_0x28b72e(0x365,'!NJO')+IP5+'_'+PT5+_0x28b72e(0x494,'2BdX')+_0x11583f+_0x28b72e(0x20d,'fM&k')+_0x3a478a+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP6+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+PT6+_0x28b72e(0x1fd,'LTVA')+IP6+'_'+PT6+'\x22,\x0a\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x22'+_0x11583f+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x3a478a+_0x28b72e(0x277,'JLqf')+IP7+_0x28b72e(0x46a,'fu3]')+PT7+_0x28b72e(0x274,'@B[z')+IP7+'_'+PT7+_0x28b72e(0x486,'@Z$m')+_0x11583f+_0x28b72e(0x5fb,'n73c')+_0x3a478a+'\x22\x0a\x09\x09},\x0a\x09\x09{\x20\x20\x20\x20\x20\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP8+_0x28b72e(0x452,'RUDA')+PT8+_0x28b72e(0x648,'(BCy')+IP8+'_'+PT8+_0x28b72e(0x438,'LTVA')+_0x11583f+_0x28b72e(0x352,'no^s')+_0x11583f+_0x28b72e(0x445,'%4G)')+_0x3a478a+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP9+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+PT9+_0x28b72e(0x432,'aW@c')+IP9+'_'+PT9+'\x22,\x0a\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x11583f+_0x28b72e(0x251,'@Z$m')+_0x11583f+_0x28b72e(0x5fb,'n73c')+_0x3a478a+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP10+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+PT10+_0x28b72e(0x60b,'RUDA')+IP10+'_'+PT10+_0x28b72e(0x336,'n73c')+_0x11583f+_0x28b72e(0x23f,'rN[D')+_0x11583f+_0x28b72e(0x306,'3q7O')+_0x3a478a+_0x28b72e(0x54a,'OkdH')+IP11+_0x28b72e(0x298,'S(tC')+PT11+_0x28b72e(0x2b0,'ldo*')+IP11+'_'+PT11+_0x28b72e(0x4b4,'N[#(')+_0x11583f+_0x28b72e(0x360,'pxdB')+_0x11583f+_0x28b72e(0x577,'%fws')+_0x3a478a+_0x28b72e(0x2c9,'N[#(')+IP12+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+PT12+_0x28b72e(0x5d0,'oU^(')+IP12+'_'+PT12+_0x28b72e(0x676,'(BCy')+_0x11583f+_0x28b72e(0x266,'(BCy')+_0x11583f+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x3a478a+_0x28b72e(0x313,'rN[D')+IP13+_0x28b72e(0x46a,'fu3]')+PT13+_0x28b72e(0x246,'OkdH')+IP13+'_'+PT13+_0x28b72e(0x438,'LTVA')+_0x11583f+_0x28b72e(0x609,'n73c')+_0x11583f+_0x28b72e(0x3b4,'OkdH')+_0x3a478a+_0x28b72e(0x3e3,'%Cnp')+IP1+'_'+PT1+_0x28b72e(0x55d,'7PM$')+IP2+'_'+PT2+_0x28b72e(0x39f,'gLxZ')+IP3+'_'+PT3+'\x22,\x0a\x09\x09\x09\x22CF_V4_'+IP4+'_'+PT4+_0x28b72e(0x4ef,'at%P')+IP5+'_'+PT5+'\x22,\x0a\x09\x09\x09\x22CF_V6_'+IP6+'_'+PT6+'\x22,\x0a\x09\x09\x09\x22CF_V7_'+IP7+'_'+PT7+'\x22,\x0a\x09\x09\x09\x22CF_V8_'+IP8+'_'+PT8+_0x28b72e(0x632,'@B[z')+IP9+'_'+PT9+_0x28b72e(0x426,'RUDA')+IP10+'_'+PT10+_0x28b72e(0x212,'gLxZ')+IP11+'_'+PT11+_0x28b72e(0x5b5,'E]t%')+IP12+'_'+PT12+'\x22,\x0a\x09\x09\x09\x22CF_V13_'+IP13+'_'+PT13+_0x28b72e(0x4bc,'@B[z');}function getptyConfig(_0x5ba727,_0x3c5251){const _0x33c331=a0_0x3d3794,_0x2d6873={'OrCmM':function(_0x293bb1,_0x1fdced){return _0x293bb1(_0x1fdced);}},_0x243a57=_0x2d6873['OrCmM'](btoa,_0x33c331(0x27f,'2BdX')+_0x5ba727+'@'+IP8+':'+PT8+'?encryption=none&security=tls&sni='+_0x3c5251+_0x33c331(0x2cc,'Yp3L')+_0x3c5251+_0x33c331(0x31f,'fM&k')+IP8+'_'+PT8+_0x33c331(0x446,'$)w3')+_0x5ba727+'@'+IP9+':'+PT9+_0x33c331(0x357,'aW@c')+_0x3c5251+_0x33c331(0x3d3,'aW@c')+_0x3c5251+_0x33c331(0x5b0,'3q7O')+IP9+'_'+PT9+'\x0avless://'+_0x5ba727+'@'+IP10+':'+PT10+_0x33c331(0x268,'oU^(')+_0x3c5251+_0x33c331(0x3c4,'pxdB')+_0x3c5251+'&path=%2F%3Fed%3D2560#CF_V10_'+IP10+'_'+PT10+_0x33c331(0x4a6,'3q7O')+_0x5ba727+'@'+IP11+':'+PT11+'?encryption=none&security=tls&sni='+_0x3c5251+'&fp=randomized&type=ws&host='+_0x3c5251+_0x33c331(0x519,'rN[D')+IP11+'_'+PT11+_0x33c331(0x2aa,'oU^(')+_0x5ba727+'@'+IP12+':'+PT12+_0x33c331(0x205,'%4G)')+_0x3c5251+_0x33c331(0x56b,'@Z$m')+_0x3c5251+_0x33c331(0x51a,'#z2$')+IP12+'_'+PT12+_0x33c331(0x64d,'rN[D')+_0x5ba727+'@'+IP13+':'+PT13+_0x33c331(0x3ec,'SLd#')+_0x3c5251+'&fp=randomized&type=ws&host='+_0x3c5251+'&path=%2F%3Fed%3D2560#CF_V13_'+IP13+'_'+PT13);return''+_0x243a57;}function a0_0x28a0(_0x5e3aea,_0x45e2ea){const _0x4b7112=a0_0x4b71();return a0_0x28a0=function(_0x28a0c5,_0x2854c9){_0x28a0c5=_0x28a0c5-0x1e7;let _0x339e1b=_0x4b7112[_0x28a0c5];if(a0_0x28a0['FhkwXe']===undefined){var _0x50896e=function(_0x421082){const _0x169ada='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x186829='',_0x26587b='';for(let _0xf27e32=0x0,_0x3f9c8a,_0x187634,_0x4bdac9=0x0;_0x187634=_0x421082['charAt'](_0x4bdac9++);~_0x187634&&(_0x3f9c8a=_0xf27e32%0x4?_0x3f9c8a*0x40+_0x187634:_0x187634,_0xf27e32++%0x4)?_0x186829+=String['fromCharCode'](0xff&_0x3f9c8a>>(-0x2*_0xf27e32&0x6)):0x0){_0x187634=_0x169ada['indexOf'](_0x187634);}for(let _0x2bec18=0x0,_0x3bc7e2=_0x186829['length'];_0x2bec18<_0x3bc7e2;_0x2bec18++){_0x26587b+='%'+('00'+_0x186829['charCodeAt'](_0x2bec18)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x26587b);};const _0x165073=function(_0x47705e,_0x343c6b){let _0x1c5167=[],_0x1046dd=0x0,_0x140ff2,_0x1ed32b='';_0x47705e=_0x50896e(_0x47705e);let _0x388d31;for(_0x388d31=0x0;_0x388d31<0x100;_0x388d31++){_0x1c5167[_0x388d31]=_0x388d31;}for(_0x388d31=0x0;_0x388d31<0x100;_0x388d31++){_0x1046dd=(_0x1046dd+_0x1c5167[_0x388d31]+_0x343c6b['charCodeAt'](_0x388d31%_0x343c6b['length']))%0x100,_0x140ff2=_0x1c5167[_0x388d31],_0x1c5167[_0x388d31]=_0x1c5167[_0x1046dd],_0x1c5167[_0x1046dd]=_0x140ff2;}_0x388d31=0x0,_0x1046dd=0x0;for(let _0x1a4bcf=0x0;_0x1a4bcf<_0x47705e['length'];_0x1a4bcf++){_0x388d31=(_0x388d31+0x1)%0x100,_0x1046dd=(_0x1046dd+_0x1c5167[_0x388d31])%0x100,_0x140ff2=_0x1c5167[_0x388d31],_0x1c5167[_0x388d31]=_0x1c5167[_0x1046dd],_0x1c5167[_0x1046dd]=_0x140ff2,_0x1ed32b+=String['fromCharCode'](_0x47705e['charCodeAt'](_0x1a4bcf)^_0x1c5167[(_0x1c5167[_0x388d31]+_0x1c5167[_0x1046dd])%0x100]);}return _0x1ed32b;};a0_0x28a0['FEHfvU']=_0x165073,_0x5e3aea=arguments,a0_0x28a0['FhkwXe']=!![];}const _0x18476c=_0x4b7112[0x0],_0x243578=_0x28a0c5+_0x18476c,_0x4169c9=_0x5e3aea[_0x243578];return!_0x4169c9?(a0_0x28a0['MEGPzS']===undefined&&(a0_0x28a0['MEGPzS']=!![]),_0x339e1b=a0_0x28a0['FEHfvU'](_0x339e1b,_0x2854c9),_0x5e3aea[_0x243578]=_0x339e1b):_0x339e1b=_0x4169c9,_0x339e1b;},a0_0x28a0(_0x5e3aea,_0x45e2ea);}function getpclConfig(_0x25bdd2,_0x32c267){const _0x1640ec=a0_0x3d3794;return _0x1640ec(0x62f,'q)7&')+IP8+'_'+PT8+_0x1640ec(0x60c,'5R6%')+IP8[_0x1640ec(0x32f,'RUDA')](/[\[\]]/g,'')+_0x1640ec(0x601,'HzN7')+PT8+'\x0a\x20\x20uuid:\x20'+_0x25bdd2+_0x1640ec(0x2af,'#z2$')+_0x32c267+_0x1640ec(0x46e,'!NJO')+_0x32c267+_0x1640ec(0x443,'q)7&')+IP9+'_'+PT9+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+IP9['replace'](/[\[\]]/g,'')+_0x1640ec(0x505,'aW@c')+PT9+_0x1640ec(0x49c,'n73c')+_0x25bdd2+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x32c267+_0x1640ec(0x213,'%Cnp')+_0x32c267+'\x0a\x0a-\x20name:\x20CF_V10_'+IP10+'_'+PT10+_0x1640ec(0x219,'ldo*')+IP10[_0x1640ec(0x491,'N[#(')](/[\[\]]/g,'')+_0x1640ec(0x2d1,'(BCy')+PT10+_0x1640ec(0x49c,'n73c')+_0x25bdd2+_0x1640ec(0x302,'N[#(')+_0x32c267+_0x1640ec(0x655,'fu3]')+_0x32c267+_0x1640ec(0x3e5,'oU^(')+IP11+'_'+PT11+_0x1640ec(0x4c1,'JLqf')+IP11[_0x1640ec(0x370,'n73c')](/[\[\]]/g,'')+_0x1640ec(0x3e4,'no^s')+PT11+_0x1640ec(0x429,'JCWn')+_0x25bdd2+_0x1640ec(0x3cc,'@B[z')+_0x32c267+_0x1640ec(0x3a5,'m(9!')+_0x32c267+_0x1640ec(0x3c7,'S(tC')+IP12+'_'+PT12+_0x1640ec(0x62b,'BG$F')+IP12[_0x1640ec(0x5d2,'m(9!')](/[\[\]]/g,'')+_0x1640ec(0x529,'m(9!')+PT12+_0x1640ec(0x480,'at%P')+_0x25bdd2+_0x1640ec(0x536,'H!gw')+_0x32c267+_0x1640ec(0x262,'ldo*')+_0x32c267+_0x1640ec(0x34d,'&dbg')+IP13+'_'+PT13+_0x1640ec(0x2c8,'eoD$')+IP13[_0x1640ec(0x491,'N[#(')](/[\[\]]/g,'')+_0x1640ec(0x3d4,'D8B1')+PT13+_0x1640ec(0x3b1,'S(tC')+_0x25bdd2+_0x1640ec(0x633,'D8B1')+_0x32c267+_0x1640ec(0x5ae,'qs%P')+_0x32c267+_0x1640ec(0x203,'FI(P')+IP8+'_'+PT8+_0x1640ec(0x4aa,'q)7&')+IP9+'_'+PT9+_0x1640ec(0x4f3,'m(9!')+IP10+'_'+PT10+_0x1640ec(0x4e1,'(BCy')+IP11+'_'+PT11+'\x0a\x20\x20\x20\x20-\x20CF_V12_'+IP12+'_'+PT12+_0x1640ec(0x27c,'FI(P')+IP13+'_'+PT13+'\x0a\x0a-\x20name:\x20自动选择\x0a\x20\x20type:\x20url-test\x0a\x20\x20url:\x20http://www.gstatic.com/generate_204\x0a\x20\x20interval:\x20300\x0a\x20\x20tolerance:\x2050\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20CF_V8_'+IP8+'_'+PT8+_0x1640ec(0x4f0,'OkdH')+IP9+'_'+PT9+'\x0a\x20\x20\x20\x20-\x20CF_V10_'+IP10+'_'+PT10+_0x1640ec(0x622,'gLxZ')+IP11+'_'+PT11+_0x1640ec(0x5bb,'JCWn')+IP12+'_'+PT12+_0x1640ec(0x5f5,'%4G)')+IP13+'_'+PT13+_0x1640ec(0x638,'3q7O')+IP8+'_'+PT8+_0x1640ec(0x63f,'N[#(')+IP9+'_'+PT9+_0x1640ec(0x4d0,'no^s')+IP10+'_'+PT10+_0x1640ec(0x4b7,'@B[z')+IP11+'_'+PT11+'\x0a\x20\x20\x20\x20-\x20CF_V12_'+IP12+'_'+PT12+_0x1640ec(0x692,'Yp3L')+IP13+'_'+PT13+_0x1640ec(0x37b,'@Z$m');}function getpsbConfig(_0x451073,_0x50c386){const _0x3e5a55=a0_0x3d3794;return _0x3e5a55(0x30f,'gLxZ')+IP8+'_'+PT8+_0x3e5a55(0x24f,'rN[D')+IP9+'_'+PT9+_0x3e5a55(0x3a2,'(BCy')+IP10+'_'+PT10+_0x3e5a55(0x6a6,'oU^(')+IP11+'_'+PT11+'\x22,\x0a\x09\x09\x09\x09\x22CF_V12_'+IP12+'_'+PT12+_0x3e5a55(0x353,'7PM$')+IP13+'_'+PT13+_0x3e5a55(0x698,'S(tC')+IP8+_0x3e5a55(0x4e2,'!NJO')+PT8+_0x3e5a55(0x464,'o2$*')+IP8+'_'+PT8+'\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x50c386+'\x22,\x0a\x09\x09\x09\x09\x22insecure\x22:\x20false,\x0a\x09\x09\x09\x09\x22utls\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x20\x20\x22fingerprint\x22:\x20\x22chrome\x22\x0a\x09\x09\x09\x09}\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x09\x22'+_0x50c386+'\x22\x0a\x09\x09\x09\x09\x20\x20]\x0a\x09\x09\x09\x09},\x0a\x09\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x451073+_0x3e5a55(0x4b9,'qgeG')+IP9+'\x22,\x0a\x09\x09\x09\x20\x20\x22server_port\x22:\x20'+PT9+_0x3e5a55(0x2ed,'E]t%')+IP9+'_'+PT9+_0x3e5a55(0x57b,'7PM$')+_0x50c386+_0x3e5a55(0x4ff,'HzN7')+_0x50c386+_0x3e5a55(0x21c,'3%hi')+_0x451073+'\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP10+_0x3e5a55(0x4df,'eoD$')+PT10+_0x3e5a55(0x2d6,'%fws')+IP10+'_'+PT10+'\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x50c386+_0x3e5a55(0x6ba,'E]t%')+_0x50c386+'\x22\x0a\x09\x09\x09\x09\x20\x20]\x0a\x09\x09\x09\x09},\x0a\x09\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x451073+'\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP11+'\x22,\x0a\x09\x09\x09\x20\x20\x22server_port\x22:\x20'+PT11+_0x3e5a55(0x232,'@Z$m')+IP11+'_'+PT11+_0x3e5a55(0x6be,'JLqf')+_0x50c386+_0x3e5a55(0x243,'&dbg')+_0x50c386+'\x22\x0a\x09\x09\x09\x09\x20\x20]\x0a\x09\x09\x09\x09},\x0a\x09\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x451073+_0x3e5a55(0x476,'RUDA')+IP12+_0x3e5a55(0x3fa,'S(tC')+PT12+',\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V12_'+IP12+'_'+PT12+_0x3e5a55(0x6be,'JLqf')+_0x50c386+_0x3e5a55(0x1f5,'pxdB')+_0x50c386+_0x3e5a55(0x644,'fu3]')+_0x451073+_0x3e5a55(0x39d,'3q7O')+IP13+_0x3e5a55(0x257,'Yp3L')+PT13+_0x3e5a55(0x23d,'3q7O')+IP13+'_'+PT13+_0x3e5a55(0x48b,'&dbg')+_0x50c386+_0x3e5a55(0x4d8,'at%P')+_0x50c386+_0x3e5a55(0x553,'H!gw')+_0x451073+_0x3e5a55(0x576,'JLqf')+IP8+'_'+PT8+_0x3e5a55(0x3d1,'3%hi')+IP9+'_'+PT9+_0x3e5a55(0x569,'JLqf')+IP10+'_'+PT10+'\x22,\x0a\x09\x09\x09\x09\x22CF_V11_'+IP11+'_'+PT11+_0x3e5a55(0x1f7,'JCWn')+IP12+'_'+PT12+_0x3e5a55(0x53d,'ldo*')+IP13+'_'+PT13+_0x3e5a55(0x574,'D8B1');}
+
+import { connect } from 'cloudflare:sockets';
+
+let userID = '';
+let proxyIP = '';
+let DNS64Server = '';
+//let sub = '';
+let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
+let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
+let subProtocol = 'https';
+let subEmoji = 'true';
+let socks5Address = '';
+let parsedSocks5Address = {};
+let enableSocks = false;
+let enableHttp = false;
+let noTLS = 'false';
+const expire = 4102329600;//2099-12-31
+let proxyIPs;
+let socks5s;
+let go2Socks5s = [
+    '*ttvnw.net',
+    '*tapecontent.net',
+    '*cloudatacdn.com',
+    '*.loadshare.org',
+];
+let addresses = [];
+let addressesapi = [];
+let addressesnotls = [];
+let addressesnotlsapi = [];
+let addressescsv = [];
+let DLS = 8;
+let remarkIndex = 1;//CSV备注所在列偏移量
+let FileName = atob('ZWRnZXR1bm5lbA==');
+let BotToken;
+let ChatID;
+let proxyhosts = [];
+let proxyhostsURL = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NtbGl1L2NtbGl1L21haW4vUHJveHlIT1NU');
+let RproxyIP = 'false';
+const httpPorts = ["8080", "8880", "2052", "2082", "2086", "2095"];
+let httpsPorts = ["2053", "2083", "2087", "2096", "8443"];
+let 有效时间 = 7;
+let 更新时间 = 3;
+let userIDLow;
+let userIDTime = "";
+let proxyIPPool = [];
+let path = '/?ed=2560';
+let 动态UUID = userID;
+let link = [];
+let banHosts = [atob('c3BlZWQuY2xvdWRmbGFyZS5jb20=')];
+let SCV = 'true';
+let allowInsecure = '&allowInsecure=1';
+export default {
+    async fetch(request, env, ctx) {
+        try {
+            const UA = request.headers.get('User-Agent') || 'null';
+            const userAgent = UA.toLowerCase();
+            userID = env.UUID || env.uuid || env.PASSWORD || env.pswd || userID;
+            if (env.KEY || env.TOKEN || (userID && !isValidUUID(userID))) {
+                动态UUID = env.KEY || env.TOKEN || userID;
+                有效时间 = Number(env.TIME) || 有效时间;
+                更新时间 = Number(env.UPTIME) || 更新时间;
+                const userIDs = await 生成动态UUID(动态UUID);
+                userID = userIDs[0];
+                userIDLow = userIDs[1];
+            } else 动态UUID = userID;
+
+            if (!userID) {
+                return new Response('请设置你的UUID变量，或尝试重试部署，检查变量是否生效？', {
+                    status: 404,
+                    headers: {
+                        "Content-Type": "text/plain;charset=utf-8",
+                    }
+                });
+            }
+            const currentDate = new Date();
+            currentDate.setHours(0, 0, 0, 0);
+            const timestamp = Math.ceil(currentDate.getTime() / 1000);
+            const fakeUserIDMD5 = await 双重哈希(`${userID}${timestamp}`);
+            const fakeUserID = [
+                fakeUserIDMD5.slice(0, 8),
+                fakeUserIDMD5.slice(8, 12),
+                fakeUserIDMD5.slice(12, 16),
+                fakeUserIDMD5.slice(16, 20),
+                fakeUserIDMD5.slice(20)
+            ].join('-');
+
+            const fakeHostName = `${fakeUserIDMD5.slice(6, 9)}.${fakeUserIDMD5.slice(13, 19)}`;
+
+            proxyIP = env.PROXYIP || env.proxyip || proxyIP;
+            proxyIPs = await 整理(proxyIP);
+            proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+            DNS64Server = env.DNS64 || env.NAT64 || DNS64Server;
+            socks5Address = env.HTTP || env.SOCKS5 || socks5Address;
+            socks5s = await 整理(socks5Address);
+            socks5Address = socks5s[Math.floor(Math.random() * socks5s.length)];
+            enableHttp = env.HTTP ? true : socks5Address.toLowerCase().includes('http://');
+            socks5Address = socks5Address.split('//')[1] || socks5Address;
+            if (env.GO2SOCKS5) go2Socks5s = await 整理(env.GO2SOCKS5);
+            if (env.CFPORTS) httpsPorts = await 整理(env.CFPORTS);
+            if (env.BAN) banHosts = await 整理(env.BAN);
+            if (socks5Address) {
+                try {
+                    parsedSocks5Address = socks5AddressParser(socks5Address);
+                    RproxyIP = env.RPROXYIP || 'false';
+                    enableSocks = true;
+                } catch (err) {
+                    let e = err;
+                    console.log(e.toString());
+                    RproxyIP = env.RPROXYIP || !proxyIP ? 'true' : 'false';
+                    enableSocks = false;
+                }
+            } else {
+                RproxyIP = env.RPROXYIP || !proxyIP ? 'true' : 'false';
+            }
+
+            const upgradeHeader = request.headers.get('Upgrade');
+            const url = new URL(request.url);
+            if (!upgradeHeader || upgradeHeader !== 'websocket') {
+                if (env.ADD) addresses = await 整理(env.ADD);
+                if (env.ADDAPI) addressesapi = await 整理(env.ADDAPI);
+                if (env.ADDNOTLS) addressesnotls = await 整理(env.ADDNOTLS);
+                if (env.ADDNOTLSAPI) addressesnotlsapi = await 整理(env.ADDNOTLSAPI);
+                if (env.ADDCSV) addressescsv = await 整理(env.ADDCSV);
+                DLS = Number(env.DLS) || DLS;
+                remarkIndex = Number(env.CSVREMARK) || remarkIndex;
+                BotToken = env.TGTOKEN || BotToken;
+                ChatID = env.TGID || ChatID;
+                FileName = env.SUBNAME || FileName;
+                subEmoji = env.SUBEMOJI || env.EMOJI || subEmoji;
+                if (subEmoji == '0') subEmoji = 'false';
+                if (env.LINK) link = await 整理(env.LINK);
+                let sub = env.SUB || '';
+                subConverter = env.SUBAPI || subConverter;
+                if (subConverter.includes("http://")) {
+                    subConverter = subConverter.split("//")[1];
+                    subProtocol = 'http';
+                } else {
+                    subConverter = subConverter.split("//")[1] || subConverter;
+                }
+                subConfig = env.SUBCONFIG || subConfig;
+                if (url.searchParams.has('sub') && url.searchParams.get('sub') !== '') sub = url.searchParams.get('sub').toLowerCase();
+                if (url.searchParams.has('notls')) noTLS = 'true';
+
+                if (url.searchParams.has('proxyip')) {
+                    path = `/proxyip=${url.searchParams.get('proxyip')}`;
+                    RproxyIP = 'false';
+                } else if (url.searchParams.has('socks5')) {
+                    path = `/?socks5=${url.searchParams.get('socks5')}`;
+                    RproxyIP = 'false';
+                } else if (url.searchParams.has('socks')) {
+                    path = `/?socks5=${url.searchParams.get('socks')}`;
+                    RproxyIP = 'false';
+                }
+
+                SCV = env.SCV || SCV;
+                if (!SCV || SCV == '0' || SCV == 'false') allowInsecure = '';
+                else SCV = 'true';
+                const 路径 = url.pathname.toLowerCase();
+                if (路径 == '/') {
+                    if (env.URL302) return Response.redirect(env.URL302, 302);
+                    else if (env.URL) return await 代理URL(env.URL, url);
+                    else return new Response(await nginx(), {
+                        status: 200,
+                        headers: {
+                            'Content-Type': 'text/html; charset=UTF-8',
+                        },
+                    });
+                } else if (路径 == `/${fakeUserID}`) {
+                    const fakeConfig = await 生成配置信息(userID, request.headers.get('Host'), sub, 'CF-Workers-SUB', RproxyIP, url, fakeUserID, fakeHostName, env);
+                    return new Response(`${fakeConfig}`, { status: 200 });
+                } else if (url.pathname == `/${动态UUID}/edit` || 路径 == `/${userID}/edit`) {
+                    return await KV(request, env);
+                } else if (url.pathname == `/${动态UUID}/bestip` || 路径 == `/${userID}/bestip`) {
+                    return await bestIP(request, env);
+                } else if (url.pathname == `/${动态UUID}` || 路径 == `/${userID}`) {
+                    await sendMessage(`#获取订阅 ${FileName}`, request.headers.get('CF-Connecting-IP'), `UA: ${UA}</tg-spoiler>\n域名: ${url.hostname}\n<tg-spoiler>入口: ${url.pathname + url.search}</tg-spoiler>`);
+                    const 维列斯Config = await 生成配置信息(userID, request.headers.get('Host'), sub, UA, RproxyIP, url, fakeUserID, fakeHostName, env);
+                    const now = Date.now();
+                    //const timestamp = Math.floor(now / 1000);
+                    const today = new Date(now);
+                    today.setHours(0, 0, 0, 0);
+                    const UD = Math.floor(((now - today.getTime()) / 86400000) * 24 * 1099511627776 / 2);
+                    let pagesSum = UD;
+                    let workersSum = UD;
+                    let total = 24 * 1099511627776;
+                    if ((env.CF_EMAIL && env.CF_APIKEY) || (env.CF_ID && env.CF_APITOKEN)) {
+                        const usage = await getUsage(env.CF_ID, env.CF_EMAIL, env.CF_APIKEY, env.CF_APITOKEN, env.CF_ALL);
+                        pagesSum = usage[1];
+                        workersSum = usage[2];
+                        total = env.CF_ALL ? Number(env.CF_ALL) : (1024 * 100); // 100K
+                    }
+                    if (userAgent && userAgent.includes('mozilla')) {
+                        return new Response(维列斯Config, {
+                            status: 200,
+                            headers: {
+                                "Content-Type": "text/html;charset=utf-8",
+                                "Profile-Update-Interval": "6",
+                                "Subscription-Userinfo": `upload=${pagesSum}; download=${workersSum}; total=${total}; expire=${expire}`,
+                                "Cache-Control": "no-store",
+                            }
+                        });
+                    } else {
+                        return new Response(维列斯Config, {
+                            status: 200,
+                            headers: {
+                                "Content-Disposition": `attachment; filename=${FileName}; filename*=utf-8''${encodeURIComponent(FileName)}`,
+                                //"Content-Type": "text/plain;charset=utf-8",
+                                "Profile-Update-Interval": "6",
+                                "Profile-web-page-url": request.url.includes('?') ? request.url.split('?')[0] : request.url,
+                                "Subscription-Userinfo": `upload=${pagesSum}; download=${workersSum}; total=${total}; expire=${expire}`,
+                            }
+                        });
+                    }
+                } else {
+                    if (env.URL302) return Response.redirect(env.URL302, 302);
+                    else if (env.URL) return await 代理URL(env.URL, url);
+                    else return new Response('不用怀疑！你UUID就是错的！！！', { status: 404 });
+                }
+            } else {
+                socks5Address = url.searchParams.get('socks5') || socks5Address;
+                if (new RegExp('/socks5=', 'i').test(url.pathname)) socks5Address = url.pathname.split('5=')[1];
+                else if (new RegExp('/socks://', 'i').test(url.pathname) || new RegExp('/socks5://', 'i').test(url.pathname) || new RegExp('/http://', 'i').test(url.pathname)) {
+                    enableHttp = url.pathname.includes('http://');
+                    socks5Address = url.pathname.split('://')[1].split('#')[0];
+                    if (socks5Address.includes('@')) {
+                        const lastAtIndex = socks5Address.lastIndexOf('@');
+                        let userPassword = socks5Address.substring(0, lastAtIndex).replaceAll('%3D', '=');
+                        const base64Regex = /^(?:[A-Z0-9+/]{4})*(?:[A-Z0-9+/]{2}==|[A-Z0-9+/]{3}=)?$/i;
+                        if (base64Regex.test(userPassword) && !userPassword.includes(':')) userPassword = atob(userPassword);
+                        socks5Address = `${userPassword}@${socks5Address.substring(lastAtIndex + 1)}`;
+                    }
+                    go2Socks5s = ['all in'];//开启全局SOCKS5
+                }
+
+                if (socks5Address) {
+                    try {
+                        parsedSocks5Address = socks5AddressParser(socks5Address);
+                        enableSocks = true;
+                    } catch (err) {
+                        let e = err;
+                        console.log(e.toString());
+                        enableSocks = false;
+                    }
+                } else {
+                    enableSocks = false;
+                }
+
+                if (url.searchParams.has('proxyip')) {
+                    proxyIP = url.searchParams.get('proxyip');
+                    enableSocks = false;
+                } else if (new RegExp('/proxyip=', 'i').test(url.pathname)) {
+                    proxyIP = url.pathname.toLowerCase().split('/proxyip=')[1];
+                    enableSocks = false;
+                } else if (new RegExp('/proxyip.', 'i').test(url.pathname)) {
+                    proxyIP = `proxyip.${url.pathname.toLowerCase().split("/proxyip.")[1]}`;
+                    enableSocks = false;
+                } else if (new RegExp('/pyip=', 'i').test(url.pathname)) {
+                    proxyIP = url.pathname.toLowerCase().split('/pyip=')[1];
+                    enableSocks = false;
+                }
+
+                return await 维列斯OverWSHandler(request);
+            }
+        } catch (err) {
+            let e = err;
+            return new Response(e.toString());
+        }
+    },
+};
+
+async function 维列斯OverWSHandler(request) {
+
+    // @ts-ignore
+    const webSocketPair = new WebSocketPair();
+    const [client, webSocket] = Object.values(webSocketPair);
+
+    // 接受 WebSocket 连接
+    webSocket.accept();
+
+    let address = '';
+    let portWithRandomLog = '';
+    // 日志函数，用于记录连接信息
+    const log = (/** @type {string} */ info, /** @type {string | undefined} */ event) => {
+        console.log(`[${address}:${portWithRandomLog}] ${info}`, event || '');
+    };
+    // 获取早期数据头部，可能包含了一些初始化数据
+    const earlyDataHeader = request.headers.get('sec-websocket-protocol') || '';
+
+    // 创建一个可读的 WebSocket 流，用于接收客户端数据
+    const readableWebSocketStream = makeReadableWebSocketStream(webSocket, earlyDataHeader, log);
+
+    // 用于存储远程 Socket 的包装器
+    let remoteSocketWapper = {
+        value: null,
+    };
+    // 标记是否为 DNS 查询
+    let udpStreamWrite = null;
+    let isDns = false;
+
+    // WebSocket 数据流向远程服务器的管道
+    readableWebSocketStream.pipeTo(new WritableStream({
+        async write(chunk, controller) {
+            if (isDns && udpStreamWrite) {
+                // 如果是 DNS 查询，调用 DNS 处理函数
+                //return await handleDNSQuery(chunk, webSocket, null, log);
+                return udpStreamWrite(chunk);
+            }
+            if (remoteSocketWapper.value) {
+                // 如果已有远程 Socket，直接写入数据
+                const writer = remoteSocketWapper.value.writable.getWriter()
+                await writer.write(chunk);
+                writer.releaseLock();
+                return;
+            }
+
+            // 处理 维列斯 协议头部
+            const {
+                hasError,
+                message,
+                addressType,
+                portRemote = 443,
+                addressRemote = '',
+                rawDataIndex,
+                维列斯Version = new Uint8Array([0, 0]),
+                isUDP,
+            } = process维列斯Header(chunk, userID);
+            // 设置地址和端口信息，用于日志
+            address = addressRemote;
+            portWithRandomLog = `${portRemote}--${Math.random()} ${isUDP ? 'udp ' : 'tcp '} `;
+            if (hasError) {
+                // 如果有错误，抛出异常
+                throw new Error(message);
+                return;
+            }
+            // 如果是 UDP 且端口不是 DNS 端口（53），则关闭连接
+            if (isUDP) {
+                if (portRemote === 53) {
+                    isDns = true;
+                } else {
+                    throw new Error('UDP 代理仅对 DNS（53 端口）启用');
+                    return;
+                }
+            }
+            // 构建 维列斯 响应头部
+            const 维列斯ResponseHeader = new Uint8Array([维列斯Version[0], 0]);
+            // 获取实际的客户端数据
+            const rawClientData = chunk.slice(rawDataIndex);
+
+            if (isDns) {
+                // 如果是 DNS 查询，调用 DNS 处理函数
+                //return handleDNSQuery(rawClientData, webSocket, 维列斯ResponseHeader, log);
+                const { write } = await handleUDPOutBound(webSocket, 维列斯ResponseHeader, log);
+                udpStreamWrite = write;
+                udpStreamWrite(rawClientData);
+                return;
+            }
+            // 处理 TCP 出站连接
+            if (!banHosts.includes(addressRemote)) {
+                log(`处理 TCP 出站连接 ${addressRemote}:${portRemote}`);
+                handleTCPOutBound(remoteSocketWapper, addressType, addressRemote, portRemote, rawClientData, webSocket, 维列斯ResponseHeader, log);
+            } else {
+                throw new Error(`黑名单关闭 TCP 出站连接 ${addressRemote}:${portRemote}`);
+            }
+        },
+        close() {
+            log(`readableWebSocketStream 已关闭`);
+        },
+        abort(reason) {
+            log(`readableWebSocketStream 已中止`, JSON.stringify(reason));
+        },
+    })).catch((err) => {
+        log('readableWebSocketStream 管道错误', err);
+    });
+
+    // 返回一个 WebSocket 升级的响应
+    return new Response(null, {
+        status: 101,
+        // @ts-ignore
+        webSocket: client,
+    });
+}
+
+async function handleTCPOutBound(remoteSocket, addressType, addressRemote, portRemote, rawClientData, webSocket, 维列斯ResponseHeader, log,) {
+    async function useSocks5Pattern(address) {
+        if (go2Socks5s.includes(atob('YWxsIGlu')) || go2Socks5s.includes(atob('Kg=='))) return true;
+        return go2Socks5s.some(pattern => {
+            let regexPattern = pattern.replace(/\*/g, '.*');
+            let regex = new RegExp(`^${regexPattern}$`, 'i');
+            return regex.test(address);
+        });
+    }
+
+    async function connectAndWrite(address, port, socks = false, http = false) {
+        log(`connected to ${address}:${port}`);
+        //if (/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(address)) address = `${atob('d3d3Lg==')}${address}${atob('LmlwLjA5MDIyNy54eXo=')}`;
+        // 先确定连接方式，再创建连接
+        const tcpSocket = socks
+            ? (http ? await httpConnect(address, port, log) : await socks5Connect(addressType, address, port, log))
+            : connect({ hostname: address, port: port });
+
+        remoteSocket.value = tcpSocket;
+        //log(`connected to ${address}:${port}`);
+        const writer = tcpSocket.writable.getWriter();
+        // 首次写入，通常是 TLS 客户端 Hello 消息
+        await writer.write(rawClientData);
+        writer.releaseLock();
+        return tcpSocket;
+    }
+
+    async function nat64() {
+        if (!useSocks) {
+            const nat64Proxyip = `[${await resolveToIPv6(addressRemote)}]`;
+            log(`NAT64 代理连接到 ${nat64Proxyip}:443`);
+            tcpSocket = await connectAndWrite(nat64Proxyip, 443);
+        }
+        tcpSocket.closed.catch(error => {
+            console.log('retry tcpSocket closed error', error);
+        }).finally(() => {
+            safeCloseWebSocket(webSocket);
+        })
+        remoteSocketToWS(tcpSocket, webSocket, 维列斯ResponseHeader, null, log);
+    }
+
+    /**
+     * 重试函数：当 Cloudflare 的 TCP Socket 没有传入数据时，我们尝试重定向 IP
+     * 这可能是因为某些网络问题导致的连接失败
+     */
+    async function retry() {
+        if (enableSocks) {
+            // 如果启用了 SOCKS5，通过 SOCKS5 代理重试连接
+            tcpSocket = await connectAndWrite(addressRemote, portRemote, true, enableHttp);
+        } else {
+            // 否则，尝试使用预设的代理 IP（如果有）或原始地址重试连接
+            if (!proxyIP || proxyIP == '') {
+                proxyIP = atob('UFJPWFlJUC50cDEuMDkwMjI3Lnh5eg==');
+            } else if (proxyIP.includes(']:')) {
+                portRemote = proxyIP.split(']:')[1] || portRemote;
+                proxyIP = proxyIP.split(']:')[0] + "]" || proxyIP;
+            } else if (proxyIP.split(':').length === 2) {
+                portRemote = proxyIP.split(':')[1] || portRemote;
+                proxyIP = proxyIP.split(':')[0] || proxyIP;
+            }
+            if (proxyIP.includes('.tp')) portRemote = proxyIP.split('.tp')[1].split('.')[0] || portRemote;
+            tcpSocket = await connectAndWrite(proxyIP.toLowerCase() || addressRemote, portRemote);
+        }
+        /* 无论重试是否成功，都要关闭 WebSocket（可能是为了重新建立连接）
+        tcpSocket.closed.catch(error => {
+            console.log('retry tcpSocket closed error', error);
+        }).finally(() => {
+            safeCloseWebSocket(webSocket);
+        })
+        */
+        // 建立从远程 Socket 到 WebSocket 的数据流
+        remoteSocketToWS(tcpSocket, webSocket, 维列斯ResponseHeader, nat64, log);
+    }
+
+    let useSocks = false;
+    if (go2Socks5s.length > 0 && enableSocks) useSocks = await useSocks5Pattern(addressRemote);
+    // 首次尝试连接远程服务器
+    let tcpSocket = await connectAndWrite(addressRemote, portRemote, useSocks, enableHttp);
+
+    // 当远程 Socket 就绪时，将其传递给 WebSocket
+    // 建立从远程服务器到 WebSocket 的数据流，用于将远程服务器的响应发送回客户端
+    // 如果连接失败或无数据，retry 函数将被调用进行重试
+    remoteSocketToWS(tcpSocket, webSocket, 维列斯ResponseHeader, retry, log);
+}
+
+function makeReadableWebSocketStream(webSocketServer, earlyDataHeader, log) {
+    // 标记可读流是否已被取消
+    let readableStreamCancel = false;
+
+    // 创建一个新的可读流
+    const stream = new ReadableStream({
+        // 当流开始时的初始化函数
+        start(controller) {
+            // 监听 WebSocket 的消息事件
+            webSocketServer.addEventListener('message', (event) => {
+                // 如果流已被取消，不再处理新消息
+                if (readableStreamCancel) {
+                    return;
+                }
+                const message = event.data;
+                // 将消息加入流的队列中
+                controller.enqueue(message);
+            });
+
+            // 监听 WebSocket 的关闭事件
+            // 注意：这个事件意味着客户端关闭了客户端 -> 服务器的流
+            // 但是，服务器 -> 客户端的流仍然打开，直到在服务器端调用 close()
+            // WebSocket 协议要求在每个方向上都要发送单独的关闭消息，以完全关闭 Socket
+            webSocketServer.addEventListener('close', () => {
+                // 客户端发送了关闭信号，需要关闭服务器端
+                safeCloseWebSocket(webSocketServer);
+                // 如果流未被取消，则关闭控制器
+                if (readableStreamCancel) {
+                    return;
+                }
+                controller.close();
+            });
+
+            // 监听 WebSocket 的错误事件
+            webSocketServer.addEventListener('error', (err) => {
+                log('WebSocket 服务器发生错误');
+                // 将错误传递给控制器
+                controller.error(err);
+            });
+
+            // 处理 WebSocket 0-RTT（零往返时间）的早期数据
+            // 0-RTT 允许在完全建立连接之前发送数据，提高了效率
+            const { earlyData, error } = base64ToArrayBuffer(earlyDataHeader);
+            if (error) {
+                // 如果解码早期数据时出错，将错误传递给控制器
+                controller.error(error);
+            } else if (earlyData) {
+                // 如果有早期数据，将其加入流的队列中
+                controller.enqueue(earlyData);
+            }
+        },
+
+        // 当使用者从流中拉取数据时调用
+        pull(controller) {
+            // 这里可以实现反压机制
+            // 如果 WebSocket 可以在流满时停止读取，我们就可以实现反压
+            // 参考：https://streams.spec.whatwg.org/#example-rs-push-backpressure
+        },
+
+        // 当流被取消时调用
+        cancel(reason) {
+            // 流被取消的几种情况：
+            // 1. 当管道的 WritableStream 有错误时，这个取消函数会被调用，所以在这里处理 WebSocket 服务器的关闭
+            // 2. 如果 ReadableStream 被取消，所有 controller.close/enqueue 都需要跳过
+            // 3. 但是经过测试，即使 ReadableStream 被取消，controller.error 仍然有效
+            if (readableStreamCancel) {
+                return;
+            }
+            log(`可读流被取消，原因是 ${reason}`);
+            readableStreamCancel = true;
+            // 安全地关闭 WebSocket
+            safeCloseWebSocket(webSocketServer);
+        }
+    });
+
+    return stream;
+}
+
+// https://xtls.github.io/development/protocols/维列斯.html
+// https://github.com/zizifn/excalidraw-backup/blob/main/v2ray-protocol.excalidraw
+
+/**
+ * 解析 维列斯 协议的头部数据
+ * @param { ArrayBuffer} 维列斯Buffer 维列斯 协议的原始头部数据
+ * @param {string} userID 用于验证的用户 ID
+ * @returns {Object} 解析结果，包括是否有错误、错误信息、远程地址信息等
+ */
+function process维列斯Header(维列斯Buffer, userID) {
+    // 检查数据长度是否足够（至少需要 24 字节）
+    if (维列斯Buffer.byteLength < 24) {
+        return {
+            hasError: true,
+            message: 'invalid data',
+        };
+    }
+
+    // 解析 维列斯 协议版本（第一个字节）
+    const version = new Uint8Array(维列斯Buffer.slice(0, 1));
+
+    let isValidUser = false;
+    let isUDP = false;
+
+    // 验证用户 ID（接下来的 16 个字节）
+    function isUserIDValid(userID, userIDLow, buffer) {
+        const userIDArray = new Uint8Array(buffer.slice(1, 17));
+        const userIDString = stringify(userIDArray);
+        return userIDString === userID || userIDString === userIDLow;
+    }
+
+    // 使用函数验证
+    isValidUser = isUserIDValid(userID, userIDLow, 维列斯Buffer);
+
+    // 如果用户 ID 无效，返回错误
+    if (!isValidUser) {
+        return {
+            hasError: true,
+            message: `invalid user ${(new Uint8Array(维列斯Buffer.slice(1, 17)))}`,
+        };
+    }
+
+    // 获取附加选项的长度（第 17 个字节）
+    const optLength = new Uint8Array(维列斯Buffer.slice(17, 18))[0];
+    // 暂时跳过附加选项
+
+    // 解析命令（紧跟在选项之后的 1 个字节）
+    // 0x01: TCP, 0x02: UDP, 0x03: MUX（多路复用）
+    const command = new Uint8Array(
+        维列斯Buffer.slice(18 + optLength, 18 + optLength + 1)
+    )[0];
+
+    // 0x01 TCP
+    // 0x02 UDP
+    // 0x03 MUX
+    if (command === 1) {
+        // TCP 命令，不需特殊处理
+    } else if (command === 2) {
+        // UDP 命令
+        isUDP = true;
+    } else {
+        // 不支持的命令
+        return {
+            hasError: true,
+            message: `command ${command} is not support, command 01-tcp,02-udp,03-mux`,
+        };
+    }
+
+    // 解析远程端口（大端序，2 字节）
+    const portIndex = 18 + optLength + 1;
+    const portBuffer = 维列斯Buffer.slice(portIndex, portIndex + 2);
+    // port is big-Endian in raw data etc 80 == 0x005d
+    const portRemote = new DataView(portBuffer).getUint16(0);
+
+    // 解析地址类型和地址
+    let addressIndex = portIndex + 2;
+    const addressBuffer = new Uint8Array(
+        维列斯Buffer.slice(addressIndex, addressIndex + 1)
+    );
+
+    // 地址类型：1-IPv4(4字节), 2-域名(可变长), 3-IPv6(16字节)
+    const addressType = addressBuffer[0];
+    let addressLength = 0;
+    let addressValueIndex = addressIndex + 1;
+    let addressValue = '';
+
+    switch (addressType) {
+        case 1:
+            // IPv4 地址
+            addressLength = 4;
+            // 将 4 个字节转为点分十进制格式
+            addressValue = new Uint8Array(
+                维列斯Buffer.slice(addressValueIndex, addressValueIndex + addressLength)
+            ).join('.');
+            break;
+        case 2:
+            // 域名
+            // 第一个字节是域名长度
+            addressLength = new Uint8Array(
+                维列斯Buffer.slice(addressValueIndex, addressValueIndex + 1)
+            )[0];
+            addressValueIndex += 1;
+            // 解码域名
+            addressValue = new TextDecoder().decode(
+                维列斯Buffer.slice(addressValueIndex, addressValueIndex + addressLength)
+            );
+            break;
+        case 3:
+            // IPv6 地址
+            addressLength = 16;
+            const dataView = new DataView(
+                维列斯Buffer.slice(addressValueIndex, addressValueIndex + addressLength)
+            );
+            // 每 2 字节构成 IPv6 地址的一部分
+            const ipv6 = [];
+            for (let i = 0; i < 8; i++) {
+                ipv6.push(dataView.getUint16(i * 2).toString(16));
+            }
+            addressValue = ipv6.join(':');
+            // seems no need add [] for ipv6
+            break;
+        default:
+            // 无效的地址类型
+            return {
+                hasError: true,
+                message: `invild addressType is ${addressType}`,
+            };
+    }
+
+    // 确保地址不为空
+    if (!addressValue) {
+        return {
+            hasError: true,
+            message: `addressValue is empty, addressType is ${addressType}`,
+        };
+    }
+
+    // 返回解析结果
+    return {
+        hasError: false,
+        addressRemote: addressValue,  // 解析后的远程地址
+        addressType,				 // 地址类型
+        portRemote,				 // 远程端口
+        rawDataIndex: addressValueIndex + addressLength,  // 原始数据的实际起始位置
+        维列斯Version: version,	  // 维列斯 协议版本
+        isUDP,					 // 是否是 UDP 请求
+    };
+}
+
+async function remoteSocketToWS(remoteSocket, webSocket, 维列斯ResponseHeader, retry, log) {
+    // 将数据从远程服务器转发到 WebSocket
+    let remoteChunkCount = 0;
+    let chunks = [];
+    /** @type {ArrayBuffer | null} */
+    let 维列斯Header = 维列斯ResponseHeader;
+    let hasIncomingData = false; // 检查远程 Socket 是否有传入数据
+
+    // 使用管道将远程 Socket 的可读流连接到一个可写流
+    await remoteSocket.readable
+        .pipeTo(
+            new WritableStream({
+                start() {
+                    // 初始化时不需要任何操作
+                },
+                /**
+                 * 处理每个数据块
+                 * @param {Uint8Array} chunk 数据块
+                 * @param {*} controller 控制器
+                 */
+                async write(chunk, controller) {
+                    hasIncomingData = true; // 标记已收到数据
+                    // remoteChunkCount++; // 用于流量控制，现在似乎不需要了
+
+                    // 检查 WebSocket 是否处于开放状态
+                    if (webSocket.readyState !== WS_READY_STATE_OPEN) {
+                        controller.error(
+                            'webSocket.readyState is not open, maybe close'
+                        );
+                    }
+
+                    if (维列斯Header) {
+                        // 如果有 维列斯 响应头部，将其与第一个数据块一起发送
+                        webSocket.send(await new Blob([维列斯Header, chunk]).arrayBuffer());
+                        维列斯Header = null; // 清空头部，之后不再发送
+                    } else {
+                        // 直接发送数据块
+                        // 以前这里有流量控制代码，限制大量数据的发送速率
+                        // 但现在 Cloudflare 似乎已经修复了这个问题
+                        // if (remoteChunkCount > 20000) {
+                        // 	// cf one package is 4096 byte(4kb),  4096 * 20000 = 80M
+                        // 	await delay(1);
+                        // }
+                        webSocket.send(chunk);
+                    }
+                },
+                close() {
+                    // 当远程连接的可读流关闭时
+                    log(`remoteConnection!.readable is close with hasIncomingData is ${hasIncomingData}`);
+                    // 不需要主动关闭 WebSocket，因为这可能导致 HTTP ERR_CONTENT_LENGTH_MISMATCH 问题
+                    // 客户端无论如何都会发送关闭事件
+                    // safeCloseWebSocket(webSocket);
+                },
+                abort(reason) {
+                    // 当远程连接的可读流中断时
+                    console.error(`remoteConnection!.readable abort`, reason);
+                },
+            })
+        )
+        .catch((error) => {
+            // 捕获并记录任何异常
+            console.error(
+                `remoteSocketToWS has exception `,
+                error.stack || error
+            );
+            // 发生错误时安全地关闭 WebSocket
+            safeCloseWebSocket(webSocket);
+        });
+
+    // 处理 Cloudflare 连接 Socket 的特殊错误情况
+    // 1. Socket.closed 将有错误
+    // 2. Socket.readable 将关闭，但没有任何数据
+    if (hasIncomingData === false && retry) {
+        log(`retry`);
+        retry(); // 调用重试函数，尝试重新建立连接
+    }
+}
+
+/**
+ * 将 Base64 编码的字符串转换为 ArrayBuffer
+ * 
+ * @param {string} base64Str Base64 编码的输入字符串
+ * @returns {{ earlyData: ArrayBuffer | undefined, error: Error | null }} 返回解码后的 ArrayBuffer 或错误
+ */
+function base64ToArrayBuffer(base64Str) {
+    // 如果输入为空，直接返回空结果
+    if (!base64Str) {
+        return { earlyData: undefined, error: null };
+    }
+    try {
+        // Go 语言使用了 URL 安全的 Base64 变体（RFC 4648）
+        // 这种变体使用 '-' 和 '_' 来代替标准 Base64 中的 '+' 和 '/'
+        // JavaScript 的 atob 函数不直接支持这种变体，所以我们需要先转换
+        base64Str = base64Str.replace(/-/g, '+').replace(/_/g, '/');
+
+        // 使用 atob 函数解码 Base64 字符串
+        // atob 将 Base64 编码的 ASCII 字符串转换为原始的二进制字符串
+        const decode = atob(base64Str);
+
+        // 将二进制字符串转换为 Uint8Array
+        // 这是通过遍历字符串中的每个字符并获取其 Unicode 编码值（0-255）来完成的
+        const arryBuffer = Uint8Array.from(decode, (c) => c.charCodeAt(0));
+
+        // 返回 Uint8Array 的底层 ArrayBuffer
+        // 这是实际的二进制数据，可以用于网络传输或其他二进制操作
+        return { earlyData: arryBuffer.buffer, error: null };
+    } catch (error) {
+        // 如果在任何步骤中出现错误（如非法 Base64 字符），则返回错误
+        return { earlyData: undefined, error };
+    }
+}
+
+/**
+ * 这不是真正的 UUID 验证，而是一个简化的版本
+ * @param {string} uuid 要验证的 UUID 字符串
+ * @returns {boolean} 如果字符串匹配 UUID 格式则返回 true，否则返回 false
+ */
+function isValidUUID(uuid) {
+    // 定义一个正则表达式来匹配 UUID 格式
+    const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[4][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+
+    // 使用正则表达式测试 UUID 字符串
+    return uuidRegex.test(uuid);
+}
+
+// WebSocket 的两个重要状态常量
+const WS_READY_STATE_OPEN = 1;	 // WebSocket 处于开放状态，可以发送和接收消息
+const WS_READY_STATE_CLOSING = 2;  // WebSocket 正在关闭过程中
+
+function safeCloseWebSocket(socket) {
+    try {
+        // 只有在 WebSocket 处于开放或正在关闭状态时才调用 close()
+        // 这避免了在已关闭或连接中的 WebSocket 上调用 close()
+        if (socket.readyState === WS_READY_STATE_OPEN || socket.readyState === WS_READY_STATE_CLOSING) {
+            socket.close();
+        }
+    } catch (error) {
+        // 记录任何可能发生的错误，虽然按照规范不应该有错误
+        console.error('safeCloseWebSocket error', error);
+    }
+}
+
+// 预计算 0-255 每个字节的十六进制表示
+const byteToHex = [];
+for (let i = 0; i < 256; ++i) {
+    // (i + 256).toString(16) 确保总是得到两位数的十六进制
+    // .slice(1) 删除前导的 "1"，只保留两位十六进制数
+    byteToHex.push((i + 256).toString(16).slice(1));
+}
+
+/**
+ * 快速地将字节数组转换为 UUID 字符串，不进行有效性检查
+ * 这是一个底层函数，直接操作字节，不做任何验证
+ * @param {Uint8Array} arr 包含 UUID 字节的数组
+ * @param {number} offset 数组中 UUID 开始的位置，默认为 0
+ * @returns {string} UUID 字符串
+ */
+function unsafeStringify(arr, offset = 0) {
+    // 直接从查找表中获取每个字节的十六进制表示，并拼接成 UUID 格式
+    // 8-4-4-4-12 的分组是通过精心放置的连字符 "-" 实现的
+    // toLowerCase() 确保整个 UUID 是小写的
+    return (byteToHex[arr[offset + 0]] + byteToHex[arr[offset + 1]] + byteToHex[arr[offset + 2]] + byteToHex[arr[offset + 3]] + "-" +
+        byteToHex[arr[offset + 4]] + byteToHex[arr[offset + 5]] + "-" +
+        byteToHex[arr[offset + 6]] + byteToHex[arr[offset + 7]] + "-" +
+        byteToHex[arr[offset + 8]] + byteToHex[arr[offset + 9]] + "-" +
+        byteToHex[arr[offset + 10]] + byteToHex[arr[offset + 11]] + byteToHex[arr[offset + 12]] +
+        byteToHex[arr[offset + 13]] + byteToHex[arr[offset + 14]] + byteToHex[arr[offset + 15]]).toLowerCase();
+}
+
+/**
+ * 将字节数组转换为 UUID 字符串，并验证其有效性
+ * 这是一个安全的函数，它确保返回的 UUID 格式正确
+ * @param {Uint8Array} arr 包含 UUID 字节的数组
+ * @param {number} offset 数组中 UUID 开始的位置，默认为 0
+ * @returns {string} 有效的 UUID 字符串
+ * @throws {TypeError} 如果生成的 UUID 字符串无效
+ */
+function stringify(arr, offset = 0) {
+    // 使用不安全的函数快速生成 UUID 字符串
+    const uuid = unsafeStringify(arr, offset);
+    // 验证生成的 UUID 是否有效
+    if (!isValidUUID(uuid)) {
+        // 原：throw TypeError("Stringified UUID is invalid");
+        throw TypeError(`生成的 UUID 不符合规范 ${uuid}`);
+        //uuid = userID;
+    }
+    return uuid;
+}
+
+/**
+ * 
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocket 
+ * @param {ArrayBuffer} 维列斯ResponseHeader 
+ * @param {(string)=> void} log 
+ */
+async function handleUDPOutBound(webSocket, 维列斯ResponseHeader, log) {
+
+    let is维列斯HeaderSent = false;
+    const transformStream = new TransformStream({
+        start(controller) {
+
+        },
+        transform(chunk, controller) {
+            // udp message 2 byte is the the length of udp data
+            // TODO: this should have bug, beacsue maybe udp chunk can be in two websocket message
+            for (let index = 0; index < chunk.byteLength;) {
+                const lengthBuffer = chunk.slice(index, index + 2);
+                const udpPakcetLength = new DataView(lengthBuffer).getUint16(0);
+                const udpData = new Uint8Array(
+                    chunk.slice(index + 2, index + 2 + udpPakcetLength)
+                );
+                index = index + 2 + udpPakcetLength;
+                controller.enqueue(udpData);
+            }
+        },
+        flush(controller) {
+        }
+    });
+
+    // only handle dns udp for now
+    transformStream.readable.pipeTo(new WritableStream({
+        async write(chunk) {
+            const resp = await fetch('https://1.1.1.1/dns-query',
+                {
+                    method: 'POST',
+                    headers: {
+                        'content-type': 'application/dns-message',
+                    },
+                    body: chunk,
+                })
+            const dnsQueryResult = await resp.arrayBuffer();
+            const udpSize = dnsQueryResult.byteLength;
+            // console.log([...new Uint8Array(dnsQueryResult)].map((x) => x.toString(16)));
+            const udpSizeBuffer = new Uint8Array([(udpSize >> 8) & 0xff, udpSize & 0xff]);
+            if (webSocket.readyState === WS_READY_STATE_OPEN) {
+                log(`doh success and dns message length is ${udpSize}`);
+                if (is维列斯HeaderSent) {
+                    webSocket.send(await new Blob([udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+                } else {
+                    webSocket.send(await new Blob([维列斯ResponseHeader, udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+                    is维列斯HeaderSent = true;
+                }
+            }
+        }
+    })).catch((error) => {
+        log('dns udp has error' + error)
+    });
+
+    const writer = transformStream.writable.getWriter();
+
+    return {
+        /**
+         * 
+         * @param {Uint8Array} chunk 
+         */
+        write(chunk) {
+            writer.write(chunk);
+        }
+    };
+}
+
+/**
+ * 处理 DNS 查询的函数
+ * @param {ArrayBuffer} udpChunk - 客户端发送的 DNS 查询数据
+ * @param {ArrayBuffer} 维列斯ResponseHeader - 维列斯 协议的响应头部数据
+ * @param {(string)=> void} log - 日志记录函数
+ */
+async function handleDNSQuery(udpChunk, webSocket, 维列斯ResponseHeader, log) {
+    // 无论客户端发送到哪个 DNS 服务器，我们总是使用硬编码的服务器
+    // 因为有些 DNS 服务器不支持 DNS over TCP
+    try {
+        // 选用 Google 的 DNS 服务器（注：后续可能会改为 Cloudflare 的 1.1.1.1）
+        const dnsServer = '8.8.4.4'; // 在 Cloudflare 修复连接自身 IP 的 bug 后，将改为 1.1.1.1
+        const dnsPort = 53; // DNS 服务的标准端口
+
+        let 维列斯Header = 维列斯ResponseHeader; // 保存 维列斯 响应头部，用于后续发送
+
+        // 与指定的 DNS 服务器建立 TCP 连接
+        const tcpSocket = connect({
+            hostname: dnsServer,
+            port: dnsPort,
+        });
+
+        log(`连接到 ${dnsServer}:${dnsPort}`); // 记录连接信息
+        const writer = tcpSocket.writable.getWriter();
+        await writer.write(udpChunk); // 将客户端的 DNS 查询数据发送给 DNS 服务器
+        writer.releaseLock(); // 释放写入器，允许其他部分使用
+
+        // 将从 DNS 服务器接收到的响应数据通过 WebSocket 发送回客户端
+        await tcpSocket.readable.pipeTo(new WritableStream({
+            async write(chunk) {
+                if (webSocket.readyState === WS_READY_STATE_OPEN) {
+                    if (维列斯Header) {
+                        // 如果有 维列斯 头部，则将其与 DNS 响应数据合并后发送
+                        webSocket.send(await new Blob([维列斯Header, chunk]).arrayBuffer());
+                        维列斯Header = null; // 头部只发送一次，之后置为 null
+                    } else {
+                        // 否则直接发送 DNS 响应数据
+                        webSocket.send(chunk);
+                    }
+                }
+            },
+            close() {
+                log(`DNS 服务器(${dnsServer}) TCP 连接已关闭`); // 记录连接关闭信息
+            },
+            abort(reason) {
+                console.error(`DNS 服务器(${dnsServer}) TCP 连接异常中断`, reason); // 记录异常中断原因
+            },
+        }));
+    } catch (error) {
+        // 捕获并记录任何可能发生的错误
+        console.error(
+            `handleDNSQuery 函数发生异常，错误信息: ${error.message}`
+        );
+    }
+}
+
+/**
+ * 建立 SOCKS5 代理连接
+ * @param {number} addressType 目标地址类型（1: IPv4, 2: 域名, 3: IPv6）
+ * @param {string} addressRemote 目标地址（可以是 IP 或域名）
+ * @param {number} portRemote 目标端口
+ * @param {function} log 日志记录函数
+ */
+async function socks5Connect(addressType, addressRemote, portRemote, log) {
+    const { username, password, hostname, port } = parsedSocks5Address;
+    // 连接到 SOCKS5 代理服务器
+    const socket = connect({
+        hostname, // SOCKS5 服务器的主机名
+        port,	// SOCKS5 服务器的端口
+    });
+
+    // 请求头格式（Worker -> SOCKS5 服务器）:
+    // +----+----------+----------+
+    // |VER | NMETHODS | METHODS  |
+    // +----+----------+----------+
+    // | 1  |	1	 | 1 to 255 |
+    // +----+----------+----------+
+
+    // https://en.wikipedia.org/wiki/SOCKS#SOCKS5
+    // METHODS 字段的含义:
+    // 0x00 不需要认证
+    // 0x02 用户名/密码认证 https://datatracker.ietf.org/doc/html/rfc1929
+    const socksGreeting = new Uint8Array([5, 2, 0, 2]);
+    // 5: SOCKS5 版本号, 2: 支持的认证方法数, 0和2: 两种认证方法（无认证和用户名/密码）
+
+    const writer = socket.writable.getWriter();
+
+    await writer.write(socksGreeting);
+    log('已发送 SOCKS5 问候消息');
+
+    const reader = socket.readable.getReader();
+    const encoder = new TextEncoder();
+    let res = (await reader.read()).value;
+    // 响应格式（SOCKS5 服务器 -> Worker）:
+    // +----+--------+
+    // |VER | METHOD |
+    // +----+--------+
+    // | 1  |   1	|
+    // +----+--------+
+    if (res[0] !== 0x05) {
+        log(`SOCKS5 服务器版本错误: 收到 ${res[0]}，期望是 5`);
+        return;
+    }
+    if (res[1] === 0xff) {
+        log("服务器不接受任何认证方法");
+        return;
+    }
+
+    // 如果返回 0x0502，表示需要用户名/密码认证
+    if (res[1] === 0x02) {
+        log("SOCKS5 服务器需要认证");
+        if (!username || !password) {
+            log("请提供用户名和密码");
+            return;
+        }
+        // 认证请求格式:
+        // +----+------+----------+------+----------+
+        // |VER | ULEN |  UNAME   | PLEN |  PASSWD  |
+        // +----+------+----------+------+----------+
+        // | 1  |  1   | 1 to 255 |  1   | 1 to 255 |
+        // +----+------+----------+------+----------+
+        const authRequest = new Uint8Array([
+            1,				   // 认证子协议版本
+            username.length,	// 用户名长度
+            ...encoder.encode(username), // 用户名
+            password.length,	// 密码长度
+            ...encoder.encode(password)  // 密码
+        ]);
+        await writer.write(authRequest);
+        res = (await reader.read()).value;
+        // 期望返回 0x0100 表示认证成功
+        if (res[0] !== 0x01 || res[1] !== 0x00) {
+            log("SOCKS5 服务器认证失败");
+            return;
+        }
+    }
+
+    // 请求数据格式（Worker -> SOCKS5 服务器）:
+    // +----+-----+-------+------+----------+----------+
+    // |VER | CMD |  RSV  | ATYP | DST.ADDR | DST.PORT |
+    // +----+-----+-------+------+----------+----------+
+    // | 1  |  1  | X'00' |  1   | Variable |	2	 |
+    // +----+-----+-------+------+----------+----------+
+    // ATYP: 地址类型
+    // 0x01: IPv4 地址
+    // 0x03: 域名
+    // 0x04: IPv6 地址
+    // DST.ADDR: 目标地址
+    // DST.PORT: 目标端口（网络字节序）
+
+    // addressType
+    // 1 --> IPv4  地址长度 = 4
+    // 2 --> 域名
+    // 3 --> IPv6  地址长度 = 16
+    let DSTADDR;	// DSTADDR = ATYP + DST.ADDR
+    switch (addressType) {
+        case 1: // IPv4
+            DSTADDR = new Uint8Array(
+                [1, ...addressRemote.split('.').map(Number)]
+            );
+            break;
+        case 2: // 域名
+            DSTADDR = new Uint8Array(
+                [3, addressRemote.length, ...encoder.encode(addressRemote)]
+            );
+            break;
+        case 3: // IPv6
+            DSTADDR = new Uint8Array(
+                [4, ...addressRemote.split(':').flatMap(x => [parseInt(x.slice(0, 2), 16), parseInt(x.slice(2), 16)])]
+            );
+            break;
+        default:
+            log(`无效的地址类型: ${addressType}`);
+            return;
+    }
+    const socksRequest = new Uint8Array([5, 1, 0, ...DSTADDR, portRemote >> 8, portRemote & 0xff]);
+    // 5: SOCKS5版本, 1: 表示CONNECT请求, 0: 保留字段
+    // ...DSTADDR: 目标地址, portRemote >> 8 和 & 0xff: 将端口转为网络字节序
+    await writer.write(socksRequest);
+    log('已发送 SOCKS5 请求');
+
+    res = (await reader.read()).value;
+    // 响应格式（SOCKS5 服务器 -> Worker）:
+    //  +----+-----+-------+------+----------+----------+
+    // |VER | REP |  RSV  | ATYP | BND.ADDR | BND.PORT |
+    // +----+-----+-------+------+----------+----------+
+    // | 1  |  1  | X'00' |  1   | Variable |	2	 |
+    // +----+-----+-------+------+----------+----------+
+    if (res[1] === 0x00) {
+        log("SOCKS5 连接已建立");
+    } else {
+        log("SOCKS5 连接建立失败");
+        return;
+    }
+    writer.releaseLock();
+    reader.releaseLock();
+    return socket;
+}
+
+/**
+ * 建立 HTTP 代理连接
+ * @param {string} addressRemote 目标地址（可以是 IP 或域名）
+ * @param {number} portRemote 目标端口
+ * @param {function} log 日志记录函数
+ */
+async function httpConnect(addressRemote, portRemote, log) {
+    const { username, password, hostname, port } = parsedSocks5Address;
+    const sock = await connect({
+        hostname: hostname,
+        port: port
+    });
+
+    // 构建HTTP CONNECT请求
+    let connectRequest = `CONNECT ${addressRemote}:${portRemote} HTTP/1.1\r\n`;
+    connectRequest += `Host: ${addressRemote}:${portRemote}\r\n`;
+
+    // 添加代理认证（如果需要）
+    if (username && password) {
+        const authString = `${username}:${password}`;
+        const base64Auth = btoa(authString);
+        connectRequest += `Proxy-Authorization: Basic ${base64Auth}\r\n`;
+    }
+
+    connectRequest += `User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\r\n`;
+    connectRequest += `Proxy-Connection: Keep-Alive\r\n`;
+    connectRequest += `Connection: Keep-Alive\r\n`; // 添加标准 Connection 头
+    connectRequest += `\r\n`;
+
+    log(`正在连接到 ${addressRemote}:${portRemote} 通过代理 ${hostname}:${port}`);
+
+    try {
+        // 发送连接请求
+        const writer = sock.writable.getWriter();
+        await writer.write(new TextEncoder().encode(connectRequest));
+        writer.releaseLock();
+    } catch (err) {
+        console.error('发送HTTP CONNECT请求失败:', err);
+        throw new Error(`发送HTTP CONNECT请求失败: ${err.message}`);
+    }
+
+    // 读取HTTP响应
+    const reader = sock.readable.getReader();
+    let respText = '';
+    let connected = false;
+    let responseBuffer = new Uint8Array(0);
+
+    try {
+        while (true) {
+            const { value, done } = await reader.read();
+            if (done) {
+                console.error('HTTP代理连接中断');
+                throw new Error('HTTP代理连接中断');
+            }
+
+            // 合并接收到的数据
+            const newBuffer = new Uint8Array(responseBuffer.length + value.length);
+            newBuffer.set(responseBuffer);
+            newBuffer.set(value, responseBuffer.length);
+            responseBuffer = newBuffer;
+
+            // 将收到的数据转换为文本
+            respText = new TextDecoder().decode(responseBuffer);
+
+            // 检查是否收到完整的HTTP响应头
+            if (respText.includes('\r\n\r\n')) {
+                // 分离HTTP头和可能的数据部分
+                const headersEndPos = respText.indexOf('\r\n\r\n') + 4;
+                const headers = respText.substring(0, headersEndPos);
+
+                log(`收到HTTP代理响应: ${headers.split('\r\n')[0]}`);
+
+                // 检查响应状态
+                if (headers.startsWith('HTTP/1.1 200') || headers.startsWith('HTTP/1.0 200')) {
+                    connected = true;
+
+                    // 如果响应头之后还有数据，我们需要保存这些数据以便后续处理
+                    if (headersEndPos < responseBuffer.length) {
+                        const remainingData = responseBuffer.slice(headersEndPos);
+                        // 创建一个缓冲区来存储这些数据，以便稍后使用
+                        const dataStream = new ReadableStream({
+                            start(controller) {
+                                controller.enqueue(remainingData);
+                            }
+                        });
+
+                        // 创建一个新的TransformStream来处理额外数据
+                        const { readable, writable } = new TransformStream();
+                        dataStream.pipeTo(writable).catch(err => console.error('处理剩余数据错误:', err));
+
+                        // 替换原始readable流
+                        // @ts-ignore
+                        sock.readable = readable;
+                    }
+                } else {
+                    const errorMsg = `HTTP代理连接失败: ${headers.split('\r\n')[0]}`;
+                    console.error(errorMsg);
+                    throw new Error(errorMsg);
+                }
+                break;
+            }
+        }
+    } catch (err) {
+        reader.releaseLock();
+        throw new Error(`处理HTTP代理响应失败: ${err.message}`);
+    }
+
+    reader.releaseLock();
+
+    if (!connected) {
+        throw new Error('HTTP代理连接失败: 未收到成功响应');
+    }
+
+    log(`HTTP代理连接成功: ${addressRemote}:${portRemote}`);
+    return sock;
+}
+
+/**
+ * SOCKS5 代理地址解析器
+ * 此函数用于解析 SOCKS5 代理地址字符串，提取出用户名、密码、主机名和端口号
+ * 
+ * @param {string} address SOCKS5 代理地址，格式可以是：
+ *   - "username:password@hostname:port" （带认证）
+ *   - "hostname:port" （不需认证）
+ *   - "username:password@[ipv6]:port" （IPv6 地址需要用方括号括起来）
+ */
+function socks5AddressParser(address) {
+    // 使用 "@" 分割地址，分为认证部分和服务器地址部分
+    const lastAtIndex = address.lastIndexOf("@");
+    let [latter, former] = lastAtIndex === -1 ? [address, undefined] : [address.substring(lastAtIndex + 1), address.substring(0, lastAtIndex)];
+    let username, password, hostname, port;
+
+    // 如果存在 former 部分，说明提供了认证信息
+    if (former) {
+        const formers = former.split(":");
+        if (formers.length !== 2) {
+            throw new Error('无效的 SOCKS 地址格式：认证部分必须是 "username:password" 的形式');
+        }
+        [username, password] = formers;
+    }
+
+    // 解析服务器地址部分
+    const latters = latter.split(":");
+    // 检查是否是IPv6地址带端口格式 [xxx]:port
+    if (latters.length > 2 && latter.includes("]:")) {
+        // IPv6地址带端口格式：[2001:db8::1]:8080
+        port = Number(latter.split("]:")[1].replace(/[^\d]/g, ''));
+        hostname = latter.split("]:")[0] + "]"; // 正确提取hostname部分
+    } else if (latters.length === 2) {
+        // IPv4地址带端口或域名带端口
+        port = Number(latters.pop().replace(/[^\d]/g, ''));
+        hostname = latters.join(":");
+    } else {
+        port = 80;
+        hostname = latter;
+    }
+
+    if (isNaN(port)) {
+        throw new Error('无效的 SOCKS 地址格式：端口号必须是数字');
+    }
+
+    // 处理 IPv6 地址的特殊情况
+    // IPv6 地址包含多个冒号，所以必须用方括号括起来，如 [2001:db8::1]
+    const regex = /^\[.*\]$/;
+    if (hostname.includes(":") && !regex.test(hostname)) {
+        throw new Error('无效的 SOCKS 地址格式：IPv6 地址必须用方括号括起来，如 [2001:db8::1]');
+    }
+
+    //if (/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(hostname)) hostname = `${atob('d3d3Lg==')}${hostname}${atob('LmlwLjA5MDIyNy54eXo=')}`;
+    // 返回解析后的结果
+    return {
+        username,  // 用户名，如果没有则为 undefined
+        password,  // 密码，如果没有则为 undefined
+        hostname,  // 主机名，可以是域名、IPv4 或 IPv6 地址
+        port,	 // 端口号，已转换为数字类型
+    }
+}
+
+/**
+ * 恢复被伪装的信息
+ * 这个函数用于将内容中的假用户ID和假主机名替换回真实的值
+ * 
+ * @param {string} content 需要处理的内容
+ * @param {string} userID 真实的用户ID
+ * @param {string} hostName 真实的主机名
+ * @param {boolean} isBase64 内容是否是Base64编码的
+ * @returns {string} 恢复真实信息后的内容
+ */
+function 恢复伪装信息(content, userID, hostName, fakeUserID, fakeHostName, isBase64) {
+    if (isBase64) content = atob(content);  // 如果内容是Base64编码的，先解码
+
+    // 使用正则表达式全局替换（'g'标志）
+    // 将所有出现的假用户ID和假主机名替换为真实的值
+    content = content.replace(new RegExp(fakeUserID, 'g'), userID)
+        .replace(new RegExp(fakeHostName, 'g'), hostName);
+
+    if (isBase64) content = btoa(content);  // 如果原内容是Base64编码的，处理完后再次编码
+
+    return content;
+}
+
+/**
+ * 双重MD5哈希函数
+ * 这个函数对输入文本进行两次MD5哈希，增强安全性
+ * 第二次哈希使用第一次哈希结果的一部分作为输入
+ * 
+ * @param {string} 文本 要哈希的文本
+ * @returns {Promise<string>} 双重哈希后的小写十六进制字符串
+ */
+async function 双重哈希(文本) {
+    const 编码器 = new TextEncoder();
+
+    const 第一次哈希 = await crypto.subtle.digest('MD5', 编码器.encode(文本));
+    const 第一次哈希数组 = Array.from(new Uint8Array(第一次哈希));
+    const 第一次十六进制 = 第一次哈希数组.map(字节 => 字节.toString(16).padStart(2, '0')).join('');
+
+    const 第二次哈希 = await crypto.subtle.digest('MD5', 编码器.encode(第一次十六进制.slice(7, 27)));
+    const 第二次哈希数组 = Array.from(new Uint8Array(第二次哈希));
+    const 第二次十六进制 = 第二次哈希数组.map(字节 => 字节.toString(16).padStart(2, '0')).join('');
+
+    return 第二次十六进制.toLowerCase();
+}
+
+async function 代理URL(代理网址, 目标网址) {
+    const 网址列表 = await 整理(代理网址);
+    const 完整网址 = 网址列表[Math.floor(Math.random() * 网址列表.length)];
+
+    // 解析目标 URL
+    let 解析后的网址 = new URL(完整网址);
+    console.log(解析后的网址);
+    // 提取并可能修改 URL 组件
+    let 协议 = 解析后的网址.protocol.slice(0, -1) || 'https';
+    let 主机名 = 解析后的网址.hostname;
+    let 路径名 = 解析后的网址.pathname;
+    let 查询参数 = 解析后的网址.search;
+
+    // 处理路径名
+    if (路径名.charAt(路径名.length - 1) == '/') {
+        路径名 = 路径名.slice(0, -1);
+    }
+    路径名 += 目标网址.pathname;
+
+    // 构建新的 URL
+    let 新网址 = `${协议}://${主机名}${路径名}${查询参数}`;
+
+    // 反向代理请求
+    let 响应 = await fetch(新网址);
+
+    // 创建新的响应
+    let 新响应 = new Response(响应.body, {
+        status: 响应.status,
+        statusText: 响应.statusText,
+        headers: 响应.headers
+    });
+
+    // 添加自定义头部，包含 URL 信息
+    //新响应.headers.set('X-Proxied-By', 'Cloudflare Worker');
+    //新响应.headers.set('X-Original-URL', 完整网址);
+    新响应.headers.set('X-New-URL', 新网址);
+
+    return 新响应;
+}
+
+const 啥啥啥_写的这是啥啊 = atob('ZG14bGMzTT0=');
+function 配置信息(UUID, 域名地址) {
+    const 协议类型 = atob(啥啥啥_写的这是啥啊);
+
+    const 别名 = FileName;
+    let 地址 = 域名地址;
+    let 端口 = 443;
+
+    const 用户ID = UUID;
+    const 加密方式 = 'none';
+
+    const 传输层协议 = 'ws';
+    const 伪装域名 = 域名地址;
+    const 路径 = path;
+
+    let 传输层安全 = ['tls', true];
+    const SNI = 域名地址;
+    const 指纹 = 'randomized';
+
+    if (域名地址.includes('.workers.dev')) {
+        地址 = atob('dmlzYS5jb20uaGs=');
+        端口 = 80;
+        传输层安全 = ['', false];
+    }
+
+    const 威图瑞 = `${协议类型}://${用户ID}@${地址}:${端口}\u003f\u0065\u006e\u0063\u0072\u0079` + 'p' + `${atob('dGlvbj0=') + 加密方式}\u0026\u0073\u0065\u0063\u0075\u0072\u0069\u0074\u0079\u003d${传输层安全[0]}&sni=${SNI}&fp=${指纹}&type=${传输层协议}&host=${伪装域名}&path=${encodeURIComponent(路径) + allowInsecure}&fragment=${encodeURIComponent('1,40-60,30-50,tlshello')}#${encodeURIComponent(别名)}`;
+    const 猫猫猫 = `- {name: ${FileName}, server: ${地址}, port: ${端口}, type: ${协议类型}, uuid: ${用户ID}, tls: ${传输层安全[1]}, alpn: [h3], udp: false, sni: ${SNI}, tfo: false, skip-cert-verify: ${SCV}, servername: ${伪装域名}, client-fingerprint: ${指纹}, network: ${传输层协议}, ws-opts: {path: "${路径}", headers: {${伪装域名}}}}`;
+    return [威图瑞, 猫猫猫];
+}
+
+let subParams = ['sub', 'base64', 'b64', 'clash', 'singbox', 'sb'];
+const cmad = decodeURIComponent(atob('dGVsZWdyYW0lMjAlRTQlQkElQTQlRTYlQjUlODElRTclQkUlQTQlMjAlRTYlOEElODAlRTYlOUMlQUYlRTUlQTQlQTclRTQlQkQlQUMlN0UlRTUlOUMlQTglRTclQkElQkYlRTUlOEYlOTElRTclODklOEMhJTNDYnIlM0UKJTNDYSUyMGhyZWYlM0QlMjdodHRwcyUzQSUyRiUyRnQubWUlMkZDTUxpdXNzc3MlMjclM0VodHRwcyUzQSUyRiUyRnQubWUlMkZDTUxpdXNzc3MlM0MlMkZhJTNFJTNDYnIlM0UKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJTNDYnIlM0UKZ2l0aHViJTIwJUU5JUExJUI5JUU3JTlCJUFFJUU1JTlDJUIwJUU1JTlEJTgwJTIwU3RhciFTdGFyIVN0YXIhISElM0NiciUzRQolM0NhJTIwaHJlZiUzRCUyN2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNtbGl1JTJGZWRnZXR1bm5lbCUyNyUzRWh0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNtbGl1JTJGZWRnZXR1bm5lbCUzQyUyRmElM0UlM0NiciUzRQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0lM0NiciUzRQolMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjMlMjM='));
+/**
+ * @param {string} userID
+ * @param {string | null} hostName
+ * @param {string} sub
+ * @param {string} UA
+ * @returns {Promise<string>}
+ */
+async function 生成配置信息(userID, hostName, sub, UA, RproxyIP, _url, fakeUserID, fakeHostName, env) {
+    if (sub) {
+        const match = sub.match(/^(?:https?:\/\/)?([^\/]+)/);
+        if (match) {
+            sub = match[1];
+        }
+        const subs = await 整理(sub);
+        if (subs.length > 1) sub = subs[0];
+    } else {
+        if (env.KV) {
+            await 迁移地址列表(env);
+            const 优选地址列表 = await env.KV.get('ADD.txt');
+            if (优选地址列表) {
+                const 优选地址数组 = await 整理(优选地址列表);
+                const 分类地址 = {
+                    接口地址: new Set(),
+                    链接地址: new Set(),
+                    优选地址: new Set()
+                };
+
+                for (const 元素 of 优选地址数组) {
+                    if (元素.startsWith('https://')) {
+                        分类地址.接口地址.add(元素);
+                    } else if (元素.includes('://')) {
+                        分类地址.链接地址.add(元素);
+                    } else {
+                        分类地址.优选地址.add(元素);
+                    }
+                }
+
+                addressesapi = [...分类地址.接口地址];
+                link = [...分类地址.链接地址];
+                addresses = [...分类地址.优选地址];
+            }
+        }
+
+        if ((addresses.length + addressesapi.length + addressesnotls.length + addressesnotlsapi.length + addressescsv.length) == 0) {
+            // 定义 Cloudflare IP 范围的 CIDR 列表
+            let cfips = ['104.16.0.0/13'];
+            // 请求 Cloudflare CIDR 列表
+            try {
+                const response = await fetch('https://raw.githubusercontent.com/cmliu/cmliu/main/CF-CIDR.txt');
+                if (response.ok) {
+                    const data = await response.text();
+                    cfips = await 整理(data);
+                }
+            } catch (error) {
+                console.log('获取 CF-CIDR 失败，使用默认值:', error);
+            }
+
+            // 生成符合给定 CIDR 范围的随机 IP 地址
+            function generateRandomIPFromCIDR(cidr) {
+                const [base, mask] = cidr.split('/');
+                const baseIP = base.split('.').map(Number);
+                const subnetMask = 32 - parseInt(mask, 10);
+                const maxHosts = Math.pow(2, subnetMask) - 1;
+                const randomHost = Math.floor(Math.random() * maxHosts);
+
+                const randomIP = baseIP.map((octet, index) => {
+                    if (index < 2) return octet;
+                    if (index === 2) return (octet & (255 << (subnetMask - 8))) + ((randomHost >> 8) & 255);
+                    return (octet & (255 << subnetMask)) + (randomHost & 255);
+                });
+
+                return randomIP.join('.');
+            }
+            addresses = addresses.concat('127.0.0.1:1234#CFnat');
+            let counter = 1;
+            if (hostName.includes("worker") || hostName.includes("notls")) {
+                const randomPorts = httpPorts.concat('80');
+                addressesnotls = addressesnotls.concat(
+                    cfips.map(cidr => generateRandomIPFromCIDR(cidr) + ':' + randomPorts[Math.floor(Math.random() * randomPorts.length)] + '#CF随机节点' + String(counter++).padStart(2, '0'))
+                );
+            } else {
+                const randomPorts = httpsPorts.concat('443');
+                addresses = addresses.concat(
+                    cfips.map(cidr => generateRandomIPFromCIDR(cidr) + ':' + randomPorts[Math.floor(Math.random() * randomPorts.length)] + '#CF随机节点' + String(counter++).padStart(2, '0'))
+                );
+            }
+        }
+    }
+
+    const uuid = (_url.pathname == `/${动态UUID}`) ? 动态UUID : userID;
+    const userAgent = UA.toLowerCase();
+    const Config = 配置信息(userID, hostName);
+    const v2ray = Config[0];
+    const clash = Config[1];
+    let proxyhost = "";
+    if (hostName.includes(".workers.dev")) {
+        if (proxyhostsURL && (!proxyhosts || proxyhosts.length == 0)) {
+            try {
+                const response = await fetch(proxyhostsURL);
+
+                if (!response.ok) {
+                    console.error('获取地址时出错:', response.status, response.statusText);
+                    return; // 如果有错误，直接返回
+                }
+
+                const text = await response.text();
+                const lines = text.split('\n');
+                // 过滤掉空行或只包含空白字符的行
+                const nonEmptyLines = lines.filter(line => line.trim() !== '');
+
+                proxyhosts = proxyhosts.concat(nonEmptyLines);
+            } catch (error) {
+                //console.error('获取地址时出错:', error);
+            }
+        }
+        if (proxyhosts.length != 0) proxyhost = proxyhosts[Math.floor(Math.random() * proxyhosts.length)] + "/";
+    }
+
+    if (userAgent.includes('mozilla') && !subParams.some(_searchParams => _url.searchParams.has(_searchParams))) {
+        const newSocks5s = socks5s.map(socks5Address => {
+            if (socks5Address.includes('@')) return socks5Address.split('@')[1];
+            else if (socks5Address.includes('//')) return socks5Address.split('//')[1];
+            else return socks5Address;
+        });
+
+        let socks5List = '';
+        if (go2Socks5s.length > 0 && enableSocks) {
+            socks5List = `${(enableHttp ? "HTTP" : "Socks5") + decodeURIComponent('%EF%BC%88%E7%99%BD%E5%90%8D%E5%8D%95%EF%BC%89%3A%20')}`;
+            if (go2Socks5s.includes(atob('YWxsIGlu')) || go2Socks5s.includes(atob('Kg=='))) socks5List += `${decodeURIComponent('%E6%89%80%E6%9C%89%E6%B5%81%E9%87%8F')}<br>`;
+            else socks5List += `<br>&nbsp;&nbsp;${go2Socks5s.join('<br>&nbsp;&nbsp;')}<br>`;
+        }
+
+        let 订阅器 = '<br>';
+        if (sub) {
+            if (enableSocks) 订阅器 += `CFCDN（访问方式）: ${enableHttp ? "HTTP" : "Socks5"}<br>&nbsp;&nbsp;${newSocks5s.join('<br>&nbsp;&nbsp;')}<br>${socks5List}`;
+            else if (proxyIP && proxyIP != '') 订阅器 += `CFCDN（访问方式）: ProxyIP<br>&nbsp;&nbsp;${proxyIPs.join('<br>&nbsp;&nbsp;')}<br>`;
+            else if (RproxyIP == 'true') 订阅器 += `CFCDN（访问方式）: 自动获取ProxyIP<br>`;
+            else 订阅器 += `CFCDN（访问方式）: 内置兜底, 您也可以设置 proxyIP/PROXYIP 。<br>`
+            订阅器 += `<br>SUB（优选订阅生成器）: ${sub}`;
+        } else {
+            if (enableSocks) 订阅器 += `CFCDN（访问方式）: ${enableHttp ? "HTTP" : "Socks5"}<br>&nbsp;&nbsp;${newSocks5s.join('<br>&nbsp;&nbsp;')}<br>${socks5List}`;
+            else if (proxyIP && proxyIP != '') 订阅器 += `CFCDN（访问方式）: ProxyIP<br>&nbsp;&nbsp;${proxyIPs.join('<br>&nbsp;&nbsp;')}<br>`;
+            else 订阅器 += `CFCDN（访问方式）: 内置兜底, 您也可以设置 proxyIP/PROXYIP 。<br>`;
+            let 判断是否绑定KV空间 = '';
+            if (env.KV) 判断是否绑定KV空间 = ` [<a href='${_url.pathname}/edit'>编辑优选列表</a>]  [<a href='${_url.pathname}/bestip'>在线优选IP</a>]`;
+            订阅器 += `<br>您的订阅内容由 内置 addresses/ADD* 参数变量提供${判断是否绑定KV空间}<br>`;
+            if (addresses.length > 0) 订阅器 += `ADD（TLS优选域名&IP）: <br>&nbsp;&nbsp;${addresses.join('<br>&nbsp;&nbsp;')}<br>`;
+            if (addressesnotls.length > 0) 订阅器 += `ADDNOTLS（noTLS优选域名&IP）: <br>&nbsp;&nbsp;${addressesnotls.join('<br>&nbsp;&nbsp;')}<br>`;
+            if (addressesapi.length > 0) 订阅器 += `ADDAPI（TLS优选域名&IP 的 API）: <br>&nbsp;&nbsp;${addressesapi.join('<br>&nbsp;&nbsp;')}<br>`;
+            if (addressesnotlsapi.length > 0) 订阅器 += `ADDNOTLSAPI（noTLS优选域名&IP 的 API）: <br>&nbsp;&nbsp;${addressesnotlsapi.join('<br>&nbsp;&nbsp;')}<br>`;
+            if (addressescsv.length > 0) 订阅器 += `ADDCSV（IPTest测速csv文件 限速 ${DLS} ）: <br>&nbsp;&nbsp;${addressescsv.join('<br>&nbsp;&nbsp;')}<br>`;
+        }
+
+        if (动态UUID && _url.pathname !== `/${动态UUID}`) 订阅器 = '';
+        else 订阅器 += `<br>SUBAPI（订阅转换后端）: <a href='${subProtocol}://${subConverter}/version' target="_blank" rel="noopener noreferrer">${subProtocol}://${subConverter}</a><br>SUBCONFIG（订阅转换配置文件）: <a href='${subConfig}' target="_blank" rel="noopener noreferrer">${subConfig}</a>`;
+        const 动态UUID信息 = (uuid != userID) ? `TOKEN: ${uuid}<br>UUIDNow: ${userID}<br>UUIDLow: ${userIDLow}<br>${userIDTime}TIME（动态UUID有效时间）: ${有效时间} 天<br>UPTIME（动态UUID更新时间）: ${更新时间} 时（北京时间）<br><br>` : `${userIDTime}`;
+        const 节点配置页 = `
+            ################################################################<br>
+            Subscribe / sub 订阅地址, 点击链接自动 <strong>复制订阅链接</strong> 并 <strong>生成订阅二维码</strong> <br>
+            ---------------------------------------------------------------<br>
+            自适应订阅地址:<br>
+            <a href="javascript:void(0)" onclick="copyToClipboard('https://${proxyhost}${hostName}/${uuid}?sub','qrcode_0')" style="color:blue;text-decoration:underline;cursor:pointer;">https://${proxyhost}${hostName}/${uuid}</a><br>
+            <div id="qrcode_0" style="margin: 10px 10px 10px 10px;"></div>
+            Base64订阅地址:<br>
+            <a href="javascript:void(0)" onclick="copyToClipboard('https://${proxyhost}${hostName}/${uuid}?b64','qrcode_1')" style="color:blue;text-decoration:underline;cursor:pointer;">https://${proxyhost}${hostName}/${uuid}?b64</a><br>
+            <div id="qrcode_1" style="margin: 10px 10px 10px 10px;"></div>
+            clash订阅地址:<br>
+            <a href="javascript:void(0)" onclick="copyToClipboard('https://${proxyhost}${hostName}/${uuid}?clash','qrcode_2')" style="color:blue;text-decoration:underline;cursor:pointer;">https://${proxyhost}${hostName}/${uuid}?clash</a><br>
+            <div id="qrcode_2" style="margin: 10px 10px 10px 10px;"></div>
+            singbox订阅地址:<br>
+            <a href="javascript:void(0)" onclick="copyToClipboard('https://${proxyhost}${hostName}/${uuid}?sb','qrcode_3')" style="color:blue;text-decoration:underline;cursor:pointer;">https://${proxyhost}${hostName}/${uuid}?sb</a><br>
+            <div id="qrcode_3" style="margin: 10px 10px 10px 10px;"></div>
+            loon订阅地址:<br>
+            <a href="javascript:void(0)" onclick="copyToClipboard('https://${proxyhost}${hostName}/${uuid}?loon','qrcode_5')" style="color:blue;text-decoration:underline;cursor:pointer;">https://${proxyhost}${hostName}/${uuid}?loon</a><br>
+            <div id="qrcode_5" style="margin: 10px 10px 10px 10px;"></div>
+            <strong><a href="javascript:void(0);" id="noticeToggle" onclick="toggleNotice()">实用订阅技巧∨</a></strong><br>
+                <div id="noticeContent" class="notice-content" style="display: none;">
+                    <strong>1.</strong> 如您使用的是 PassWall、PassWall2 路由插件，订阅编辑的 <strong>用户代理(User-Agent)</strong> 设置为 <strong>PassWall</strong> 即可；<br>
+                    <br>
+                    <strong>2.</strong> 如您使用的是 SSR+ 路由插件，推荐使用 <strong>Base64订阅地址</strong> 进行订阅；<br>
+                    <br>
+                    <strong>3.</strong> 快速切换 <a href='${atob('aHR0cHM6Ly9naXRodWIuY29tL2NtbGl1L1dvcmtlclZsZXNzMnN1Yg==')}'>优选订阅生成器</a> 至：sub.google.com，您可将"?sub=sub.google.com"参数添加到链接末尾，例如：<br>
+                    &nbsp;&nbsp;https://${proxyhost}${hostName}/${uuid}<strong>?sub=sub.google.com</strong><br>
+                    <br>
+                    <strong>4.</strong> 快速更换 PROXYIP 至：proxyip.cmliussss.net:443，您可将"?proxyip=proxyip.cmliussss.net:443"参数添加到链接末尾，例如：<br>
+                    &nbsp;&nbsp; https://${proxyhost}${hostName}/${uuid}<strong>?proxyip=proxyip.cmliussss.net:443</strong><br>
+                    <br>
+                    <strong>5.</strong> 快速更换 SOCKS5 至：user:password@127.0.0.1:1080，您可将"?socks5=user:password@127.0.0.1:1080"参数添加到链接末尾，例如：<br>
+                    &nbsp;&nbsp;https://${proxyhost}${hostName}/${uuid}<strong>?socks5=user:password@127.0.0.1:1080</strong><br>
+                    <br>
+                    <strong>6.</strong> 如需指定多个参数则需要使用'&'做间隔，例如：<br>
+                    &nbsp;&nbsp;https://${proxyhost}${hostName}/${uuid}?sub=sub.google.com<strong>&</strong>proxyip=proxyip.cmliussss.net<br>
+                </div>
+            <script src="https://cdn.jsdelivr.net/npm/@keeex/qrcodejs-kx@1.0.2/qrcode.min.js"></script>
+            <script>
+            function copyToClipboard(text, qrcode) {
+                navigator.clipboard.writeText(text).then(() => {
+                    alert('已复制到剪贴板');
+                }).catch(err => {
+                    console.error('复制失败:', err);
+                });
+                const qrcodeDiv = document.getElementById(qrcode);
+                qrcodeDiv.innerHTML = '';
+                new QRCode(qrcodeDiv, {
+                    text: text,
+                    width: 220, // 调整宽度
+                    height: 220, // 调整高度
+                    colorDark: "#000000", // 二维码颜色
+                    colorLight: "#ffffff", // 背景颜色
+                    correctLevel: QRCode.CorrectLevel.Q, // 设置纠错级别
+                    scale: 1 // 调整像素颗粒度
+                });
+            }
+
+            function toggleNotice() {
+                const noticeContent = document.getElementById('noticeContent');
+                const noticeToggle = document.getElementById('noticeToggle');
+                if (noticeContent.style.display === 'none') {
+                    noticeContent.style.display = 'block';
+                    noticeToggle.textContent = '实用订阅技巧∧';
+                } else {
+                    noticeContent.style.display = 'none'; 
+                    noticeToggle.textContent = '实用订阅技巧∨';
+                }
+            }
+            </script>
+            ---------------------------------------------------------------<br>
+            ################################################################<br>
+            ${FileName} 配置信息<br>
+            ---------------------------------------------------------------<br>
+            ${动态UUID信息}HOST: ${hostName}<br>
+            UUID: ${userID}<br>
+            FKID: ${fakeUserID}<br>
+            UA: ${UA}<br>
+            SCV（跳过TLS证书验证）: ${SCV}<br>
+            ${订阅器}<br>
+            ---------------------------------------------------------------<br>
+            ################################################################<br>
+            v2ray<br>
+            ---------------------------------------------------------------<br>
+            <a href="javascript:void(0)" onclick="copyToClipboard('${v2ray}','qrcode_v2ray')" style="color:blue;text-decoration:underline;cursor:pointer;">${v2ray}</a><br>
+            <div id="qrcode_v2ray" style="margin: 10px 10px 10px 10px;"></div>
+            ---------------------------------------------------------------<br>
+            ################################################################<br>
+            clash-meta<br>
+            ---------------------------------------------------------------<br>
+            ${clash}<br>
+            ---------------------------------------------------------------<br>
+            ################################################################<br>
+            ${cmad}
+            `;
+        return `<div style="font-size:13px;">${节点配置页}</div>`;
+    } else {
+        if (typeof fetch != 'function') {
+            return 'Error: fetch is not available in this environment.';
+        }
+
+        let newAddressesapi = [];
+        let newAddressescsv = [];
+        let newAddressesnotlsapi = [];
+        let newAddressesnotlscsv = [];
+
+        // 如果是使用默认域名，则改成一个workers的域名，订阅器会加上代理
+        if (hostName.includes(".workers.dev")) {
+            noTLS = 'true';
+            fakeHostName = `${fakeHostName}.workers.dev`;
+            newAddressesnotlsapi = await 整理优选列表(addressesnotlsapi);
+            newAddressesnotlscsv = await 整理测速结果('FALSE');
+        } else if (hostName.includes(".pages.dev")) {
+            fakeHostName = `${fakeHostName}.pages.dev`;
+        } else if (hostName.includes("worker") || hostName.includes("notls") || noTLS == 'true') {
+            noTLS = 'true';
+            fakeHostName = `notls${fakeHostName}.net`;
+            newAddressesnotlsapi = await 整理优选列表(addressesnotlsapi);
+            newAddressesnotlscsv = await 整理测速结果('FALSE');
+        } else {
+            fakeHostName = `${fakeHostName}.xyz`
+        }
+        console.log(`虚假HOST: ${fakeHostName}`);
+        let url = `${subProtocol}://${sub}/sub?host=${fakeHostName}&uuid=${fakeUserID + atob('JmVkZ2V0dW5uZWw9Y21saXUmcHJveHlpcD0=') + RproxyIP}&path=${encodeURIComponent(path)}`;
+        let isBase64 = true;
+
+        if (!sub || sub == "") {
+            if (hostName.includes('workers.dev')) {
+                if (proxyhostsURL && (!proxyhosts || proxyhosts.length == 0)) {
+                    try {
+                        const response = await fetch(proxyhostsURL);
+
+                        if (!response.ok) {
+                            console.error('获取地址时出错:', response.status, response.statusText);
+                            return; // 如果有错误，直接返回
+                        }
+
+                        const text = await response.text();
+                        const lines = text.split('\n');
+                        // 过滤掉空行或只包含空白字符的行
+                        const nonEmptyLines = lines.filter(line => line.trim() !== '');
+
+                        proxyhosts = proxyhosts.concat(nonEmptyLines);
+                    } catch (error) {
+                        console.error('获取地址时出错:', error);
+                    }
+                }
+                // 使用Set对象去重
+                proxyhosts = [...new Set(proxyhosts)];
+            }
+
+            newAddressesapi = await 整理优选列表(addressesapi);
+            newAddressescsv = await 整理测速结果('TRUE');
+            url = `https://${hostName}/${fakeUserID + _url.search}`;
+            if (hostName.includes("worker") || hostName.includes("notls") || noTLS == 'true') {
+                if (_url.search) url += '&notls';
+                else url += '?notls';
+            }
+            console.log(`虚假订阅: ${url}`);
+        }
+
+        if (!userAgent.includes(('CF-Workers-SUB').toLowerCase()) && !_url.searchParams.has('b64') && !_url.searchParams.has('base64')) {
+            if ((userAgent.includes('clash') && !userAgent.includes('nekobox')) || (_url.searchParams.has('clash') && !userAgent.includes('subconverter'))) {
+                url = `${subProtocol}://${subConverter}/sub?target=clash&url=${encodeURIComponent(url)}&insert=false&config=${encodeURIComponent(subConfig)}&emoji=${subEmoji}&list=false&tfo=false&scv=${SCV}&fdn=false&sort=false&new_name=true`;
+                isBase64 = false;
+            } else if (userAgent.includes('sing-box') || userAgent.includes('singbox') || ((_url.searchParams.has('singbox') || _url.searchParams.has('sb')) && !userAgent.includes('subconverter'))) {
+                url = `${subProtocol}://${subConverter}/sub?target=singbox&url=${encodeURIComponent(url)}&insert=false&config=${encodeURIComponent(subConfig)}&emoji=${subEmoji}&list=false&tfo=false&scv=${SCV}&fdn=false&sort=false&new_name=true`;
+                isBase64 = false;
+            } else if (userAgent.includes('loon') || (_url.searchParams.has('loon') && !userAgent.includes('subconverter'))) {
+                url = `${subProtocol}://${subConverter}/sub?target=loon&url=${encodeURIComponent(url)}&insert=false&config=${encodeURIComponent(subConfig)}&emoji=${subEmoji}&list=false&tfo=false&scv=${SCV}&fdn=false&sort=false&new_name=true`;
+                isBase64 = false;
+            }
+        }
+
+        try {
+            let content;
+            if ((!sub || sub == "") && isBase64 == true) {
+                content = await 生成本地订阅(fakeHostName, fakeUserID, noTLS, newAddressesapi, newAddressescsv, newAddressesnotlsapi, newAddressesnotlscsv);
+            } else {
+                const response = await fetch(url, {
+                    headers: {
+                        'User-Agent': (isBase64 ? 'v2rayN' : UA) + atob('IENGLVdvcmtlcnMtZWRnZXR1bm5lbC9jbWxpdQ==')
+                    }
+                });
+                content = await response.text();
+            }
+
+            if (_url.pathname == `/${fakeUserID}`) return content;
+
+            return 恢复伪装信息(content, userID, hostName, fakeUserID, fakeHostName, isBase64);
+
+        } catch (error) {
+            console.error('Error fetching content:', error);
+            return `Error fetching content: ${error.message}`;
+        }
+    }
+}
+
+async function 整理优选列表(api) {
+    if (!api || api.length === 0) return [];
+
+    let newapi = "";
+
+    // 创建一个AbortController对象，用于控制fetch请求的取消
+    const controller = new AbortController();
+
+    const timeout = setTimeout(() => {
+        controller.abort(); // 取消所有请求
+    }, 2000); // 2秒后触发
+
+    try {
+        // 使用Promise.allSettled等待所有API请求完成，无论成功或失败
+        // 对api数组进行遍历，对每个API地址发起fetch请求
+        const responses = await Promise.allSettled(api.map(apiUrl => fetch(apiUrl, {
+            method: 'get',
+            headers: {
+                'Accept': 'text/html,application/xhtml+xml,application/xml;',
+                'User-Agent': atob('Q0YtV29ya2Vycy1lZGdldHVubmVsL2NtbGl1')
+            },
+            signal: controller.signal // 将AbortController的信号量添加到fetch请求中，以便于需要时可以取消请求
+        }).then(response => response.ok ? response.text() : Promise.reject())));
+
+        // 遍历所有响应
+        for (const [index, response] of responses.entries()) {
+            // 检查响应状态是否为'fulfilled'，即请求成功完成
+            if (response.status === 'fulfilled') {
+                // 获取响应的内容
+                const content = await response.value;
+
+                const lines = content.split(/\r?\n/);
+                let 节点备注 = '';
+                let 测速端口 = '443';
+
+                if (lines[0].split(',').length > 3) {
+                    const idMatch = api[index].match(/id=([^&]*)/);
+                    if (idMatch) 节点备注 = idMatch[1];
+
+                    const portMatch = api[index].match(/port=([^&]*)/);
+                    if (portMatch) 测速端口 = portMatch[1];
+
+                    for (let i = 1; i < lines.length; i++) {
+                        const columns = lines[i].split(',')[0];
+                        if (columns) {
+                            newapi += `${columns}:${测速端口}${节点备注 ? `#${节点备注}` : ''}\n`;
+                            if (api[index].includes('proxyip=true')) proxyIPPool.push(`${columns}:${测速端口}`);
+                        }
+                    }
+                } else {
+                    // 验证当前apiUrl是否带有'proxyip=true'
+                    if (api[index].includes('proxyip=true')) {
+                        // 如果URL带有'proxyip=true'，则将内容添加到proxyIPPool
+                        proxyIPPool = proxyIPPool.concat((await 整理(content)).map(item => {
+                            const baseItem = item.split('#')[0] || item;
+                            if (baseItem.includes(':')) {
+                                const port = baseItem.split(':')[1];
+                                if (!httpsPorts.includes(port)) {
+                                    return baseItem;
+                                }
+                            } else {
+                                return `${baseItem}:443`;
+                            }
+                            return null; // 不符合条件时返回 null
+                        }).filter(Boolean)); // 过滤掉 null 值
+                    }
+                    // 将内容添加到newapi中
+                    newapi += content + '\n';
+                }
+            }
+        }
+    } catch (error) {
+        console.error(error);
+    } finally {
+        // 无论成功或失败，最后都清除设置的超时定时器
+        clearTimeout(timeout);
+    }
+
+    const newAddressesapi = await 整理(newapi);
+
+    // 返回处理后的结果
+    return newAddressesapi;
+}
+
+async function 整理测速结果(tls) {
+    if (!addressescsv || addressescsv.length === 0) {
+        return [];
+    }
+
+    let newAddressescsv = [];
+
+    for (const csvUrl of addressescsv) {
+        try {
+            const response = await fetch(csvUrl);
+
+            if (!response.ok) {
+                console.error('获取CSV地址时出错:', response.status, response.statusText);
+                continue;
+            }
+
+            const text = await response.text();// 使用正确的字符编码解析文本内容
+            let lines;
+            if (text.includes('\r\n')) {
+                lines = text.split('\r\n');
+            } else {
+                lines = text.split('\n');
+            }
+
+            // 检查CSV头部是否包含必需字段
+            const header = lines[0].split(',');
+            const tlsIndex = header.indexOf('TLS');
+
+            const ipAddressIndex = 0;// IP地址在 CSV 头部的位置
+            const portIndex = 1;// 端口在 CSV 头部的位置
+            const dataCenterIndex = tlsIndex + remarkIndex; // 数据中心是 TLS 的后一个字段
+
+            if (tlsIndex === -1) {
+                console.error('CSV文件缺少必需的字段');
+                continue;
+            }
+
+            // 从第二行开始遍历CSV行
+            for (let i = 1; i < lines.length; i++) {
+                const columns = lines[i].split(',');
+                const speedIndex = columns.length - 1; // 最后一个字段
+                // 检查TLS是否为"TRUE"且速度大于DLS
+                if (columns[tlsIndex].toUpperCase() === tls && parseFloat(columns[speedIndex]) > DLS) {
+                    const ipAddress = columns[ipAddressIndex];
+                    const port = columns[portIndex];
+                    const dataCenter = columns[dataCenterIndex];
+
+                    const formattedAddress = `${ipAddress}:${port}#${dataCenter}`;
+                    newAddressescsv.push(formattedAddress);
+                    if (csvUrl.includes('proxyip=true') && columns[tlsIndex].toUpperCase() == 'true' && !httpsPorts.includes(port)) {
+                        // 如果URL带有'proxyip=true'，则将内容添加到proxyIPPool
+                        proxyIPPool.push(`${ipAddress}:${port}`);
+                    }
+                }
+            }
+        } catch (error) {
+            console.error('获取CSV地址时出错:', error);
+            continue;
+        }
+    }
+
+    return newAddressescsv;
+}
+
+function 生成本地订阅(host, UUID, noTLS, newAddressesapi, newAddressescsv, newAddressesnotlsapi, newAddressesnotlscsv) {
+    const regex = /^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[.*\]):?(\d+)?#?(.*)?$/;
+    addresses = addresses.concat(newAddressesapi);
+    addresses = addresses.concat(newAddressescsv);
+    let notlsresponseBody;
+    if (noTLS == 'true') {
+        addressesnotls = addressesnotls.concat(newAddressesnotlsapi);
+        addressesnotls = addressesnotls.concat(newAddressesnotlscsv);
+        const uniqueAddressesnotls = [...new Set(addressesnotls)];
+
+        notlsresponseBody = uniqueAddressesnotls.map(address => {
+            let port = "-1";
+            let addressid = address;
+
+            const match = addressid.match(regex);
+            if (!match) {
+                if (address.includes(':') && address.includes('#')) {
+                    const parts = address.split(':');
+                    address = parts[0];
+                    const subParts = parts[1].split('#');
+                    port = subParts[0];
+                    addressid = subParts[1];
+                } else if (address.includes(':')) {
+                    const parts = address.split(':');
+                    address = parts[0];
+                    port = parts[1];
+                } else if (address.includes('#')) {
+                    const parts = address.split('#');
+                    address = parts[0];
+                    addressid = parts[1];
+                }
+
+                if (addressid.includes(':')) {
+                    addressid = addressid.split(':')[0];
+                }
+            } else {
+                address = match[1];
+                port = match[2] || port;
+                addressid = match[3] || address;
+            }
+
+            if (!isValidIPv4(address) && port == "-1") {
+                for (let httpPort of httpPorts) {
+                    if (address.includes(httpPort)) {
+                        port = httpPort;
+                        break;
+                    }
+                }
+            }
+            if (port == "-1") port = "80";
+
+            let 伪装域名 = host;
+            let 最终路径 = path;
+            let 节点备注 = '';
+            const 协议类型 = atob(啥啥啥_写的这是啥啊);
+
+            const 维列斯Link = `${协议类型}://${UUID}@${address}:${port + atob('P2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT0mdHlwZT13cyZob3N0PQ==') + 伪装域名}&path=${encodeURIComponent(最终路径)}#${encodeURIComponent(addressid + 节点备注)}`;
+
+            return 维列斯Link;
+
+        }).join('\n');
+
+    }
+
+    // 使用Set对象去重
+    const uniqueAddresses = [...new Set(addresses)];
+
+    const responseBody = uniqueAddresses.map(address => {
+        let port = "-1";
+        let addressid = address;
+
+        const match = addressid.match(regex);
+        if (!match) {
+            if (address.includes(':') && address.includes('#')) {
+                const parts = address.split(':');
+                address = parts[0];
+                const subParts = parts[1].split('#');
+                port = subParts[0];
+                addressid = subParts[1];
+            } else if (address.includes(':')) {
+                const parts = address.split(':');
+                address = parts[0];
+                port = parts[1];
+            } else if (address.includes('#')) {
+                const parts = address.split('#');
+                address = parts[0];
+                addressid = parts[1];
+            }
+
+            if (addressid.includes(':')) {
+                addressid = addressid.split(':')[0];
+            }
+        } else {
+            address = match[1];
+            port = match[2] || port;
+            addressid = match[3] || address;
+        }
+
+        if (!isValidIPv4(address) && port == "-1") {
+            for (let httpsPort of httpsPorts) {
+                if (address.includes(httpsPort)) {
+                    port = httpsPort;
+                    break;
+                }
+            }
+        }
+        if (port == "-1") port = "443";
+
+        let 伪装域名 = host;
+        let 最终路径 = path;
+        let 节点备注 = '';
+        const matchingProxyIP = proxyIPPool.find(proxyIP => proxyIP.includes(address));
+        if (matchingProxyIP) 最终路径 = `/proxyip=${matchingProxyIP}`;
+        /*
+        if (proxyhosts.length > 0 && (伪装域名.includes('.workers.dev'))) {
+            最终路径 = `/${伪装域名}${最终路径}`;
+            伪装域名 = proxyhosts[Math.floor(Math.random() * proxyhosts.length)];
+            节点备注 = ` 已启用临时域名中转服务，请尽快绑定自定义域！`;
+        }
+        */
+        const 协议类型 = atob(啥啥啥_写的这是啥啊);
+        const 维列斯Link = `${协议类型}://${UUID}@${address}:${port + atob('P2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT10bHMmc25pPQ==') + 伪装域名}&fp=random&type=ws&host=${伪装域名}&path=${encodeURIComponent(最终路径) + allowInsecure}&fragment=${encodeURIComponent('1,40-60,30-50,tlshello')}#${encodeURIComponent(addressid + 节点备注)}`;
+
+        return 维列斯Link;
+    }).join('\n');
+
+    let base64Response = responseBody; // 重新进行 Base64 编码
+    if (noTLS == 'true') base64Response += `\n${notlsresponseBody}`;
+    if (link.length > 0) base64Response += '\n' + link.join('\n');
+    return btoa(base64Response);
+}
+
+async function 整理(内容) {
+    // 将制表符、双引号、单引号和换行符都替换为逗号
+    // 然后将连续的多个逗号替换为单个逗号
+    var 替换后的内容 = 内容.replace(/[	"'\r\n]+/g, ',').replace(/,+/g, ',');
+
+    // 删除开头和结尾的逗号（如果有的话）
+    if (替换后的内容.charAt(0) == ',') 替换后的内容 = 替换后的内容.slice(1);
+    if (替换后的内容.charAt(替换后的内容.length - 1) == ',') 替换后的内容 = 替换后的内容.slice(0, 替换后的内容.length - 1);
+
+    // 使用逗号分割字符串，得到地址数组
+    const 地址数组 = 替换后的内容.split(',');
+
+    return 地址数组;
+}
+
+async function sendMessage(type, ip, add_data = "") {
+    if (!BotToken || !ChatID) return;
+
+    try {
+        let msg = "";
+        const response = await fetch(`http://ip-api.com/json/${ip}?lang=zh-CN`);
+        if (response.ok) {
+            const ipInfo = await response.json();
+            msg = `${type}\nIP: ${ip}\n国家: ${ipInfo.country}\n<tg-spoiler>城市: ${ipInfo.city}\n组织: ${ipInfo.org}\nASN: ${ipInfo.as}\n${add_data}`;
+        } else {
+            msg = `${type}\nIP: ${ip}\n<tg-spoiler>${add_data}`;
+        }
+
+        const url = `https://api.telegram.org/bot${BotToken}/sendMessage?chat_id=${ChatID}&parse_mode=HTML&text=${encodeURIComponent(msg)}`;
+        return fetch(url, {
+            method: 'GET',
+            headers: {
+                'Accept': 'text/html,application/xhtml+xml,application/xml;',
+                'Accept-Encoding': 'gzip, deflate, br',
+                'User-Agent': 'Mozilla/5.0 Chrome/90.0.4430.72'
+            }
+        });
+    } catch (error) {
+        console.error('Error sending message:', error);
+    }
+}
+
+function isValidIPv4(address) {
+    const ipv4Regex = /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/;
+    return ipv4Regex.test(address);
+}
+
+function 生成动态UUID(密钥) {
+    const 时区偏移 = 8; // 北京时间相对于UTC的时区偏移+8小时
+    const 起始日期 = new Date(2007, 6, 7, 更新时间, 0, 0); // 固定起始日期为2007年7月7日的凌晨3点
+    const 一周的毫秒数 = 1000 * 60 * 60 * 24 * 有效时间;
+
+    function 获取当前周数() {
+        const 现在 = new Date();
+        const 调整后的现在 = new Date(现在.getTime() + 时区偏移 * 60 * 60 * 1000);
+        const 时间差 = Number(调整后的现在) - Number(起始日期);
+        return Math.ceil(时间差 / 一周的毫秒数);
+    }
+
+    function 生成UUID(基础字符串) {
+        const 哈希缓冲区 = new TextEncoder().encode(基础字符串);
+        return crypto.subtle.digest('SHA-256', 哈希缓冲区).then((哈希) => {
+            const 哈希数组 = Array.from(new Uint8Array(哈希));
+            const 十六进制哈希 = 哈希数组.map(b => b.toString(16).padStart(2, '0')).join('');
+            return `${十六进制哈希.substr(0, 8)}-${十六进制哈希.substr(8, 4)}-4${十六进制哈希.substr(13, 3)}-${(parseInt(十六进制哈希.substr(16, 2), 16) & 0x3f | 0x80).toString(16)}${十六进制哈希.substr(18, 2)}-${十六进制哈希.substr(20, 12)}`;
+        });
+    }
+
+    const 当前周数 = 获取当前周数(); // 获取当前周数
+    const 结束时间 = new Date(起始日期.getTime() + 当前周数 * 一周的毫秒数);
+
+    // 生成两个 UUID
+    const 当前UUIDPromise = 生成UUID(密钥 + 当前周数);
+    const 上一个UUIDPromise = 生成UUID(密钥 + (当前周数 - 1));
+
+    // 格式化到期时间
+    const 到期时间UTC = new Date(结束时间.getTime() - 时区偏移 * 60 * 60 * 1000); // UTC时间
+    const 到期时间字符串 = `到期时间(UTC): ${到期时间UTC.toISOString().slice(0, 19).replace('T', ' ')} (UTC+8): ${结束时间.toISOString().slice(0, 19).replace('T', ' ')}\n`;
+
+    return Promise.all([当前UUIDPromise, 上一个UUIDPromise, 到期时间字符串]);
+}
+
+async function 迁移地址列表(env, txt = 'ADD.txt') {
+    const 旧数据 = await env.KV.get(`/${txt}`);
+    const 新数据 = await env.KV.get(txt);
+
+    if (旧数据 && !新数据) {
+        // 写入新位置
+        await env.KV.put(txt, 旧数据);
+        // 删除旧数据
+        await env.KV.delete(`/${txt}`);
+        return true;
+    }
+    return false;
+}
+
+async function KV(request, env, txt = 'ADD.txt') {
+    try {
+        // POST请求处理
+        if (request.method === "POST") {
+            if (!env.KV) return new Response("未绑定KV空间", { status: 400 });
+            try {
+                const content = await request.text();
+                await env.KV.put(txt, content);
+                return new Response("保存成功");
+            } catch (error) {
+                console.error('保存KV时发生错误:', error);
+                return new Response("保存失败: " + error.message, { status: 500 });
+            }
+        }
+
+        // GET请求部分
+        let content = '';
+        let hasKV = !!env.KV;
+
+        if (hasKV) {
+            try {
+                content = await env.KV.get(txt) || '';
+            } catch (error) {
+                console.error('读取KV时发生错误:', error);
+                content = '读取数据时发生错误: ' + error.message;
+            }
+        }
+
+        const html = `
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <title>优选订阅列表</title>
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <style>
+                    body {
+                        margin: 0;
+                        padding: 15px; /* 调整padding */
+                        box-sizing: border-box;
+                        font-size: 13px; /* 设置全局字体大小 */
+                    }
+                    .editor-container {
+                        width: 100%;
+                        max-width: 100%;
+                        margin: 0 auto;
+                    }
+                    .editor {
+                        width: 100%;
+                        height: 520px; /* 调整高度 */
+                        margin: 15px 0; /* 调整margin */
+                        padding: 10px; /* 调整padding */
+                        box-sizing: border-box;
+                        border: 1px solid #ccc;
+                        border-radius: 4px;
+                        font-size: 13px;
+                        line-height: 1.5;
+                        overflow-y: auto;
+                        resize: none;
+                    }
+                    .save-container {
+                        margin-top: 8px; /* 调整margin */
+                        display: flex;
+                        align-items: center;
+                        gap: 10px; /* 调整gap */
+                    }
+                    .save-btn, .back-btn {
+                        padding: 6px 15px; /* 调整padding */
+                        color: white;
+                        border: none;
+                        border-radius: 4px;
+                        cursor: pointer;
+                    }
+                    .save-btn {
+                        background: #4CAF50;
+                    }
+                    .save-btn:hover {
+                        background: #45a049;
+                    }
+                    .back-btn {
+                        background: #666;
+                    }
+                    .back-btn:hover {
+                        background: #555;
+                    }
+                    .bestip-btn {
+                        background: #2196F3;
+                        padding: 6px 15px;
+                        color: white;
+                        border: none;
+                        border-radius: 4px;
+                        cursor: pointer;
+                    }
+                    .bestip-btn:hover {
+                        background: #1976D2;
+                    }
+                    .save-status {
+                        color: #666;
+                    }
+                    .notice-content {
+                        display: none;
+                        margin-top: 10px;
+                        font-size: 13px;
+                        color: #333;
+                    }
+                </style>
+            </head>
+            <body>
+                ################################################################<br>
+                ${FileName} 优选订阅列表:<br>
+                ---------------------------------------------------------------<br>
+                &nbsp;&nbsp;<strong><a href="javascript:void(0);" id="noticeToggle" onclick="toggleNotice()">注意事项∨</a></strong><br>
+                <div id="noticeContent" class="notice-content">
+                    ${decodeURIComponent(atob('JTA5JTA5JTA5JTA5JTA5JTNDc3Ryb25nJTNFMS4lM0MlMkZzdHJvbmclM0UlMjBBRERBUEklMjAlRTUlQTYlODIlRTYlOUUlOUMlRTYlOTglQUYlRTUlOEYlOEQlRTQlQkIlQTNJUCVFRiVCQyU4QyVFNSU4RiVBRiVFNCVCRCU5QyVFNCVCOCVCQVBST1hZSVAlRTclOUElODQlRTglQUYlOUQlRUYlQkMlOEMlRTUlOEYlQUYlRTUlQjAlODYlMjIlM0Zwcm94eWlwJTNEdHJ1ZSUyMiVFNSU4RiU4MiVFNiU5NSVCMCVFNiVCNyVCQiVFNSU4QSVBMCVFNSU4OCVCMCVFOSU5MyVCRSVFNiU4RSVBNSVFNiU5QyVBQiVFNSVCMCVCRSVFRiVCQyU4QyVFNCVCRSU4QiVFNSVBNiU4MiVFRiVCQyU5QSUzQ2JyJTNFCiUwOSUwOSUwOSUwOSUwOSUyNm5ic3AlM0IlMjZuYnNwJTNCaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGY21saXUlMkZXb3JrZXJWbGVzczJzdWIlMkZtYWluJTJGYWRkcmVzc2VzYXBpLnR4dCUzQ3N0cm9uZyUzRSUzRnByb3h5aXAlM0R0cnVlJTNDJTJGc3Ryb25nJTNFJTNDYnIlM0UlM0NiciUzRQolMDklMDklMDklMDklMDklM0NzdHJvbmclM0UyLiUzQyUyRnN0cm9uZyUzRSUyMEFEREFQSSUyMCVFNSVBNiU4MiVFNiU5RSU5QyVFNiU5OCVBRiUyMCUzQ2ElMjBocmVmJTNEJTI3aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGWElVMiUyRkNsb3VkZmxhcmVTcGVlZFRlc3QlMjclM0VDbG91ZGZsYXJlU3BlZWRUZXN0JTNDJTJGYSUzRSUyMCVFNyU5QSU4NCUyMGNzdiUyMCVFNyVCQiU5MyVFNiU5RSU5QyVFNiU5NiU4NyVFNCVCQiVCNiVFRiVCQyU4QyVFNCVCRSU4QiVFNSVBNiU4MiVFRiVCQyU5QSUzQ2JyJTNFCiUwOSUwOSUwOSUwOSUwOSUyNm5ic3AlM0IlMjZuYnNwJTNCaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGY21saXUlMkZXb3JrZXJWbGVzczJzdWIlMkZtYWluJTJGQ2xvdWRmbGFyZVNwZWVkVGVzdC5jc3YlM0NiciUzRSUzQ2JyJTNFCiUwOSUwOSUwOSUwOSUwOSUyNm5ic3AlM0IlMjZuYnNwJTNCLSUyMCVFNSVBNiU4MiVFOSU5QyU4MCVFNiU4QyU4NyVFNSVBRSU5QTIwNTMlRTclQUIlQUYlRTUlOEYlQTMlRTUlOEYlQUYlRTUlQjAlODYlMjIlM0Zwb3J0JTNEMjA1MyUyMiVFNSU4RiU4MiVFNiU5NSVCMCVFNiVCNyVCQiVFNSU4QSVBMCVFNSU4OCVCMCVFOSU5MyVCRSVFNiU4RSVBNSVFNiU5QyVBQiVFNSVCMCVCRSVFRiVCQyU4QyVFNCVCRSU4QiVFNSVBNiU4MiVFRiVCQyU5QSUzQ2JyJTNFCiUwOSUwOSUwOSUwOSUwOSUyNm5ic3AlM0IlMjZuYnNwJTNCaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGY21saXUlMkZXb3JrZXJWbGVzczJzdWIlMkZtYWluJTJGQ2xvdWRmbGFyZVNwZWVkVGVzdC5jc3YlM0NzdHJvbmclM0UlM0Zwb3J0JTNEMjA1MyUzQyUyRnN0cm9uZyUzRSUzQ2JyJTNFJTNDYnIlM0UKJTA5JTA5JTA5JTA5JTA5JTI2bmJzcCUzQiUyNm5ic3AlM0ItJTIwJUU1JUE2JTgyJUU5JTlDJTgwJUU2JThDJTg3JUU1JUFFJTlBJUU4JThBJTgyJUU3JTgyJUI5JUU1JUE0JTg3JUU2JUIzJUE4JUU1JThGJUFGJUU1JUIwJTg2JTIyJTNGaWQlM0RDRiVFNCVCQyU5OCVFOSU4MCU4OSUyMiVFNSU4RiU4MiVFNiU5NSVCMCVFNiVCNyVCQiVFNSU4QSVBMCVFNSU4OCVCMCVFOSU5MyVCRSVFNiU4RSVBNSVFNiU5QyVBQiVFNSVCMCVCRSVFRiVCQyU4QyVFNCVCRSU4QiVFNSVBNiU4MiVFRiVCQyU5QSUzQ2JyJTNFCiUwOSUwOSUwOSUwOSUwOSUyNm5ic3AlM0IlMjZuYnNwJTNCaHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGY21saXUlMkZXb3JrZXJWbGVzczJzdWIlMkZtYWluJTJGQ2xvdWRmbGFyZVNwZWVkVGVzdC5jc3YlM0NzdHJvbmclM0UlM0ZpZCUzRENGJUU0JUJDJTk4JUU5JTgwJTg5JTNDJTJGc3Ryb25nJTNFJTNDYnIlM0UlM0NiciUzRQolMDklMDklMDklMDklMDklMjZuYnNwJTNCJTI2bmJzcCUzQi0lMjAlRTUlQTYlODIlRTklOUMlODAlRTYlOEMlODclRTUlQUUlOUElRTUlQTQlOUElRTQlQjglQUElRTUlOEYlODIlRTYlOTUlQjAlRTUlODglOTklRTklOUMlODAlRTglQTYlODElRTQlQkQlQkYlRTclOTQlQTglMjclMjYlMjclRTUlODElOUElRTklOTclQjQlRTklOUElOTQlRUYlQkMlOEMlRTQlQkUlOEIlRTUlQTYlODIlRUYlQkMlOUElM0NiciUzRQolMDklMDklMDklMDklMDklMjZuYnNwJTNCJTI2bmJzcCUzQmh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRmNtbGl1JTJGV29ya2VyVmxlc3Myc3ViJTJGbWFpbiUyRkNsb3VkZmxhcmVTcGVlZFRlc3QuY3N2JTNGaWQlM0RDRiVFNCVCQyU5OCVFOSU4MCU4OSUzQ3N0cm9uZyUzRSUyNiUzQyUyRnN0cm9uZyUzRXBvcnQlM0QyMDUzJTNDYnIlM0U='))}
+                </div>
+                <div class="editor-container">
+                    ${hasKV ? `
+                    <textarea class="editor" 
+                        placeholder="${decodeURIComponent(atob('QUREJUU3JUE0JUJBJUU0JUJFJThCJUVGJUJDJTlBCnZpc2EuY24lMjMlRTQlQkMlOTglRTklODAlODklRTUlOUYlOUYlRTUlOTAlOEQKMTI3LjAuMC4xJTNBMTIzNCUyM0NGbmF0CiU1QjI2MDYlM0E0NzAwJTNBJTNBJTVEJTNBMjA1MyUyM0lQdjYKCiVFNiVCMyVBOCVFNiU4NCU4RiVFRiVCQyU5QQolRTYlQUYlOEYlRTglQTElOEMlRTQlQjglODAlRTQlQjglQUElRTUlOUMlQjAlRTUlOUQlODAlRUYlQkMlOEMlRTYlQTAlQkMlRTUlQkMlOEYlRTQlQjglQkElMjAlRTUlOUMlQjAlRTUlOUQlODAlM0ElRTclQUIlQUYlRTUlOEYlQTMlMjMlRTUlQTQlODclRTYlQjMlQTgKSVB2NiVFNSU5QyVCMCVFNSU5RCU4MCVFOSU5QyU4MCVFOCVBNiU4MSVFNyU5NCVBOCVFNCVCOCVBRCVFNiU4QiVBQyVFNSU4RiVCNyVFNiU4QiVBQyVFOCVCNSVCNyVFNiU5RCVBNSVFRiVCQyU4QyVFNSVBNiU4MiVFRiVCQyU5QSU1QjI2MDYlM0E0NzAwJTNBJTNBJTVEJTNBMjA1MwolRTclQUIlQUYlRTUlOEYlQTMlRTQlQjglOEQlRTUlODYlOTklRUYlQkMlOEMlRTklQkIlOTglRTglQUUlQTQlRTQlQjglQkElMjA0NDMlMjAlRTclQUIlQUYlRTUlOEYlQTMlRUYlQkMlOEMlRTUlQTYlODIlRUYlQkMlOUF2aXNhLmNuJTIzJUU0JUJDJTk4JUU5JTgwJTg5JUU1JTlGJTlGJUU1JTkwJThECgoKQUREQVBJJUU3JUE0JUJBJUU0JUJFJThCJUVGJUJDJTlBCmh0dHBzJTNBJTJGJTJGcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRmNtbGl1JTJGV29ya2VyVmxlc3Myc3ViJTJGcmVmcyUyRmhlYWRzJTJGbWFpbiUyRmFkZHJlc3Nlc2FwaS50eHQKCiVFNiVCMyVBOCVFNiU4NCU4RiVFRiVCQyU5QUFEREFQSSVFNyU5QiVCNCVFNiU4RSVBNSVFNiVCNyVCQiVFNSU4QSVBMCVFNyU5QiVCNCVFOSU5MyVCRSVFNSU4RCVCMyVFNSU4RiVBRg=='))}"
+                        id="content">${content}</textarea>
+                    <div class="save-container">
+                        <button class="back-btn" onclick="goBack()">返回配置页</button>
+                        <button class="bestip-btn" onclick="goBestIP()">在线优选IP</button>
+                        <button class="save-btn" onclick="saveContent(this)">保存</button>
+                        <span class="save-status" id="saveStatus"></span>
+                    </div>
+                    <br>
+                    ################################################################<br>
+                    ${cmad}
+                    ` : '<p>未绑定KV空间</p>'}
+                </div>
+        
+                <script>
+                if (document.querySelector('.editor')) {
+                    let timer;
+                    const textarea = document.getElementById('content');
+                    const originalContent = textarea.value;
+        
+                    function goBack() {
+                        const currentUrl = window.location.href;
+                        const parentUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/'));
+                        window.location.href = parentUrl;
+                    }
+        
+                    function goBestIP() {
+                        const currentUrl = window.location.href;
+                        const parentUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/'));
+                        window.location.href = parentUrl + '/bestip';
+                    }
+        
+                    function replaceFullwidthColon() {
+                        const text = textarea.value;
+                        textarea.value = text.replace(/：/g, ':');
+                    }
+                    
+                    function saveContent(button) {
+                        try {
+                            const updateButtonText = (step) => {
+                                button.textContent = \`保存中: \${step}\`;
+                            };
+                            // 检测是否为iOS设备
+                            const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+                            
+                            // 仅在非iOS设备上执行replaceFullwidthColon
+                            if (!isIOS) {
+                                replaceFullwidthColon();
+                            }
+                            updateButtonText('开始保存');
+                            button.disabled = true;
+                            // 获取textarea内容和原始内容
+                            const textarea = document.getElementById('content');
+                            if (!textarea) {
+                                throw new Error('找不到文本编辑区域');
+                            }
+                            updateButtonText('获取内容');
+                            let newContent;
+                            let originalContent;
+                            try {
+                                newContent = textarea.value || '';
+                                originalContent = textarea.defaultValue || '';
+                            } catch (e) {
+                                console.error('获取内容错误:', e);
+                                throw new Error('无法获取编辑内容');
+                            }
+                            updateButtonText('准备状态更新函数');
+                            const updateStatus = (message, isError = false) => {
+                                const statusElem = document.getElementById('saveStatus');
+                                if (statusElem) {
+                                    statusElem.textContent = message;
+                                    statusElem.style.color = isError ? 'red' : '#666';
+                                }
+                            };
+                            updateButtonText('准备按钮重置函数');
+                            const resetButton = () => {
+                                button.textContent = '保存';
+                                button.disabled = false;
+                            };
+                            if (newContent !== originalContent) {
+                                updateButtonText('发送保存请求');
+                                fetch(window.location.href, {
+                                    method: 'POST',
+                                    body: newContent,
+                                    headers: {
+                                        'Content-Type': 'text/plain;charset=UTF-8'
+                                    },
+                                    cache: 'no-cache'
+                                })
+                                .then(response => {
+                                    updateButtonText('检查响应状态');
+                                    if (!response.ok) {
+                                        throw new Error(\`HTTP error! status: \${response.status}\`);
+                                    }
+                                    updateButtonText('更新保存状态');
+                                    const now = new Date().toLocaleString();
+                                    document.title = \`编辑已保存 \${now}\`;
+                                    updateStatus(\`已保存 \${now}\`);
+                                })
+                                .catch(error => {
+                                    updateButtonText('处理错误');
+                                    console.error('Save error:', error);
+                                    updateStatus(\`保存失败: \${error.message}\`, true);
+                                })
+                                .finally(() => {
+                                    resetButton();
+                                });
+                            } else {
+                                updateButtonText('检查内容变化');
+                                updateStatus('内容未变化');
+                                resetButton();
+                            }
+                        } catch (error) {
+                            console.error('保存过程出错:', error);
+                            button.textContent = '保存';
+                            button.disabled = false;
+                            const statusElem = document.getElementById('saveStatus');
+                            if (statusElem) {
+                                statusElem.textContent = \`错误: \${error.message}\`;
+                                statusElem.style.color = 'red';
+                            }
+                        }
+                    }
+        
+                    textarea.addEventListener('blur', saveContent);
+                    textarea.addEventListener('input', () => {
+                        clearTimeout(timer);
+                        timer = setTimeout(saveContent, 5000);
+                    });
+                }
+        
+                function toggleNotice() {
+                    const noticeContent = document.getElementById('noticeContent');
+                    const noticeToggle = document.getElementById('noticeToggle');
+                    if (noticeContent.style.display === 'none' || noticeContent.style.display === '') {
+                        noticeContent.style.display = 'block';
+                        noticeToggle.textContent = '注意事项∧';
+                    } else {
+                        noticeContent.style.display = 'none';
+                        noticeToggle.textContent = '注意事项∨';
+                    }
+                }
+        
+                // 初始化 noticeContent 的 display 属性
+                document.addEventListener('DOMContentLoaded', () => {
+                    document.getElementById('noticeContent').style.display = 'none';
+                });
+                </script>
+            </body>
+            </html>
+        `;
+
+        return new Response(html, {
+            headers: { "Content-Type": "text/html;charset=utf-8" }
+        });
+    } catch (error) {
+        console.error('处理请求时发生错误:', error);
+        return new Response("服务器错误: " + error.message, {
+            status: 500,
+            headers: { "Content-Type": "text/plain;charset=utf-8" }
+        });
+    }
+}
+
+async function resolveToIPv6(target) {
+    const defaultAddress = atob('cHJveHlpcC5jbWxpdXNzc3MubmV0');
+    if (!DNS64Server) {
+        try {
+            const response = await fetch(atob('aHR0cHM6Ly8xLjEuMS4xL2Rucy1xdWVyeT9uYW1lPW5hdDY0LmNtbGl1c3Nzcy5uZXQmdHlwZT1UWFQ='), {
+                headers: { 'Accept': 'application/dns-json' }
+            });
+
+            if (!response.ok) return defaultAddress;
+            const data = await response.json();
+            const txtRecords = (data.Answer || []).filter(record => record.type === 16).map(record => record.data);
+
+            if (txtRecords.length === 0) return defaultAddress;
+            let txtData = txtRecords[0];
+            if (txtData.startsWith('"') && txtData.endsWith('"')) txtData = txtData.slice(1, -1);
+            const prefixes = txtData.replace(/\\010/g, '\n').split('\n').filter(prefix => prefix.trim());
+            if (prefixes.length === 0) return defaultAddress;
+            DNS64Server = prefixes[Math.floor(Math.random() * prefixes.length)];
+        } catch (error) {
+            console.error('DNS64Server查询失败:', error);
+            return defaultAddress;
+        }
+    }
+
+    // 检查是否为IPv4
+    function isIPv4(str) {
+        const parts = str.split('.');
+        return parts.length === 4 && parts.every(part => {
+            const num = parseInt(part, 10);
+            return num >= 0 && num <= 255 && part === num.toString();
+        });
+    }
+
+    // 检查是否为IPv6
+    function isIPv6(str) {
+        return str.includes(':') && /^[0-9a-fA-F:]+$/.test(str);
+    }
+
+    // 获取域名的IPv4地址
+    async function fetchIPv4(domain) {
+        const url = `https://1.1.1.1/dns-query?name=${domain}&type=A`;
+        const response = await fetch(url, {
+            headers: { 'Accept': 'application/dns-json' }
+        });
+
+        if (!response.ok) throw new Error('DNS查询失败');
+
+        const data = await response.json();
+        const ipv4s = (data.Answer || [])
+            .filter(record => record.type === 1)
+            .map(record => record.data);
+
+        if (ipv4s.length === 0) throw new Error('未找到IPv4地址');
+        return ipv4s[Math.floor(Math.random() * ipv4s.length)];
+    }
+
+    // 查询NAT64 IPv6地址
+    async function queryNAT64(domain) {
+        const socket = connect({
+            hostname: isIPv6(DNS64Server) ? `[${DNS64Server}]` : DNS64Server,
+            port: 53
+        });
+
+        const writer = socket.writable.getWriter();
+        const reader = socket.readable.getReader();
+
+        try {
+            // 发送DNS查询
+            const query = buildDNSQuery(domain);
+            const queryWithLength = new Uint8Array(query.length + 2);
+            queryWithLength[0] = query.length >> 8;
+            queryWithLength[1] = query.length & 0xFF;
+            queryWithLength.set(query, 2);
+            await writer.write(queryWithLength);
+
+            // 读取响应
+            const response = await readDNSResponse(reader);
+            const ipv6s = parseIPv6(response);
+
+            return ipv6s.length > 0 ? ipv6s[0] : '未找到IPv6地址';
+        } finally {
+            await writer.close();
+            await reader.cancel();
+        }
+    }
+
+    // 构建DNS查询包
+    function buildDNSQuery(domain) {
+        const buffer = new ArrayBuffer(512);
+        const view = new DataView(buffer);
+        let offset = 0;
+
+        // DNS头部
+        view.setUint16(offset, Math.floor(Math.random() * 65536)); offset += 2; // ID
+        view.setUint16(offset, 0x0100); offset += 2; // 标志
+        view.setUint16(offset, 1); offset += 2; // 问题数
+        view.setUint16(offset, 0); offset += 6; // 答案数/权威数/附加数
+
+        // 域名编码
+        for (const label of domain.split('.')) {
+            view.setUint8(offset++, label.length);
+            for (let i = 0; i < label.length; i++) {
+                view.setUint8(offset++, label.charCodeAt(i));
+            }
+        }
+        view.setUint8(offset++, 0); // 结束标记
+
+        // 查询类型和类
+        view.setUint16(offset, 28); offset += 2; // AAAA记录
+        view.setUint16(offset, 1); offset += 2; // IN类
+
+        return new Uint8Array(buffer, 0, offset);
+    }
+
+    // 读取DNS响应
+    async function readDNSResponse(reader) {
+        const chunks = [];
+        let totalLength = 0;
+        let expectedLength = null;
+
+        while (true) {
+            const { value, done } = await reader.read();
+            if (done) break;
+
+            chunks.push(value);
+            totalLength += value.length;
+
+            if (expectedLength === null && totalLength >= 2) {
+                expectedLength = (chunks[0][0] << 8) | chunks[0][1];
+            }
+
+            if (expectedLength !== null && totalLength >= expectedLength + 2) {
+                break;
+            }
+        }
+
+        // 合并数据并跳过长度前缀
+        const fullResponse = new Uint8Array(totalLength);
+        let offset = 0;
+        for (const chunk of chunks) {
+            fullResponse.set(chunk, offset);
+            offset += chunk.length;
+        }
+
+        return fullResponse.slice(2);
+    }
+
+    // 解析IPv6地址
+    function parseIPv6(response) {
+        const view = new DataView(response.buffer);
+        let offset = 12; // 跳过DNS头部
+
+        // 跳过问题部分
+        while (view.getUint8(offset) !== 0) {
+            offset += view.getUint8(offset) + 1;
+        }
+        offset += 5;
+
+        const answers = [];
+        const answerCount = view.getUint16(6); // 答案数量
+
+        for (let i = 0; i < answerCount; i++) {
+            // 跳过名称
+            if ((view.getUint8(offset) & 0xC0) === 0xC0) {
+                offset += 2;
+            } else {
+                while (view.getUint8(offset) !== 0) {
+                    offset += view.getUint8(offset) + 1;
+                }
+                offset++;
+            }
+
+            const type = view.getUint16(offset); offset += 2;
+            offset += 6; // 跳过类和TTL
+            const dataLength = view.getUint16(offset); offset += 2;
+
+            if (type === 28 && dataLength === 16) { // AAAA记录
+                const parts = [];
+                for (let j = 0; j < 8; j++) {
+                    parts.push(view.getUint16(offset + j * 2).toString(16));
+                }
+                answers.push(parts.join(':'));
+            }
+            offset += dataLength;
+        }
+
+        return answers;
+    }
+
+    function convertToNAT64IPv6(ipv4Address) {
+        const parts = ipv4Address.split('.');
+        if (parts.length !== 4) {
+            throw new Error('无效的IPv4地址');
+        }
+
+        // 将每个部分转换为16进制
+        const hex = parts.map(part => {
+            const num = parseInt(part, 10);
+            if (num < 0 || num > 255) {
+                throw new Error('无效的IPv4地址段');
+            }
+            return num.toString(16).padStart(2, '0');
+        });
+
+        // 构造NAT64
+        return DNS64Server.split('/96')[0] + hex[0] + hex[1] + ":" + hex[2] + hex[3];
+    }
+
+    try {
+        // 判断输入类型并处理
+        if (isIPv6(target)) return target; // IPv6直接返回
+        const ipv4 = isIPv4(target) ? target : await fetchIPv4(target);
+        const nat64 = DNS64Server.endsWith('/96') ? convertToNAT64IPv6(ipv4) : await queryNAT64(ipv4 + atob('LmlwLjA5MDIyNy54eXo='));
+        return isIPv6(nat64) ? nat64 : defaultAddress;
+    } catch (error) {
+        console.error('解析错误:', error);
+        return defaultAddress;
+    }
+}
+
+async function bestIP(request, env, txt = 'ADD.txt') {
+    const country = request.cf?.country || 'CN';
+    const url = new URL(request.url);
+    async function getNipDomain() {
+        try {
+            const response = await fetch(atob('aHR0cHM6Ly9jbG91ZGZsYXJlLWRucy5jb20vZG5zLXF1ZXJ5P25hbWU9bmlwLjA5MDIyNy54eXomdHlwZT1UWFQ='), {
+                headers: {
+                    'Accept': 'application/dns-json'
+                }
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                if (data.Status === 0 && data.Answer && data.Answer.length > 0) {
+                    // TXT记录的值通常包含在引号中，需要去除引号
+                    const txtRecord = data.Answer[0].data;
+                    // 去除首尾的引号
+                    const domain = txtRecord.replace(/^"(.*)"$/, '$1');
+                    console.log('通过DoH解析获取到域名: ' + domain);
+                    return domain;
+                }
+            }
+            console.warn('DoH解析失败，使用默认域名');
+            return atob('bmlwLmxmcmVlLm9yZw==');
+        } catch (error) {
+            console.error('DoH解析出错:', error);
+            return atob('aXAuMDkwMjI3Lnh5eg==');
+        }
+    }
+    const nipDomain = await getNipDomain();
+    async function GetCFIPs(ipSource = 'official', targetPort = '443') {
+        try {
+            let response;
+            if (ipSource === 'as13335') {
+                // AS13335列表
+                response = await fetch('https://raw.githubusercontent.com/ipverse/asn-ip/master/as/13335/ipv4-aggregated.txt');
+            } else if (ipSource === 'as209242') {
+                // AS209242列表
+                response = await fetch('https://raw.githubusercontent.com/ipverse/asn-ip/master/as/209242/ipv4-aggregated.txt');
+            } else if (ipSource === 'as24429') {
+                // AS24429列表
+                response = await fetch('https://raw.githubusercontent.com/ipverse/asn-ip/master/as/24429/ipv4-aggregated.txt');
+            } else if (ipSource === 'as35916') {
+                // AS35916列表
+                response = await fetch('https://raw.githubusercontent.com/ipverse/asn-ip/master/as/35916/ipv4-aggregated.txt');
+            } else if (ipSource === 'as199524') {
+                // AS199524列表
+                response = await fetch('https://raw.githubusercontent.com/ipverse/asn-ip/master/as/199524/ipv4-aggregated.txt');
+            } else if (ipSource === 'cm') {
+                // CM整理列表
+                response = await fetch('https://raw.githubusercontent.com/cmliu/cmliu/main/CF-CIDR.txt');
+            } else if (ipSource === 'proxyip') {
+                // 反代IP列表 (直接IP，非CIDR)
+                response = await fetch('https://raw.githubusercontent.com/cmliu/ACL4SSR/main/baipiao.txt');
+                const text = response.ok ? await response.text() : '';
+
+                // 解析并过滤符合端口的IP
+                const allLines = text.split('\n')
+                    .map(line => line.trim())
+                    .filter(line => line && !line.startsWith('#'));
+
+                const validIps = [];
+
+                for (const line of allLines) {
+                    const parsedIP = parseProxyIPLine(line, targetPort);
+                    if (parsedIP) {
+                        validIps.push(parsedIP);
+                    }
+                }
+
+                console.log(`反代IP列表解析完成，端口${targetPort}匹配到${validIps.length}个有效IP`);
+
+                // 如果超过512个IP，随机选择512个
+                if (validIps.length > 512) {
+                    const shuffled = [...validIps].sort(() => 0.5 - Math.random());
+                    const selectedIps = shuffled.slice(0, 512);
+                    console.log(`IP数量超过512个，随机选择了${selectedIps.length}个IP`);
+                    return selectedIps;
+                } else {
+                    return validIps;
+                }
+            } else {
+                // CF官方列表 (默认)
+                response = await fetch('https://www.cloudflare.com/ips-v4/');
+            }
+
+            const text = response.ok ? await response.text() : `173.245.48.0/20
+103.21.244.0/22
+103.22.200.0/22
+103.31.4.0/22
+141.101.64.0/18
+108.162.192.0/18
+190.93.240.0/20
+188.114.96.0/20
+197.234.240.0/22
+198.41.128.0/17
+162.158.0.0/15
+104.16.0.0/13
+104.24.0.0/14
+172.64.0.0/13
+131.0.72.0/22`;
+            const cidrs = text.split('\n').filter(line => line.trim() && !line.startsWith('#'));
+
+            const ips = new Set(); // 使用Set去重
+            const targetCount = 512;
+            let round = 1;
+
+            // 不断轮次生成IP直到达到目标数量
+            while (ips.size < targetCount) {
+                console.log(`第${round}轮生成IP，当前已有${ips.size}个`);
+
+                // 每轮为每个CIDR生成指定数量的IP
+                for (const cidr of cidrs) {
+                    if (ips.size >= targetCount) break;
+
+                    const cidrIPs = generateIPsFromCIDR(cidr.trim(), round);
+                    cidrIPs.forEach(ip => ips.add(ip));
+
+                    console.log(`CIDR ${cidr} 第${round}轮生成${cidrIPs.length}个IP，总计${ips.size}个`);
+                }
+
+                round++;
+
+                // 防止无限循环
+                if (round > 100) {
+                    console.warn('达到最大轮次限制，停止生成');
+                    break;
+                }
+            }
+
+            console.log(`最终生成${ips.size}个不重复IP`);
+            return Array.from(ips).slice(0, targetCount);
+        } catch (error) {
+            console.error('获取CF IPs失败:', error);
+            return [];
+        }
+    }
+
+    // 新增：解析反代IP行的函数
+    function parseProxyIPLine(line, targetPort) {
+        try {
+            // 移除首尾空格
+            line = line.trim();
+            if (!line) return null;
+
+            let ip = '';
+            let port = '';
+            let comment = '';
+
+            // 处理注释部分
+            if (line.includes('#')) {
+                const parts = line.split('#');
+                const mainPart = parts[0].trim();
+                comment = parts[1].trim();
+
+                // 检查主要部分是否包含端口
+                if (mainPart.includes(':')) {
+                    const ipPortParts = mainPart.split(':');
+                    if (ipPortParts.length === 2) {
+                        ip = ipPortParts[0].trim();
+                        port = ipPortParts[1].trim();
+                    } else {
+                        // 格式不正确，如":844347.254.171.15:8443"
+                        console.warn(`无效的IP:端口格式: ${line}`);
+                        return null;
+                    }
+                } else {
+                    // 没有端口，默认443
+                    ip = mainPart;
+                    port = '443';
+                }
+            } else {
+                // 没有注释
+                if (line.includes(':')) {
+                    const ipPortParts = line.split(':');
+                    if (ipPortParts.length === 2) {
+                        ip = ipPortParts[0].trim();
+                        port = ipPortParts[1].trim();
+                    } else {
+                        // 格式不正确
+                        console.warn(`无效的IP:端口格式: ${line}`);
+                        return null;
+                    }
+                } else {
+                    // 只有IP，默认443端口
+                    ip = line;
+                    port = '443';
+                }
+            }
+
+            // 验证IP格式
+            if (!isValidIP(ip)) {
+                console.warn(`无效的IP地址: ${ip} (来源行: ${line})`);
+                return null;
+            }
+
+            // 验证端口格式
+            const portNum = parseInt(port);
+            if (isNaN(portNum) || portNum < 1 || portNum > 65535) {
+                console.warn(`无效的端口号: ${port} (来源行: ${line})`);
+                return null;
+            }
+
+            // 检查端口是否匹配
+            if (port !== targetPort) {
+                return null; // 端口不匹配，过滤掉
+            }
+
+            // 构建返回格式
+            if (comment) {
+                return ip + ':' + port + '#' + comment;
+            } else {
+                return ip + ':' + port;
+            }
+
+        } catch (error) {
+            console.error(`解析IP行失败: ${line}`, error);
+            return null;
+        }
+    }
+
+    // 新增：验证IP地址格式的函数
+    function isValidIP(ip) {
+        const ipRegex = /^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/;
+        const match = ip.match(ipRegex);
+
+        if (!match) return false;
+
+        // 检查每个数字是否在0-255范围内
+        for (let i = 1; i <= 4; i++) {
+            const num = parseInt(match[i]);
+            if (num < 0 || num > 255) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    function generateIPsFromCIDR(cidr, count = 1) {
+        const [network, prefixLength] = cidr.split('/');
+        const prefix = parseInt(prefixLength);
+
+        // 将IP地址转换为32位整数
+        const ipToInt = (ip) => {
+            return ip.split('.').reduce((acc, octet) => (acc << 8) + parseInt(octet), 0) >>> 0;
+        };
+
+        // 将32位整数转换为IP地址
+        const intToIP = (int) => {
+            return [
+                (int >>> 24) & 255,
+                (int >>> 16) & 255,
+                (int >>> 8) & 255,
+                int & 255
+            ].join('.');
+        };
+
+        const networkInt = ipToInt(network);
+        const hostBits = 32 - prefix;
+        const numHosts = Math.pow(2, hostBits);
+
+        // 限制生成数量不超过该CIDR的可用主机数
+        const maxHosts = numHosts - 2; // -2 排除网络地址和广播地址
+        const actualCount = Math.min(count, maxHosts);
+        const ips = new Set();
+
+        // 如果可用主机数太少，直接返回空数组
+        if (maxHosts <= 0) {
+            return [];
+        }
+
+        // 生成指定数量的随机IP
+        let attempts = 0;
+        const maxAttempts = actualCount * 10; // 防止无限循环
+
+        while (ips.size < actualCount && attempts < maxAttempts) {
+            const randomOffset = Math.floor(Math.random() * maxHosts) + 1; // +1 避免网络地址
+            const randomIP = intToIP(networkInt + randomOffset);
+            ips.add(randomIP);
+            attempts++;
+        }
+
+        return Array.from(ips);
+    }
+
+    // POST请求处理
+    if (request.method === "POST") {
+        if (!env.KV) return new Response("未绑定KV空间", { status: 400 });
+
+        try {
+            const contentType = request.headers.get('Content-Type');
+
+            // 处理JSON格式的保存/追加请求
+            if (contentType && contentType.includes('application/json')) {
+                const data = await request.json();
+                const action = url.searchParams.get('action') || 'save';
+
+                if (!data.ips || !Array.isArray(data.ips)) {
+                    return new Response(JSON.stringify({ error: 'Invalid IP list' }), {
+                        status: 400,
+                        headers: { 'Content-Type': 'application/json' }
+                    });
+                }
+
+                if (action === 'append') {
+                    // 追加模式
+                    const existingContent = await env.KV.get(txt) || '';
+                    const newContent = data.ips.join('\n');
+
+                    // 合并内容并去重
+                    const existingLines = existingContent ?
+                        existingContent.split('\n').map(line => line.trim()).filter(line => line) :
+                        [];
+                    const newLines = newContent.split('\n').map(line => line.trim()).filter(line => line);
+
+                    // 使用Set进行去重
+                    const allLines = [...existingLines, ...newLines];
+                    const uniqueLines = [...new Set(allLines)];
+                    const combinedContent = uniqueLines.join('\n');
+
+                    // 检查合并后的内容大小
+                    if (combinedContent.length > 24 * 1024 * 1024) {
+                        return new Response(JSON.stringify({
+                            error: `追加失败：合并后内容过大（${(combinedContent.length / 1024 / 1024).toFixed(2)}MB），超过KV存储限制（24MB）`
+                        }), {
+                            status: 400,
+                            headers: { 'Content-Type': 'application/json' }
+                        });
+                    }
+
+                    await env.KV.put(txt, combinedContent);
+
+                    const addedCount = uniqueLines.length - existingLines.length;
+                    const duplicateCount = newLines.length - addedCount;
+
+                    let message = `成功追加 ${addedCount} 个新的优选IP（原有 ${existingLines.length} 个，现共 ${uniqueLines.length} 个）`;
+                    if (duplicateCount > 0) {
+                        message += `，已去重 ${duplicateCount} 个重复项`;
+                    }
+
+                    return new Response(JSON.stringify({
+                        success: true,
+                        message: message
+                    }), {
+                        headers: { 'Content-Type': 'application/json' }
+                    });
+                } else {
+                    // 保存模式（覆盖）
+                    const content = data.ips.join('\n');
+
+                    // 检查内容大小
+                    if (content.length > 24 * 1024 * 1024) {
+                        return new Response(JSON.stringify({
+                            error: '内容过大，超过KV存储限制（24MB）'
+                        }), {
+                            status: 400,
+                            headers: { 'Content-Type': 'application/json' }
+                        });
+                    }
+
+                    await env.KV.put(txt, content);
+
+                    return new Response(JSON.stringify({
+                        success: true,
+                        message: `成功保存 ${data.ips.length} 个优选IP`
+                    }), {
+                        headers: { 'Content-Type': 'application/json' }
+                    });
+                }
+            } else {
+                // 处理普通文本格式的保存请求（兼容原有功能）
+                const content = await request.text();
+                await env.KV.put(txt, content);
+                return new Response("保存成功");
+            }
+
+        } catch (error) {
+            console.error('处理POST请求时发生错误:', error);
+            return new Response(JSON.stringify({
+                error: '操作失败: ' + error.message
+            }), {
+                status: 500,
+                headers: { 'Content-Type': 'application/json' }
+            });
+        }
+    }
+
+    // GET请求部分
+    let content = '';
+    let hasKV = !!env.KV;
+
+    if (hasKV) {
+        try {
+            content = await env.KV.get(txt) || '';
+        } catch (error) {
+            console.error('读取KV时发生错误:', error);
+            content = '读取数据时发生错误: ' + error.message;
+        }
+    }
+
+    // 移除初始IP加载，改为在前端动态加载
+    const cfIPs = []; // 初始为空数组
+
+    // 判断是否为中国用户
+    const isChina = country === 'CN';
+    const countryDisplayClass = isChina ? '' : 'proxy-warning';
+    const countryDisplayText = isChina ? `${country}` : `${country} ⚠️`;
+
+    const html = `
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>Cloudflare IP优选</title>
+    <style>
+        body {
+            width: 80%;
+            margin: 0 auto;
+            font-family: Tahoma, Verdana, Arial, sans-serif;
+            padding: 20px;
+        }
+        .ip-list {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .ip-item {
+            margin: 2px 0;
+            font-family: monospace;
+        }
+        .stats {
+            background-color: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .test-info {
+            margin-top: 15px;
+            padding: 12px;
+            background-color: #f3e5f5;
+            border: 1px solid #ce93d8;
+            border-radius: 6px;
+            color: #4a148c;
+        }
+        .test-info p {
+            margin: 0;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        .proxy-warning {
+            color: #d32f2f !important;
+            font-weight: bold !important;
+            font-size: 1.1em;
+        }
+        .warning-notice {
+            background-color: #ffebee;
+            border: 2px solid #f44336;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 15px 0;
+            color: #c62828;
+        }
+        .warning-notice h3 {
+            margin: 0 0 10px 0;
+            color: #d32f2f;
+            font-size: 1.2em;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .warning-notice p {
+            margin: 8px 0;
+            line-height: 1.5;
+        }
+        .warning-notice ul {
+            margin: 10px 0 10px 20px;
+            line-height: 1.6;
+        }
+        .test-controls {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+        .port-selector {
+            margin: 10px 0;
+        }
+        .port-selector label {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .port-selector select {
+            padding: 5px 10px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+        }
+        .test-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .test-button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        .save-button {
+            background-color: #2196F3;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .save-button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        .save-button:not(:disabled):hover {
+            background-color: #1976D2;
+        }
+        .append-button {
+            background-color: #FF9800;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .append-button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        .append-button:not(:disabled):hover {
+            background-color: #F57C00;
+        }
+        .edit-button {
+            background-color: #9C27B0;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .edit-button:hover {
+            background-color: #7B1FA2;
+        }
+        .back-button {
+            background-color: #607D8B;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .back-button:hover {
+            background-color: #455A64;
+        }
+        .save-warning {
+            margin-top: 10px;
+            background-color: #fff3e0;
+            border: 2px solid #ff9800;
+            border-radius: 6px;
+            padding: 12px;
+            color: #e65100;
+            font-weight: bold;
+        }
+        .save-warning small {
+            font-size: 14px;
+            line-height: 1.5;
+            display: block;
+        }
+        .message {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            display: none;
+        }
+        .message.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .message.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .progress {
+            width: 100%;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .progress-bar {
+            width: 0%;
+            height: 20px;
+            background-color: #4CAF50;
+            border-radius: 5px;
+            transition: width 0.3s;
+        }
+        .good-latency { color: #4CAF50; font-weight: bold; }
+        .medium-latency { color: #FF9800; font-weight: bold; }
+        .bad-latency { color: #f44336; font-weight: bold; }
+        .show-more-section {
+            text-align: center;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+        }
+        .show-more-btn {
+            background-color: #607D8B;
+            color: white;
+            padding: 8px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+        .show-more-btn:hover {
+            background-color: #455A64;
+        }
+        .ip-display-info {
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        .save-tip {
+            margin-top: 15px;
+            padding: 12px;
+            background-color: #e8f5e8;
+            border: 1px solid #4CAF50;
+            border-radius: 6px;
+            color: #2e7d32;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        .save-tip strong {
+            color: #1b5e20;
+        }
+        .warm-tips {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #fff3e0;
+            border: 2px solid #ff9800;
+            border-radius: 8px;
+            color: #e65100;
+        }
+        .warm-tips h3 {
+            margin: 0 0 10px 0;
+            color: #f57c00;
+            font-size: 1.1em;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .warm-tips p {
+            margin: 8px 0;
+            line-height: 1.6;
+            font-size: 14px;
+        }
+        .warm-tips ul {
+            margin: 10px 0 10px 20px;
+            line-height: 1.6;
+        }
+        .warm-tips li {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        .warm-tips strong {
+            color: #e65100;
+            font-weight: bold;
+        }
+        .region-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 10px;
+        }
+        .region-btn {
+            padding: 6px 12px;
+            background-color: #e0e0e0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        .region-btn:hover {
+            background-color: #d5d5d5;
+        }
+        .region-btn.active {
+            background-color: #2196F3;
+            color: white;
+        }
+    </style>
+    </head>
+    <body>
+    <h1>在线优选IP</h1>
+    
+    ${!isChina ? `
+    <div class="warning-notice">
+        <h3>🚨 代理检测警告</h3>
+        <p><strong>检测到您当前很可能处于代理/VPN环境中！</strong></p>
+        <p>在代理状态下进行的IP优选测试结果将不准确，可能导致：</p>
+        <ul>
+            <li>延迟数据失真，无法反映真实网络状况</li>
+            <li>优选出的IP在直连环境下表现不佳</li>
+            <li>测试结果对实际使用场景参考价值有限</li>
+        </ul>
+        <p><strong>建议操作：</strong>请关闭所有代理软件（VPN、科学上网工具等），确保处于直连网络环境后重新访问本页面。</p>
+    </div>
+    ` : ''}
+
+    <div class="stats">
+        <h2>统计信息</h2>
+        <p><strong>您的国家：</strong><span class="${countryDisplayClass}">${countryDisplayText}</span></p>
+        <p><strong>获取到的IP总数：</strong><span id="ip-count">点击开始测试后加载</span></p>
+        <p><strong>测试进度：</strong><span id="progress-text">未开始</span></p>
+        <div class="progress">
+            <div class="progress-bar" id="progress-bar"></div>
+        </div>
+        <div class="test-info">
+            <p><strong>📊 测试说明：</strong>当前优选方式仅进行网络延迟测试，主要评估连接响应速度，并未包含带宽速度测试。延迟测试可快速筛选出响应最快的IP节点，适合日常使用场景的初步优选。</p>
+        </div>
+    </div>
+    
+    <div class="warm-tips" id="warm-tips">
+        <h3>💡 温馨提示</h3>
+        <p><strong>优选完成但测试"真连接延迟"为 -1？</strong>这很有可能是您的网络运营商对你的请求进行了阻断。</p>
+        <p><strong>建议尝试以下解决方案：</strong></p>
+        <ul>
+            <li><strong>更换端口：</strong>尝试使用其他端口（如 2053、2083、2087、2096、8443）</li>
+            <li><strong>更换IP库：</strong>切换到不同的IP来源（CM整理列表、AS13335、AS209242列表等，但如果你不明白AS24429和AS199524意味着什么，那就不要选。）</li>
+            <li><strong>更换自定义域名：</strong>如果您使用的还是免费域名，那么您更应该尝试一下更换自定义域</li>
+        </ul>
+        <p>💡 <strong>小贴士：</strong>不同地区和网络环境对各端口的支持情况可能不同，多尝试几个端口组合通常能找到适合的IP。</p>
+    </div>
+
+    <div class="test-controls">
+        <div class="port-selector">
+            <label for="ip-source-select">IP库：</label>
+            <select id="ip-source-select">
+                <option value="official">CF官方列表</option>
+                <option value="cm">CM整理列表</option>
+                <option value="as13335">AS13335列表</option>
+                <option value="as209242">AS209242列表</option>
+                <option value="as24429">AS24429列表(Alibaba)</option>
+                <option value="as199524">AS199524列表(G-Core)</option>
+                <option value="proxyip">反代IP列表</option>
+            </select>
+
+            <label for="port-select" style="margin-left: 20px;">端口：</label>
+            <select id="port-select">
+                <option value="443">443</option>
+                <option value="2053">2053</option>
+                <option value="2083">2083</option>
+                <option value="2087">2087</option>
+                <option value="2096">2096</option>
+                <option value="8443">8443</option>
+            </select>
+        </div>
+        <div class="button-group">
+            <button class="test-button" id="test-btn" onclick="startTest()">开始延迟测试</button>
+            <button class="save-button" id="save-btn" onclick="saveIPs()" disabled>覆盖保存优选IP</button>
+            <button class="append-button" id="append-btn" onclick="appendIPs()" disabled>追加保存优选IP</button>
+            <button class="edit-button" id="edit-btn" onclick="goEdit()">编辑优选列表</button>
+            <button class="back-button" id="back-btn" onclick="goBack()">返回配置页</button>
+        </div>
+        <div class="save-warning">
+            <small>⚠️ 重要提醒："覆盖保存优选IP"会完全覆盖当前 addresses/ADD 优选内容，请慎重考虑！建议优先使用"追加保存优选IP"功能。</small>
+        </div>
+        <div class="save-tip">
+            <strong>💡 保存提示：</strong>[<strong>覆盖保存优选IP</strong>] 和 [<strong>追加保存优选IP</strong>] 功能仅会保存延迟最低的<strong>前16个优选IP</strong>。如需添加更多IP或进行自定义编辑，请使用 [<strong>编辑优选列表</strong>] 功能。
+        </div>
+        <div id="message" class="message"></div>
+    </div>
+    
+    <h2>IP列表 <span id="result-count"></span></h2>
+    <div class="ip-display-info" id="ip-display-info"></div>
+    <div id="region-filter" style="margin: 15px 0; display: none;"></div>
+    <div class="ip-list" id="ip-list">
+        <div class="ip-item">请选择端口和IP库，然后点击"开始延迟测试"加载IP列表</div>
+    </div>
+    <div class="show-more-section" id="show-more-section" style="display: none;">
+        <button class="show-more-btn" id="show-more-btn" onclick="toggleShowMore()">显示更多</button>
+    </div>
+    
+    <script>
+        let originalIPs = []; // 改为动态加载
+        let testResults = [];
+        let displayedResults = []; // 新增：存储当前显示的结果
+        let showingAll = false; // 新增：标记是否显示全部内容
+        let currentDisplayType = 'loading'; // 新增：当前显示类型 'loading' | 'results'
+        let cloudflareLocations = {}; // 新增：存储Cloudflare位置信息
+        
+        // 新增：本地存储管理
+        const StorageKeys = {
+            PORT: 'cf-ip-test-port',
+            IP_SOURCE: 'cf-ip-test-source'
+        };
+        
+        // 新增：加载Cloudflare位置信息
+        async function loadCloudflareLocations() {
+            try {
+                const response = await fetch('https://speed.cloudflare.com/locations');
+                if (response.ok) {
+                    const locations = await response.json();
+                    // 转换为以iata为key的对象，便于快速查找
+                    cloudflareLocations = {};
+                    locations.forEach(location => {
+                        cloudflareLocations[location.iata] = location;
+                    });
+                    console.log('Cloudflare位置信息加载成功:', Object.keys(cloudflareLocations).length, '个位置');
+                } else {
+                    console.warn('无法加载Cloudflare位置信息，将使用原始colo值');
+                }
+            } catch (error) {
+                console.error('加载Cloudflare位置信息失败:', error);
+                console.warn('将使用原始colo值');
+            }
+        }
+        
+        // 初始化页面设置
+        function initializeSettings() {
+            const portSelect = document.getElementById('port-select');
+            const ipSourceSelect = document.getElementById('ip-source-select');
+            
+            // 从本地存储读取上次的选择
+            const savedPort = localStorage.getItem(StorageKeys.PORT);
+            const savedIPSource = localStorage.getItem(StorageKeys.IP_SOURCE);
+            
+            // 恢复端口选择
+            if (savedPort && portSelect.querySelector(\`option[value="\${savedPort}"]\`)) {
+                portSelect.value = savedPort;
+            } else {
+                portSelect.value = '8443'; // 默认值
+            }
+            
+            // 恢复IP库选择
+            if (savedIPSource && ipSourceSelect.querySelector(\`option[value="\${savedIPSource}"]\`)) {
+                ipSourceSelect.value = savedIPSource;
+            } else {
+                ipSourceSelect.value = 'official'; // 默认值改为CF官方列表
+            }
+            
+            // 添加事件监听器保存选择
+            portSelect.addEventListener('change', function() {
+                localStorage.setItem(StorageKeys.PORT, this.value);
+            });
+            
+            ipSourceSelect.addEventListener('change', function() {
+                localStorage.setItem(StorageKeys.IP_SOURCE, this.value);
+            });
+        }
+        
+        // 页面加载完成后初始化设置
+        document.addEventListener('DOMContentLoaded', async function() {
+            // 先加载Cloudflare位置信息
+            await loadCloudflareLocations();
+            // 然后初始化页面设置
+            initializeSettings();
+        });
+        
+        // 新增：切换显示更多/更少
+        function toggleShowMore() {
+            // 在测试过程中不允许切换显示
+            if (currentDisplayType === 'testing') {
+                return;
+            }
+            
+            showingAll = !showingAll;
+            
+            if (currentDisplayType === 'loading') {
+                displayLoadedIPs();
+            } else if (currentDisplayType === 'results') {
+                displayResults();
+            }
+        }
+        
+        // 新增：显示加载的IP列表
+        function displayLoadedIPs() {
+            const ipList = document.getElementById('ip-list');
+            const showMoreSection = document.getElementById('show-more-section');
+            const showMoreBtn = document.getElementById('show-more-btn');
+            const ipDisplayInfo = document.getElementById('ip-display-info');
+            
+            if (originalIPs.length === 0) {
+                ipList.innerHTML = '<div class="ip-item">加载IP列表失败，请重试</div>';
+                showMoreSection.style.display = 'none';
+                ipDisplayInfo.textContent = '';
+                return;
+            }
+            
+            const displayCount = showingAll ? originalIPs.length : Math.min(originalIPs.length, 16);
+            const displayIPs = originalIPs.slice(0, displayCount);
+            
+            // 更新显示信息
+            if (originalIPs.length <= 16) {
+                ipDisplayInfo.textContent = \`显示全部 \${originalIPs.length} 个IP\`;
+                showMoreSection.style.display = 'none';
+            } else {
+                ipDisplayInfo.textContent = \`显示前 \${displayCount} 个IP，共加载 \${originalIPs.length} 个IP\`;
+                // 只在非测试状态下显示"显示更多"按钮
+                if (currentDisplayType !== 'testing') {
+                    showMoreSection.style.display = 'block';
+                    showMoreBtn.textContent = showingAll ? '显示更少' : '显示更多';
+                    showMoreBtn.disabled = false;
+                } else {
+                    showMoreSection.style.display = 'none';
+                }
+            }
+            
+            // 显示IP列表
+            ipList.innerHTML = displayIPs.map(ip => \`<div class="ip-item">\${ip}</div>\`).join('');
+        }
+        
+        function showMessage(text, type = 'success') {
+            const messageDiv = document.getElementById('message');
+            messageDiv.textContent = text;
+            messageDiv.className = \`message \${type}\`;
+            messageDiv.style.display = 'block';
+            
+            // 3秒后自动隐藏消息
+            setTimeout(() => {
+                messageDiv.style.display = 'none';
+            }, 3000);
+        }
+        
+        function updateButtonStates() {
+            const saveBtn = document.getElementById('save-btn');
+            const appendBtn = document.getElementById('append-btn');
+            const hasResults = displayedResults.length > 0;
+            
+            saveBtn.disabled = !hasResults;
+            appendBtn.disabled = !hasResults;
+        }
+        
+        function disableAllButtons() {
+            const testBtn = document.getElementById('test-btn');
+            const saveBtn = document.getElementById('save-btn');
+            const appendBtn = document.getElementById('append-btn');
+            const editBtn = document.getElementById('edit-btn');
+            const backBtn = document.getElementById('back-btn');
+            const portSelect = document.getElementById('port-select');
+            const ipSourceSelect = document.getElementById('ip-source-select');
+            
+            testBtn.disabled = true;
+            saveBtn.disabled = true;
+            appendBtn.disabled = true;
+            editBtn.disabled = true;
+            backBtn.disabled = true;
+            portSelect.disabled = true;
+            ipSourceSelect.disabled = true;
+        }
+        
+        function enableButtons() {
+            const testBtn = document.getElementById('test-btn');
+            const editBtn = document.getElementById('edit-btn');
+            const backBtn = document.getElementById('back-btn');
+            const portSelect = document.getElementById('port-select');
+            const ipSourceSelect = document.getElementById('ip-source-select');
+            
+            testBtn.disabled = false;
+            editBtn.disabled = false;
+            backBtn.disabled = false;
+            portSelect.disabled = false;
+            ipSourceSelect.disabled = false;
+            updateButtonStates();
+        }
+        
+        async function saveIPs() {
+            // 使用当前显示的结果而不是全部结果
+            let ipsToSave = [];
+            if (document.getElementById('region-filter') && document.getElementById('region-filter').style.display !== 'none') {
+                // 如果地区筛选器可见，使用筛选后的结果
+                ipsToSave = displayedResults;
+            } else {
+                // 否则使用全部测试结果
+                ipsToSave = testResults;
+            }
+            
+            if (ipsToSave.length === 0) {
+                showMessage('没有可保存的IP结果', 'error');
+                return;
+            }
+            
+            const saveBtn = document.getElementById('save-btn');
+            const originalText = saveBtn.textContent;
+            
+            // 禁用所有按钮
+            disableAllButtons();
+            saveBtn.textContent = '保存中...';
+            
+            try {
+                // 只保存前16个最优IP
+                const saveCount = Math.min(ipsToSave.length, 16);
+                const ips = ipsToSave.slice(0, saveCount).map(result => result.display);
+                
+                const response = await fetch('?action=save', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ ips })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    showMessage(data.message + '（已保存前' + saveCount + '个最优IP）', 'success');
+                } else {
+                    showMessage(data.error || '保存失败', 'error');
+                }
+                
+            } catch (error) {
+                showMessage('保存失败: ' + error.message, 'error');
+            } finally {
+                saveBtn.textContent = originalText;
+                enableButtons();
+            }
+        }
+        
+        async function appendIPs() {
+            // 使用当前显示的结果而不是全部结果
+            let ipsToAppend = [];
+            if (document.getElementById('region-filter') && document.getElementById('region-filter').style.display !== 'none') {
+                // 如果地区筛选器可见，使用筛选后的结果
+                ipsToAppend = displayedResults;
+            } else {
+                // 否则使用全部测试结果
+                ipsToAppend = testResults;
+            }
+            
+            if (ipsToAppend.length === 0) {
+                showMessage('没有可追加的IP结果', 'error');
+                return;
+            }
+            
+            const appendBtn = document.getElementById('append-btn');
+            const originalText = appendBtn.textContent;
+            
+            // 禁用所有按钮
+            disableAllButtons();
+            appendBtn.textContent = '追加中...';
+            
+            try {
+                // 只追加前16个最优IP
+                const saveCount = Math.min(ipsToAppend.length, 16);
+                const ips = ipsToAppend.slice(0, saveCount).map(result => result.display);
+                
+                const response = await fetch('?action=append', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ ips })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    showMessage(data.message + '（已追加前' + saveCount + '个最优IP）', 'success');
+                } else {
+                    showMessage(data.error || '追加失败', 'error');
+                }
+                
+            } catch (error) {
+                showMessage('追加失败: ' + error.message, 'error');
+            } finally {
+                appendBtn.textContent = originalText;
+                enableButtons();
+            }
+        }
+        
+        function goEdit() {
+            const currentUrl = window.location.href;
+            const parentUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/'));
+            window.location.href = parentUrl + '/edit';
+        }
+        
+        function goBack() {
+            const currentUrl = window.location.href;
+            const parentUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/'));
+            window.location.href = parentUrl;
+        }
+        
+        async function testIP(ip, port) {
+            const timeout = 5000; // 增加超时时间到5秒
+            
+            // 解析IP格式
+            const parsedIP = parseIPFormat(ip, port);
+            if (!parsedIP) {
+                return null;
+            }
+            
+            // 进行测试，最多重试3次
+            let lastError = null;
+            for (let attempt = 1; attempt <= 3; attempt++) {
+                const result = await singleTest(parsedIP.host, parsedIP.port, timeout);
+                if (result) {
+                    console.log(\`IP \${parsedIP.host}:\${parsedIP.port} 第\${attempt}次测试成功: \${result.latency}ms, colo: \${result.colo}, 类型: \${result.type}\`);
+                    
+                    // 根据colo字段获取国家代码
+                    const locationCode = cloudflareLocations[result.colo] ? cloudflareLocations[result.colo].cca2 : result.colo;
+                    
+                    // 生成显示格式
+                    const typeText = result.type === 'official' ? '官方优选' : '反代优选';
+                    const display = \`\${parsedIP.host}:\${parsedIP.port}#\${locationCode} \${typeText} \${result.latency}ms\`;
+                    
+                    return {
+                        ip: parsedIP.host,
+                        port: parsedIP.port,
+                        latency: result.latency,
+                        colo: result.colo,
+                        type: result.type,
+                        locationCode: locationCode,
+                        comment: \`\${locationCode} \${typeText}\`,
+                        display: display
+                    };
+                } else {
+                    console.log(\`IP \${parsedIP.host}:\${parsedIP.port} 第\${attempt}次测试失败\`);
+                    if (attempt < 3) {
+                        // 短暂延迟后重试
+                        await new Promise(resolve => setTimeout(resolve, 200));
+                    }
+                }
+            }
+            
+            return null; // 所有尝试都失败
+        }
+        
+        // 新增：解析IP格式的函数
+        function parseIPFormat(ipString, defaultPort) {
+            try {
+                let host, port, comment;
+                
+                // 先处理注释部分（#之后的内容）
+                let mainPart = ipString;
+                if (ipString.includes('#')) {
+                    const parts = ipString.split('#');
+                    mainPart = parts[0];
+                    comment = parts[1];
+                }
+                
+                // 处理端口部分
+                if (mainPart.includes(':')) {
+                    const parts = mainPart.split(':');
+                    host = parts[0];
+                    port = parseInt(parts[1]);
+                } else {
+                    host = mainPart;
+                    port = parseInt(defaultPort);
+                }
+                
+                // 验证IP格式
+                if (!host || !port || isNaN(port)) {
+                    return null;
+                }
+                
+                return {
+                    host: host.trim(),
+                    port: port,
+                    comment: comment ? comment.trim() : null
+                };
+            } catch (error) {
+                console.error('解析IP格式失败:', ipString, error);
+                return null;
+            }
+        }
+        
+        async function singleTest(ip, port, timeout) {
+            // 先进行预请求以缓存DNS解析结果
+            try {
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), timeout);
+                const parts = ip.split('.').map(part => {
+                    const hex = parseInt(part, 10).toString(16);
+                    return hex.length === 1 ? '0' + hex : hex; // 补零
+                });
+                const nip = parts.join('');
+                
+                // 预请求，不计入延迟时间
+                await fetch('https://' + nip + '.${nipDomain}:' + port + '/cdn-cgi/trace', {
+                    signal: controller.signal,
+                    mode: 'cors'
+                });
+                
+                clearTimeout(timeoutId);
+            } catch (preRequestError) {
+                // 预请求失败可以忽略，继续进行正式测试
+                console.log('预请求失败 (' + ip + ':' + port + '):', preRequestError.message);
+            }
+            
+            // 正式延迟测试
+            const startTime = Date.now();
+            
+            try {
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), timeout);
+                const parts = ip.split('.').map(part => {
+                    const hex = parseInt(part, 10).toString(16);
+                    return hex.length === 1 ? '0' + hex : hex; // 补零
+                });
+                const nip = parts.join('');
+                const response = await fetch('https://' + nip + '.${nipDomain}:' + port + '/cdn-cgi/trace', {
+                    signal: controller.signal,
+                    mode: 'cors'
+                });
+                
+                clearTimeout(timeoutId);
+                
+                // 检查响应状态
+                if (response.status === 200) {
+                    const latency = Date.now() - startTime;
+                    const responseText = await response.text();
+                    
+                    // 解析trace响应
+                    const traceData = parseTraceResponse(responseText);
+                    
+                    if (traceData && traceData.ip && traceData.colo) {
+                        // 判断IP类型
+                        const responseIP = traceData.ip;
+                        let ipType = 'official'; // 默认官方IP
+                        
+                        // 检查是否是IPv6（包含冒号）或者IP相等
+                        if (responseIP.includes(':') || responseIP === ip) {
+                            ipType = 'proxy'; // 反代IP
+                        }
+                        // 如果responseIP与ip不相等且不是IPv6，则是官方IP
+                        
+                        return {
+                            ip: ip,
+                            port: port,
+                            latency: latency,
+                            colo: traceData.colo,
+                            type: ipType,
+                            responseIP: responseIP
+                        };
+                    }
+                }
+                
+                return null;
+                
+            } catch (error) {
+                const latency = Date.now() - startTime;
+                
+                // 检查是否是真正的超时（接近设定的timeout时间）
+                if (latency >= timeout - 100) {
+                    return null;
+                }
+                
+                return null;
+            }
+        }
+        
+        // 新增：解析trace响应的函数
+        function parseTraceResponse(responseText) {
+            try {
+                const lines = responseText.split('\\n');
+                const data = {};
+                
+                for (const line of lines) {
+                    const trimmedLine = line.trim();
+                    if (trimmedLine && trimmedLine.includes('=')) {
+                        const [key, value] = trimmedLine.split('=', 2);
+                        data[key] = value;
+                    }
+                }
+                
+                return data;
+            } catch (error) {
+                console.error('解析trace响应失败:', error);
+                return null;
+            }
+        }
+        
+        async function testIPsWithConcurrency(ips, port, maxConcurrency = 32) {
+            const results = [];
+            const totalIPs = ips.length;
+            let completedTests = 0;
+            
+            const progressBar = document.getElementById('progress-bar');
+            const progressText = document.getElementById('progress-text');
+            
+            // 创建工作队列
+            let index = 0;
+            
+            async function worker() {
+                while (index < ips.length) {
+                    const currentIndex = index++;
+                    const ip = ips[currentIndex];
+                    
+                    const result = await testIP(ip, port);
+                    if (result) {
+                        results.push(result);
+                    }
+                    
+                    completedTests++;
+                    
+                    // 更新进度
+                    const progress = (completedTests / totalIPs) * 100;
+                    progressBar.style.width = progress + '%';
+                    progressText.textContent = \`\${completedTests}/\${totalIPs} (\${progress.toFixed(1)}%) - 有效IP: \${results.length}\`;
+                }
+            }
+            
+            // 创建工作线程
+            const workers = Array(Math.min(maxConcurrency, ips.length))
+                .fill()
+                .map(() => worker());
+            
+            await Promise.all(workers);
+            
+            return results;
+        }
+        
+        async function startTest() {
+            const testBtn = document.getElementById('test-btn');
+            const portSelect = document.getElementById('port-select');
+            const ipSourceSelect = document.getElementById('ip-source-select');
+            const progressBar = document.getElementById('progress-bar');
+            const progressText = document.getElementById('progress-text');
+            const ipList = document.getElementById('ip-list');
+            const resultCount = document.getElementById('result-count');
+            const ipCount = document.getElementById('ip-count');
+            const ipDisplayInfo = document.getElementById('ip-display-info');
+            const showMoreSection = document.getElementById('show-more-section');
+            
+            const selectedPort = portSelect.value;
+            const selectedIPSource = ipSourceSelect.value;
+            
+            // 保存当前选择到本地存储
+            localStorage.setItem(StorageKeys.PORT, selectedPort);
+            localStorage.setItem(StorageKeys.IP_SOURCE, selectedIPSource);
+            
+            testBtn.disabled = true;
+            testBtn.textContent = '加载IP列表...';
+            portSelect.disabled = true;
+            ipSourceSelect.disabled = true;
+            testResults = [];
+            displayedResults = []; // 重置显示结果
+            showingAll = false; // 重置显示状态
+            currentDisplayType = 'loading'; // 设置当前显示类型
+            ipList.innerHTML = '<div class="ip-item">正在加载IP列表，请稍候...</div>';
+            ipDisplayInfo.textContent = '';
+            showMoreSection.style.display = 'none';
+            updateButtonStates(); // 更新按钮状态
+            
+            // 重置进度条
+            progressBar.style.width = '0%';
+            
+            // 根据IP库类型显示对应的加载信息
+            let ipSourceName = '';
+            switch(selectedIPSource) {
+                case 'official':
+                    ipSourceName = 'CF官方';
+                    break;
+                case 'cm':
+                    ipSourceName = 'CM整理';
+                    break;
+                case 'as13335':
+                    ipSourceName = 'CF全段';
+                    break;
+                case 'as209242':
+                    ipSourceName = 'CF非官方';
+                    break;
+                case 'as24429':
+                    ipSourceName = 'Alibaba';
+                    break;
+                case 'as199524':
+                    ipSourceName = 'G-Core';
+                    break;
+                case 'proxyip':
+                    ipSourceName = '反代IP';
+                    break;
+                default:
+                    ipSourceName = '未知';
+            }
+            
+            progressText.textContent = '正在加载 ' + ipSourceName + ' IP列表...';
+            
+            // 加载IP列表
+            originalIPs = await loadIPs(selectedIPSource, selectedPort);
+
+            if (originalIPs.length === 0) {
+                ipList.innerHTML = '<div class="ip-item">加载IP列表失败，请重试</div>';
+                ipCount.textContent = '0 个';
+                testBtn.disabled = false;
+                testBtn.textContent = '开始延迟测试';
+                portSelect.disabled = false;
+                ipSourceSelect.disabled = false;
+                progressText.textContent = '加载失败';
+                return;
+            }
+            
+            // 更新IP数量显示
+            ipCount.textContent = originalIPs.length + ' 个';
+            
+            // 显示加载的IP列表（默认显示前16个）
+            displayLoadedIPs();
+            
+            // 开始测试
+            testBtn.textContent = '测试中...';
+            progressText.textContent = '开始测试端口 ' + selectedPort + '...';
+            currentDisplayType = 'testing'; // 切换到测试状态
+            
+            // 在测试开始时隐藏显示更多按钮
+            showMoreSection.style.display = 'none';
+            
+            // 使用更高的并发数（从16增加到32）来加快测试速度
+            const results = await testIPsWithConcurrency(originalIPs, selectedPort, 32);
+            
+            // 按延迟排序
+            testResults = results.sort((a, b) => a.latency - b.latency);
+            
+            // 显示结果
+            currentDisplayType = 'results'; // 切换到结果显示状态
+            showingAll = false; // 重置显示状态
+            displayResults();
+            
+            // 创建地区筛选器
+            createRegionFilter();
+            
+            testBtn.disabled = false;
+            testBtn.textContent = '重新测试';
+            portSelect.disabled = false;
+            ipSourceSelect.disabled = false;
+            progressText.textContent = '完成 - 有效IP: ' + testResults.length + '/' + originalIPs.length + ' (端口: ' + selectedPort + ', IP库: ' + ipSourceName + ')';
+        }
+        
+        // 新增：加载IP列表的函数
+        async function loadIPs(ipSource, port) {
+            try {
+                const response = await fetch(\`?loadIPs=\${ipSource}&port=\${port}\`, {
+                    method: 'GET'
+                });
+                
+                if (!response.ok) {
+                    throw new Error('Failed to load IPs');
+                }
+                
+                const data = await response.json();
+                return data.ips || [];
+            } catch (error) {
+                console.error('加载IP列表失败:', error);
+                return [];
+            }
+        }
+        
+        function displayResults() {
+            const ipList = document.getElementById('ip-list');
+            const resultCount = document.getElementById('result-count');
+            const showMoreSection = document.getElementById('show-more-section');
+            const showMoreBtn = document.getElementById('show-more-btn');
+            const ipDisplayInfo = document.getElementById('ip-display-info');
+            
+            if (testResults.length === 0) {
+                ipList.innerHTML = '<div class="ip-item">未找到有效的IP</div>';
+                resultCount.textContent = '';
+                ipDisplayInfo.textContent = '';
+                showMoreSection.style.display = 'none';
+                displayedResults = [];
+                updateButtonStates();
+                return;
+            }
+            
+            // 确定显示数量
+            const maxDisplayCount = showingAll ? testResults.length : Math.min(testResults.length, 16);
+            displayedResults = testResults.slice(0, maxDisplayCount);
+            
+            // 更新结果计数显示
+            if (testResults.length <= 16) {
+                resultCount.textContent = '(共测试出 ' + testResults.length + ' 个有效IP)';
+                ipDisplayInfo.textContent = '显示全部 ' + testResults.length + ' 个测试结果';
+                showMoreSection.style.display = 'none';
+            } else {
+                resultCount.textContent = '(共测试出 ' + testResults.length + ' 个有效IP)';
+                ipDisplayInfo.textContent = '显示前 ' + maxDisplayCount + ' 个测试结果，共 ' + testResults.length + ' 个有效IP';
+                showMoreSection.style.display = 'block';
+                showMoreBtn.textContent = showingAll ? '显示更少' : '显示更多';
+                showMoreBtn.disabled = false; // 确保在结果显示时启用按钮
+            }
+            
+            const resultsHTML = displayedResults.map(result => {
+                let className = 'good-latency';
+                if (result.latency > 200) className = 'bad-latency';
+                else if (result.latency > 100) className = 'medium-latency';
+                
+                return '<div class="ip-item ' + className + '">' + result.display + '</div>';
+            }).join('');
+            
+            ipList.innerHTML = resultsHTML;
+            updateButtonStates();
+        }
+        
+        // 新增：创建地区筛选器
+        function createRegionFilter() {
+            // 获取所有唯一的地区代码（使用cca2代码）
+            const uniqueRegions = [...new Set(testResults.map(result => result.locationCode))];
+            uniqueRegions.sort(); // 按字母顺序排序
+            
+            const filterContainer = document.getElementById('region-filter');
+            if (!filterContainer) return;
+            
+            if (uniqueRegions.length === 0) {
+                filterContainer.style.display = 'none';
+                return;
+            }
+            
+            // 创建筛选按钮
+            let filterHTML = '<h3>地区筛选：</h3><div class="region-buttons">';
+            filterHTML += '<button class="region-btn active" data-region="all">全部 (' + testResults.length + ')</button>';
+            
+            uniqueRegions.forEach(region => {
+                const count = testResults.filter(r => r.locationCode === region).length;
+                filterHTML += '<button class="region-btn" data-region="' + region + '">' + region + ' (' + count + ')</button>';
+            });
+            
+            filterHTML += '</div>';
+            filterContainer.innerHTML = filterHTML;
+            filterContainer.style.display = 'block';
+            
+            // 添加点击事件
+            document.querySelectorAll('.region-btn').forEach(button => {
+                button.addEventListener('click', function() {
+                    // 更新活动按钮
+                    document.querySelectorAll('.region-btn').forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+                    this.classList.add('active');
+                    
+                    // 筛选结果
+                    const selectedRegion = this.getAttribute('data-region');
+                    if (selectedRegion === 'all') {
+                        displayedResults = [...testResults];
+                    } else {
+                        displayedResults = testResults.filter(result => result.locationCode === selectedRegion);
+                    }
+                    
+                    // 重置显示状态
+                    showingAll = false;
+                    displayFilteredResults();
+                });
+            });
+        }
+        
+        // 新增：显示筛选后的结果
+        function displayFilteredResults() {
+            const ipList = document.getElementById('ip-list');
+            const resultCount = document.getElementById('result-count');
+            const showMoreSection = document.getElementById('show-more-section');
+            const showMoreBtn = document.getElementById('show-more-btn');
+            const ipDisplayInfo = document.getElementById('ip-display-info');
+            
+            if (displayedResults.length === 0) {
+                ipList.innerHTML = '<div class="ip-item">未找到有效的IP</div>';
+                resultCount.textContent = '';
+                ipDisplayInfo.textContent = '';
+                showMoreSection.style.display = 'none';
+                updateButtonStates();
+                return;
+            }
+            
+            // 确定显示数量
+            const maxDisplayCount = showingAll ? displayedResults.length : Math.min(displayedResults.length, 16);
+            const currentResults = displayedResults.slice(0, maxDisplayCount);
+            
+            // 更新结果计数显示
+            const totalCount = testResults.length;
+            const filteredCount = displayedResults.length;
+            
+            if (filteredCount <= 16) {
+                resultCount.textContent = '(共测试出 ' + totalCount + ' 个有效IP，筛选出 ' + filteredCount + ' 个)';
+                ipDisplayInfo.textContent = '显示全部 ' + filteredCount + ' 个筛选结果';
+                showMoreSection.style.display = 'none';
+            } else {
+                resultCount.textContent = '(共测试出 ' + totalCount + ' 个有效IP，筛选出 ' + filteredCount + ' 个)';
+                ipDisplayInfo.textContent = '显示前 ' + maxDisplayCount + ' 个筛选结果，共 ' + filteredCount + ' 个';
+                showMoreSection.style.display = 'block';
+                showMoreBtn.textContent = showingAll ? '显示更少' : '显示更多';
+                showMoreBtn.disabled = false;
+            }
+            
+            const resultsHTML = currentResults.map(result => {
+                let className = 'good-latency';
+                if (result.latency > 200) className = 'bad-latency';
+                else if (result.latency > 100) className = 'medium-latency';
+                
+                return '<div class="ip-item ' + className + '">' + result.display + '</div>';
+            }).join('');
+            
+            ipList.innerHTML = resultsHTML;
+            updateButtonStates();
+        }
+    </script>
+    
+    </body>
+    </html>
+    `;
+
+    // 处理加载IP的请求
+    if (url.searchParams.get('loadIPs')) {
+        const ipSource = url.searchParams.get('loadIPs');
+        const port = url.searchParams.get('port') || '443';
+        const ips = await GetCFIPs(ipSource, port);
+
+        return new Response(JSON.stringify({ ips }), {
+            headers: {
+                'Content-Type': 'application/json',
+            },
+        });
+    }
+
+    return new Response(html, {
+        headers: {
+            'Content-Type': 'text/html; charset=UTF-8',
+        },
+    });
+}
+
+/**
+ * 获取 Cloudflare 账户今日使用量统计
+ * @param {string} accountId - 账户ID（可选，如果没有会自动获取）
+ * @param {string} email - Cloudflare 账户邮箱
+ * @param {string} apikey - Cloudflare API 密钥
+ * @param {string} apitoken - Cloudflare API 令牌
+ * @param {number} all - 总限额，默认10万次
+ * @returns {Array} [总限额, Pages请求数, Workers请求数, 总请求数]
+ */
+async function getUsage(accountId, email, apikey, apitoken, all = 100000) {
+    /**
+     * 获取 Cloudflare 账户ID
+     * @param {string} email - 账户邮箱
+     * @param {string} apikey - API密钥
+     * @param {number} accountIndex - 取第几个账户，默认第0个
+     * @returns {string} 账户ID
+     */
+    async function getAccountId(email, apikey) {
+        console.log('正在获取账户信息...');
+
+        const response = await fetch("https://api.cloudflare.com/client/v4/accounts", {
+            method: "GET",
+            headers: {
+                "Content-Type": "application/json",
+                "X-AUTH-EMAIL": email,
+                "X-AUTH-KEY": apikey,
+            }
+        });
+
+        if (!response.ok) {
+            const errorText = await response.text();
+            console.error(`获取账户信息失败: ${response.status} ${response.statusText}`, errorText);
+            throw new Error(`Cloudflare API 请求失败: ${response.status} ${response.statusText} - ${errorText}`);
+        }
+
+        const res = await response.json();
+        //console.log(res);
+
+        let accountIndex = 0; // 默认取第一个账户
+        let foundMatch = false; // 标记是否找到匹配的账户
+
+        // 如果有多个账户，智能匹配包含邮箱前缀的账户
+        if (res?.result && res.result.length > 1) {
+            console.log(`发现 ${res.result.length} 个账户，正在智能匹配...`);
+
+            // 提取邮箱前缀并转为小写
+            const emailPrefix = email.toLowerCase();
+            console.log(`邮箱: ${emailPrefix}`);
+
+            // 遍历所有账户，寻找名称开头包含邮箱前缀的账户
+            for (let i = 0; i < res.result.length; i++) {
+                const accountName = res.result[i]?.name?.toLowerCase() || '';
+                console.log(`检查账户 ${i}: ${res.result[i]?.name}`);
+
+                // 检查账户名称开头是否包含邮箱前缀
+                if (accountName.startsWith(emailPrefix)) {
+                    accountIndex = i;
+                    foundMatch = true;
+                    console.log(`✅ 找到匹配账户，使用第 ${i} 个账户`);
+                    break;
+                }
+            }
+
+            // 如果遍历完还没找到匹配的，使用默认值0
+            if (!foundMatch) {
+                console.log('❌ 未找到匹配的账户，使用默认第 0 个账户');
+            }
+        } else if (res?.result && res.result.length === 1) {
+            console.log('只有一个账户，使用第 0 个账户');
+            foundMatch = true;
+        }
+
+        const name = res?.result?.[accountIndex]?.name;
+        const id = res?.result?.[accountIndex]?.id;
+
+        console.log(`最终选择账户 ${accountIndex} - 名称: ${name}, ID: ${id}`);
+
+        if (!id) {
+            throw new Error("找不到有效的账户ID，请检查API权限");
+        }
+
+        return id;
+    }
+
+    try {
+        // 如果没有提供账户ID，就自动获取
+        if (!accountId) {
+            console.log('未提供账户ID，正在自动获取...');
+            accountId = await getAccountId(email, apikey);
+        }
+
+        // 设置查询时间范围：今天0点到现在
+        const now = new Date();
+        const endDate = now.toISOString(); // 结束时间：现在
+
+        // 设置开始时间为今天凌晨0点
+        now.setUTCHours(0, 0, 0, 0);
+        const startDate = now.toISOString(); // 开始时间：今天0点
+
+        console.log(`查询时间范围: ${startDate} 到 ${endDate}`);
+        // 准备请求头
+        let headers = {}
+        if (apikey) {
+            headers = {
+                "Content-Type": "application/json",
+                "X-AUTH-EMAIL": email,
+                "X-AUTH-KEY": apikey,
+            };
+        }
+        if (apitoken) {
+            headers = {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${apitoken}`,
+            }
+        }
+
+        // 向 Cloudflare GraphQL API 发送请求，获取今日使用量
+        const response = await fetch("https://api.cloudflare.com/client/v4/graphql", {
+            method: "POST",
+            headers: headers,
+            body: JSON.stringify({
+                // GraphQL 查询语句：获取 Pages 和 Workers 的请求数统计
+                query: `query getBillingMetrics($accountId: String!, $filter: AccountWorkersInvocationsAdaptiveFilter_InputObject) {
+                    viewer {
+                        accounts(filter: {accountTag: $accountId}) {
+                            pagesFunctionsInvocationsAdaptiveGroups(limit: 1000, filter: $filter) {
+                                sum {
+                                    requests
+                                }
+                            }
+                            workersInvocationsAdaptive(limit: 10000, filter: $filter) {
+                                sum {
+                                    requests
+                                }
+                            }
+                        }
+                    }
+                }`,
+                variables: {
+                    accountId: accountId,
+                    filter: {
+                        datetime_geq: startDate, // 大于等于开始时间
+                        datetime_leq: endDate    // 小于等于结束时间
+                    },
+                },
+            }),
+        });
+
+        // 检查API请求是否成功
+        if (!response.ok) {
+            const errorText = await response.text();
+            console.error(`GraphQL查询失败: ${response.status} ${response.statusText}`, errorText);
+            console.log('返回默认值：全部为0');
+            return [all, 0, 0, 0];
+        }
+
+        const res = await response.json();
+
+        // 检查GraphQL响应是否有错误
+        if (res.errors && res.errors.length > 0) {
+            console.error('GraphQL查询错误:', res.errors[0].message);
+            console.log('返回默认值：全部为0');
+            return [all, 0, 0, 0];
+        }
+
+        // 从响应中提取账户数据
+        const accounts = res?.data?.viewer?.accounts?.[0];
+
+        if (!accounts) {
+            console.warn('未找到账户数据');
+            return [all, 0, 0, 0];
+        }
+
+        // 计算 Pages 请求数（Cloudflare Pages 的请求统计）
+        const pagesArray = accounts?.pagesFunctionsInvocationsAdaptiveGroups || [];
+        const pages = pagesArray.reduce((total, item) => {
+            return total + (item?.sum?.requests || 0);
+        }, 0);
+
+        // 计算 Workers 请求数（Cloudflare Workers 的请求统计）
+        const workersArray = accounts?.workersInvocationsAdaptive || [];
+        const workers = workersArray.reduce((total, item) => {
+            return total + (item?.sum?.requests || 0);
+        }, 0);
+
+        // 计算总请求数
+        const total = pages + workers;
+
+        console.log(`统计结果 - Pages: ${pages}, Workers: ${workers}, 总计: ${total}`);
+
+        // 返回格式：[总限额, Pages请求数, Workers请求数, 总请求数]
+        return [all, pages || 0, workers || 0, total || 0];
+
+    } catch (error) {
+        console.error('获取使用量时发生错误:', error.message);
+        // 发生错误时返回默认值
+        return [all, 0, 0, 0];
+    }
+}
+
+async function nginx() {
+    const text = `
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<title>Welcome to nginx!</title>
+	<style>
+		body {
+			width: 35em;
+			margin: 0 auto;
+			font-family: Tahoma, Verdana, Arial, sans-serif;
+		}
+	</style>
+	</head>
+	<body>
+	<h1>Welcome to nginx!</h1>
+	<p>If you see this page, the nginx web server is successfully installed and
+	working. Further configuration is required.</p>
+	
+	<p>For online documentation and support please refer to
+	<a href="http://nginx.org/">nginx.org</a>.<br/>
+	Commercial support is available at
+	<a href="http://nginx.com/">nginx.com</a>.</p>
+	
+	<p><em>Thank you for using nginx.</em></p>
+	</body>
+	</html>
+	`
+    return text;
+}
+
